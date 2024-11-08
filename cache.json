@@ -17,7 +17,7 @@
           "description": "The State of CSS 2024 survey wrapped up and the results are interesting, as always. Even though each section is worth analyzing, we are usually most hyped about the section on the most used CSS features. And if you …\nPopping Comments With CSS Anchor Positioning and View-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/",
           "publishedOn": "2024-11-06T15:31:20.000Z",
-          "wordCount": 2964,
+          "wordCount": 3050,
           "title": "Popping Comments With CSS Anchor Positioning and View-Driven Animations",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382247"
         },
@@ -27,7 +27,7 @@
           "description": "We can apply the concept of fluid typography to almost anything. This way we can have a layout that fluidly changes with the size of its parent container. Few users will ever see the transition, but they will all appreciate the results. Honestly, they will.\nFluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/fluid-everything-else/",
           "publishedOn": "2024-11-05T20:49:40.000Z",
-          "wordCount": 3668,
+          "wordCount": 3745,
           "title": "Fluid Everything Else",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382107"
         },
@@ -205,16 +205,6 @@
           "wordCount": 1562,
           "title": "Smashing Hour With Heydon Pickering",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381729"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381674",
-          "author": "Juan Diego Rodríguez",
-          "description": "The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …\nRecipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/",
-          "publishedOn": "2024-10-07T19:46:07.000Z",
-          "wordCount": 2702,
-          "title": "Recipes for Detecting Support for CSS At-Rules",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381674"
         }
       ]
     },
@@ -321,6 +311,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "672cebbcd4b84c7df59edd79",
+          "author": "Beau Carnes",
+          "description": "Generative AI is rapidly evolving, and with it comes the ability to create powerful applications like chatbots that go beyond static knowledge. Imagine building a chatbot that isn’t limited by outdated training data or predefined responses but can fe...",
+          "link": "https://www.freecodecamp.org/news/build-your-own-rag-chatbot-with-javascript/",
+          "publishedOn": "2024-11-07T16:33:00.000Z",
+          "wordCount": 1425,
+          "title": "Build Your Own RAG Chatbot with JavaScript!",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730997146044/f942fb19-9cfd-4981-ba89-fe3ae9a156c1.png"
+        },
+        {
+          "id": "672cea4be28457c681419f0d",
+          "author": "Beau Carnes",
+          "description": "As you know, machine learning and artificial intelligence (AI) are transforming the world around us. Mastering these tools can open doors to exciting career opportunities. We just published a course on the freeCodeCamp.org YouTube channel that will t...",
+          "link": "https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/",
+          "publishedOn": "2024-11-07T16:26:51.000Z",
+          "wordCount": 1301,
+          "title": "Learn the Foundations of Machine Learning and Artificial Intelligence",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730996755731/ed8f7b95-8e51-4441-b5c9-84afaf95cbb7.png"
+        },
+        {
+          "id": "672cdb23b9bae98eb2d22c19",
+          "author": "Preston Osoro",
+          "description": "Automating workflows is an essential step in helping you maintain code quality in your applications – especially when working on both frontend and backend code in a single repository. In this guide, we’ll walk through setting up automated GitHub work...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-automated-github-workflows-for-python-react-apps/",
+          "publishedOn": "2024-11-07T15:22:11.000Z",
+          "wordCount": 1912,
+          "title": "How to Set Up Automated GitHub Workflows for Your Python and React Applications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730812659785/2975b117-81ee-4c73-ae24-6fb14e369714.png"
+        },
+        {
           "id": "672b941f0c32c8c8cd6159a9",
           "author": "David Clinton",
           "description": "Over the past year or so, the developer universe has exploded with ingenious new tools, applications, and processes for working with large language models and generative AI. One particularly versatile example is the LangChain project. The overall goa...",
@@ -389,36 +409,6 @@
           "wordCount": 1319,
           "title": "Become an Open Source Master",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730755865026/3a5d182f-4518-4b78-b6ac-2be3b16e3fce.png"
-        },
-        {
-          "id": "67292117f26a058bcaa2e19d",
-          "author": "Joan Ayebola",
-          "description": "HTML has a lot of tags that many people use every day, like \n, \n, and . But there are also some hidden gems that often go unnoticed. These tags can help make websites more engaging, accessible, and meaningful without much extra effort. In th...",
-          "link": "https://www.freecodecamp.org/news/less-common-html-elements-and-how-to-use-them/",
-          "publishedOn": "2024-11-04T19:31:35.000Z",
-          "wordCount": 5152,
-          "title": "Less Common HTML Elements and How to Use Them in Your Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730747551049/73b334f4-7b4a-448a-bfae-8b95cffe6119.png"
-        },
-        {
-          "id": "6728f9e02b7cd4e7135f2f39",
-          "author": "Onyeanuna Prince",
-          "description": "When you’re documenting an API reference, there are two main approaches you can follow. You can either use the manual approach of filling in the endpoints via a user interface, or organize a structured document containing all the necessary informatio...",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-complex-use-cases-in-api-specs/",
-          "publishedOn": "2024-11-04T16:44:16.000Z",
-          "wordCount": 3186,
-          "title": "How to Handle Complex Use Cases in Your OpenAPI Specifications – API Documentation Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730415311732/58afe01c-0ac4-4351-a4b4-a15729b5bcb1.png"
-        },
-        {
-          "id": "67251331e678821a22a973f9",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Adam Stachoviac and Jerod Santo, co-hosts of The Changelog – the longest-running software podcast in world. They interview devs about Open Source projects, and they also have a weekly news episode th...",
-          "link": "https://www.freecodecamp.org/news/open-source-the-changelog-podcast-148/",
-          "publishedOn": "2024-11-01T17:43:13.000Z",
-          "wordCount": 1122,
-          "title": "Open Source is WILD. The craziest things The Changelog has seen in 15 years. [Podcast #148]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730482941201/5f5f727f-5676-42ba-a17a-dc973e8b818a.png"
         },
         {
           "id": "6723aaab6ac0ce6c240da454",
@@ -637,6 +627,16 @@
       "feedUrl": "https://blog.peterritchie.com/feed.atom",
       "siteUrl": "http://blog.peterritchie.com/",
       "articles": [
+        {
+          "id": "http://blog.peterritchie.com/posts/working-with-dto-auto-translators--mapperly",
+          "author": null,
+          "description": "<p><img src=\"../assets/mapping-translation.png\" class=\"img-fluid\" alt=\"Complicated translation\"></p>",
+          "link": "http://blog.peterritchie.com/posts/working-with-dto-auto-translators--mapperly",
+          "publishedOn": "2024-11-07T00:00:00.000Z",
+          "wordCount": 1718,
+          "title": "Working With DTO Auto Translators -- Mapperly",
+          "imageUrl": null
+        },
         {
           "id": "http://blog.peterritchie.com/posts/naming-things--generic-actions",
           "author": null,
