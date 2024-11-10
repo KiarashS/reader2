@@ -195,16 +195,6 @@
           "wordCount": 1465,
           "title": "WPGraphQL Becomes a Canonical Plugin: My Move to Automattic",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381752"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381678",
-          "author": "Juan Diego Rodríguez",
-          "description": "More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …\n2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/",
-          "publishedOn": "2024-10-09T14:10:33.000Z",
-          "wordCount": 2132,
-          "title": "2024: More CSS At-Rules Than the Past Decade Combined",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381678"
         }
       ]
     },
@@ -219,7 +209,7 @@
           "description": "Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!",
           "link": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
           "publishedOn": "2024-11-08T09:00:00.000Z",
-          "wordCount": 3653,
+          "wordCount": 3674,
           "title": "Alternatives To Typical Technical Illustrations And Data Visualisations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg",
@@ -326,6 +316,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "672e890a430ee66c1750bdbc",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Yifan Mai, a Senior Software Engineer on Google's TensorFlow team who left the private sector to go do AI research at Stanford. He's the lead maintainer of the open source HELM project, where he benc...",
+          "link": "https://www.freecodecamp.org/news/open-weights-vs-open-source-with-google-engineer-and-stanford-researcher-yifan-mai-podcast-149/",
+          "publishedOn": "2024-11-08T21:56:26.000Z",
+          "wordCount": 1127,
+          "title": "The State of AI with Stanford Researcher Yifan Mai (Podcast #149)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731102910271/db4e196d-0f6b-4366-8b80-98030f92282e.png"
+        },
+        {
           "id": "672e5a06d7a5828f344ec242",
           "author": "Kedar Makode",
           "description": "Are you ready to take your web hosting skills to the next level by using a CSS template? Hosting a professional looking website doesn’t have to be complicated, and with AWS EC2, you can have your website live in no time! In this guide, I’ll show you ...",
@@ -333,7 +333,7 @@
           "publishedOn": "2024-11-08T18:35:50.000Z",
           "wordCount": 1619,
           "title": "How to Host a Website on AWS EC2 Using a CSS Template",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731090804046/9415a329-c3a7-4caa-9f78-757efc3c8da4.jpeg"
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731103973241/e1277a4c-3456-4f11-b809-24caf56ae13a.png"
         },
         {
           "id": "672e31c2d0e4fe6467edeb83",
@@ -414,16 +414,6 @@
           "wordCount": 4822,
           "title": "How to Write Clean Code – Tips for Developers with Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730737606075/5cb4369b-9f2e-4f97-9765-ac00a62800c6.png"
-        },
-        {
-          "id": "672a2317dd9236b285ebb527",
-          "author": "Abhijeet Dave",
-          "description": "In modern web development, choosing the right technology is crucial because it impacts both the process and outcome of your projects. Using Django as a backend framework and Tailwind CSS as a utility-first CSS framework offers an efficient way to cre...",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-tailwind-with-django/",
-          "publishedOn": "2024-11-05T13:52:23.000Z",
-          "wordCount": 2220,
-          "title": "How to Integrate Tailwind with Django – With Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730270888412/a440ff74-6e8b-4879-8b47-15aedca45bc4.png"
         },
         {
           "id": "6723aaab6ac0ce6c240da454",
@@ -669,6 +659,16 @@
       "feedUrl": "https://feeds.feedburner.com/rickstrahl",
       "siteUrl": "https://weblog.west-wind.com/",
       "articles": [
+        {
+          "id": "4666224_202411090910",
+          "author": "Rick Strahl",
+          "description": "This is a quick reminder to self on how to retrieve a TabItem from a WPF TabControl when the tab is not currently selected because I run into this quite frequently and the flail around trying to remember how to get non-selected items on any list control including tab controls.\nHovered Tab vs Selected Tab\nThe issue is that WPF doesn't have a direct mechanism to retrieve a TabItem that the cursor is over if it's not actually selected. Hovering is not selecting and so SelectedItem and the 'Hovered Item' are two very different thing and WPF is adverse to the latter 😄\nWPF only lets you trieve an item directly is via the various Selected... properties like SelectedItem, SelectedValue, SelectedIndex etc. all of which only work off the item that is selected... which may be different from the item…",
+          "link": "https://weblog.west-wind.com/posts/2024/Nov/08/Getting-the-Current-TabItem-when-the-Tab-is-not-selected-in-WPF",
+          "publishedOn": "2024-11-09T09:10:44.000Z",
+          "wordCount": 1607,
+          "title": "Getting the Current TabItem when the Tab is not selected in WPF",
+          "imageUrl": "https://raw.githubusercontent.com/RickStrahl/ImageDrop/refs/heads/master/MarkdownMonster/LeftSidebarSplitPanels.gif"
+        },
         {
           "id": "4648676_202410242159",
           "author": "Rick Strahl",

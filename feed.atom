@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2024-11-09T01:40:11.508Z</updated>
+    <updated>2024-11-10T01:48:15.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Getting the Current TabItem when the Tab is not selected in WPF]]></title>
+        <id>4666224_202411090910</id>
+        <link href="https://weblog.west-wind.com/posts/2024/Nov/08/Getting-the-Current-TabItem-when-the-Tab-is-not-selected-in-WPF"/>
+        <updated>2024-11-09T09:10:44.000Z</updated>
+        <summary type="html"><![CDATA[This is a quick reminder to self on how to retrieve a TabItem from a WPF TabControl when the tab is not currently selected because I run into this quite frequently and the flail around trying to remember how to get non-selected items on any list control including tab controls.
+Hovered Tab vs Selected Tab
+The issue is that WPF doesn't have a direct mechanism to retrieve a TabItem that the cursor is over if it's not actually selected. Hovering is not selecting and so SelectedItem and the 'Hovered Item' are two very different thing and WPF is adverse to the latter 😄
+WPF only lets you trieve an item directly is via the various Selected... properties like SelectedItem, SelectedValue, SelectedIndex etc. all of which only work off the item that is selected... which may be different from the item…]]></summary>
+        <author>
+            <name>Rick Strahl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State of AI with Stanford Researcher Yifan Mai (Podcast #149)]]></title>
+        <id>672e890a430ee66c1750bdbc</id>
+        <link href="https://www.freecodecamp.org/news/open-weights-vs-open-source-with-google-engineer-and-stanford-researcher-yifan-mai-podcast-149/"/>
+        <updated>2024-11-08T21:56:26.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Yifan Mai, a Senior Software Engineer on Google's TensorFlow team who left the private sector to go do AI research at Stanford. He's the lead maintainer of the open source HELM project, where he benc...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Host a Website on AWS EC2 Using a CSS Template]]></title>
         <id>672e5a06d7a5828f344ec242</id>
@@ -149,16 +172,6 @@ Fluid Everything Else originally published on CSS-Tricks, which is part of the D
         <summary type="html"><![CDATA[Imagine a messy room with clothes, books, and other items scattered everywhere. Finding something in that room would be tough, right? Now, think about writing messy code – it’s just as confusing, if not more! On the other hand, clean code is like an ...]]></summary>
         <author>
             <name>Programming with Shahan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Tailwind with Django – With Code Examples]]></title>
-        <id>672a2317dd9236b285ebb527</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-tailwind-with-django/"/>
-        <updated>2024-11-05T13:52:23.000Z</updated>
-        <summary type="html"><![CDATA[In modern web development, choosing the right technology is crucial because it impacts both the process and outcome of your projects. Using Django as a backend framework and Tailwind CSS as a utility-first CSS framework offers an efficient way to cre...]]></summary>
-        <author>
-            <name>Abhijeet Dave</name>
         </author>
     </entry>
     <entry>
@@ -626,17 +639,6 @@ I’m …
 WPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024: More CSS At-Rules Than the Past Decade Combined]]></title>
-        <id>https://css-tricks.com/?p=381678</id>
-        <link href="https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/"/>
-        <updated>2024-10-09T14:10:33.000Z</updated>
-        <summary type="html"><![CDATA[More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …
-2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
