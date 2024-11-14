@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2024-11-13T01:44:11.436Z</updated>
+    <updated>2024-11-14T01:44:20.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript's Temporal Proposal Will Change Date/Time Functions]]></title>
+        <id>67350bbf437f61ba9155860d</id>
+        <link href="https://www.freecodecamp.org/news/how-javascripts-temporal-proposal-will-change-datetime-functions/"/>
+        <updated>2024-11-13T20:27:43.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript's handling of dates and times has long frustrated developers. The built-in Date object, created in JavaScript’s early days, has numerous limitations and quirks that complicate working with dates and times. Fortunately for us, the Temporal ...]]></summary>
+        <author>
+            <name>Jesse Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Reverse Engineer a Website – a Guide for Developers]]></title>
+        <id>6734cea5ae439f84c4b2399b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-reverse-engineer-a-website/"/>
+        <updated>2024-11-13T16:07:01.000Z</updated>
+        <summary type="html"><![CDATA[While using one of your favorite websites, you might have often thought, "What if this website had this particular functionality? That would be great!" If you have ever had such thoughts, this article is for you. In it, you'll learn how websites comm...]]></summary>
+        <author>
+            <name>abdurrahman RAJAB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build & Deploy a Full Stack Dating App]]></title>
+        <id>6734bab8a54e29ff5593767c</id>
+        <link href="https://www.freecodecamp.org/news/build-deploy-a-full-stack-dating-app/"/>
+        <updated>2024-11-13T14:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Creating a modern, full-stack web application has never been more exciting, thanks to the wide array of powerful tools available to developers today. If you’ve ever thought about building a dynamic, feature-rich app but weren’t sure where to start, t...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Key Golang Concepts You Should Learn as a Beginner Go Developer]]></title>
         <id>6733b552ba5d0212f3eab6e1</id>
@@ -96,7 +126,7 @@ Tim Brown: Flexible Typesetting is now yours, for free originally published on C
         <summary type="html"><![CDATA[This is a quick reminder to self on how to retrieve a TabItem from a WPF TabControl when the tab is not currently selected because I run into this quite frequently and the flail around trying to remember how to get non-selected items on any list control including tab controls.
 Hovered Tab vs Selected Tab
 The issue is that WPF doesn't have a direct mechanism to retrieve a TabItem that the cursor is over if it's not actually selected. Hovering is not selecting and so SelectedItem and the 'Hovered Item' are two very different thing and WPF is adverse to the latter 😄
-WPF only lets you trieve an item directly is via the various Selected... properties like SelectedItem, SelectedValue, SelectedIndex etc. all of which only work off the item that is selected... which may be different from the item…]]></summary>
+WPF only lets you retrieve an item directly via the various Selected... properties like SelectedItem, SelectedValue, SelectedIndex etc. all of which only work off the item that is selected... which may be different from the item …]]></summary>
         <author>
             <name>Rick Strahl</name>
         </author>
@@ -122,26 +152,6 @@ WPF only lets you trieve an item directly is via the various Selected... propert
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use WebCurate to Discover Helpful Developer Tools]]></title>
-        <id>672e31c2d0e4fe6467edeb83</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/"/>
-        <updated>2024-11-08T15:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Building Kreed, my collaborative project management tool, was no easy feat. But it did offer one perk: an endless stream of stress-induced caffeine highs. I don’t have a dedicated team, so I was juggling everything from design and deployment to marke...]]></summary>
-        <author>
-            <name>David Jaja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Nmap Scripts for Ethical Hackers]]></title>
-        <id>672e23dd41db65fcc7264dc0</id>
-        <link href="https://www.freecodecamp.org/news/useful-nmap-scripts-for-ethical-hackers/"/>
-        <updated>2024-11-08T14:44:45.000Z</updated>
-        <summary type="html"><![CDATA[Nmap is short for Network Mapper. It’s an open-source Linux command-line tool for scanning IP addresses and ports in a network and detecting installed applications. Nmap allows network admins to identify devices running on their network, discover ope...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Different (and Modern) Ways to Toggle Content]]></title>
         <id>https://css-tricks.com/?p=382363</id>
         <link href="https://css-tricks.com/the-different-and-modern-ways-to-toggle-content/"/>
@@ -150,18 +160,6 @@ WPF only lets you trieve an item directly is via the various Selected... propert
 The Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Semantic Versioning for .NET Core Apps and Libraries]]></title>
-        <id>672df563eedb451674f63814</id>
-        <link href="https://www.freecodecamp.org/news/set-semantic-versioning-for-net/"/>
-        <updated>2024-11-08T11:26:27.000Z</updated>
-        <summary type="html"><![CDATA[Semantic Versioning (or SemVer for short) is a software versioning scheme that stipulates three-part version numbers in the form ..
-, such as 1.0.2, with an optional prerelease suffix in the form -
-, as in 1.0.2-beta. S...]]></summary>
-        <author>
-            <name>Naveed Ausaf</name>
         </author>
     </entry>
     <entry>
