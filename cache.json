@@ -185,16 +185,6 @@
           "wordCount": 1873,
           "title": "Solving Background Overflow With Inherited Border Radii",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381817",
-          "author": "Preethi",
-          "description": "What’s in a word? Actions. In the realm of user interfaces, a word is construed as the telltale of a control’s action. Sometimes it points us in the correct direction, and sometimes it leads us astray. We talk a lot …\nClose, Exit, Cancel: How to End User Interactions Well originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/close-exit-cancel-how-to-end-user-interactions-well/",
-          "publishedOn": "2024-10-16T14:12:57.000Z",
-          "wordCount": 3648,
-          "title": "Close, Exit, Cancel: How to End User Interactions Well",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381817"
         }
       ]
     },
@@ -239,7 +229,7 @@
           "description": "Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!",
           "link": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
           "publishedOn": "2024-11-08T09:00:00.000Z",
-          "wordCount": 3672,
+          "wordCount": 3662,
           "title": "Alternatives To Typical Technical Illustrations And Data Visualisations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg",
@@ -292,21 +282,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-for-gen-z/3-clearleft-case-study-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
-          "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
-          "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4714,
-          "title": "CSS min() All The Things",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg"
         }
       ]
     },
@@ -665,7 +640,7 @@
           "description": "This is a quick reminder to self on how to retrieve a TabItem from a WPF TabControl when the tab is not currently selected because I run into this quite frequently and the flail around trying to remember how to get non-selected items on any list control including tab controls.\nHovered Tab vs Selected Tab\nThe issue is that WPF doesn't have a direct mechanism to retrieve a TabItem that the cursor is over if it's not actually selected. Hovering is not selecting and so SelectedItem and the 'Hovered Item' are two very different thing and WPF is adverse to the latter 😄\nWPF only lets you retrieve an item directly via the various Selected... properties like SelectedItem, SelectedValue, SelectedIndex etc. all of which only work off the item that is selected... which may be different from the item …",
           "link": "https://weblog.west-wind.com/posts/2024/Nov/08/Getting-the-Current-TabItem-when-the-Tab-is-not-selected-in-WPF",
           "publishedOn": "2024-11-09T09:10:44.000Z",
-          "wordCount": 1700,
+          "wordCount": 1704,
           "title": "Getting the Current TabItem when the Tab is not selected in WPF",
           "imageUrl": "https://raw.githubusercontent.com/RickStrahl/ImageDrop/refs/heads/master/MarkdownMonster/LeftSidebarSplitPanels.gif"
         },
