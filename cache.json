@@ -610,7 +610,7 @@
           "description": "This is a quick reminder to self on how to retrieve a TabItem from a WPF TabControl when the tab is not currently selected because I run into this quite frequently and the flail around trying to remember how to get non-selected items on any list control including tab controls.\nHovered Tab vs Selected Tab\nThe issue is that WPF doesn't have a direct mechanism to retrieve a TabItem that the cursor is over if it's not actually selected. Hovering is not selecting and so SelectedItem and the 'Hovered Item' are two very different thing and WPF is adverse to the latter 😄\nWPF only lets you retrieve an item directly via the various Selected... properties like SelectedItem, SelectedValue, SelectedIndex etc. all of which only work off the item that is selected... which may be different from the item …",
           "link": "https://weblog.west-wind.com/posts/2024/Nov/08/Getting-the-Current-TabItem-when-the-Tab-is-not-selected-in-WPF",
           "publishedOn": "2024-11-09T09:10:44.000Z",
-          "wordCount": 1706,
+          "wordCount": 1702,
           "title": "Getting the Current TabItem when the Tab is not selected in WPF",
           "imageUrl": "https://raw.githubusercontent.com/RickStrahl/ImageDrop/refs/heads/master/MarkdownMonster/LeftSidebarSplitPanels.gif"
         },
