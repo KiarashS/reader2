@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2024-12-27T01:44:32.758Z</updated>
+    <updated>2024-12-28T01:42:19.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Back to Basics: Using the Parallel Library to Massively Boost Loop Performance]]></title>
+        <id>4712020_202412272337</id>
+        <link href="https://weblog.west-wind.com/posts/2024/Dec/27/Back-to-Basics-Using-the-Parallel-Library-to-Massively-Boost-Loop-Performance"/>
+        <updated>2024-12-27T23:37:19.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago I posted a quick note on X about a specific use case of using the Parallel library in .NET to massively optimize a link look up operation in Markdown Monster with very little code. That tweet turned out to be surprisingly popular, so I decided to do a follow up post to describe the specific scenario and talk about using the Parallel library to speed up loop operation.
+Always nice to get an easy win: Switching to a Parallel loop with literally a couple of lines of code and getting massive perf improvements.
+Link checking one of my old blog posts with lots of links went from 20 seconds to 2.5 seconds. pic.twitter.com/OSXqU2LaLx
+— Rick Strahl (@RickStrahl) December 22, 2024
+ 
+Scenario: Link Checking Markdown Documents
+The specific scenario I'm going to talk about is a Markdown …]]></summary>
+        <author>
+            <name>Rick Strahl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major freeCodeCamp Curriculum Updates Going Live in Time for Christmas]]></title>
         <id>676a0ca777f09ac78ed9802d</id>
@@ -325,27 +341,6 @@ One of Those “Onboarding” UIs, With Anchor Positioning originally published 
 WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Scott Fennell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hype Around Signals]]></title>
-        <id>https://smashingmagazine.com/2024/11/the-hype-around-signals/</id>
-        <link href="https://smashingmagazine.com/2024/11/the-hype-around-signals/"/>
-        <updated>2024-11-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow Up: We Officially Have a CSS Logo!]]></title>
-        <id>https://css-tricks.com/?p=382773</id>
-        <link href="https://css-tricks.com/follow-up-we-officially-have-a-css-logo/"/>
-        <updated>2024-11-26T15:53:39.000Z</updated>
-        <summary type="html"><![CDATA[Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!
-Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
         </author>
     </entry>
 </feed>
