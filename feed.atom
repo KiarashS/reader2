@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-01-20T01:43:48.121Z</updated>
+    <updated>2025-01-21T01:41:50.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
@@ -11,10 +11,10 @@
         <id>4734648_202501192251</id>
         <link href="https://weblog.west-wind.com/posts/2025/Jan/19/Comparing-Raw-ASPNET-Request-Throughput-across-Versions-80-to-90-Edition"/>
         <updated>2025-01-19T22:51:02.000Z</updated>
-        <summary type="html"><![CDATA[Whenever a new release of .NET comes out I run a comparison test of versions using some of my own load testing tools and in this  post I look at .NET 8.0 to 9.0. These posts tend to be a a bit rambling with observations of what I'm seeing with .NET 9.0 in my own applications for the new release along with some numbers from my yearly test runs.
+        <summary type="html"><![CDATA[Whenever a new release of .NET comes out, I run a comparison test of versions using some of my own load testing tools and in this  post I look at .NET 8.0 to 9.0. These posts tend to be a a bit rambling with observations of what I'm seeing with .NET 9.0 in my own applications for the new release along with some numbers from my yearly  test runs.
 You're Stressing me out!
 In these posts, I use a couple of as-simple-as-it-gets ASP.NET JSON endpoints - both for minimal APIs and ASP.NET Controllers - and fire local Web load tests against them purposefully trying to put max stress on the server (and client) capacity.
-This is by no means a very scientific process, and these tests certainly don't reflect any real-world scenarios.  But they actually serve a couple of very useful purposes, at least fo…]]></summary>
+This is by no means a very scientific process, and these tests certainly don't reflect any real-world scenarios.  But they actually serve a couple of very useful purposes, at least …]]></summary>
         <author>
             <name>Rick Strahl</name>
         </author>
@@ -342,17 +342,6 @@ A CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the
         <summary type="html"><![CDATA[Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Little Triangle in the Tooltip]]></title>
-        <id>https://css-tricks.com/?p=383224</id>
-        <link href="https://css-tricks.com/the-little-triangle-in-the-tooltip/"/>
-        <updated>2024-12-20T16:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Today, I want to focus on what I'll call the little triangle in the tooltip. It receives minimal attention but it amazes you by how many ways there are to make them. Let's start with the simplest and make our way up to the not-so-simple.
-The Little Triangle in the Tooltip originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
