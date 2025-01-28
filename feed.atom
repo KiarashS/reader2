@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-01-27T01:44:18.027Z</updated>
+    <updated>2025-01-28T01:41:49.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Revisiting CSS Multi-Column Layout]]></title>
+        <id>https://css-tricks.com/?p=384002</id>
+        <link href="https://css-tricks.com/revisiting-css-multi-column-layout/"/>
+        <updated>2025-01-27T15:35:44.000Z</updated>
+        <summary type="html"><![CDATA[After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.
+Revisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Scripts and How Do They Work? Improve Your Productivity with Scripting]]></title>
+        <id>679798b5c4e8c2bf2c88f7bc</id>
+        <link href="https://www.freecodecamp.org/news/what-are-scripts-and-how-do-they-work/"/>
+        <updated>2025-01-27T14:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Developers who have a lot of experience building rigid, quality software tend to automate most of their work by writing scripts. These scripts range from simple alias bash commands to repetitive cron triggers that run on a server. In this tutorial, y...]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting a developer job in 2025 with Lane Wagner [Podcast #157]]]></title>
         <id>67943609f67368a6fc69bdb4</id>
@@ -116,16 +137,6 @@ Some Things You Might Not Know About Custom Counter Styles originally published 
         <summary type="html"><![CDATA[Creating a solid application monitoring and observability strategy is a critical foundational step when deploying infrastructure or software in any environment. Monitoring ensures that your systems are running smoothly, while observability provides i...]]></summary>
         <author>
             <name>Eti Ijeoma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metasploit for Beginners — A Guide to the Powerful Exploitation Framework]]></title>
-        <id>679037f81f50429b12d52738</id>
-        <link href="https://www.freecodecamp.org/news/learn-metasploit-for-beginners/"/>
-        <updated>2025-01-22T00:12:40.000Z</updated>
-        <summary type="html"><![CDATA[If you’re starting your journey into penetration testing, you’ve likely heard of Metasploit. Metasploit is one of the most versatile tools in cybersecurity. It helps simplify vulnerability testing and exploitation. Metasploit helps us find and fix we...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -348,22 +359,6 @@ The Importance of Investing in Soft Skills in the Age of AI originally published
 Thank You (2024 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to Basics: Using the Parallel Library to Massively Boost Loop Performance]]></title>
-        <id>4712020_202412272337</id>
-        <link href="https://weblog.west-wind.com/posts/2024/Dec/27/Back-to-Basics-Using-the-Parallel-Library-to-Massively-Boost-Loop-Performance"/>
-        <updated>2024-12-27T23:37:19.000Z</updated>
-        <summary type="html"><![CDATA[A few days ago I posted a quick note on X about a specific use case of using the Parallel library in .NET to massively optimize a link look up operation in Markdown Monster with very little code. That tweet turned out to be surprisingly popular, so I decided to do a follow up post to describe the specific scenario and talk about using the Parallel library to speed up loop operation.
-Always nice to get an easy win: Switching to a Parallel loop with literally a couple of lines of code and getting massive perf improvements.
-Link checking one of my old blog posts with lots of links went from 20 seconds to 2.5 seconds. pic.twitter.com/OSXqU2LaLx
-— Rick Strahl (@RickStrahl) December 22, 2024
- 
-Scenario: Link Checking Markdown Documents
-The specific scenario I'm going to talk about is a Markdown …]]></summary>
-        <author>
-            <name>Rick Strahl</name>
         </author>
     </entry>
 </feed>
