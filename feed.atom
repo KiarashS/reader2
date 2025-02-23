@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-02-22T01:42:05.322Z</updated>
+    <updated>2025-02-23T01:51:30.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Retrieving Images from the Clipboard Reliably in WPF Revisited]]></title>
+        <id>4768057_202502220809</id>
+        <link href="https://weblog.west-wind.com/posts/2025/Feb/21/Retrieving-Images-from-the-Clipboard-Reliably-in-WPF-Revisited"/>
+        <updated>2025-02-22T08:09:36.000Z</updated>
+        <summary type="html"><![CDATA[I've written previously about image formatting issues with the clipboard data in WPF and for the most part what I discussed in that post has been working just fine.
+Recently however I started noticing some issues with some of my clipboard pasting code in Markdown Monster producing what appears to be corrupted images when displaying in an ImageSource control. The following is an image captured from Techsmith's SnagIt and then opened in Markdown Monster's Image dialog:
+
+Figure 1 - Something's not quite right here: Shades of a badly tuned broadcast TV in the 70's 😄 
+The image is sort of there, but it's obviously missing color, it's offset by a bunch with part of it missing, mis-sized  and... well, it looks like an old, mis-tuned broadcast service TV image. It's an interesting effect, but not…]]></summary>
+        <author>
+            <name>Rick Strahl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to go full-on Renaissance Man mode in 2025 with Vaughn Gene [Podcast #161]]]></title>
         <id>67b8d14181f9a2aaa77a646f</id>
