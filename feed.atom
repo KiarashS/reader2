@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-03-09T01:34:07.890Z</updated>
+    <updated>2025-03-10T01:25:39.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Resolving Paths To Server Relative Paths in .NET Code]]></title>
+        <id>4783718_202503090639</id>
+        <link href="https://weblog.west-wind.com/posts/2025/Mar/08/Resolving-Paths-To-Server-Relative-Paths-in-NET-Code"/>
+        <updated>2025-03-09T06:39:18.000Z</updated>
+        <summary type="html"><![CDATA[ASP.NET Core automatically resolves 'virtual' paths in Razor pages or views to a site relative path. So if you have something like:
+<script src="~/lib/scripts/helpers.js" />
+
+It will resolve to the appropriate root Url of the site. In most cases that will be a root path:
+/lib/scripts/helpers
+
+But if you're running the Web site out of a virtual folder you may have a folder like /docs/ as the root for the site in which case the above resolves to:
+/docs/lib/scripts/helpers
+
+In other words, ~/ resolves the path to the site root.
+There's also IUrlHelper which is provided as an Url property on Controllers and in Razor Views and Pages. It gives you programmatic access to the same functionality there via the Content() method.
+The problem with both of these is that they are tied to an ActionContext…]]></summary>
+        <author>
+            <name>Rick Strahl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Software Design Basics: Key Phases and Best Practices]]></title>
         <id>67cb6446f54b40e1e9144db0</id>
@@ -379,16 +400,6 @@ Organizing Design System Component Patterns With CSS Cascade Layers originally p
 Make Any File a Template Using This Hidden macOS Tool originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking RWD To The Extreme]]></title>
-        <id>https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/</id>
-        <link href="https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/"/>
-        <updated>2025-02-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tomasz Jakut)</name>
         </author>
     </entry>
 </feed>
