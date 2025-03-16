@@ -2,23 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-03-15T01:48:08.850Z</updated>
+    <updated>2025-03-16T01:56:30.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to become a self-taught developer while supporting a family [Podcast #164]]]></title>
+        <id>67d4a92df560badb8e1f0360</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-self-taught-developer-while-supporting-a-family-podcast-164/"/>
+        <updated>2025-03-14T22:09:49.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Jesse Hall. He's software engineer and a developer advocate at MongoDB. He taught himself to code while raising kids and working on the Best Buy Geek Squad fixing computers. Jesse has created tons of...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making Html Input Controls Truly ReadOnly]]></title>
         <id>4789670_202503142026</id>
         <link href="https://weblog.west-wind.com/posts/2025/Mar/14/Making-Html-Input-Controls-Truly-ReadOnly"/>
         <updated>2025-03-14T20:26:04.000Z</updated>
-        <summary type="html"><![CDATA[Although HTML has support for readonly control content, the behavior is not really well implemented in Web browsers. readonly display some minimal alternate styling (which you can customize via CSS), but even then the behavior you get is still not optimal because the control is still selectable and stills shows a focus rectangle:
+        <summary type="html"><![CDATA[Although HTML has support for readonly control content, the behavior is not really well implemented in Web browsers. readonly displays some minimal alternate styling (which you can customize via CSS), but even then the behavior you get is still not optimal because the control is still selectable and stills shows a focus rectangle:
 If you just use something like this:
 <input type="text" readonly class="image-quantity" />
 
 You get a result like this in a text box (here in a list of images):
 
 Figure 1 - The default readonly behavior on input controls leaves controls still selectable and show a focus rectangle, even though the text can't be edited.
-You can see that the textbox is still selectable with the mouse and you can still tab into it. It still behaves like an edit control, except you can…]]></summary>
+You can see that the textbox is still selectable with the mouse and you can still tab into it. It still behaves like an edit control, except you ca…]]></summary>
         <author>
             <name>Rick Strahl</name>
         </author>
@@ -206,16 +216,6 @@ The problem with both of these solutions is that they are tied to an ActionConte
         <summary type="html"><![CDATA[Coding has become one of the most common tasks in modern society. With computers now central to almost every field, more people are designing algorithms and writing code to solve various problems. From healthcare to finance, robust software systems p...]]></summary>
         <author>
             <name>Soham Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]]]></title>
-        <id>67cb4f49e5cd83d2948ab4fe</id>
-        <link href="https://www.freecodecamp.org/news/learn-fewer-skills-but-go-deeper-the-caleb-curry-interview-podcast-163/"/>
-        <updated>2025-03-07T19:55:53.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Caleb Curry. He's a software engineer and prolific computer science educator. He recently started mentoring dozens of developers directly and helping them with their skills and careers. We talk about...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -417,37 +417,6 @@ The What If Machine: Bringing the “Iffy” Future of CSS into the Present orig
 Handwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll Driven Animations Notebook]]></title>
-        <id>https://css-tricks.com/?p=384634</id>
-        <link href="https://css-tricks.com/scroll-driven-animations-notebook/"/>
-        <updated>2025-02-13T13:24:29.000Z</updated>
-        <summary type="html"><![CDATA[Adam’s such a mad scientist with CSS. He’s been putting together a series of “notebooks” that make it easy for him to demo code. He’s got one for gradient text, one for a comparison slider, another for accordions…
-Scroll Driven Animations Notebook originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Test And Measure Content In UX]]></title>
-        <id>https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/</id>
-        <link href="https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/"/>
-        <updated>2025-02-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [How To Measure UX & Design Impact](https://measure-ux.com/) by yours truly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time To First Byte: Beyond Server Response Time]]></title>
-        <id>https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/</id>
-        <link href="https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/"/>
-        <updated>2025-02-12T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Optimizing web performance means looking beyond surface-level metrics. Time to First Byte (TTFB) is crucial, but improving it requires more than tweaking server response time. Matt Zeunert breaks down what TTFB is, what causes its poor score, and why reducing server response time alone isn’t enough for optimization and often won’t be the most impactful change you can make to your website.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matt Zeunert)</name>
         </author>
     </entry>
 </feed>
