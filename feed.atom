@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-03-24T01:55:33.680Z</updated>
+    <updated>2025-03-25T01:53:08.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Support Logical Shorthands in CSS]]></title>
+        <id>https://css-tricks.com/?p=385389</id>
+        <link href="https://css-tricks.com/support-logical-shorthands-in-css/"/>
+        <updated>2025-03-24T14:06:19.000Z</updated>
+        <summary type="html"><![CDATA[There’s a bit of a blind spot when working with CSS logical properties concerning shorthands.
+Support Logical Shorthands in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From hating coding to programming satellites at age 37 with Francesco Ciulla [Podcast #165]]]></title>
         <id>67ddbf930d353b1d4dfa0ebd</id>
@@ -398,27 +409,6 @@ Using & Styling the Details Element originally published on CSS-Tricks, which is
 Applying the Web Dev Mindset to Dealing With Life Challenges originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retrieving Images from the Clipboard Reliably in WPF Revisited]]></title>
-        <id>4768057_202502220809</id>
-        <link href="https://weblog.west-wind.com/posts/2025/Feb/21/Retrieving-Images-from-the-Clipboard-Reliably-in-WPF-Revisited"/>
-        <updated>2025-02-22T08:09:36.000Z</updated>
-        <summary type="html"><![CDATA[The WPF Clipboard is notoriously bad for retrieving image data, mainly because of the funky behavior of the ImageSource control into which clipboard data is loaded. WPF cuts a lot of corners when retrieving images and there are many scenarios where Clipboard.GetImage() either crashes or doesn't render the supposedly successfully retrieved image. In this post I review some of the challenges and how you can work around the retrieving an ImageSource with an intermediary load of a bitmap in between to provide reliable image retrieval from the clipboard in WPF.]]></summary>
-        <author>
-            <name>Rick Strahl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toe Dipping Into View Transitions]]></title>
-        <id>https://css-tricks.com/?p=384665</id>
-        <link href="https://css-tricks.com/toe-dipping-into-view-transitions/"/>
-        <updated>2025-02-21T14:34:58.000Z</updated>
-        <summary type="html"><![CDATA[The View Transitions API is more a set of features than it is about any one particular thing. And it gets complex fast. But in this post, we’ll cover a couple ways to dip your toes into the waters without having to dive in head-first.
-Toe Dipping Into View Transitions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
