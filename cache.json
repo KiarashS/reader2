@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385188",
+          "author": "Lee Meyer",
+          "description": "Interactive CSS animations with elements ricocheting off each other seem more plausible in 2025. While it’s unnecessary to implement Pong in CSS, the increasing flexibility and power of CSS reinforce Lee's suspicion that one day it will be a lifestyle choice whether to achieve any given effect with scripting or CSS.\nWorlds Collide: Keyframe Collision Detection Using Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/worlds-collide-keyframe-collision-detection-using-style-queries/",
+          "publishedOn": "2025-03-31T14:59:47.000Z",
+          "wordCount": 3934,
+          "title": "Worlds Collide: Keyframe Collision Detection Using Style Queries",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/pong.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385297",
           "author": "Frederik Dohr",
           "description": "With visual regression testing, we can update a page, take screenshots before and after the fact, and compare the results for unintended changes. In this article, learn how to set up visual regression testing using Playwright.\nAutomated Visual Regression Testing With Playwright originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -140,16 +150,6 @@
           "wordCount": 3999,
           "title": "Functions in CSS?!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/css-functions-mixins.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384906",
-          "author": "Temani Afif",
-          "description": "In this article, you'll learn how to make a full-on star rating component out of nothing but a single input element and vanilla CSS.\nA CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-1/",
-          "publishedOn": "2025-02-28T14:03:32.000Z",
-          "wordCount": 4261,
-          "title": "A CSS-Only Star Rating Component and More! (Part 1)",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
         }
       ]
     },
@@ -158,6 +158,36 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
+          "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
+          "publishedOn": "2025-03-31T13:00:00.000Z",
+          "wordCount": 4548,
+          "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/03/how-to-argue-against-ai-first-research/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Companies have been turning their attention to “synthetic,” AI-driven user testing. However, as convenient as it might seem, it’s dangerous, expensive, and usually diminishes user value. Let’s take a closer look at why exactly it is problematic and how we can argue against it to make a case for UX research with real users. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
+          "link": "https://smashingmagazine.com/2025/03/how-to-argue-against-ai-first-research/",
+          "publishedOn": "2025-03-28T09:00:00.000Z",
+          "wordCount": 3824,
+          "title": "How To Argue Against AI-First Research",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-to-argue-against-ai-first-research/user-research-without-users-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-to-argue-against-ai-first-research/user-research-without-users-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
           "author": "hello@smashingmagazine.com (Teng Wei Herr)",
@@ -179,7 +209,7 @@
           "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
           "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
           "publishedOn": "2025-03-21T08:00:00.000Z",
-          "wordCount": 3953,
+          "wordCount": 3948,
           "title": "Previewing Content Changes In Your Work With document.designMode",
           "enclosure": {
             "url": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
@@ -194,7 +224,7 @@
           "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
           "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
           "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": 4582,
+          "wordCount": 4579,
           "title": "Web Components Vs. Framework Components: What’s The Difference?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
@@ -209,7 +239,7 @@
           "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
           "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
           "publishedOn": "2025-03-13T08:00:00.000Z",
-          "wordCount": 5246,
+          "wordCount": 5241,
           "title": "How To Prevent WordPress SQL Injection Attacks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
@@ -254,7 +284,7 @@
           "description": "Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?",
           "link": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
           "publishedOn": "2025-03-03T08:00:00.000Z",
-          "wordCount": 5351,
+          "wordCount": 5345,
           "title": "The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg",
@@ -389,7 +419,7 @@
           "description": "Windows has a pretty capable SpeechRecognition engine built-in via Windows Media services. In .NET these features are accessible via the Windows SDK (WinSdk) that expose these Windows features to .NET applications. The SDK features succeed the old System.Speech functionality which has a very similar interface, but which uses a much inferior speech recognition engine.\nIn this post I get specific about using the Windows Media speech recognition and show  a small wrapper class that makes it easy to use Speech Recognition in your application along with some examples of my specific integration in Markdown Monster.\n\nThe other big issue I'll cover here relates to using the WinSdk in WPF and specifically using the Windows.Media feature, many of which require the old WinRT runtime. Those components…",
           "link": "https://weblog.west-wind.com/posts/2025/Mar/24/Using-WindowsMedia-SpeechRecognition-in-WPF",
           "publishedOn": "2025-03-25T04:33:00.000Z",
-          "wordCount": 4723,
+          "wordCount": 4726,
           "title": "Using Windows.Media SpeechRecognition in WPF",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Using-Windows-Media-SpeechRecognition-in-WPF/SpeechRecognition-Banner.png"
         },
@@ -409,7 +439,7 @@
           "description": "I was unaware of this: You can access Windows configuration dialogs via an ms-settings: shell command via command Uri that works with:\nShell Commands in your applications (ShellExecute() or Process.Start())\nstart (command) and start-process (powershell) from a terminal\nFrom within a browser\nCommands look like this:\n\nFigure 1 - You can directly access specific Windows Settings commands through ms-settings: shell commands\nWhat's nice is they pop up directly on the appropriate configuration setting. This is especially useful for application that require that certain feature or system functions are enabled.\n\n\n\nFor example, here I'm prompting to allow for Microphone access, so the Speech Recognition features in Markdown Monster can be used to dictate text. If the app tries to start the audio sy…",
           "link": "https://weblog.west-wind.com/posts/2025/Mar/13/Accessing-Windows-Settings-Dialogs-from-Code-via-Shell-Commands",
           "publishedOn": "2025-03-13T22:40:22.000Z",
-          "wordCount": 1033,
+          "wordCount": 1040,
           "title": "Accessing Windows Settings Dialogs from Code via Shell Commands",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Accessing-Windows-Settings-Dialogs-from-Code-via-Shell-Commands/MsSettingsShellCommands.png"
         },
@@ -419,7 +449,7 @@
           "description": "ASP.NET Core has support for resolving Urls in Controllers and Razor Pages via embedded `~/` links in Views and via `Url.Content()`. But, these features are tied to Controllers or Razor Pages - what if you need to resolve Urls elsewhere, in middleware or even inside of business logic? In this post I describe how you can build a couple of helpers that are more flexible and also provide some additional functionality of resolving site root and relative paths to full site root paths.",
           "link": "https://weblog.west-wind.com/posts/2025/Mar/08/Resolving-Paths-To-Server-Relative-Paths-in-NET-Code",
           "publishedOn": "2025-03-09T06:39:18.000Z",
-          "wordCount": 2729,
+          "wordCount": 2726,
           "title": "Resolving Paths To Server Relative Paths in .NET Code",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Resolving-Paths-To-Server-Relative-Paths-in--NET-Code/PathResolutionBanner.jpg"
         }
