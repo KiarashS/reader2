@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385086",
+          "author": "Bryan Robinson",
+          "description": "One thing we can do to help teams code consistently is provide type-checking so that all of the configurable options for a specific component are available while coding. Bryan demonstrates how he does this with TypeScript when working with Astro components.\nCrafting Strong DX With Astro Components and TypeScript originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/crafting-strong-dx-with-astro-components-and-typescript/",
+          "publishedOn": "2025-04-01T13:50:58.000Z",
+          "wordCount": 4153,
+          "title": "Crafting Strong DX With Astro Components and TypeScript",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/03/typed-component-1.mp4",
+            "length": "54756377",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/type-checking-astro.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385188",
           "author": "Lee Meyer",
           "description": "Interactive CSS animations with elements ricocheting off each other seem more plausible in 2025. While it’s unnecessary to implement Pong in CSS, the increasing flexibility and power of CSS reinforce Lee's suspicion that one day it will be a lifestyle choice whether to achieve any given effect with scripting or CSS.\nWorlds Collide: Keyframe Collision Detection Using Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -97,7 +112,7 @@
           "description": "With Astro, we can generate most of our site during our build, but have a small bit of server-side code that can handle search functionality using something like Fuse.js. In this demo, we’ll use Fuse to search through a set of personal “bookmarks” that are generated at build time, but return back proper results from a server call.\nPowering Search With Astro Actions and Fuse.js originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/",
           "publishedOn": "2025-03-11T15:26:10.000Z",
-          "wordCount": 5281,
+          "wordCount": 5321,
           "title": "Powering Search With Astro Actions and Fuse.js",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/astro-search.jpg"
         },
@@ -164,7 +179,7 @@
           "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
           "publishedOn": "2025-03-31T13:00:00.000Z",
-          "wordCount": 4548,
+          "wordCount": 4560,
           "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
@@ -194,7 +209,7 @@
           "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
           "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
           "publishedOn": "2025-03-27T13:00:00.000Z",
-          "wordCount": 4477,
+          "wordCount": 4476,
           "title": "Adaptive Video Streaming With Dash.js In React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
@@ -209,7 +224,7 @@
           "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
           "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
           "publishedOn": "2025-03-21T08:00:00.000Z",
-          "wordCount": 3948,
+          "wordCount": 3969,
           "title": "Previewing Content Changes In Your Work With document.designMode",
           "enclosure": {
             "url": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
@@ -224,7 +239,7 @@
           "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
           "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
           "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": 4579,
+          "wordCount": 4573,
           "title": "Web Components Vs. Framework Components: What’s The Difference?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
@@ -239,7 +254,7 @@
           "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
           "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
           "publishedOn": "2025-03-13T08:00:00.000Z",
-          "wordCount": 5241,
+          "wordCount": 5338,
           "title": "How To Prevent WordPress SQL Injection Attacks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
@@ -284,7 +299,7 @@
           "description": "Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?",
           "link": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
           "publishedOn": "2025-03-03T08:00:00.000Z",
-          "wordCount": 5345,
+          "wordCount": 5355,
           "title": "The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg",
@@ -300,6 +315,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67ec22879f76b0cdc2046ddb",
+          "author": "Beau Carnes",
+          "description": "DeepSeek V3 is a cutting-edge large language model. It leverages sophisticated techniques like a unique Multi-Head Latent Attention mechanism and a Mixture of Experts architecture for enhanced efficiency and capability. Understanding this model provi...",
+          "link": "https://www.freecodecamp.org/news/understand-and-code-deepseek-v3/",
+          "publishedOn": "2025-04-01T17:29:43.000Z",
+          "wordCount": 1245,
+          "title": "Understand and Code DeepSeek V3",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743528561674/7a60918e-265c-4201-a8a6-eec530f3149a.png"
+        },
+        {
+          "id": "67eb1b3398e2cf5154940366",
+          "author": "Andrew Baisden",
+          "description": "AI is quickly changing the way we work, and more and more companies are using it to help them get and retain clients. Teams are also using AI to create innovative and responsive websites capable of engaging visitors while also providing helpful infor...",
+          "link": "https://www.freecodecamp.org/news/build-a-team-of-ai-agents-for-your-website-for-free/",
+          "publishedOn": "2025-03-31T22:46:11.000Z",
+          "wordCount": 14889,
+          "title": "How to Build a Team of AI Agents for Your Website for Free Using Agno and Groq",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742397437476/0ffa13b0-c668-40d7-864f-596f523f6101.png"
+        },
         {
           "id": "67e6f817cd414b8fc3de97c7",
           "author": "Quincy Larson",
@@ -379,26 +414,6 @@
           "wordCount": 2463,
           "title": "How to Move Figma Components to Penpot",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743028701920/ef200f8f-888d-4658-a5b0-ffa483edbdcf.png"
-        },
-        {
-          "id": "67e434766d7e1561ea4bf0e6",
-          "author": "Beau Carnes",
-          "description": "Microservices architecture has become a popular approach for building scalable and maintainable applications. By breaking down large applications into smaller, independent services, developers can improve performance, maintainability, and scalability...",
-          "link": "https://www.freecodecamp.org/news/create-microservices-with-nestjs/",
-          "publishedOn": "2025-03-26T17:08:06.000Z",
-          "wordCount": 1143,
-          "title": "Create Microservices with NestJS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743008871537/ad2be682-1c63-4d10-9cd3-7b33a7451b9b.png"
-        },
-        {
-          "id": "67e42705cb510eea06095d36",
-          "author": "Shrijal Acharya",
-          "description": "Have you ever run into a situation where you want to test some local AI models, but your computer doesn't have enough specs to run them? Or maybe you just don't like bloating your computer with a ton of AI models? You're not alone in this. I’ve faced...",
-          "link": "https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/",
-          "publishedOn": "2025-03-26T16:10:45.000Z",
-          "wordCount": 4208,
-          "title": "How to Host Local LLMs in a Docker Container on Azure",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743005422195/56c65ac2-7a0d-4bd6-b969-a4c02eb3c42e.png"
         }
       ]
     },
@@ -419,7 +434,7 @@
           "description": "Windows has a pretty capable SpeechRecognition engine built-in via Windows Media services. In .NET these features are accessible via the Windows SDK (WinSdk) that expose these Windows features to .NET applications. The SDK features succeed the old System.Speech functionality which has a very similar interface, but which uses a much inferior speech recognition engine.\nIn this post I get specific about using the Windows Media speech recognition and show  a small wrapper class that makes it easy to use Speech Recognition in your application along with some examples of my specific integration in Markdown Monster.\n\nThe other big issue I'll cover here relates to using the WinSdk in WPF and specifically using the Windows.Media feature, many of which require the old WinRT runtime. Those components…",
           "link": "https://weblog.west-wind.com/posts/2025/Mar/24/Using-WindowsMedia-SpeechRecognition-in-WPF",
           "publishedOn": "2025-03-25T04:33:00.000Z",
-          "wordCount": 4726,
+          "wordCount": 4728,
           "title": "Using Windows.Media SpeechRecognition in WPF",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Using-Windows-Media-SpeechRecognition-in-WPF/SpeechRecognition-Banner.png"
         },
@@ -429,7 +444,7 @@
           "description": "Although HTML has support for readonly control content, the behavior is not really well implemented in Web browsers. readonly displays some minimal alternate styling (which you can customize via CSS), but even then the behavior you get is still not optimal because the control is still selectable and stills shows a focus rectangle:\nIf you just use something like this:\n<input type=\"text\" readonly class=\"image-quantity\" />\n\nYou get a result like this in a text box (here in a list of images):\n\nFigure 1 - The default readonly behavior on input controls leaves controls still selectable and show a focus rectangle, even though the text can't be edited.\nYou can see that the textbox is still selectable with the mouse and you can still tab into it. It still behaves like an edit control, except you ca…",
           "link": "https://weblog.west-wind.com/posts/2025/Mar/14/Making-Html-Input-Controls-Truly-ReadOnly",
           "publishedOn": "2025-03-14T20:26:04.000Z",
-          "wordCount": 2669,
+          "wordCount": 2663,
           "title": "Making Html Input Controls Truly ReadOnly",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Making-Html-Input-Controls-Truly-ReadOnly/LockedEnvelopeForYourEyesOnly.jpg"
         },
@@ -439,7 +454,7 @@
           "description": "I was unaware of this: You can access Windows configuration dialogs via an ms-settings: shell command via command Uri that works with:\nShell Commands in your applications (ShellExecute() or Process.Start())\nstart (command) and start-process (powershell) from a terminal\nFrom within a browser\nCommands look like this:\n\nFigure 1 - You can directly access specific Windows Settings commands through ms-settings: shell commands\nWhat's nice is they pop up directly on the appropriate configuration setting. This is especially useful for application that require that certain feature or system functions are enabled.\n\n\n\nFor example, here I'm prompting to allow for Microphone access, so the Speech Recognition features in Markdown Monster can be used to dictate text. If the app tries to start the audio sy…",
           "link": "https://weblog.west-wind.com/posts/2025/Mar/13/Accessing-Windows-Settings-Dialogs-from-Code-via-Shell-Commands",
           "publishedOn": "2025-03-13T22:40:22.000Z",
-          "wordCount": 1040,
+          "wordCount": 1042,
           "title": "Accessing Windows Settings Dialogs from Code via Shell Commands",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Accessing-Windows-Settings-Dialogs-from-Code-via-Shell-Commands/MsSettingsShellCommands.png"
         },
@@ -449,7 +464,7 @@
           "description": "ASP.NET Core has support for resolving Urls in Controllers and Razor Pages via embedded `~/` links in Views and via `Url.Content()`. But, these features are tied to Controllers or Razor Pages - what if you need to resolve Urls elsewhere, in middleware or even inside of business logic? In this post I describe how you can build a couple of helpers that are more flexible and also provide some additional functionality of resolving site root and relative paths to full site root paths.",
           "link": "https://weblog.west-wind.com/posts/2025/Mar/08/Resolving-Paths-To-Server-Relative-Paths-in-NET-Code",
           "publishedOn": "2025-03-09T06:39:18.000Z",
-          "wordCount": 2726,
+          "wordCount": 2725,
           "title": "Resolving Paths To Server Relative Paths in .NET Code",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Resolving-Paths-To-Server-Relative-Paths-in--NET-Code/PathResolutionBanner.jpg"
         }
