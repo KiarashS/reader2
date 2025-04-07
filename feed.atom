@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-04-06T01:58:53.266Z</updated>
+    <updated>2025-04-07T01:56:27.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
@@ -400,28 +400,6 @@ Smashing Meets Accessibility originally published on CSS-Tricks, which is part o
         <summary type="html"><![CDATA[ASP.NET Core has support for resolving Urls in Controllers and Razor Pages via embedded `~/` links in Views and via `Url.Content()`. But, these features are tied to Controllers or Razor Pages - what if you need to resolve Urls elsewhere, in middleware or even inside of business logic? In this post I describe how you can build a couple of helpers that are more flexible and also provide some additional functionality of resolving site root and relative paths to full site root paths.]]></summary>
         <author>
             <name>Rick Strahl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A CSS-Only Star Rating Component and More! (Part 2)]]></title>
-        <id>https://css-tricks.com/?p=384919</id>
-        <link href="https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/"/>
-        <updated>2025-03-07T13:14:12.000Z</updated>
-        <summary type="html"><![CDATA[In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.
-A CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybe don’t use custom properties in shorthand properties]]></title>
-        <id>https://css-tricks.com/?p=385117</id>
-        <link href="https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/"/>
-        <updated>2025-03-06T16:33:55.000Z</updated>
-        <summary type="html"><![CDATA[This easily qualifies as a "gotcha" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration.
-Maybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>

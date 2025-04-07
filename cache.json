@@ -150,26 +150,6 @@
           "wordCount": 1837,
           "title": "Smashing Meets Accessibility",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/smashing-meets-a11y.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384919",
-          "author": "Temani Afif",
-          "description": "In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.\nA CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/",
-          "publishedOn": "2025-03-07T13:14:12.000Z",
-          "wordCount": 4155,
-          "title": "A CSS-Only Star Rating Component and More! (Part 2)",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385117",
-          "author": "Geoff Graham",
-          "description": "This easily qualifies as a \"gotcha\" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration.\nMaybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/",
-          "publishedOn": "2025-03-06T16:33:55.000Z",
-          "wordCount": 1928,
-          "title": "Maybe don’t use custom properties in shorthand properties",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code.png"
         }
       ]
     },
@@ -184,7 +164,7 @@
           "description": "When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.",
           "link": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
           "publishedOn": "2025-04-04T12:00:00.000Z",
-          "wordCount": 8319,
+          "wordCount": 8317,
           "title": "How To Build A Business Case To Promote Accessibility In Your B2B Products",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg",
@@ -214,7 +194,7 @@
           "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
           "publishedOn": "2025-03-31T13:00:00.000Z",
-          "wordCount": 4563,
+          "wordCount": 4555,
           "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
@@ -259,7 +239,7 @@
           "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
           "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
           "publishedOn": "2025-03-21T08:00:00.000Z",
-          "wordCount": 3952,
+          "wordCount": 3950,
           "title": "Previewing Content Changes In Your Work With document.designMode",
           "enclosure": {
             "url": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
@@ -274,7 +254,7 @@
           "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
           "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
           "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": 4562,
+          "wordCount": 4674,
           "title": "Web Components Vs. Framework Components: What’s The Difference?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
@@ -289,7 +269,7 @@
           "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
           "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
           "publishedOn": "2025-03-13T08:00:00.000Z",
-          "wordCount": 5227,
+          "wordCount": 5236,
           "title": "How To Prevent WordPress SQL Injection Attacks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
@@ -449,7 +429,7 @@
           "description": "Although HTML has support for readonly control content, the behavior is not really well implemented in Web browsers. readonly displays some minimal alternate styling (which you can customize via CSS), but even then the behavior you get is still not optimal because the control is still selectable and stills shows a focus rectangle:\nIf you just use something like this:\n<input type=\"text\" readonly class=\"image-quantity\" />\n\nYou get a result like this in a text box (here in a list of images):\n\nFigure 1 - The default readonly behavior on input controls leaves controls still selectable and show a focus rectangle, even though the text can't be edited.\nYou can see that the textbox is still selectable with the mouse and you can still tab into it. It still behaves like an edit control, except you ca…",
           "link": "https://weblog.west-wind.com/posts/2025/Mar/14/Making-Html-Input-Controls-Truly-ReadOnly",
           "publishedOn": "2025-03-14T20:26:04.000Z",
-          "wordCount": 2663,
+          "wordCount": 2667,
           "title": "Making Html Input Controls Truly ReadOnly",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Making-Html-Input-Controls-Truly-ReadOnly/LockedEnvelopeForYourEyesOnly.jpg"
         },
@@ -469,7 +449,7 @@
           "description": "ASP.NET Core has support for resolving Urls in Controllers and Razor Pages via embedded `~/` links in Views and via `Url.Content()`. But, these features are tied to Controllers or Razor Pages - what if you need to resolve Urls elsewhere, in middleware or even inside of business logic? In this post I describe how you can build a couple of helpers that are more flexible and also provide some additional functionality of resolving site root and relative paths to full site root paths.",
           "link": "https://weblog.west-wind.com/posts/2025/Mar/08/Resolving-Paths-To-Server-Relative-Paths-in-NET-Code",
           "publishedOn": "2025-03-09T06:39:18.000Z",
-          "wordCount": 2729,
+          "wordCount": 2725,
           "title": "Resolving Paths To Server Relative Paths in .NET Code",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Resolving-Paths-To-Server-Relative-Paths-in--NET-Code/PathResolutionBanner.jpg"
         }
