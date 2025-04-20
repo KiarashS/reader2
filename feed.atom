@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-04-19T01:50:30.578Z</updated>
+    <updated>2025-04-20T02:02:05.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Strong ARM of .NET: Wrestling with x64 and Arm64 Desktop App Deployment]]></title>
+        <id>4827822_202504190835</id>
+        <link href="https://weblog.west-wind.com/posts/2025/Apr/18/The-Strong-ARM-of-NET-Wrestling-with-x64-and-Arm64-Desktop-App-Deployment"/>
+        <updated>2025-04-19T08:35:43.000Z</updated>
+        <summary type="html"><![CDATA[𝅘𝅥𝅮	 The Strong Arm Of the Law - Saxon
+If you follow me at all, you've probably heard me talk about some of my travails related to making a .NET Windows Desktop application — Markdown Monster — run well on ARM-based systems. Since it is a .NET application, it should be very simple: .NET is cross-platform and cross-architecture, and ARM64 is among the supported targets for .NET binaries. So it should be straightforward to compile an application and have it work both on Windows x64 and Arm64, right?
+Well... it works, but it's not anywhere as simple as I expected it to be to have the app run on both Windows x64 and Arm64 natively!
+I'm coming at this specifically from the perspective of a Windows Desktop application distributed to many customers of all types with both x64 and Arm64 machines. An…]]></summary>
+        <author>
+            <name>Rick Strahl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Dockerize Your Django Project]]></title>
         <id>68027fe54ea28168254d68b0</id>
