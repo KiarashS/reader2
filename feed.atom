@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-05-11T02:05:59.001Z</updated>
+    <updated>2025-05-12T02:03:49.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lazy Loading the Mermaid Diagram Library]]></title>
+        <id>4856296_202505110926</id>
+        <link href="https://weblog.west-wind.com/posts/2025/May/10/Lazy-Loading-the-Mermaid-Diagram-Library"/>
+        <updated>2025-05-11T09:26:29.000Z</updated>
+        <summary type="html"><![CDATA[The Mermaid Diagrams Library is a widely used, open source Javascript diagram library that uses text based markup to render diagrams. It's easy to use and integrate, but it's a large beast, and if you're using it selectively in your Web content you probably want to make sure you don't load it unless you actually need it due to it's large download footprint and load time. If you're loading Mermaid with server only code it's pretty straight forward, but if you use it on the client you may want to delay load the script file until you actually need to display a diagram.
+If you're anything like me in my Mermaid usage, you probably have only a few pages that actually use Mermaid while the majority of other content doesn't use it. It's easy enough to slap Mermaid into a page, but personally I pre…]]></summary>
+        <author>
+            <name>Rick Strahl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make IT Operations More Efficient with AIOps: Build Smarter, Faster Systems]]></title>
         <id>681e7192df44ab8496bca883</id>
@@ -384,10 +395,7 @@ The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is p
         <id>4827822_202504190835</id>
         <link href="https://weblog.west-wind.com/posts/2025/Apr/18/The-Strong-ARM-of-NET-Wrestling-with-x64-and-Arm64-Desktop-App-Deployment"/>
         <updated>2025-04-19T08:35:43.000Z</updated>
-        <summary type="html"><![CDATA[𝅘𝅥𝅮	 The Strong Arm Of the Law - Saxon
-If you follow me at all, you've probably heard me talk about some of my travails related to making a .NET Windows Desktop application — Markdown Monster — run well on ARM-based systems. Since it is a .NET application, it should be very simple: .NET is cross-platform and cross-architecture, and ARM64 is among the supported targets for .NET binaries. So it should be straightforward to compile an application and have it work both on Windows x64 and Arm64, right?
-Well... it works, but it's not anywhere as simple as I expected it to be to have the app run on both Windows x64 and Arm64 natively!
-I'm coming at this specifically from the perspective of a Windows Desktop application distributed to many customers of all types with both x64 and Arm64 machines. An…]]></summary>
+        <summary type="html"><![CDATA[.NET  works great for cross-platform development making it easy to build apps that are cross-platform and cross-architecture specifically for x64 and Arm64. However, building a distributable application that can install and run out of box on both of these platforms, that's a bit more effort. In this post I discuss some of the gotchas and how to work around them to distribute apps that run out of the gate on both platforms.]]></summary>
         <author>
             <name>Rick Strahl</name>
         </author>
@@ -474,27 +482,6 @@ Next Level CSS Styling for Cursors originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
         <author>
             <name>Peter Ritchie's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks Chronicles XLIII]]></title>
-        <id>https://css-tricks.com/?p=385404</id>
-        <link href="https://css-tricks.com/css-tricks-chronicles-xliii/"/>
-        <updated>2025-04-11T12:39:26.000Z</updated>
-        <summary type="html"><![CDATA[This CSS-Tricks update highlights significant progress in the Almanac, recent podcast appearances, a new CSS counters guide, and the addition of several new authors contributing valuable content.
-CSS-Tricks Chronicles XLIII originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gild Just One Lily]]></title>
-        <id>https://smashingmagazine.com/2025/04/gild-just-one-lily/</id>
-        <link href="https://smashingmagazine.com/2025/04/gild-just-one-lily/"/>
-        <updated>2025-04-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Steven Garrity)</name>
         </author>
     </entry>
 </feed>

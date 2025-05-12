@@ -22,6 +22,55 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-05-11 datetime="2025-05-11T09:26:29.000Z">2025-05-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-05-11 datetime="2025-05-11T09:26:29.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Rick Strahl&#x27;s Web Log</button>
+                  <a class="source-heading__link" href="https://weblog.west-wind.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="4856296_202505110926"
+                        open
+                      >
+                        <summary class="article-expander__title">Lazy Loading the Mermaid Diagram Library</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://weblog.west-wind.com/posts/2025/May/10/Lazy-Loading-the-Mermaid-Diagram-Library">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://weblog.west-wind.com/images/2025/Lazy-Loading-the-Mermaid-Diagram-Library/MermaidLoading.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The Mermaid Diagrams Library is a widely used, open source Javascript diagram library that uses text based markup to render diagrams. It&#x27;s easy to use and integrate, but it&#x27;s a large beast, and if you&#x27;re using it selectively in your Web content you probably want to make sure you don&#x27;t load it unless you actually need it due to it&#x27;s large download footprint and load time. If you&#x27;re loading Mermaid with server only code it&#x27;s pretty straight forward, but if you use it on the client you may want to delay load the script file until you actually need to display a diagram.
+If you&#x27;re anything like me in my Mermaid usage, you probably have only a few pages that actually use Mermaid while the majority of other content doesn&#x27;t use it. It&#x27;s easy enough to slap Mermaid into a page, but personally I pre…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-05-10 datetime="2025-05-09T21:20:18.000Z">2025-05-10</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-05-10 datetime="2025-05-09T21:20:18.000Z"></time>
           </button>
@@ -1424,10 +1473,7 @@ The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is p
                           <div class="article-summary-box-inner media-object">
                               <img src="https://weblog.west-wind.com/images/2025/TheStrongArmOfDotNetWrestlingWithX64andArm64/TheStrongArmOfTheLawBanner.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>𝅘𝅥𝅮	 The Strong Arm Of the Law - Saxon
-If you follow me at all, you&#x27;ve probably heard me talk about some of my travails related to making a .NET Windows Desktop application — Markdown Monster — run well on ARM-based systems. Since it is a .NET application, it should be very simple: .NET is cross-platform and cross-architecture, and ARM64 is among the supported targets for .NET binaries. So it should be straightforward to compile an application and have it work both on Windows x64 and Arm64, right?
-Well... it works, but it&#x27;s not anywhere as simple as I expected it to be to have the app run on both Windows x64 and Arm64 natively!
-I&#x27;m coming at this specifically from the perspective of a Windows Desktop application distributed to many customers of all types with both x64 and Arm64 machines. An…</span>
+                              <span>.NET  works great for cross-platform development making it easy to build apps that are cross-platform and cross-architecture specifically for x64 and Arm64. However, building a distributable application that can install and run out of box on both of these platforms, that&#x27;s a bit more effort. In this post I discuss some of the gotchas and how to work around them to distribute apps that run out of the gate on both platforms.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;12
                                   min&hairsp;)</span>
                             </span>
@@ -1785,107 +1831,10 @@ Next Level CSS Styling for Cursors originally published on CSS-Tricks, which is 
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-04-11 datetime="2025-04-11T12:39:26.000Z">2025-04-11</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-04-11 datetime="2025-04-11T12:39:26.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CSS-Tricks</button>
-                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://css-tricks.com/?p&#x3D;385404"
-                        open
-                      >
-                        <summary class="article-expander__title">CSS-Tricks Chronicles XLIII</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/css-tricks-chronicles-xliii/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/chronicles-XXXVIII.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>This CSS-Tricks update highlights significant progress in the Almanac, recent podcast appearances, a new CSS counters guide, and the addition of several new authors contributing valuable content.
-CSS-Tricks Chronicles XLIII originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-04-10 datetime="2025-04-10T15:00:00.000Z">2025-04-10</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-04-10 datetime="2025-04-10T15:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
-                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://smashingmagazine.com/2025/04/gild-just-one-lily/"
-                        open
-                      >
-                        <summary class="article-expander__title">Gild Just One Lily</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/04/gild-just-one-lily/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;14
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/KiarashS/reader2/actions/runs/14951255035">
-        <time id="build-timestamp" datetime="2025-05-11T02:05:58.982Z">2025-05-11T02:05:58.982Z</time>
+      <a class="footer-link" href="https://github.com/KiarashS/reader2/actions/runs/14962233036">
+        <time id="build-timestamp" datetime="2025-05-12T02:03:49.042Z">2025-05-12T02:03:49.042Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
