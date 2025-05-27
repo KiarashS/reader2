@@ -239,7 +239,7 @@
           "description": "Remember that last team brainstorming session where you were supposed to generate a long list of brilliant ideas? How many of those ideas actually stuck? Did leadership act on any of those ideas? In this article, Eric Olive challenges the value of exercises like brainstorming and explores more effective methods for sparking creativity to improve design and enhance the user’s experience.",
           "link": "https://smashingmagazine.com/2025/05/fewer-ideas-unconventional-approach-creativity/",
           "publishedOn": "2025-05-15T10:00:00.000Z",
-          "wordCount": 4909,
+          "wordCount": null,
           "title": "Fewer Ideas: An Unconventional Approach To Creativity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/fewer-ideas-unconventional-approach-creativity/fewer-ideas-unconventional-approach-creativity.jpg",
@@ -254,7 +254,7 @@
           "description": "What if you could take your CSS animations beyond simple fades and slides — adding an extra dimension and a bit of old-school animation magic? In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) will show you how masking can unlock new creative possibilities for CSS animations, making them feel more fluid, layered, and cinematic.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-2-css-masking-add-extra-dimension/",
           "publishedOn": "2025-05-14T13:00:00.000Z",
-          "wordCount": 5629,
+          "wordCount": null,
           "title": "Smashing Animations Part 2: How CSS Masking Can Add An Extra Dimension",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-2-css-masking-add-extra-dimension/smashing-animations-part-2-css-masking-add-extra-dimension.jpg",
@@ -585,7 +585,7 @@
           "description": "WPF image locking has tripped me up a lot in XAML applications: The WPF image control by default locks image files when directly linking to an image file on disk. When you simply bind or assign an image file, internally WPF uses a stream that is not closed and kept open. In some cases this doesn't matter, for example if your images are rarely or never updated.\nBut in some cases it does matter: In several of my applications I have tons of icons that get loaded into a TreeView control with the icons being related to user defined templates that can and often are updated. The locked files become a problem as these locked files can't be deleted. In one particular use case I update my templates by nuking the original folder, then re-creating the folder and copying the new templates which include…",
           "link": "https://weblog.west-wind.com/posts/2025/Apr/28/WPF-Image-Control-Local-File-Locking",
           "publishedOn": "2025-04-28T22:01:46.000Z",
-          "wordCount": 1763,
+          "wordCount": 1759,
           "title": "Avoiding WPF Image Control Local File Locking",
           "imageUrl": "https://weblog.west-wind.com/images/2025/WPF-Image-Control-Local-File-Locking/LockedImageFiles.jpg"
         }
@@ -612,7 +612,7 @@
           "description": "When building hybrid Web applications where .NET code interacts with WebView HTML content, one of the sticking points is the event based disconnect between loading a document, and then having to wait for the document to load into the control, and then starting to interact with the document via script code.\nWhile there are events - CoreWebView2.DOMContentLoaded specifically - using an event handler is not always easy to work into application flow.\nIt's easy to use the WebView control and just display a Url where you are essentially letting the browser complete the page load asynchronously in the background. Take something even as simple as the following when you want to pre-load some content into the HTML document:\nWebView.Source = \"http://localhost:5200/MyPage\"\n\n// BOOM!\nawait WebView.Exec…",
           "link": "https://weblog.west-wind.com/posts/2025/May/06/WebView2-Waiting-for-Document-Loaded",
           "publishedOn": "2025-05-06T21:50:16.000Z",
-          "wordCount": 2484,
+          "wordCount": 2488,
           "title": "WebView2: Waiting for Document Loaded",
           "imageUrl": "https://weblog.west-wind.com/images/2025/WebView2-Waiting-for-Document-Loaded/IsItReadyYet.png"
         },
@@ -634,23 +634,23 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
-          "id": "stories/717044",
+          "id": "stories/720709",
           "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/717044?url=https://markheath.net/post/2025/4/14/calling-mcp-server-microsoft-extensions-ai",
-          "publishedOn": "2025-05-27T10:26:47.405Z",
-          "wordCount": 648,
-          "title": "Calling MCP Servers in C# with Microsoft.Extensions.AI",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+          "description": "We are excited to announce the public preview of DiskANN in SQL Server 2025, a significant advancement in our AI capabilities. This release comes with full...",
+          "link": "https://dotnetkicks.com/r/720709?url=https://techcommunity.microsoft.com/blog/sqlserver/announcing-public-preview-of-diskann-in-sql-server-2025/4414683",
+          "publishedOn": "2025-05-27T10:27:35.951Z",
+          "wordCount": 7658,
+          "title": "Announcing Public Preview of DiskANN in SQL Server 2025 | Microsoft Community Hub",
+          "imageUrl": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NDE0NjgzLUg3WlpmZQ?revision=3"
         },
         {
-          "id": "stories/717561",
+          "id": "stories/719980",
           "author": null,
-          "description": "There's a new AI kid on the block ( https://claude.ai) and he is very powerful for programming and many other things. At the risk of being obnoxious, here is what he said about me: Jesse Liberty is a well-known software developer, author, and educator in the computer programming and software development world.",
-          "link": "https://dotnetkicks.com/r/717561?url=https://jesseliberty.com/2025/04/18/claude/",
-          "publishedOn": "2025-05-27T10:26:46.921Z",
-          "wordCount": 3903,
-          "title": "Claude",
+          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET will be released early in 2025.",
+          "link": "https://dotnetkicks.com/r/719980?url=https://jesseliberty.com/2025/05/14/mike-kistler-microsoft-on-openapi/",
+          "publishedOn": "2025-05-27T10:27:35.593Z",
+          "wordCount": 2532,
+          "title": "Mike Kistler (Microsoft) on OpenAPI",
           "imageUrl": null
         },
         {
@@ -658,37 +658,37 @@
           "author": null,
           "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET will be released early in 2025.",
           "link": "https://dotnetkicks.com/r/717649?url=https://jesseliberty.com/2025/04/20/private-post/",
-          "publishedOn": "2025-05-27T10:26:43.677Z",
+          "publishedOn": "2025-05-27T10:27:35.526Z",
           "wordCount": null,
           "title": "Private post | Jesse Liberty",
           "imageUrl": null
         },
         {
-          "id": "stories/719980",
+          "id": "stories/717561",
           "author": null,
-          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET will be released early in 2025.",
-          "link": "https://dotnetkicks.com/r/719980?url=https://jesseliberty.com/2025/05/14/mike-kistler-microsoft-on-openapi/",
-          "publishedOn": "2025-05-27T10:26:34.713Z",
-          "wordCount": 2532,
-          "title": "Mike Kistler (Microsoft) on OpenAPI",
+          "description": "There's a new AI kid on the block ( https://claude.ai) and he is very powerful for programming and many other things. At the risk of being obnoxious, here is what he said about me: Jesse Liberty is a well-known software developer, author, and educator in the computer programming and software development world.",
+          "link": "https://dotnetkicks.com/r/717561?url=https://jesseliberty.com/2025/04/18/claude/",
+          "publishedOn": "2025-05-27T10:27:35.040Z",
+          "wordCount": 3903,
+          "title": "Claude",
           "imageUrl": null
         },
         {
-          "id": "stories/720709",
+          "id": "stories/717044",
           "author": null,
-          "description": "We are excited to announce the public preview of DiskANN in SQL Server 2025, a significant advancement in our AI capabilities. This release comes with full...",
-          "link": "https://dotnetkicks.com/r/720709?url=https://techcommunity.microsoft.com/blog/sqlserver/announcing-public-preview-of-diskann-in-sql-server-2025/4414683",
-          "publishedOn": "2025-05-27T10:26:34.213Z",
-          "wordCount": 7658,
-          "title": "Announcing Public Preview of DiskANN in SQL Server 2025 | Microsoft Community Hub",
-          "imageUrl": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NDE0NjgzLUg3WlpmZQ?revision=3"
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/717044?url=https://markheath.net/post/2025/4/14/calling-mcp-server-microsoft-extensions-ai",
+          "publishedOn": "2025-05-27T10:27:34.691Z",
+          "wordCount": 648,
+          "title": "Calling MCP Servers in C# with Microsoft.Extensions.AI",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
         },
         {
           "id": "stories/720812",
           "author": null,
           "description": "Microsoft's Azure AI Foundry was all the talk at Microsoft Build. Read this blog to find out what it is and why you should care. TL;DR You can build, customize, and manage AI agents & apps at scale with unified tools.",
           "link": "https://dotnetkicks.com/r/720812?url=https://www.mobilize.net/blog/azure-ai-foundry-what-is-it-and-why-should-you-care?utm_source=DNK-720812&utm_medium=DNK-720812&utm_content=DNK-720812&utm_campaign=DNK-720812",
-          "publishedOn": "2025-05-27T10:26:33.263Z",
+          "publishedOn": "2025-05-27T10:27:28.871Z",
           "wordCount": 3982,
           "title": "Azure AI Foundry: What is it and Why Should You Care",
           "imageUrl": "https://www.mobilize.net/hubfs/image-3.png"
@@ -749,7 +749,7 @@
           "description": "Microsoft Visual Studio isn't just an IDE; it is the forge in which several generations of software-from shrink‑wrapped Windows utilities to",
           "link": "https://dotnetkicks.com/r/720896?url=https://build5nines.com/software-innovation-the-epic-journey-of-microsoft-visual-studio-code-craft-and-continuity/",
           "publishedOn": "2025-05-22T11:43:00.000Z",
-          "wordCount": 7313,
+          "wordCount": 7338,
           "title": "Software Innovation: The Epic Journey Of Microsoft Visual Studio - Code, Craft, And Continuity | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/04/software-innovation-microsoft-visual-studio-epic-journey-code-craft-continuity-Featured_Image.jpg"
         },
@@ -789,7 +789,7 @@
           "description": "We're excited to share the latest preview release of AI Shell that includes new features and improvements based on your feedback.",
           "link": "https://dotnetkicks.com/r/720721?url=https://devblogs.microsoft.com/powershell/preview-4-ai-shell/",
           "publishedOn": "2025-05-21T15:16:13.000Z",
-          "wordCount": 7198,
+          "wordCount": 6907,
           "title": "AI Shell Preview 4 Release! - PowerShell Team",
           "imageUrl": "https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2024/11/AIShellIconPNG.png"
         },
@@ -809,7 +809,7 @@
           "description": "NET Aspire 9.3 is the biggest release of .NET Aspire yet, with the introduction of GitHub Copilot directly into the .NET Aspire Dashboard, updates for integrations, app model enhancements, and more.",
           "link": "https://dotnetkicks.com/r/720470?url=https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/",
           "publishedOn": "2025-05-19T17:33:50.000Z",
-          "wordCount": 7517,
+          "wordCount": 7226,
           "title": ".NET Aspire 9.3 is here and enhanced with GitHub Copilot! - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/05/introducing-dotnet-aspire-93.jpg"
         },
@@ -819,7 +819,7 @@
           "description": "Upgrade your .NET apps with confidence! Introducing our newest AI-powered upgrade experience, GitHub Copilot app modernization - Upgrade for .NET.",
           "link": "https://dotnetkicks.com/r/720428?url=https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet/",
           "publishedOn": "2025-05-19T17:05:00.000Z",
-          "wordCount": 7964,
+          "wordCount": 7673,
           "title": "Accelerate Your .NET Upgrades with GitHub Copilot - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/05/moderinization-thumbnail.jpg"
         },
@@ -839,7 +839,7 @@
           "description": "In recent years, GitHub has emerged from its developer-centric roots to become a serious contender for managing the full Software Development Lifecycle (SDL)",
           "link": "https://dotnetkicks.com/r/720381?url=https://build5nines.com/github-vs-azure-devops-is-github-ready-for-enterprise-grade-software-development-lifecycle-sdl-management/",
           "publishedOn": "2025-05-19T11:45:00.000Z",
-          "wordCount": 7718,
+          "wordCount": 7514,
           "title": "GitHub Vs Azure DevOps: Is GitHub Ready For Enterprise-Grade Software Development Lifecycle (SDL) Management? | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/05/github-vs-azure-devops-enterprise-ready-software-development-lifecycle-sdl-Featured_Image.jpg"
         },
@@ -849,7 +849,7 @@
           "description": "This blog post shows how an ASP.NET Core Identity application can integrate and implement multiple external identity providers. An OIDC client UI uses the solution and is implemented using Duende IdentityServer. The same scheme is used for all the external providers and mapped to the identity for the client UI and the application.",
           "link": "https://dotnetkicks.com/r/720373?url=https://damienbod.com/2025/05/19/using-multiple-external-identity-providers-from-asp-net-core-identity-and-duende-identityserver/",
           "publishedOn": "2025-05-19T06:25:00.000Z",
-          "wordCount": 5127,
+          "wordCount": 5130,
           "title": "Using multiple external identity providers from ASP.NET Core Identity and Duende IdentityServer",
           "imageUrl": "https://damienbod.com/wp-content/uploads/2025/05/overview.drawio.png"
         },
@@ -889,7 +889,7 @@
           "description": "James Gosling is a name that resonates through the halls of computer science, software engineering, and more recently, cloud computing. Best known as the",
           "link": "https://dotnetkicks.com/r/720174?url=https://build5nines.com/big-thinkers-james-gosling-creator-of-java/",
           "publishedOn": "2025-05-16T11:45:00.000Z",
-          "wordCount": 6588,
+          "wordCount": 6591,
           "title": "Big Thinkers: James Gosling - Creator Of Java | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/05/big-thinkers-james-gosling-creator-of-java-Featured_Image.jpg"
         },
@@ -899,7 +899,7 @@
           "description": "I think that even in a crowded field of existing \"mediator\" tools, ASP.Net Core endpoint frameworks, and asynchronous messaging frameworks in .NET that Wolverine has a great opportunity to grow its user base this year. There's a lot of value that Wolverine brings to the table that I don't believe other tools do, but it's...",
           "link": "https://dotnetkicks.com/r/720147?url=https://jeremydmiller.com/2025/05/15/wolverine-4-is-bringing-multi-tenancy-to-ef-core/",
           "publishedOn": "2025-05-16T00:26:02.000Z",
-          "wordCount": 5564,
+          "wordCount": 5822,
           "title": "Wolverine 4 is Bringing Multi-Tenancy to EF Core",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/05/image-3.png"
         },
@@ -909,7 +909,7 @@
           "description": "Announcing content safety evaluations and other imporvements in the Microsoft.Extensions.AI.Evaluation libraries.",
           "link": "https://dotnetkicks.com/r/720127?url=https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/",
           "publishedOn": "2025-05-15T17:05:00.000Z",
-          "wordCount": 7696,
+          "wordCount": 7405,
           "title": "Evaluating content safety in your .NET AI applications - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/05/evaluation-blog.jpg"
         },
@@ -919,7 +919,7 @@
           "description": "Announcing content safety evaluations and other imporvements in the Microsoft.Extensions.AI.Evaluation libraries.",
           "link": "https://dotnetkicks.com/r/720117?url=https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/",
           "publishedOn": "2025-05-15T17:05:00.000Z",
-          "wordCount": 7696,
+          "wordCount": 7405,
           "title": "Evaluating content safety in your .NET AI applications - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/05/evaluation-blog.jpg"
         },
@@ -929,7 +929,7 @@
           "description": "A 18‑year chronicle of Apple's mobile powerhouse-how it began, how it rewired the software economy, and why its next act is infused with on‑device intelligence.",
           "link": "https://dotnetkicks.com/r/720062?url=https://build5nines.com/ios-the-operating-system-that-put-the-future-in-your-pocket/",
           "publishedOn": "2025-05-15T11:28:00.000Z",
-          "wordCount": 6891,
+          "wordCount": 6879,
           "title": "Software Innovations: IOS - The Operating System That Put The Future In Your Pocket | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/04/software-innovation-apple-ios-operating-system-put-future-in-your-pocket-Featured_Image.jpg"
         },
@@ -939,7 +939,7 @@
           "description": "JasperFx Software is the company I founded a little over two years ago to create an Open Core business model around the \"Critter Stack\" suite of open source tools (primarily Marten and Wolverine, with some smaller supporting tools). So far, our main sources of revenue (right now it's myself with contributions from Babu Annamalai, but...",
           "link": "https://dotnetkicks.com/r/720047?url=https://jeremydmiller.com/2025/05/14/the-value-of-a-jasperfx-support-contract/",
           "publishedOn": "2025-05-15T01:28:06.000Z",
-          "wordCount": 4943,
+          "wordCount": 5196,
           "title": "The Value of a JasperFx Support Contract",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2023/07/cropped-cropped-jasperfx-logo-final-orange-bg.jpg"
         },
@@ -1009,7 +1009,7 @@
           "description": "There's a quiet rebellion happening in AI development. Developers are increasingly bypassing traditional planning and documentation processes in favor of a",
           "link": "https://dotnetkicks.com/r/719687?url=https://build5nines.com/hidden-security-risks-of-vibe-coding-for-enterprise-ai-projects/",
           "publishedOn": "2025-05-12T11:45:00.000Z",
-          "wordCount": 6806,
+          "wordCount": 6812,
           "title": "Hidden Security Risks Of \"Vibe Coding\" For Enterprise AI Projects | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/05/hidden-security-risks-vibe-coding-enterprise-ai-projects-Featured_Image.jpg"
         },
@@ -1019,7 +1019,7 @@
           "description": "This blog looks at implementing client assertions for the client credentials flow using OAuth 2.0 Demonstration of Proof-of-Possession (DPoP). The client credentials flow is an OAuth 2.0 authorization grant type used for machine-to-machine authentication. DPoP further strengthens the security by ensuring that the client possesses a specific key at the time of the request, forcing...",
           "link": "https://dotnetkicks.com/r/719755?url=https://damienbod.com/2025/05/12/implement-client-assertions-with-client-credentials-flow-using-oauth-dpop/",
           "publishedOn": "2025-05-12T05:42:50.000Z",
-          "wordCount": 5066,
+          "wordCount": 5069,
           "title": "Implement client assertions with client credentials flow using OAuth DPoP",
           "imageUrl": "https://damienbod.com/wp-content/uploads/2025/03/oauthccsignedjwtassertion-dpop.png"
         },
@@ -1029,7 +1029,7 @@
           "description": "If you'd prefer to start with more context, skip to the section named \"Why is this important?\". To set up the problem I'm hoping to address in this post, there are several settings across both Marten and Wolverine that need to be configured for the most optimal possible functioning between development, testing, and deployment time...",
           "link": "https://dotnetkicks.com/r/719641?url=https://jeremydmiller.com/2025/05/11/managing-auto-creation-of-database-or-message-broker-resources-in-the-critter-stack-vnext/",
           "publishedOn": "2025-05-11T21:31:12.000Z",
-          "wordCount": 6242,
+          "wordCount": 5984,
           "title": "Managing Auto Creation of Database or Message Broker Resources in the Critter Stack vNext",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2024/06/image-1.png"
         },
@@ -1059,7 +1059,7 @@
           "description": "Brendan Eich may be best known as the creator of JavaScript, but his influence extends well beyond programming languages into the very core of internet",
           "link": "https://dotnetkicks.com/r/719557?url=https://build5nines.com/big-thinkers-from-javascript-to-cloud-privacy-pioneer/",
           "publishedOn": "2025-05-09T11:45:00.000Z",
-          "wordCount": 3475,
+          "wordCount": 6567,
           "title": "Big Thinkers: From JavaScript To Cloud Privacy Pioneer | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/05/big-thinkers-brendan-eich-javascript-to-cloud-privacy-pioneer-Featured_Image.jpg"
         },
@@ -1089,7 +1089,7 @@
           "description": "Between the constant chatter about \"containers,\" \"microservices,\" and \"cloud-native,\" Docker stands as a major player in the lexicon of contemporary software",
           "link": "https://dotnetkicks.com/r/719428?url=https://build5nines.com/software-innovation-docker-container-revolution-that-changed-software-development/",
           "publishedOn": "2025-05-08T11:24:00.000Z",
-          "wordCount": 7900,
+          "wordCount": 7888,
           "title": "Software Innovation: Docker - Container Revolution That Changed Software Development | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/04/software-innovation-docker-container-revolution-changes-software-development-Featured_Image.jpg"
         },
@@ -1149,7 +1149,7 @@
           "description": "Wolverine 3.13 added a new message transport for Amazon SNS with a big pull request from Luis Villalaz. To get started, add this Nuget to your system: dotnet add package WolverineFx.AmazonSns Assuming that you have set up a shared AWS configuration or credential files, you can connect to SNS from Wolverine with this: var host...",
           "link": "https://dotnetkicks.com/r/718970?url=https://jeremydmiller.com/2025/05/05/wolverine-meets-aws-sns/",
           "publishedOn": "2025-05-05T13:58:28.000Z",
-          "wordCount": 4745,
+          "wordCount": 4750,
           "title": "Wolverine Meets AWS SNS",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/05/image-1.png?w=275"
         },
@@ -1159,7 +1159,7 @@
           "description": "Modern cloud architectures demand flexible, resilient, and scalable traffic distribution strategies. As workloads increasingly span multiple regions and",
           "link": "https://dotnetkicks.com/r/718952?url=https://build5nines.com/comparing-azure-front-door-traffic-manager-and-load-balancer-choosing-the-right-tool-for-global-application-delivery/",
           "publishedOn": "2025-05-05T12:12:00.000Z",
-          "wordCount": 4985,
+          "wordCount": 8090,
           "title": "Comparing Azure Front Door, Traffic Manager, And Load Balancer: Choosing The Right Tool For Global Application Delivery | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/04/azure-architect-compare-front-door-traffic-manager-load-balancer-Featured_Image.jpg"
         },
@@ -1179,7 +1179,7 @@
           "description": "The journey from junior engineer to senior Cloud, DevOps or even AI professional can feel like climbing an ever-growing mountain. New tools. Shifting best",
           "link": "https://dotnetkicks.com/r/718845?url=https://build5nines.com/from-stuck-to-senior-how-mentorship-accelerates-your-cloud-devops-ai-career/",
           "publishedOn": "2025-05-02T15:57:50.000Z",
-          "wordCount": 6460,
+          "wordCount": 3375,
           "title": "From Stuck To Senior: How Mentorship Accelerates Your Cloud, DevOps & AI Career | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/02/Build5Nines-Membership-Featured-Image-20250215.jpg"
         },
@@ -1189,7 +1189,7 @@
           "description": "Tim Berners-Lee, a name etched into the bedrock of computing history, stands among the most influential figures to ever touch the digital sphere. Credited",
           "link": "https://dotnetkicks.com/r/718796?url=https://build5nines.com/big-thinkers-tim-berners-lee-inventor-of-the-world-wide-web/",
           "publishedOn": "2025-05-02T11:45:00.000Z",
-          "wordCount": 6737,
+          "wordCount": 3662,
           "title": "Big Thinkers: Tim Berners-Lee - Inventor Of The World Wide Web | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/04/big-thinkers-tim-berners-lee-inventor-of-world-wide-web-www-Featured_Image.jpg"
         },
@@ -1219,7 +1219,7 @@
           "description": "\"Write less, do more.\" That motto wasn't just a clever tagline-it was a revolution. Before modern JavaScript frameworks became the norm, jQuery quietly",
           "link": "https://dotnetkicks.com/r/718672?url=https://build5nines.com/software-innovation-jquery-the-tiny-library-that-transformed-the-web/",
           "publishedOn": "2025-05-01T11:39:00.000Z",
-          "wordCount": 6761,
+          "wordCount": 3671,
           "title": "Software Innovation: JQuery - The Tiny Library That Transformed The Web | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/04/software-innovation-jquery-tinyframework-transformed-the-web-Featured_Image.jpg"
         },
@@ -1239,7 +1239,7 @@
           "description": "In this post, learn how to setup a DevOps pipeline to build and publish a .NET MAUI library with GitHub Actions.",
           "link": "https://dotnetkicks.com/r/718622?url=https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions/",
           "publishedOn": "2025-04-30T17:05:00.000Z",
-          "wordCount": 7771,
+          "wordCount": 7480,
           "title": "Packaging and Publishing a .NET MAUI Library with GitHub Actions - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/04/maui-lib-featured.png"
         },
@@ -1249,7 +1249,7 @@
           "description": "In this post, learn how to setup a DevOps pipeline to build and publish a .NET MAUI library with GitHub Actions.",
           "link": "https://dotnetkicks.com/r/718617?url=https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions/",
           "publishedOn": "2025-04-30T17:05:00.000Z",
-          "wordCount": 7771,
+          "wordCount": 7480,
           "title": "Packaging and Publishing a .NET MAUI Library with GitHub Actions - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/04/maui-lib-featured.png"
         },
@@ -1279,7 +1279,7 @@
           "description": "When working with Large Language Models (LLMs), generating structured outputs like CSV (Comma-Separated Values) is invaluable for tasks such as data analysis,",
           "link": "https://dotnetkicks.com/r/718300?url=https://build5nines.com/how-to-write-ai-prompts-that-output-valid-csv-data/",
           "publishedOn": "2025-04-28T10:30:00.000Z",
-          "wordCount": 6667,
+          "wordCount": 3560,
           "title": "How To Write AI Prompts That Output Valid CSV Data | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/04/prompt-engineering-write-ai-prompt-output-valid-csv-data-Featured_Image.jpg"
         }
@@ -1306,9 +1306,9 @@
           "description": "When using both Visual Studio and Visual Studio Preview, the dotnet CLI may unintentionally select the latest SDK, causing build failures. This article will show you how to fix this issue.",
           "link": "https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/",
           "publishedOn": "2025-05-23T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4554,
           "title": "Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/05/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=14601",
@@ -1316,9 +1316,9 @@
           "description": "TypeHelper, part of the DotNetTips.Spargine.Core assembly, offers essential methods for type management in .NET, enhancing developer productivity. Its features include loading derived types, instance creation, JSON serialization, and type information retrieval. Methods are optimized for performance, aiding tasks like type discovery and formatting customization.",
           "link": "https://dotnettips.wordpress.com/2025/05/21/boost-your-net-projects-master-type-management-with-typehelper-in-spargine/",
           "publishedOn": "2025-05-21T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5765,
           "title": "Boost Your .NET Projects: Master Type Management with TypeHelper in Spargine",
-          "imageUrl": null
+          "imageUrl": "https://dotnettips.wordpress.com/wp-content/uploads/2025/02/spargine-banner-100400.5x-1.png"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=14595",
@@ -1326,9 +1326,9 @@
           "description": "The FastLoggerExtensions class in the DotNetTips.Spargine.8.Core project optimizes logging within .NET, achieving up to 10x performance improvement over traditional methods. It offers various structured logging methods, aiding effective debugging and enhancing traceability. Community contributions are encouraged to further improve this open-source tool. Contact details for contributions are provided.",
           "link": "https://dotnettips.wordpress.com/2025/05/18/boost-your-net-projects-maximize-your-net-performance-with-spargine-fastloggerextensions/",
           "publishedOn": "2025-05-18T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5803,
           "title": "Boost Your .NET Projects: Maximize Your .NET Performance with Spargine FastLoggerExtensions",
-          "imageUrl": null
+          "imageUrl": "https://dotnettips.wordpress.com/wp-content/uploads/2025/02/spargine-banner-200400.5x.png"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=14572",
@@ -1336,9 +1336,9 @@
           "description": "Spargine is a collection of open-source assemblies and NuGet packages for .NET 8 and 9, aimed at optimizing performance. The FastStringBuilder enhances string manipulation by minimizing memory allocations and boosting speed, featuring methods like Combine and ToDelimitedString. Benchmarks indicate significant improvements over traditional approaches in both speed and memory efficiency.",
           "link": "https://dotnettips.wordpress.com/2025/05/14/boost-your-net-projects-supercharge-your-code-with-faststringbuilder-in-spargine/",
           "publishedOn": "2025-05-14T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6158,
           "title": "Boost Your .NET Projects: Supercharge Your Code with FastStringBuilder in Spargine",
-          "imageUrl": null
+          "imageUrl": "https://dotnettips.wordpress.com/wp-content/uploads/2025/02/spargine-banner-100400.5x-1.png"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15018",
@@ -1346,9 +1346,9 @@
           "description": "Network calls create significant performance bottlenecks in modern applications due to latency and unpredictability. Developers should prioritize chunky communication and batch requests to improve efficiency, as demonstrated through API development experiences. Monitoring usage and enforcing standards can enhance performance, emphasizing that optimal design must consider the entire stack, including network performance.",
           "link": "https://dotnettips.wordpress.com/2025/05/12/dotnetdave-says-avoid-going-across-the-wire-until-necessary/",
           "publishedOn": "2025-05-12T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5838,
           "title": "dotNetDave Says… Avoid Going Across the Wire Until Necessary!",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/05/20250507_1123_optimizing-network-usage-meme_remix_01jtnrss5kfdrafkdd6cs3rznr.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=14523",
@@ -1356,9 +1356,9 @@
           "description": "Spargine is a set of open-source .NET assemblies that includes the PerformanceStopwatch, designed to enhance performance measurement. This tool offers features like lap tracking, alert thresholds, and telemetry integration for real-time diagnostics. It's a valuable resource for developers aiming to optimize and debug .NET applications efficiently.",
           "link": "https://dotnettips.wordpress.com/2025/05/11/boost-your-net-projects-supercharge-your-performance-tracking-with-performancestopwatch/",
           "publishedOn": "2025-05-11T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6432,
           "title": "Boost Your .NET Projects: Supercharge Your Performance Tracking with PerformanceStopwatch in Spargine",
-          "imageUrl": null
+          "imageUrl": "https://dotnettips.wordpress.com/wp-content/uploads/2025/02/spargine-banner-200400.5x.png"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=14515",
@@ -1366,9 +1366,9 @@
           "description": "Enhance your .NET logging with LoggingHelper from Spargine! This powerful utility streamlines application and system logging while capturing and handling exceptions across assemblies, including domain-level errors. Check out the latest features and contribute to Spargine on GitHub or NuGet—your feedback helps shape its future!",
           "link": "https://dotnettips.wordpress.com/2025/05/07/boost-your-net-projects-enhancing-net-logging-with-logginghelper-in-spargine/",
           "publishedOn": "2025-05-07T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6296,
           "title": "Boost Your .NET Projects: Enhancing .NET Logging with LoggingHelper in Spargine",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/05/spargine-meme-200.png?fit=1200%2C675&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=14512",
@@ -1376,9 +1376,9 @@
           "description": "Introducing AutoDefaultDictionary The AutoDefaultDictionary<TKey, TValue> class simplifies handling missing keys in dictionaries by automatically returning a default value or using a custom function to generate values dynamically. This feature is particularly useful in applications where missing data should be handled gracefully instead of throwing exceptions. This type was inspired by an insightful article by Simon … Continue reading Boost Your .NET Projects: Simplify Dictionary Handling with AutoDefaultDictionary in Spargine →",
           "link": "https://dotnettips.wordpress.com/2025/05/04/boost-your-net-projects-simplify-dictionary-handling-with-autodefaultdictionary-in-spargine/",
           "publishedOn": "2025-05-04T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5444,
           "title": "Boost Your .NET Projects: Simplify Dictionary Handling with AutoDefaultDictionary in Spargine",
-          "imageUrl": null
+          "imageUrl": "https://dotnettips.wordpress.com/wp-content/uploads/2022/06/spargine-logo-sparks400.5x.png"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=14925",
@@ -1386,9 +1386,9 @@
           "description": "Spargine 8 (v2025.8.5.1) has been released on May 1, 2025, enhancing .NET 8 & 9 support with new classes, methods, and significant performance improvements. This final major update focuses on performance, usability, and reliability, encouraging community involvement for future enhancements and contributions as the project transitions to .NET 10.",
           "link": "https://dotnettips.wordpress.com/2025/05/01/coding-faster-with-dotnettips-com-spargine-8-may-2025-release/",
           "publishedOn": "2025-05-01T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6989,
           "title": "Coding Faster with dotNetTips.com Spargine 8: May 2025 Release",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/05/20250429_1741_spargine-launch-celebration_simple_compose_01jt1vb908eq7bzxz35hm21prg.png?fit=1200%2C800&ssl=1"
         }
       ]
     },
@@ -1825,9 +1825,9 @@
           "description": "WITH (NOLOCK) is often seen as a quick fix to avoid locking and boost performance in SQL Server. But behind its seemingly magical speed lies a world of risk: dirty reads, missing data, and logic errors that are nearly impossible to trace.",
           "link": "https://dotnetstories.wordpress.com/2025/05/25/the-hidden-dangers-of-with-nolock-in-sql-server/",
           "publishedOn": "2025-05-25T19:53:06.000Z",
-          "wordCount": 4920,
+          "wordCount": 4925,
           "title": "The Hidden Dangers of WITH (NOLOCK) in SQL Server",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1748341574"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1748341622"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3042",
@@ -1835,9 +1835,9 @@
           "description": "Myth:If I switch to the BULK_LOGGED recovery model, my log backups will be much smaller.",
           "link": "https://dotnetstories.wordpress.com/2025/05/25/understanding-bulk_logged-why-your-log-backups-might-get-bigger-not-smaller/",
           "publishedOn": "2025-05-25T13:22:56.000Z",
-          "wordCount": 5205,
+          "wordCount": 5200,
           "title": "Understanding BULK_LOGGED: Why your Log Backups might get bigger, not smaller",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1748341574"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1748341622"
         }
       ]
     },
