@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-05-31T01:59:36.384Z</updated>
+    <updated>2025-06-01T02:27:24.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
@@ -10,17 +10,7 @@
         <title type="html"><![CDATA[Private post | Jesse Liberty]]></title>
         <id>stories/717649</id>
         <link href="https://dotnetkicks.com/r/717649?url=https://jesseliberty.com/2025/04/20/private-post/"/>
-        <updated>2025-05-31T01:59:34.459Z</updated>
-        <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET will be released early in 2025.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mike Kistler (Microsoft) on OpenAPI]]></title>
-        <id>stories/719980</id>
-        <link href="https://dotnetkicks.com/r/719980?url=https://jesseliberty.com/2025/05/14/mike-kistler-microsoft-on-openapi/"/>
-        <updated>2025-05-31T01:59:34.287Z</updated>
+        <updated>2025-06-01T02:27:15.722Z</updated>
         <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET will be released early in 2025.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
@@ -30,8 +20,18 @@
         <title type="html"><![CDATA[Claude]]></title>
         <id>stories/717561</id>
         <link href="https://dotnetkicks.com/r/717561?url=https://jesseliberty.com/2025/04/18/claude/"/>
-        <updated>2025-05-31T01:59:33.927Z</updated>
+        <updated>2025-06-01T02:27:15.175Z</updated>
         <summary type="html"><![CDATA[There's a new AI kid on the block ( https://claude.ai) and he is very powerful for programming and many other things. At the risk of being obnoxious, here is what he said about me: Jesse Liberty is a well-known software developer, author, and educator in the computer programming and software development world.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mike Kistler (Microsoft) on OpenAPI]]></title>
+        <id>stories/719980</id>
+        <link href="https://dotnetkicks.com/r/719980?url=https://jesseliberty.com/2025/05/14/mike-kistler-microsoft-on-openapi/"/>
+        <updated>2025-06-01T02:27:14.896Z</updated>
+        <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET will be released early in 2025.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -40,7 +40,7 @@
         <title type="html"><![CDATA[Announcing Public Preview of DiskANN in SQL Server 2025 | Microsoft Community Hub]]></title>
         <id>stories/720709</id>
         <link href="https://dotnetkicks.com/r/720709?url=https://techcommunity.microsoft.com/blog/sqlserver/announcing-public-preview-of-diskann-in-sql-server-2025/4414683"/>
-        <updated>2025-05-31T01:59:33.607Z</updated>
+        <updated>2025-06-01T02:27:14.389Z</updated>
         <summary type="html"><![CDATA[We are excited to announce the public preview of DiskANN in SQL Server 2025, a significant advancement in our AI capabilities. This release comes with full...]]></summary>
         <author>
             <name>dotnetkicks.com</name>
@@ -50,10 +50,32 @@
         <title type="html"><![CDATA[Azure AI Foundry: What is it and Why Should You Care]]></title>
         <id>stories/720812</id>
         <link href="https://dotnetkicks.com/r/720812?url=https://www.mobilize.net/blog/azure-ai-foundry-what-is-it-and-why-should-you-care?utm_source=DNK-720812&amp;utm_medium=DNK-720812&amp;utm_content=DNK-720812&amp;utm_campaign=DNK-720812"/>
-        <updated>2025-05-31T01:59:30.219Z</updated>
+        <updated>2025-06-01T02:27:12.908Z</updated>
         <summary type="html"><![CDATA[Microsoft's Azure AI Foundry was all the talk at Microsoft Build. Read this blog to find out what it is and why you should care. TL;DR You can build, customize, and manage AI agents & apps at scale with unified tools.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring Microsoft.AI.Extensions with multiple providers]]></title>
+        <id>4880955_202505310856</id>
+        <link href="https://weblog.west-wind.com/posts/2025/May/30/Configuring-MicrosoftAIExtension-with-multiple-providers"/>
+        <updated>2025-05-31T08:56:33.000Z</updated>
+        <summary type="html"><![CDATA[I just went through a bit of a struggle to find the right ways to instantiate different AI providers for a streaming completions project that I'm working on, and so I thought I'd write a short post to show the required invocations to get various providers loaded.
+Why now? Up until now I've been using my own home brew Http based OpenAI interface for making OpenAI calls. It's lightweight, has no heavy dependencies and it's allowed me to keep a simple API interface that has skirted nearly two years of API churn that the Microsoft interfaces have suffered. But the interface is very simple and it only works with transactional chat/completions and Dall-E image generation. The Microsoft APIs handle a lot more than that, and I knew at some point - once the API churn calms down a bit - I would even…]]></summary>
+        <author>
+            <name>Rick Strahl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring Microsoft.AI.Extensions with multiple providers]]></title>
+        <id>4880955_202505310856</id>
+        <link href="https://weblog.west-wind.com/posts/2025/May/30/Configuring-MicrosoftAIExtension-with-multiple-providers"/>
+        <updated>2025-05-31T08:56:33.000Z</updated>
+        <summary type="html"><![CDATA[I just went through a bit of a struggle to find the right ways to instantiate different AI providers for a streaming completions project that I'm working on, and so I thought I'd write a short post to show the required invocations to get various providers loaded.
+Why now? Up until now I've been using my own home brew Http based OpenAI interface for making OpenAI calls. It's lightweight, has no heavy dependencies and it's allowed me to keep a simple API interface that has skirted nearly two years of API churn that the Microsoft interfaces have suffered. But the interface is very simple and it only works with transactional chat/completions and Dall-E image generation. The Microsoft APIs handle a lot more than that, and I knew at some point - once the API churn calms down a bit - I would even…]]></summary>
+        <author>
+            <name>Rick Strahl</name>
         </author>
     </entry>
     <entry>
@@ -1715,46 +1737,6 @@ CSS shape() Commands originally published on CSS-Tricks, which is part of the Di
         <link href="https://dotnetkicks.com/r/718714?url=https://codeopinion.com/dtos-mapping-the-good-the-bad-and-the-excessive/"/>
         <updated>2025-05-01T14:43:02.000Z</updated>
         <summary type="html"><![CDATA[Something that's often overused, misunderstood, or just incorrectly applied in software development: Data Transfer Objects (DTOs)]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Innovation: JQuery - The Tiny Library That Transformed The Web | Build5Nines]]></title>
-        <id>stories/718672</id>
-        <link href="https://dotnetkicks.com/r/718672?url=https://build5nines.com/software-innovation-jquery-the-tiny-library-that-transformed-the-web/"/>
-        <updated>2025-05-01T11:39:00.000Z</updated>
-        <summary type="html"><![CDATA["Write less, do more." That motto wasn't just a clever tagline-it was a revolution. Before modern JavaScript frameworks became the norm, jQuery quietly]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huge Wolverine 3.13 Release]]></title>
-        <id>stories/718630</id>
-        <link href="https://dotnetkicks.com/r/718630?url=https://jeremydmiller.com/2025/04/30/huge-wolverine-3-13-release/"/>
-        <updated>2025-05-01T01:19:05.000Z</updated>
-        <summary type="html"><![CDATA[Wolverine is part of the larger "Critter Stack" suite that provides a robust and productive approach to Event Driven Architecture approaches in the .NET ecosystem. Through its various elements provides an asynchronous messaging framework, an alternative HTTP endpoint framework, and yes, it can be used as just a "mediator" tool (but I'd recommend using Wolverine's...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Packaging and Publishing a .NET MAUI Library with GitHub Actions - .NET Blog]]></title>
-        <id>stories/718622</id>
-        <link href="https://dotnetkicks.com/r/718622?url=https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions/"/>
-        <updated>2025-04-30T17:05:00.000Z</updated>
-        <summary type="html"><![CDATA[In this post, learn how to setup a DevOps pipeline to build and publish a .NET MAUI library with GitHub Actions.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Packaging and Publishing a .NET MAUI Library with GitHub Actions - .NET Blog]]></title>
-        <id>stories/718617</id>
-        <link href="https://dotnetkicks.com/r/718617?url=https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions/"/>
-        <updated>2025-04-30T17:05:00.000Z</updated>
-        <summary type="html"><![CDATA[In this post, learn how to setup a DevOps pipeline to build and publish a .NET MAUI library with GitHub Actions.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
