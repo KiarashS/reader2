@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387613",
+          "author": "Temani Afif",
+          "description": "The shape() function's close and move commands may not be ones you reach for often, but are incredibly useful for certain shapes.\nBetter CSS Shapes Using shape() — Part 4: Close and Move originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-4-close-and-move/",
+          "publishedOn": "2025-07-07T12:48:29.000Z",
+          "wordCount": 3709,
+          "title": "Better CSS Shapes Using shape() — Part 4: Close and Move",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/css-shapes-function-csstricks-logo.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=387471",
           "author": "Patrick Brosset",
           "description": "Styling the space between layout items — the gap — has typically required some clever workarounds. But a new CSS feature changes all that with just a few simple CSS properties that make it easy, yet also flexible, to display styled separators between your layout items.\nThe Gap Strikes Back: Now Stylable originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -149,12 +159,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "As always in design, timing matters, and so do timely notifications. Let’s explore how we might improve the notifications UX. More design patterns in our Smart Interface Design Patterns, a friendly video course on UX and design patterns by Vitaly — from complex data tables and nested filters to FAQs and error messages.",
+          "link": "https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/",
+          "publishedOn": "2025-07-07T13:00:00.000Z",
+          "wordCount": 4300,
+          "title": "Design Guidelines For Better Notifications UX",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/design-guidelines-better-notifications-ux/design-guidelines-better-notifications-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/design-guidelines-better-notifications-ux/design-guidelines-better-notifications-ux.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
           "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
           "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.",
           "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
           "publishedOn": "2025-07-02T13:00:00.000Z",
-          "wordCount": 5888,
+          "wordCount": 5887,
           "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg",
@@ -184,7 +209,7 @@
           "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
           "link": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
           "publishedOn": "2025-06-30T12:00:00.000Z",
-          "wordCount": 4867,
+          "wordCount": 4858,
           "title": "Never Stop Exploring (July 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png",
@@ -199,7 +224,7 @@
           "description": "As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.",
           "link": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
           "publishedOn": "2025-06-25T12:00:00.000Z",
-          "wordCount": 4788,
+          "wordCount": 4793,
           "title": "Can Good UX Protect Older Users From Digital Scams?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg",
@@ -214,7 +239,7 @@
           "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
           "publishedOn": "2025-06-23T10:00:00.000Z",
-          "wordCount": 5337,
+          "wordCount": 5335,
           "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
           "enclosure": {
             "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
@@ -244,7 +269,7 @@
           "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
           "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
           "publishedOn": "2025-06-19T15:00:00.000Z",
-          "wordCount": 5113,
+          "wordCount": 5122,
           "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
@@ -259,7 +284,7 @@
           "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
           "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "publishedOn": "2025-06-16T13:00:00.000Z",
-          "wordCount": 9486,
+          "wordCount": 9494,
           "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
@@ -274,7 +299,7 @@
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4297,
+          "wordCount": 4290,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -306,6 +331,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "686bd09bed71f7a85eba0f6f",
+          "author": "Oluwadamisi Samuel",
+          "description": "If you’ve ever built a form in React and felt like the input fields had a mind of their own, you’re not alone. One minute your form is working fine, the next you’re staring at a blank input that won’t update. Or React throws a warning like “A compone...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-react-forms/",
+          "publishedOn": "2025-07-07T13:50:19.000Z",
+          "wordCount": 2004,
+          "title": "How to Work with React Forms So They Don't Break Your Brain",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751502730489/90e30388-3517-457a-8ca0-630f589da914.png"
+        },
+        {
+          "id": "686bd0446349e98b57ebc099",
+          "author": "Mohit Menghnani",
+          "description": "As developers, we’re always looking for more efficient tools. The MERN stack (MongoDB, Express.js, React, and Node.js) stands out for its JavaScript-centric nature, offering a unified language across the entire application. In this guide, you'll buil...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-production-ready-full-stack-apps-with-the-mern-stack/",
+          "publishedOn": "2025-07-07T13:48:52.000Z",
+          "wordCount": 6267,
+          "title": "How to Build Production-Ready Full Stack Apps with the MERN Stack",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751502709499/b43b3607-f01b-45c0-9797-75eef92497c6.png"
+        },
+        {
           "id": "6867d0848831c0a4c0b21704",
           "author": "Beau Carnes",
           "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Joe Hill. He's a software engineer who works on a data platform for NASA.   Joe taught himself programming for 4 years while working as a janitor. As the single fath...",
@@ -328,7 +373,7 @@
         {
           "id": "6865cf231aa55afae259e821",
           "author": "Manish Shivanandhan",
-          "description": "If your app runs in production, you’ll need to know when it breaks. Preferably before your users tell you.  That’s where application monitoring tools (APM) come in. They show you what’s working, what’s slow, and what’s failing, all in one place. Here...",
+          "description": "If your app runs in production, you’ll need to know when it breaks. Preferably before your users tell you. That’s where application monitoring tools (APM) come in. They show you what’s working, what’s slow, and what’s failing, all in one place. Here ...",
           "link": "https://www.freecodecamp.org/news/top-application-monitoring-tools-for-developers/",
           "publishedOn": "2025-07-03T00:30:27.000Z",
           "wordCount": 1896,
@@ -384,26 +429,6 @@
           "wordCount": 1377,
           "title": "Beginner’s Guide to Cloud Cybersecurity",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750284815294/c2ba70be-5147-4b56-b377-4ac40f53532e.png"
-        },
-        {
-          "id": "686316a6a2a907c72bebdef0",
-          "author": "Manish Shivanandhan",
-          "description": "Getting into game development with JavaScript can be a blast. JS is fast, flexible, and works right in the browser.  Whether you’re making a small puzzle game or a full 3D experience, JavaScript has the tools to help you bring your ideas to life.  Bu...",
-          "link": "https://www.freecodecamp.org/news/javascript-frameworks-for-game-developers/",
-          "publishedOn": "2025-06-30T22:58:46.000Z",
-          "wordCount": 2055,
-          "title": "Powerful JavaScript Frameworks for Game Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751324311029/630e6ee2-5e00-4341-a0be-5bd426cf87a4.png"
-        },
-        {
-          "id": "6862d146cc277a35bb68ec20",
-          "author": "Ilknur Eren",
-          "description": "The Web Content Accessibility Guidelines (WCAG 2.1 Level AA) is an internationally recognized standard for digital accessibility. Meeting these guidelines helps you make sure that your website is usable by people with visual, motor, hearing, and cogn...",
-          "link": "https://www.freecodecamp.org/news/how-to-audit-android-accessibility-with-the-accessibility-scanner-app/",
-          "publishedOn": "2025-06-30T18:02:46.000Z",
-          "wordCount": 1879,
-          "title": "How to Audit Android Accessibility with the Accessibility Scanner App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751301060182/df4d483a-8dd6-45ce-a665-76cbf45ef945.png"
         }
       ]
     },
@@ -465,7 +490,7 @@
           "description": "Long file paths on Windows are a pain in the ass - we all know that. But today I ran into yet another issue with it that's worth mentioning: Namely that long file path syntax using the \\\\?\\ prefix, which allows even non-supporting applications to use long paths, does not work with the .NET ZipFiles class.\nSpecifically the following code does not work if you're unpacking a Zip file that creates files that exceed the 260 character MAX_PATH size limit:\n// THIS DOES NOT WORK\noutputFolder = @\"\\\\?\\\" + outputFolder;  \nZipFile.ExtractToDirectory(zipFile, outputFolder);\n\nThe function complains about an invalid file path passed in.\n\nWhat's even more disconcerting is that this fails with an exception after it's already unpacked a bunch of files. Oddly, it doesn't bomb right away when starting to unpa…",
           "link": "https://weblog.west-wind.com/posts/2025/Jun/22/Unpacking-Zip-Folders-into-Windows-Long-File-Paths",
           "publishedOn": "2025-06-22T11:00:48.000Z",
-          "wordCount": 2467,
+          "wordCount": 2463,
           "title": "Unpacking Zip Folders into Windows Long File Paths",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Unpacking-Zip-Folders-into-Windows-Long-File-Paths/ZipArchiveBanner.jpg"
         },
@@ -478,16 +503,6 @@
           "wordCount": 2869,
           "title": "Adding Runtime NuGet Package Loading to an Application",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Adding-Runtime-NuGet-Package-Loading-to-an-Application/PackageLoading.jpg"
-        },
-        {
-          "id": "4888546_202506062044",
-          "author": "Rick Strahl",
-          "description": "Ah renewing certificates - my favorite tasks as an 'amateur' sys admin, running my own servers.\nI run a private Filezilla server on a port blocked IP address, and more than once I've stumbled on trying to set up the self-signed Filezilla admin certificate. I look it up every time, and waste more than a few minutes in trying to pin down the problem. So I'm writing it down!\nIssue is this:\nTrying to renew my Administration Server Certificate\nIt's a self-signed certificate\nPrompts for Hostname (auto-fills)\nPrompts for Distinguished Name\nFor the Distinguished name which is typically provided as a hostname, any reasonable person would put in the... well, the hostname:\n\nbut unfortunately this is what you get in response:\n\nYeah, not really helpful, that! 💩\n\n\n\nDistinguish This!\nThe problem is that Filezilla actually expects a full Common Name entry so what's required is something like this (at minimum):\n\nNow it works.\nUnintuitively, you have to provide a proper Common Name (CN) formatted string. It doesn't help that the dialog calls this the Distinguished Name, which is the domain part of the Common Name, which normally with other certificate requests refers to the DNS domain name.\nWith Filezilla you need a CN formatted string:\nMinimal (works)\nCN=ftp.example.com\n\nFull\nCN=ftp.example.com, O=Example Corp, C=US\n\n   -- O for organization, C for country.\nAnd that's all it takes. I didn't put those in here and it worked fine without - only the CN entry is required especially for the local admin certificate.\nSummary\nFilezilla isn't known for nice interfaces and the Admin interfaces are clearly very Unix focused and assume a lot of things. This is one of those cases. It's not the first time I've stumbled on this, which is why I'm here writing this trivial bit of information down in the hopes it will help burn it into my brain so I remember next time. 😁\n\n© Rick Strahl, West Wind Technologies, 2005-2025\nPosted in Windows  FTP",
-          "link": "https://weblog.west-wind.com/posts/2025/Jun/06/Distinguished-Name-on-FileZilla-Server-SelfGenerated-Certs",
-          "publishedOn": "2025-06-06T20:44:04.000Z",
-          "wordCount": 838,
-          "title": "Distinguished Name on FileZilla Server Self-Generated Certs",
-          "imageUrl": "https://weblog.west-wind.com/images/2025/FileZilla-Server-Self-Generated-Certs-and-Distinguished-Name-failures/FileZillaBanner.jpg"
         }
       ]
     },
@@ -512,19 +527,9 @@
           "description": "One of the tool applications I've built sometime ago and use a lot, is my LiveReloadWebServer local Web server. It's a local .NET based Web server that you can point at a folder to serve as a Web site. It supports static content with Live Reload, has support for loose Razor Pages (.cshtml) and built-in themed Markdown file rendering among other things. It's a useful tool to have in your quiver to quickly fire up a local client Html app, or to create static sites locally and work on them interactively. Since it has live reload you can quickly make changes and see them rendered in real-time.\n\nFigure 1 - Live Reload Server runs local Web sites with 'benefits'\nThere's also dynamic processing support via loose Razor Pages which allow you to have standalone pages that can contain Razor code. Thi…",
           "link": "https://weblog.west-wind.com/posts/2025/Jun/09/Adding-Runtime-NuGet-Package-Loading-to-an-Application",
           "publishedOn": "2025-06-10T04:40:37.000Z",
-          "wordCount": 2869,
+          "wordCount": 2865,
           "title": "Adding Runtime NuGet Package Loading to an Application",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Adding-Runtime-NuGet-Package-Loading-to-an-Application/PackageLoading.jpg"
-        },
-        {
-          "id": "4888546_202506062044",
-          "author": "Rick Strahl",
-          "description": "Ah renewing certificates - my favorite tasks as an 'amateur' sys admin, running my own servers.\nI run a private Filezilla server on a port blocked IP address, and more than once I've stumbled on trying to set up the self-signed Filezilla admin certificate. I look it up every time, and waste more than a few minutes in trying to pin down the problem. So I'm writing it down!\nIssue is this:\nTrying to renew my Administration Server Certificate\nIt's a self-signed certificate\nPrompts for Hostname (auto-fills)\nPrompts for Distinguished Name\nFor the Distinguished name which is typically provided as a hostname, any reasonable person would put in the... well, the hostname:\n\nbut unfortunately this is what you get in response:\n\nYeah, not really helpful, that! 💩\n\n\n\nDistinguish This!\nThe problem is that Filezilla actually expects a full Common Name entry so what's required is something like this (at minimum):\n\nNow it works.\nUnintuitively, you have to provide a proper Common Name (CN) formatted string. It doesn't help that the dialog calls this the Distinguished Name, which is the domain part of the Common Name, which normally with other certificate requests refers to the DNS domain name.\nWith Filezilla you need a CN formatted string:\nMinimal (works)\nCN=ftp.example.com\n\nFull\nCN=ftp.example.com, O=Example Corp, C=US\n\n   -- O for organization, C for country.\nAnd that's all it takes. I didn't put those in here and it worked fine without - only the CN entry is required especially for the local admin certificate.\nSummary\nFilezilla isn't known for nice interfaces and the Admin interfaces are clearly very Unix focused and assume a lot of things. This is one of those cases. It's not the first time I've stumbled on this, which is why I'm here writing this trivial bit of information down in the hopes it will help burn it into my brain so I remember next time. 😁\n\n© Rick Strahl, West Wind Technologies, 2005-2025\nPosted in Windows  FTP",
-          "link": "https://weblog.west-wind.com/posts/2025/Jun/06/Distinguished-Name-on-FileZilla-Server-SelfGenerated-Certs",
-          "publishedOn": "2025-06-06T20:44:04.000Z",
-          "wordCount": 834,
-          "title": "Distinguished Name on FileZilla Server Self-Generated Certs",
-          "imageUrl": "https://weblog.west-wind.com/images/2025/FileZilla-Server-Self-Generated-Certs-and-Distinguished-Name-failures/FileZillaBanner.jpg"
         }
       ]
     },
@@ -534,74 +539,74 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
-          "id": "stories/720812",
-          "author": null,
-          "description": "Microsoft's Azure AI Foundry was all the talk at Microsoft Build. Read this blog to find out what it is and why you should care. TL;DR You can build, customize, and manage AI agents & apps at scale with unified tools.",
-          "link": "https://dotnetkicks.com/r/720812?url=https://www.mobilize.net/blog/azure-ai-foundry-what-is-it-and-why-should-you-care?utm_source=DNK-720812&utm_medium=DNK-720812&utm_content=DNK-720812&utm_campaign=DNK-720812",
-          "publishedOn": "2025-07-07T02:11:59.445Z",
-          "wordCount": 3977,
-          "title": "Azure AI Foundry: What is it and Why Should You Care",
-          "imageUrl": "https://www.mobilize.net/hubfs/image-3.png"
-        },
-        {
-          "id": "stories/720709",
-          "author": null,
-          "description": "We are excited to announce the public preview of DiskANN in SQL Server 2025, a significant advancement in our AI capabilities. This release comes with full...",
-          "link": "https://dotnetkicks.com/r/720709?url=https://techcommunity.microsoft.com/blog/sqlserver/announcing-public-preview-of-diskann-in-sql-server-2025/4414683",
-          "publishedOn": "2025-07-07T02:11:57.661Z",
-          "wordCount": 7509,
-          "title": "Announcing Public Preview of DiskANN in SQL Server 2025 | Microsoft Community Hub",
-          "imageUrl": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NDE0NjgzLUg3WlpmZQ?revision=3"
-        },
-        {
           "id": "stories/722027",
           "author": null,
           "description": "Prepare to have your mind blown. Copilot Agents are powerful AI tools for Visual Studio Code and Visual Studio. Used to CoPilot? - you ain't seen nothing yet! James Montemagno and Burke Holland of Microsoft discuss how to get it, and how to use it. Links to come.",
           "link": "https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/",
-          "publishedOn": "2025-07-07T02:11:56.902Z",
+          "publishedOn": "2025-07-08T02:07:15.507Z",
           "wordCount": 3625,
           "title": "CoPilot Agents",
           "imageUrl": null
         },
         {
-          "id": "stories/722073",
+          "id": "stories/720812",
           "author": null,
-          "description": "Developers and teams can use investment-inspired thinking to manage the risks and rewards of GenAI and vibe coding tools.",
-          "link": "https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/",
-          "publishedOn": "2025-07-07T02:11:56.230Z",
-          "wordCount": 1409,
-          "title": "Managing GenAI Coding Risk Like an Investment",
-          "imageUrl": "https://ardalis.com/static/3e3edaac46e8a32f3b8ca0202c982b20/6050d/genai-coding-investment-risk-strategy.png"
-        },
-        {
-          "id": "stories/722479",
-          "author": null,
-          "description": "Editorial note: I originally published this over on Hit Subscribe's blog. I know, it's been a while. For anyone wondering if I'd given up the blogging habit, I haven't. I just forgot how to read for a bit. Luckily, however, I have a 4-year old that loves Dr Seuss, so that's gotten me back on [...]",
-          "link": "https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/",
-          "publishedOn": "2025-07-07T02:11:55.952Z",
-          "wordCount": 8630,
-          "title": "Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT",
-          "imageUrl": "https://daedtech.com/wp-content/uploads/2018/10/The-bobs-300x184.jpg"
-        },
-        {
-          "id": "stories/723418",
-          "author": null,
-          "description": "Legacy code survival guide: Learn the current status of Visual Basic and .NET technologies in 2025, and get tips on managing and upgrading your legacy applications.",
-          "link": "https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418",
-          "publishedOn": "2025-07-07T02:11:53.629Z",
-          "wordCount": 2010,
-          "title": "Legacy Code Survival Guide: Visual Basic and .NET in 2025",
-          "imageUrl": "https://www.mobilize.net/hubfs/VB%20%26%20.NET%20in%202025.png"
+          "description": "Microsoft's Azure AI Foundry was all the talk at Microsoft Build. Read this blog to find out what it is and why you should care. TL;DR You can build, customize, and manage AI agents & apps at scale with unified tools.",
+          "link": "https://dotnetkicks.com/r/720812?url=https://www.mobilize.net/blog/azure-ai-foundry-what-is-it-and-why-should-you-care?utm_source=DNK-720812&utm_medium=DNK-720812&utm_content=DNK-720812&utm_campaign=DNK-720812",
+          "publishedOn": "2025-07-08T02:07:13.053Z",
+          "wordCount": 3977,
+          "title": "Azure AI Foundry: What is it and Why Should You Care",
+          "imageUrl": "https://www.mobilize.net/hubfs/image-3.png"
         },
         {
           "id": "stories/723207",
           "author": null,
           "description": "Forage is an AI email assistant that sorts your mail into categories, provides a summary once or twice a day (your choice) and summarizes newsletters into bullet. points. I talk with Richie Bonilla (CEO and co-founder)* about his startup, what lead him to create Forage and how it works.",
           "link": "https://dotnetkicks.com/r/723207?url=https://jesseliberty.com/2025/06/19/richie-bonilla-and-forage-ai-email/",
-          "publishedOn": "2025-07-07T02:11:43.027Z",
-          "wordCount": 2737,
+          "publishedOn": "2025-07-08T02:07:12.623Z",
+          "wordCount": 2887,
           "title": "Richie Bonilla and Forage AI Email",
           "imageUrl": null
+        },
+        {
+          "id": "stories/722479",
+          "author": null,
+          "description": "Editorial note: I originally published this over on Hit Subscribe's blog. I know, it's been a while. For anyone wondering if I'd given up the blogging habit, I haven't. I just forgot how to read for a bit. Luckily, however, I have a 4-year old that loves Dr Seuss, so that's gotten me back on [...]",
+          "link": "https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/",
+          "publishedOn": "2025-07-08T02:07:10.586Z",
+          "wordCount": 8630,
+          "title": "Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT",
+          "imageUrl": "https://daedtech.com/wp-content/uploads/2018/10/The-bobs-300x184.jpg"
+        },
+        {
+          "id": "stories/722073",
+          "author": null,
+          "description": "Developers and teams can use investment-inspired thinking to manage the risks and rewards of GenAI and vibe coding tools.",
+          "link": "https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/",
+          "publishedOn": "2025-07-08T02:07:04.808Z",
+          "wordCount": 1409,
+          "title": "Managing GenAI Coding Risk Like an Investment",
+          "imageUrl": "https://ardalis.com/static/3e3edaac46e8a32f3b8ca0202c982b20/6050d/genai-coding-investment-risk-strategy.png"
+        },
+        {
+          "id": "stories/720709",
+          "author": null,
+          "description": "We are excited to announce the public preview of DiskANN in SQL Server 2025, a significant advancement in our AI capabilities. This release comes with full...",
+          "link": "https://dotnetkicks.com/r/720709?url=https://techcommunity.microsoft.com/blog/sqlserver/announcing-public-preview-of-diskann-in-sql-server-2025/4414683",
+          "publishedOn": "2025-07-08T02:07:01.370Z",
+          "wordCount": 7509,
+          "title": "Announcing Public Preview of DiskANN in SQL Server 2025 | Microsoft Community Hub",
+          "imageUrl": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NDE0NjgzLUg3WlpmZQ?revision=3"
+        },
+        {
+          "id": "stories/723418",
+          "author": null,
+          "description": "Legacy code survival guide: Learn the current status of Visual Basic and .NET technologies in 2025, and get tips on managing and upgrading your legacy applications.",
+          "link": "https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418",
+          "publishedOn": "2025-07-08T02:07:00.559Z",
+          "wordCount": 2010,
+          "title": "Legacy Code Survival Guide: Visual Basic and .NET in 2025",
+          "imageUrl": "https://www.mobilize.net/hubfs/VB%20%26%20.NET%20in%202025.png"
         },
         {
           "id": "stories/724267",
@@ -609,7 +614,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Release of slight breaking change in upcoming 1.X release · fsprojects/FSharpPlus · Discussion #642 · GitHub Local AI + .NET = AltText Magic in One C# Script - .NET Blog All the Azure news you don't want to miss from Microsoft...",
           "link": "https://dotnetkicks.com/r/724267?url=https://sergeytihon.com/2025/07/05/f-weekly-27-2025-breaking-changes-yay-or-nay/",
           "publishedOn": "2025-07-05T19:21:36.000Z",
-          "wordCount": 4429,
+          "wordCount": 4455,
           "title": "F# Weekly #27, 2025 - Breaking changes: Yay or Nay?",
           "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2025/07/xnapper-2025-07-05-21.17.42.png?fit=1200%2C715&ssl=1"
         },
@@ -619,7 +624,7 @@
           "description": "Learn how to generate image AltText using .NET 10 and local AI models - all in a single C# file with dotnet run app.cs. A fun and accessible example of what AI can do beyond chat.",
           "link": "https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/",
           "publishedOn": "2025-07-02T20:00:00.000Z",
-          "wordCount": 7227,
+          "wordCount": 7248,
           "title": "Local AI + .NET = AltText Magic in One C# Script - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/07/alttext-magic.jpg"
         },
@@ -689,7 +694,7 @@
           "description": "There's no denying the massive wave of excitement around Agentic AI, Multi-Agent Systems, Generative AI, and Large Language Models (LLMs). Whether it's people",
           "link": "https://dotnetkicks.com/r/723757?url=https://build5nines.com/its-still-about-the-data-practical-approach-to-building-with-agentic-ai-llms-and-generative-ai/",
           "publishedOn": "2025-06-26T21:00:00.000Z",
-          "wordCount": 3634,
+          "wordCount": 6731,
           "title": "It's Still About The Data: Practical Approach To Building With Agentic AI, LLMs And Generative AI | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-26-2025-10_36_41-AM.png"
         },
@@ -699,7 +704,7 @@
           "description": "Make your .NET MAUI XAML more consistent and easier to read with global and implicit XML namespaces.",
           "link": "https://dotnetkicks.com/r/723718?url=https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/",
           "publishedOn": "2025-06-26T19:15:00.000Z",
-          "wordCount": 8296,
+          "wordCount": 8297,
           "title": "Simpler XAML in .NET MAUI 10 - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/06/maui-xaml-simplification.jpg"
         },
@@ -709,7 +714,7 @@
           "description": "When your team loses control of its Terraform state file, it loses control of everything in the subscription. An unencrypted or publicly exposed .tfstate",
           "link": "https://dotnetkicks.com/r/723657?url=https://build5nines.com/securing-terraform-state-in-azure-blob-storage-using-best-practices/",
           "publishedOn": "2025-06-25T22:00:00.000Z",
-          "wordCount": 7426,
+          "wordCount": 7423,
           "title": "Securing Terraform State In Azure Blob Storage Using Best Practices | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-25-2025-05_58_29-PM.png"
         },
@@ -749,7 +754,7 @@
           "description": "I got to talk to David Giard on his podcast last week about some of the lessons I've learned the hard way across several large OSS projects. For a little background, I got to follow through on a 15 to 20 year dream of mine to found a company called JasperFx Software LLC to build...",
           "link": "https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/",
           "publishedOn": "2025-06-23T13:06:15.000Z",
-          "wordCount": 4270,
+          "wordCount": 4275,
           "title": "OSS Project Lessons Learned with David Giard",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2023/07/cropped-cropped-jasperfx-logo-final-orange-bg.jpg"
         },
@@ -889,7 +894,7 @@
           "description": "We recently introduced several new GitHub Copilot-powered .NET experiences designed to help you be more productive. Take a look!",
           "link": "https://dotnetkicks.com/r/722812?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/",
           "publishedOn": "2025-06-12T17:05:00.000Z",
-          "wordCount": 7417,
+          "wordCount": 7126,
           "title": "Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/06/ghcp-prod-dotnet.jpg"
         },
@@ -899,7 +904,7 @@
           "description": "We recently introduced several new GitHub Copilot-powered .NET experiences designed to help you be more productive. Take a look!",
           "link": "https://dotnetkicks.com/r/722805?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/",
           "publishedOn": "2025-06-12T17:05:00.000Z",
-          "wordCount": 7417,
+          "wordCount": 7126,
           "title": "Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/06/ghcp-prod-dotnet.jpg"
         },
@@ -999,19 +1004,9 @@
           "description": "For many organizations, legacy file servers have long been the backbone of data sharing and collaboration. But as cloud adoption reaches critical mass, those",
           "link": "https://dotnetkicks.com/r/722344?url=https://build5nines.com/unlocking-the-cloud-how-to-seamlessly-migrate-on-prem-file-shares-to-azure-storage/",
           "publishedOn": "2025-06-09T11:47:00.000Z",
-          "wordCount": 3944,
+          "wordCount": 3939,
           "title": "Unlocking The Cloud: How To Seamlessly Migrate On-Prem File Shares To Azure Storage | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/05/how-to-seamlessly-migrate-onprem-file-shares-to-azure-storage-Featured_Image.jpg"
-        },
-        {
-          "id": "stories/722226",
-          "author": null,
-          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog All the Azure news you don't want to miss from Microsoft Build 2025 | Microsoft Azure Blog Build like Microsoft: Developer agents in action Using AI Foundry...",
-          "link": "https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/",
-          "publishedOn": "2025-06-07T08:56:15.000Z",
-          "wordCount": 4595,
-          "title": "F# Weekly #23, 2025 - Catch up on Microsoft Build",
-          "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2025/06/build-2025-recap.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -1026,19 +1021,19 @@
           "description": "The content provides guidance for Microsoft .NET software engineers preparing for interviews, emphasizing the importance of asking insightful questions to assess a company's culture, technical processes, and growth potential. It outlines key topics to inquire about, such as code review practices, deployment processes, team dynamics, and performance management, stressing that well-formed questions can reveal the organization's commitment to quality and support for career development.",
           "link": "https://dotnettips.wordpress.com/2025/07/06/avoid-the-wrong-job-the-ultimate-net-interview-question-playbook/",
           "publishedOn": "2025-07-06T06:00:00.000Z",
-          "wordCount": 4374,
+          "wordCount": null,
           "title": "Avoid the Wrong Job: The Ultimate .NET Interview Question Playbook",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/06/20250611_1643_choose-your-tech-path_simple_compose_01jxgf2cwveqp90xdf7n1479ge.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15231",
           "author": "dotNetDave",
-          "description": "Because software is supposed to make life better—not harder. To launch this new series on user experience (UX) in software—where I’ll explore both brilliant designs and painful pitfalls—I’m startin…",
+          "description": "",
           "link": "https://dotnettips.wordpress.com/2025/07/02/ux-chronicles-the-office-that-time-forgot-why-microsoft-must-rethink-user-experience-now/",
           "publishedOn": "2025-07-02T06:00:00.000Z",
-          "wordCount": 4397,
+          "wordCount": null,
           "title": "UX Chronicles: The Office That Time Forgot – Why Microsoft Must Rethink User Experience Now",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/06/ux-chronicles-the-office-that-time-forgot-e28093-why-microsoft-must-rethink-user-experience-now.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15092",
@@ -1046,9 +1041,9 @@
           "description": "The .NET development community is increasingly favoring result types like SimpleResult over exceptions for routine error handling, enhancing reliability and performance. SimpleResult allows returning values alongside exceptions, supports multiple errors, and improves clarity in code. This utility promotes efficient error handling in various application contexts.",
           "link": "https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/",
           "publishedOn": "2025-06-29T06:00:00.000Z",
-          "wordCount": 5887,
+          "wordCount": null,
           "title": "Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/05/20250516_0649_urban-grunge-logo_simple_compose_01jvcet234erxswsw78ay5zb3n.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15071",
@@ -1056,9 +1051,9 @@
           "description": "This article examines the significance of extension methods in .NET, emphasizing their role in enhancing existing types without altering source code. It also introduces Extension Members in .NET 10 (C# 14), allowing the addition of both methods and properties, thus expanding developers' capabilities. While there are limitations, they improve code maintainability and flexibility.",
           "link": "https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/",
           "publishedOn": "2025-06-27T06:00:00.000Z",
-          "wordCount": 4510,
+          "wordCount": null,
           "title": "From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/06/20250516_1129_modern-.net-extensions-illustration_simple_compose_01jvcys5kwemctmn4f87pbbaht.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15221",
@@ -1066,9 +1061,9 @@
           "description": "User Experience (UX) focuses on the emotional and practical interactions users have with software. It emphasizes designing with the user in mind, which is often overlooked by engineers and managers. Effective UX involves usability, accessibility, performance, and more. Improving UX enhances user satisfaction, loyalty, and overall product success in software development.",
           "link": "https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/",
           "publishedOn": "2025-06-25T06:00:00.000Z",
-          "wordCount": 4383,
+          "wordCount": null,
           "title": "UX Chronicles: Why Developers Should Care About User Experience (Yes, You!)",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/06/20250619_1153_ux-journey-visualized_simple_compose_01jy4hm1r3edztbycferk9kwvg.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15204",
@@ -1086,9 +1081,9 @@
           "description": "The article emphasizes the dangers of creating disjointed software systems, likening them to Frankenstein's Monster. It warns against overengineering and using mismatched technologies, which can lead to project failures. The author shares personal insights and experiences, urging teams to prioritize coherence and maintainability in their software architecture.",
           "link": "https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/",
           "publishedOn": "2025-06-15T06:00:00.000Z",
-          "wordCount": 5684,
+          "wordCount": null,
           "title": "dotNetDave Says… Don’t Build Frankenstein’s Monster Applications!",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/06/20250530_0602_franken-tech-monster-caution_remix_01jwgdkvhne95rkjvd26zdnj8n.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15172",
@@ -1096,9 +1091,9 @@
           "description": "The dotNetDave No Rest for the Wicked World Tour will feature a session at SQL Saturday Baton Rouge on July 26, 2025. The speaker, a seasoned software engineer and educator, will share insights from 30 years of experience, focusing on career advancement, work-life balance, and effective learning strategies for tech professionals.",
           "link": "https://dotnettips.wordpress.com/2025/06/09/dotnetdave-rocks-the-sql-saturday-in-louisiana/",
           "publishedOn": "2025-06-09T16:47:28.000Z",
-          "wordCount": 5257,
+          "wordCount": null,
           "title": "dotNetDave Rocks SQL Saturday in Louisiana",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/06/louisiana-sql-saturday-2025.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15163",
@@ -1106,19 +1101,9 @@
           "description": "DistinctBlockingCollection enhances BlockingCollection by ensuring item uniqueness in high-performance .NET applications, especially in producer-consumer scenarios. It prevents duplicates, providing features like item addition with checks, collection clearing, and methods to maintain thread safety without compromising performance. It's ideal when duplicate processing could lead to errors or inefficiencies.",
           "link": "https://dotnettips.wordpress.com/2025/06/08/boost-your-net-projects-maximize-thread-safe-performance-in-net-with-spargines-distinctblockingcollection/",
           "publishedOn": "2025-06-08T16:17:14.000Z",
-          "wordCount": 5626,
+          "wordCount": 5627,
           "title": "Boost Your .NET Projects: Maximize Thread-Safe Performance in .NET with Spargine’s DistinctBlockingCollection",
           "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/04/spargine-meme-500.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "http://dotnettips.wordpress.com/?p=15152",
-          "author": "dotNetDave",
-          "description": "In this month's CollabTalk Podcast episode, David McCarter discusses how the tech industry's focus on youth harms code quality and mentorship, sidelining veteran engineers. He emphasizes the need for experienced voices in tech, encouraging all engineers to engage in discussions about long-term career strategies and to prepare for challenges ahead.",
-          "link": "https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/",
-          "publishedOn": "2025-06-07T13:53:37.000Z",
-          "wordCount": 5122,
-          "title": "CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started",
-          "imageUrl": "https://dotnettips.wordpress.com/wp-content/uploads/2025/06/collabtalk-podcast-ep.177-david-mccarter.jpg"
         }
       ]
     },
@@ -1203,7 +1188,7 @@
           "description": "Here Mudassar Khan has explained with an example, how to trigger Email notification from SQL Server.",
           "link": "https://aspsnippets.com/Articles/Trigger-Email-notification-from-SQL-Server.aspx",
           "publishedOn": "2025-06-16T00:00:00.000Z",
-          "wordCount": 1043,
+          "wordCount": 1034,
           "title": "Trigger Email notification from SQL Server",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
@@ -1213,7 +1198,7 @@
           "description": "Here Mudassar Khan has explained with an example, how to resolve the error: Couldn't process file Form1.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file.",
           "link": "https://aspsnippets.com/Articles/Exception-Couldnt-process-file-resx-due-to-its-being-in-the-Internet-or-Restricted-zone.aspx",
           "publishedOn": "2025-06-16T00:00:00.000Z",
-          "wordCount": 996,
+          "wordCount": 987,
           "title": "Exception: Couldn't process file resx due to its being in the Internet or Restricted zone",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
@@ -1299,12 +1284,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/?p=36300",
+          "author": "Alvin A.",
+          "description": "Top Links INotifyPodcastChanged Episode #6 – Dev Tools with Kayla Cinnamon (Joseph Finney & Tamás Deme) Build a Stunning Book Library App with .NET MAUI ListView – Fast, Flexible & Cross-Platform (Jayaleshwari N.) Docker Desktop 4.43: Expanded Model Runner, Reimagined MCP Catalog, MCP Server Submissions, and Smarter Gordon (Yiwen Xu) Building Windows Apps with Claude … Continue reading Dew Drop – July 7, 2025 (#4453)",
+          "link": "https://www.alvinashcraft.com/2025/07/07/dew-drop-july-7-2025-4453/",
+          "publishedOn": "2025-07-07T12:14:51.000Z",
+          "wordCount": 2707,
+          "title": "Dew Drop – July 7, 2025 (#4453)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/?p=36297",
           "author": "Alvin A.",
           "description": "Top Links Local AI + .NET = AltText Magic in One C# Script (Bruno Capuano) Migrating Uno Platform Applications from Native to Skia (Uno Platform Team) Color Selection Made Easy Now: Meet the New .NET MAUI Color Picker (Naveenkumar Sanjeevirayan) 5 ways to transform your workflow using GitHub Copilot and MCP (Klint Finley) .NET Rocks! … Continue reading Dew Drop – July 3, 2025 (#4452)",
           "link": "https://www.alvinashcraft.com/2025/07/03/dew-drop-july-3-2025-4452/",
           "publishedOn": "2025-07-03T10:48:07.000Z",
-          "wordCount": 1639,
+          "wordCount": 1648,
           "title": "Dew Drop – July 3, 2025 (#4452)",
           "enclosure": {
             "url": "https://traffic.megaphone.fm/FSI6956117588.mp3?updated=1751460827",
@@ -1416,16 +1411,6 @@
           "publishedOn": "2025-06-18T12:56:50.000Z",
           "wordCount": 1709,
           "title": "Dew Drop – June 18, 2025 (#4442)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/?p=36270",
-          "author": "Alvin A.",
-          "description": "Top Links From code to community: The collective effort behind SQL Server 2025 (Debbi Lyons) Highlights from Git 2.50 (Taylor Blau) Bob Ward: SQL Server 2025 – Azure & DevOps Podcast Episode #354 (Jeffrey Palermo) Scale AI transformation with Azure Essentials: AI Center of Excellence guidance (Cyril Belikoff) OpenTelemetry Plugin for JetBrains Rider: Observability Inside … Continue reading Dew Drop – June 17, 2025 (#4441)",
-          "link": "https://www.alvinashcraft.com/2025/06/17/dew-drop-june-17-2025-4441/",
-          "publishedOn": "2025-06-17T12:06:04.000Z",
-          "wordCount": 1632,
-          "title": "Dew Drop – June 17, 2025 (#4441)",
           "imageUrl": null
         }
       ]
@@ -1601,9 +1586,9 @@
           "description": "SQL Server’s autogrowth feature is like a fire extinguisher — essential in emergencies, but dangerous if used as a regular tool. Autogrowth events are silent performance killers that can cause unpredictable slowdowns, blocking, fragmentation, and even application outages.",
           "link": "https://dotnetstories.wordpress.com/2025/06/09/the-silent-killer-sql-server-autogrowth-and-why-it-hurts-you/",
           "publishedOn": "2025-06-09T15:10:55.000Z",
-          "wordCount": 5184,
+          "wordCount": 5185,
           "title": "The Silent Killer: SQL Server Autogrowth and Why It Hurts You",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1751680888"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1751940404"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3124",
@@ -1611,9 +1596,9 @@
           "description": "Error 701 indicates SQL Server cannot allocate the memory needed for a query or task. It appears as:\n\n“There is insufficient system memory in resource pool ‘default’ to run this query.”",
           "link": "https://dotnetstories.wordpress.com/2025/06/08/sql-server-error-701-out-of-memory-root-causes-and-real-fixes/",
           "publishedOn": "2025-06-08T10:45:26.000Z",
-          "wordCount": 5199,
+          "wordCount": 5205,
           "title": "SQL Server Error 701: Out of Memory – Root Causes and Real Fixes",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1751680888"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1751940404"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3111",
@@ -1621,9 +1606,9 @@
           "description": "TempDB is one of the most misunderstood and misconfigured system databases in SQL Server. It plays a crucial role in nearly every workload—from temporary tables to sorting operations, and even internal processing like version store maintenance.",
           "link": "https://dotnetstories.wordpress.com/2025/06/08/tempdb-myths-and-facts-what-actually-affects-performance-in-sql-server/",
           "publishedOn": "2025-06-08T10:10:32.000Z",
-          "wordCount": 5057,
+          "wordCount": 5058,
           "title": "TempDB Myths and Facts: What Actually Affects Performance in SQL Server",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1751680888"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1751940404"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3094",
@@ -1631,9 +1616,9 @@
           "description": "If you've ever seen the dreaded message \"Error 9002: The transaction log for database 'YourDatabaseName' is full due to 'LOG_BACKUP'\", then you know how quickly a calm day can turn into a crisis. This common yet critical SQL Server error can halt your application, block transactions, and jeopardize your data integrity.",
           "link": "https://dotnetstories.wordpress.com/2025/06/08/sql-server-error-9002-full-transaction-log-root-causes-fixes-prevention/",
           "publishedOn": "2025-06-07T23:30:17.000Z",
-          "wordCount": 5218,
+          "wordCount": 5214,
           "title": "SQL Server Error 9002 – Full Transaction Log: Root Causes, Fixes & Prevention",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1751680888"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1751940404"
         }
       ]
     },
@@ -1678,7 +1663,7 @@
           "description": "In the previous part of this series, we explored how to attach OpenAPI-based tools to a Semantic Kernel AI agent. In this part, we will look at another SDK for building AI Agents, Azure AI Foundry SDK, to create an agent that can also interact with OpenAPI-based tools.",
           "link": "https://www.strathweb.com/2025/06/ai-agents-with-openapi-tools-part-2-azure-ai-foundry/",
           "publishedOn": "2025-06-27T07:06:14.000Z",
-          "wordCount": null,
+          "wordCount": 1924,
           "title": "AI Agents with OpenAPI Tools - Part 2: Azure AI Foundry",
           "imageUrl": null
         },
@@ -1688,7 +1673,7 @@
           "description": "Today we will kick off a short series on building AI agents which have access to OpenAPI tools. In this first part, we will focus on the Semantic Kernel, and in the second part, we will look at Azure AI Foundry.",
           "link": "https://www.strathweb.com/2025/06/ai-agents-with-openapi-tools-part-1-semantic-kernel/",
           "publishedOn": "2025-06-23T07:06:14.000Z",
-          "wordCount": null,
+          "wordCount": 2078,
           "title": "AI Agents with OpenAPI Tools - Part 1: Semantic Kernel",
           "imageUrl": null
         }
