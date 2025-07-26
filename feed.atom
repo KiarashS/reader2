@@ -2,46 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-07-25T02:19:45.846Z</updated>
+    <updated>2025-07-26T02:10:12.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Database Coupling: How to FIX a Spaghetti Code System]]></title>
-        <id>stories/721542</id>
-        <link href="https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/"/>
-        <updated>2025-07-25T02:19:37.471Z</updated>
-        <summary type="html"><![CDATA[Large systems that are brittle and hard to change often have a similar root cause: database coupling. No ability to evolve your schema.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API Caching Done Right]]></title>
-        <id>stories/722126</id>
-        <link href="https://dotnetkicks.com/r/722126?url=https://codeopinion.com/api-caching-done-right/"/>
-        <updated>2025-07-25T02:19:37.442Z</updated>
-        <summary type="html"><![CDATA[When you need to scale your API, first thought is often, "Let's just add a cache." If API Caching were that simple. It's not.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET Channels as a In-Memory Message Bus - Beware!]]></title>
-        <id>stories/723776</id>
-        <link href="https://dotnetkicks.com/r/723776?url=https://codeopinion.com/net-channels-as-a-in-memory-message-bus-beware/"/>
-        <updated>2025-07-25T02:19:37.412Z</updated>
-        <summary type="html"><![CDATA[Using .NET Channels or MediatR? Looking for an in-memory message bus or producer-consumer? Hang on, do you need reliability?]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoPilot Agents]]></title>
-        <id>stories/722027</id>
-        <link href="https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/"/>
-        <updated>2025-07-25T02:19:27.451Z</updated>
-        <summary type="html"><![CDATA[Prepare to have your mind blown. Copilot Agents are powerful AI tools for Visual Studio Code and Visual Studio. Used to CoPilot? - you ain't seen nothing yet! James Montemagno and Burke Holland of Microsoft discuss how to get it, and how to use it. Links to come.]]></summary>
+        <title type="html"><![CDATA[Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT]]></title>
+        <id>stories/722479</id>
+        <link href="https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/"/>
+        <updated>2025-07-26T02:10:04.381Z</updated>
+        <summary type="html"><![CDATA[Editorial note: I originally published this over on Hit Subscribe's blog. I know, it's been a while. For anyone wondering if I'd given up the blogging habit, I haven't. I just forgot how to read for a bit. Luckily, however, I have a 4-year old that loves Dr Seuss, so that's gotten me back on [...]]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -50,68 +20,8 @@
         <title type="html"><![CDATA[Legacy Code Survival Guide: Visual Basic and .NET in 2025]]></title>
         <id>stories/723418</id>
         <link href="https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&amp;utm_medium=DNK-723418&amp;utm_content=DNK-723418&amp;utm_campaign=DNK-723418"/>
-        <updated>2025-07-25T02:19:22.207Z</updated>
+        <updated>2025-07-26T02:10:04.299Z</updated>
         <summary type="html"><![CDATA[Legacy code survival guide: Learn the current status of Visual Basic and .NET technologies in 2025, and get tips on managing and upgrading your legacy applications.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT]]></title>
-        <id>stories/722479</id>
-        <link href="https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/"/>
-        <updated>2025-07-25T02:19:21.939Z</updated>
-        <summary type="html"><![CDATA[Editorial note: I originally published this over on Hit Subscribe's blog. I know, it's been a while. For anyone wondering if I'd given up the blogging habit, I haven't. I just forgot how to read for a bit. Luckily, however, I have a 4-year old that loves Dr Seuss, so that's gotten me back on [...]]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dotnet cake.cs - preview]]></title>
-        <id>stories/725331</id>
-        <link href="https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs"/>
-        <updated>2025-07-25T02:19:21.038Z</updated>
-        <summary type="html"><![CDATA[We're excited to announce the preview of Cake.Sdk, a new way to get the Cake tool scripting experience in regular .NET console applications! This brings you the stellar experience of the new "dotnet run app.cs" feature (requires .NET 10), while also working seamlessly with .NET 8 and 9 for regular csproj projects.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Combine MP4 Files on Windows Using FFmpeg]]></title>
-        <id>stories/725920</id>
-        <link href="https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/"/>
-        <updated>2025-07-25T02:19:20.657Z</updated>
-        <summary type="html"><![CDATA[Learn how to merge multiple MP4 video files into one seamless file on Windows using FFmpeg with lossless quality.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development]]></title>
-        <id>stories/724992</id>
-        <link href="https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&amp;utm_medium=DNK-724992&amp;utm_content=DNK-724992&amp;utm_campaign=DNK-724992"/>
-        <updated>2025-07-25T02:19:14.509Z</updated>
-        <summary type="html"><![CDATA[Forget the keynote fluff. The real power of .NET 10 is in its hidden gems. This blog explores unsung heroes like JIT devirtualization, span-based APIs, and sane time calcs that give you huge perf wins without the hassle.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Microservices Becoming Easier?]]></title>
-        <id>stories/724873</id>
-        <link href="https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques"/>
-        <updated>2025-07-25T02:19:14.080Z</updated>
-        <summary type="html"><![CDATA[Mark Heath's Development Blog]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11]]></title>
-        <id>stories/725714</id>
-        <link href="https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/"/>
-        <updated>2025-07-25T02:19:13.800Z</updated>
-        <summary type="html"><![CDATA[Want those slick terminal icons and glyphs you keep seeing in screenshots? Here's the definitive guide to getting Nerd Fonts and terminal icons working with PowerShell 7 and Windows Terminal on Windows 11.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -120,8 +30,28 @@
         <title type="html"><![CDATA[Richie Bonilla and Forage AI Email]]></title>
         <id>stories/723207</id>
         <link href="https://dotnetkicks.com/r/723207?url=https://jesseliberty.com/2025/06/19/richie-bonilla-and-forage-ai-email/"/>
-        <updated>2025-07-25T02:19:10.069Z</updated>
+        <updated>2025-07-26T02:10:03.844Z</updated>
         <summary type="html"><![CDATA[Forage is an AI email assistant that sorts your mail into categories, provides a summary once or twice a day (your choice) and summarizes newsletters into bullet. points. I talk with Richie Bonilla (CEO and co-founder)* about his startup, what lead him to create Forage and how it works.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Microservices Becoming Easier?]]></title>
+        <id>stories/724873</id>
+        <link href="https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques"/>
+        <updated>2025-07-26T02:10:03.083Z</updated>
+        <summary type="html"><![CDATA[Mark Heath's Development Blog]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Combine MP4 Files on Windows Using FFmpeg]]></title>
+        <id>stories/725920</id>
+        <link href="https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/"/>
+        <updated>2025-07-26T02:10:02.885Z</updated>
+        <summary type="html"><![CDATA[Learn how to merge multiple MP4 video files into one seamless file on Windows using FFmpeg with lossless quality.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -130,10 +60,91 @@
         <title type="html"><![CDATA[Managing GenAI Coding Risk Like an Investment]]></title>
         <id>stories/722073</id>
         <link href="https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/"/>
-        <updated>2025-07-25T02:19:09.626Z</updated>
+        <updated>2025-07-26T02:10:02.850Z</updated>
         <summary type="html"><![CDATA[Developers and teams can use investment-inspired thinking to manage the risks and rewards of GenAI and vibe coding tools.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoPilot Agents]]></title>
+        <id>stories/722027</id>
+        <link href="https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/"/>
+        <updated>2025-07-26T02:10:02.825Z</updated>
+        <summary type="html"><![CDATA[Prepare to have your mind blown. Copilot Agents are powerful AI tools for Visual Studio Code and Visual Studio. Used to CoPilot? - you ain't seen nothing yet! James Montemagno and Burke Holland of Microsoft discuss how to get it, and how to use it. Links to come.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dotnet cake.cs - preview]]></title>
+        <id>stories/725331</id>
+        <link href="https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs"/>
+        <updated>2025-07-26T02:10:00.935Z</updated>
+        <summary type="html"><![CDATA[We're excited to announce the preview of Cake.Sdk, a new way to get the Cake tool scripting experience in regular .NET console applications! This brings you the stellar experience of the new "dotnet run app.cs" feature (requires .NET 10), while also working seamlessly with .NET 8 and 9 for regular csproj projects.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development]]></title>
+        <id>stories/724992</id>
+        <link href="https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&amp;utm_medium=DNK-724992&amp;utm_content=DNK-724992&amp;utm_campaign=DNK-724992"/>
+        <updated>2025-07-26T02:09:59.746Z</updated>
+        <summary type="html"><![CDATA[Forget the keynote fluff. The real power of .NET 10 is in its hidden gems. This blog explores unsung heroes like JIT devirtualization, span-based APIs, and sane time calcs that give you huge perf wins without the hassle.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11]]></title>
+        <id>stories/725714</id>
+        <link href="https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/"/>
+        <updated>2025-07-26T02:09:59.380Z</updated>
+        <summary type="html"><![CDATA[Want those slick terminal icons and glyphs you keep seeing in screenshots? Here's the definitive guide to getting Nerd Fonts and terminal icons working with PowerShell 7 and Windows Terminal on Windows 11.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Better UX For Left-Handed People]]></title>
+        <id>https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/</id>
+        <link href="https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/"/>
+        <updated>2025-07-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, roughly 10% of people are left-handed. Yet most products — digital and physical — aren’t designed with it in mind. Let’s change that. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to turn Open Source into a Job with Nick Taylor [Podcast #181]]]></title>
+        <id>68838e179ec7a9f427f4a061</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-open-source-into-a-job-with-nick-taylor-podcast-181/"/>
+        <updated>2025-07-25T14:00:55.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Nick Taylor. He's a software engineer from Montreal and a prolific open source contributor.   We talk about: Why trying to build your own tooling will ultimately li...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Discover a CSS Trick]]></title>
+        <id>https://css-tricks.com/?p=387862</id>
+        <link href="https://css-tricks.com/how-to-discover-a-css-trick/"/>
+        <updated>2025-07-25T13:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Do we invent or discover CSS tricks? Lee Meyer discusses how creative limitations, recursive thinking, and unexpected combinations lead to his most interesting ideas.
+How to Discover a CSS Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – July 25, 2025 (#4467)]]></title>
+        <id>https://www.alvinashcraft.com/?p=36333</id>
+        <link href="https://www.alvinashcraft.com/2025/07/25/dew-drop-july-25-2025-4467/"/>
+        <updated>2025-07-25T10:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Top Links From Manual Testing to AI-Generated Automation: Our Azure DevOps MCP + Playwright Success Story (Igor Najdenovski) Announcing Microsoft.PowerShell.PlatyPS 1.0.0 (Jason Helmick & Sean Wheeler) The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available and The Rider 2025.2 Release Candidate Is Here! (Sasha Ivanova) Developer Security Quick Fire Questions @ MS Build … Continue reading Dew Drop – July 25, 2025 (#4467)]]></summary>
+        <author>
+            <name>Alvin A.</name>
         </author>
     </entry>
     <entry>
@@ -330,16 +341,6 @@ This post shows you how to use HTTP headers to make your ASP.NET Core applicatio
         <summary type="html"><![CDATA[The MCP C# SDK has been updated to support the latest Model Context Protocol specification (2025-06-18), bringing structured tool output, elicitation support, enhanced security, and more to .NET developers building AI applications.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Structure and Algorithm Patterns for LeetCode Interviews]]></title>
-        <id>687fa4c693f63bc290c6ada1</id>
-        <link href="https://www.freecodecamp.org/news/data-structure-and-algorithm-patterns-for-leetcode-interviews/"/>
-        <updated>2025-07-22T14:48:38.000Z</updated>
-        <summary type="html"><![CDATA[To get the best tech jobs, it can be helpful to understand how to apply data structures and algorithms to coding challenges. We just published a comprehensive course on the freeCodeCamp.org channel about data structures and algorithms. This course wi...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -1095,16 +1096,6 @@ As always looking forward to another great year on top of Microsoft
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop – July 9, 2025 (#4455)]]></title>
-        <id>https://www.alvinashcraft.com/?p=36304</id>
-        <link href="https://www.alvinashcraft.com/2025/07/09/dew-drop-july-9-2025-4455/"/>
-        <updated>2025-07-09T10:37:36.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Introducing Docker Hub MCP Server: A New Way to Discover, Inspect, and Manage Container Images (Shelton Graves) Windows App SDK 1.8.0 Experimental 4 (1.8.250702007-experimental4) Release 🧪 (Roy MacLachlan) GitHub Copilot Vibe Coding Workshop (Justin Yoo) Announcing TypeScript 5.9 Beta (Daniel Rosenwasser) Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview … Continue reading Dew Drop – July 9, 2025 (#4455)]]></summary>
-        <author>
-            <name>Alvin A.</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Self-Healing Akka.NET Clusters]]></title>
         <id>stories/724487</id>
         <link href="https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/"/>
@@ -1290,6 +1281,7 @@ Better CSS Shapes Using shape() — Part 4: Close and Move originally published 
         <id>http://dotnettips.wordpress.com/?p=15231</id>
         <link href="https://dotnettips.wordpress.com/2025/07/02/ux-chronicles-the-office-that-time-forgot-why-microsoft-must-rethink-user-experience-now/"/>
         <updated>2025-07-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Because software is supposed to make life better—not harder. To launch this new series on user experience (UX) in software—where I’ll explore both brilliant designs and painful pitfalls—I’m startin…]]></summary>
         <author>
             <name>dotNetDave</name>
         </author>
@@ -1445,6 +1437,16 @@ CSS Blob Recipes originally published on CSS-Tricks, which is part of the Digita
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[.NET Channels as a In-Memory Message Bus - Beware!]]></title>
+        <id>stories/723776</id>
+        <link href="https://dotnetkicks.com/r/723776?url=https://codeopinion.com/net-channels-as-a-in-memory-message-bus-beware/"/>
+        <updated>2025-06-26T21:26:05.000Z</updated>
+        <summary type="html"><![CDATA[Using .NET Channels or MediatR? Looking for an in-memory message bus or producer-consumer? Hang on, do you need reliability?]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[It's Still About The Data: Practical Approach To Building With Agentic AI, LLMs And Generative AI | Build5Nines]]></title>
         <id>stories/723757</id>
         <link href="https://dotnetkicks.com/r/723757?url=https://build5nines.com/its-still-about-the-data-practical-approach-to-building-with-agentic-ai-llms-and-generative-ai/"/>
@@ -1483,57 +1485,6 @@ KelpUI originally published on CSS-Tricks, which is part of the DigitalOcean fam
         <summary type="html"><![CDATA[When your team loses control of its Terraform state file, it loses control of everything in the subscription. An unencrypted or publicly exposed .tfstate]]></summary>
         <author>
             <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poking at the CSS if() Function a Little More: Conditional Color Theming]]></title>
-        <id>https://css-tricks.com/?p=387215</id>
-        <link href="https://css-tricks.com/poking-at-the-css-if-function-a-little-more-conditional-color-theming/"/>
-        <updated>2025-06-25T14:33:45.000Z</updated>
-        <summary type="html"><![CDATA[The CSS if() function enables us to use values conditionally, but what exactly does if() do? Let's look at a possible real-world use case.
-Poking at the CSS if() Function a Little More: Conditional Color Theming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Good UX Protect Older Users From Digital Scams?]]></title>
-        <id>https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/</id>
-        <link href="https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/"/>
-        <updated>2025-06-25T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX Chronicles: Why Developers Should Care About User Experience (Yes, You!)]]></title>
-        <id>http://dotnettips.wordpress.com/?p=15221</id>
-        <link href="https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/"/>
-        <updated>2025-06-25T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[User Experience (UX) focuses on the emotional and practical interactions users have with software. It emphasizes designing with the user in mind, which is often overlooked by engineers and managers. Effective UX involves usability, accessibility, performance, and more. Improving UX enhances user satisfaction, loyalty, and overall product success in software development.]]></summary>
-        <author>
-            <name>dotNetDave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASP.NET Core in .NET 10 Preview 4: JSON Patch with System.Text.Json]]></title>
-        <id>https://jaliyaudagedara.blogspot.com/2025/06/aspnet-core-in-net-10-preview-4-json.html</id>
-        <link href="https://jaliyaudagedara.blogspot.com/2025/06/aspnet-core-in-net-10-preview-4-json.html"/>
-        <updated>2025-06-24T17:21:00.000Z</updated>
-        <summary type="html"><![CDATA[With .NET 10 Preview 4 onwards, you can now use
-  JsonPatch with&nbsp;System.Text.Json in ASP.NET Web API.&nbsp;
-
-
-  Currently if you need to use JsonPatch you need to rely on&nbsp;Newtonsoft.Json
-  as described in this article:
-  JsonPatch in ASP.NET Core web API
-
-
-  Note: this isn't a complete drop-in replacement for the existing
-  Newtonsoft.Json based implementation. In particular, the new]]></summary>
-        <author>
-            <name>Jaliya's Blog</name>
         </author>
     </entry>
 </feed>
