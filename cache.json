@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388448",
+          "author": "Zell Liew",
+          "description": "I've come to realize that perhaps we need to have a unit between root and relative values. This would bring about a whole new possibility when creating reusable components.\nWe Might Need Something Between Root and Relative CSS Units for “Base Elements” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/we-might-need-something-between-root-and-relative-css-units-for-base-elements/",
+          "publishedOn": "2025-08-13T13:24:55.000Z",
+          "wordCount": 4282,
+          "title": "We Might Need Something Between Root and Relative CSS Units for “Base Elements”",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/random-number-slots.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=388740",
           "author": "Geoff Graham",
           "description": "CSS-Questions is a mini site where you can test your CSS knowledge with over 100 questions. \nCSS-Questions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-questions/",
           "publishedOn": "2025-08-12T15:02:21.000Z",
-          "wordCount": 1709,
+          "wordCount": 1727,
           "title": "CSS-Questions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/css-questions-thumb.jpeg"
         },
@@ -150,16 +160,6 @@
           "wordCount": 3519,
           "title": "Getting Clarity on Apple’s Liquid Glass",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/liquid-glass-still.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387980",
-          "author": "Sunkanmi Fafowora",
-          "description": "State of Devs 2025 survey results are out! Sunkanmi Fafowora highlights a few key results about diversity, health, and salaries.\nWhat I Took From the State of Dev 2025 Survey originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-i-took-from-the-state-of-dev-2025-survey/",
-          "publishedOn": "2025-07-16T12:54:14.000Z",
-          "wordCount": 3570,
-          "title": "What I Took From the State of Dev 2025 Survey",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/devs2025-og.png"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
+          "author": "hello@smashingmagazine.com (Stephanie Campbell)",
+          "description": "Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell shows how those lessons can sharpen your instincts, strengthen collaboration, and help you become a better designer today. Learn how the skills you have learned in your previous jobs can be put to work today in meetings, design reviews, and complicated mid-project pivots.",
+          "link": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
+          "publishedOn": "2025-08-13T11:00:00.000Z",
+          "wordCount": 5538,
+          "title": "From Line To Layout: How Past Experiences Shape Your Design Career",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/from-line-to-layout-past-experiences-shape-design-career/from-line-to-layout-past-experiences-shape-design-career.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/from-line-to-layout-past-experiences-shape-design-career/from-line-to-layout-past-experiences-shape-design-career.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
           "author": "hello@smashingmagazine.com (Ilia Kanazin & Marina Chernyshova)",
           "description": "Prompting isn’t just about writing better instructions, but about designing better thinking. Ilia Kanazin and Marina Chernyshova explore how advanced prompting can empower different product & design use cases, speeding up your workflow and improving results, from research and brainstorming to testing and beyond. Let’s dive in.",
           "link": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
           "publishedOn": "2025-08-11T08:00:00.000Z",
-          "wordCount": 5856,
+          "wordCount": 5851,
           "title": "Designing With AI, Not Around It: Practical Advanced Techniques For Product Design Use Cases",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-with-ai-practical-techniques-product-design/designing-with-ai-practical-techniques-product-design.jpg",
@@ -189,7 +204,7 @@
           "description": "Internationalization isn’t just translation. It’s about formatting dates, pluralizing words, sorting names, and more, all according to specific locales. Instead of relying on heavy third-party libraries, modern JavaScript offers the Intl API — a powerful, native way to handle i18n. A quiet reminder that the web truly is worldwide.",
           "link": "https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/",
           "publishedOn": "2025-08-08T10:00:00.000Z",
-          "wordCount": 4106,
+          "wordCount": 4107,
           "title": "The Power Of The <code>Intl</code> API: A Definitive Guide To Browser-Native Internationalization",
           "enclosure": {
             "url": "http://files.smashing.media/articles/power-intl-api-guide-browser-native-internationalization/power-intl-api-guide-browser-native-internationalization.jpg",
@@ -204,7 +219,7 @@
           "description": "Design systems are more than style guides: they’re made up of workflows, tokens, components, and documentation — all the stuff teams rely on to build consistent products. As projects grow, keeping everything in sync gets tricky fast. In this article, we’ll look at how smart tooling, combined with automation where it makes sense, can speed things up, reduce errors, and help your team focus on design over maintenance.",
           "link": "https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/",
           "publishedOn": "2025-08-06T10:00:00.000Z",
-          "wordCount": 5592,
+          "wordCount": 5597,
           "title": "Automating Design Systems: Tips And Resources For Getting Started",
           "enclosure": {
             "url": "http://files.smashing.media/articles/automating-design-systems-tips-resources/automating-design-systems-tips-resources.jpg",
@@ -234,7 +249,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. The wallpapers are designed with love by the community for the community and can be downloaded for free! Enjoy!",
           "link": "https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/",
           "publishedOn": "2025-07-31T11:00:00.000Z",
-          "wordCount": 4717,
+          "wordCount": 4734,
           "title": "Stories Of August (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2025/aug-25-august-afloat-preview-opt.png",
@@ -249,7 +264,7 @@
           "description": "The Core Model is a practical methodology that flips traditional digital development on its head. Instead of starting with solutions or structure, we begin with a hypothesis about what users need and follow a simple framework that brings diverse teams together to create more effective digital experiences. By asking six good questions in the right order, teams align around user tasks and business objectives, creating clarity that transcends organizational boundaries.",
           "link": "https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/",
           "publishedOn": "2025-07-30T13:00:00.000Z",
-          "wordCount": 4423,
+          "wordCount": 4418,
           "title": "The Core Model: Start FROM The Answer, Not WITH The Solution",
           "enclosure": {
             "url": "http://files.smashing.media/articles/core-model-start-from-answer-not-solution/core-model-start-from-answer-not-solution.jpg",
@@ -264,7 +279,7 @@
           "description": "Web Components are more than just Custom Elements. Shadow DOM, HTML Templates, and Custom Elements each play a role. In this article, Russell Beswick demonstrates how Shadow DOM fits into the broader picture, explaining why it matters, when to use it, and how to apply it effectively.",
           "link": "https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/",
           "publishedOn": "2025-07-28T08:00:00.000Z",
-          "wordCount": 4604,
+          "wordCount": 4600,
           "title": "Web Components: Working With Shadow DOM",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-components-working-with-shadow-dom/web-components-working-with-shadow-dom.jpg",
@@ -294,7 +309,7 @@
           "description": "Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event listener needs parameters? That’s where things get interesting. Amejimaobari Ollornwi shares which JavaScript features make handling parameters with event handlers both possible and well-supported.",
           "link": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
           "publishedOn": "2025-07-21T10:00:00.000Z",
-          "wordCount": 3627,
+          "wordCount": 3619,
           "title": "Handling JavaScript Event Listeners With Parameters",
           "enclosure": {
             "url": "http://files.smashing.media/articles/handling-javascript-event-listeners-parameters/handling-javascript-event-listeners-parameters.jpg",
@@ -309,7 +324,7 @@
           "description": "Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation process, English often remains the default language for UI and communications. This article focuses on how you can make English content clear and inclusive for non-native users. Oleksii offers a practical guide based on his own experience as a non-native English-speaking content designer, defining the user experience for international companies.",
           "link": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
           "publishedOn": "2025-07-18T13:00:00.000Z",
-          "wordCount": 5107,
+          "wordCount": 5110,
           "title": "Why Non-Native Content Designers Improve Global UX",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-non-native-content-designers-improve-global-ux/why-non-native-content-designers-improve-global-ux.jpg",
@@ -324,7 +339,7 @@
           "description": "Learn why flip phones still matter in 2025, and how you can build and launch web apps for these tiny devices.",
           "link": "https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/",
           "publishedOn": "2025-07-16T15:00:00.000Z",
-          "wordCount": 5148,
+          "wordCount": 5135,
           "title": "Tiny Screens, Big Impact: The Forgotten Art Of Developing Web Apps For Feature Phones",
           "enclosure": {
             "url": "http://files.smashing.media/articles/tiny-screens-big-impact-developing-web-apps-feature-phones/tiny-screens-big-impact-developing-web-apps-feature-phones.jpg",
@@ -355,6 +370,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "689cd35e34fbf8c230ae0b6c",
+          "author": "Daniel García Solla",
+          "description": "This book will guide you, step-by-step, through designing a relational database using SQL. SQL is one of the most recognized relational languages for managing and querying data in databases. You’ll learn the fundamental concepts related to both data ...",
+          "link": "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/",
+          "publishedOn": "2025-08-13T18:03:10.000Z",
+          "wordCount": 120765,
+          "title": "How to Design Structured Database Systems Using SQL [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755095979245/dfd39c26-3456-4e79-a01c-0b2a82f7a034.png"
+        },
+        {
+          "id": "689cc9ce08eeb0d54c95cff1",
+          "author": "Abhijeet Dave",
+          "description": "In this article, you’ll learn how to integrate Tailwind CSS with Electron to build stylish, responsive desktop applications. You’ll set up Tailwind in an Electron project, configure your project, style the components, and optimize the development wor...",
+          "link": "https://www.freecodecamp.org/news/integrate-tailwind-with-electron/",
+          "publishedOn": "2025-08-13T17:22:22.000Z",
+          "wordCount": 2878,
+          "title": "How to Integrate Tailwind with Electron – With Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755102784797/0a2d19f0-3539-47c6-a29d-68fab3d430ba.png"
+        },
+        {
+          "id": "689cb5d3faa7288735f4eb77",
+          "author": "Beau Carnes",
+          "description": "Learn Next.js 15 Caching & Rendering using the App Router. We just posted a course on the freeCodeCamp.org YouTube channel for people who want a clear, engineering-level understanding of how Next.js optimizes performance through smart rendering strat...",
+          "link": "https://www.freecodecamp.org/news/learn-nextjs-15-caching-and-rendering/",
+          "publishedOn": "2025-08-13T15:57:07.000Z",
+          "wordCount": 1114,
+          "title": "Learn Next.js 15 Caching & Rendering",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755100527163/bc71b3bd-1bfc-45c2-a0f5-78e57aed8dd3.png"
+        },
+        {
+          "id": "689ca3344cac10c21b1f670c",
+          "author": "Isaiah Clifford Opoku",
+          "description": "In today's distributed computing landscape, efficient service-to-service communication is crucial for building scalable, high-performance applications. gRPC (Google Remote Procedure Call) has emerged as one of the most powerful frameworks for creatin...",
+          "link": "https://www.freecodecamp.org/news/get-started-with-aspnet-core-and-grpc-handbook/",
+          "publishedOn": "2025-08-13T14:37:40.000Z",
+          "wordCount": 8986,
+          "title": "How to Get Started with ASP.NET Core and gRPC: A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755043329753/f5ff4a61-79b7-44f0-9871-9dfef9f8d08a.png"
+        },
+        {
+          "id": "689bd6ecfb63224ae4bf0fce",
+          "author": "Manish Shivanandhan",
+          "description": "Building a website with WordPress used to take a lot of time. You had to install the platform, choose a theme, add plugins, write all the content by hand, and make sure everything worked well together. Even skilled developers spent hours setting up a...",
+          "link": "https://www.freecodecamp.org/news/what-wordpress-development-looks-like-in-the-age-of-ai/",
+          "publishedOn": "2025-08-13T00:06:04.000Z",
+          "wordCount": 2478,
+          "title": "What WordPress Development Looks Like in the Age of AI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755043537289/20e17529-88fd-4fbd-94c4-69cf72d8a470.png"
+        },
         {
           "id": "689b47c881c4b29c5904b9a5",
           "author": "Beau Carnes",
@@ -404,56 +469,6 @@
           "wordCount": 1065,
           "title": "Learn Time Series Forecasting in Python",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754610390149/5e08c420-6336-4bfb-85c1-044e60c2128d.png"
-        },
-        {
-          "id": "6895396a3d0ef84f1dac9702",
-          "author": "Beau Carnes",
-          "description": "Prepare for the Google Cloud Associate Cloud Engineer (ACE) exam and pass! We just published an updated Google Cloud Associate Cloud Engineer course on the freeCodeCamp.org YouTube channel. Andrew Brown from ExamPro developed this course. Associate C...",
-          "link": "https://www.freecodecamp.org/news/pass-the-google-cloud-associate-cloud-engineer-exam/",
-          "publishedOn": "2025-08-07T23:40:26.000Z",
-          "wordCount": 987,
-          "title": "Pass the Google Cloud Associate Cloud Engineer Exam",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754609974047/0ba79036-c47e-422c-8e06-626f10d95d7d.png"
-        },
-        {
-          "id": "689533cf9f55ae375dcd160b",
-          "author": "Atuoha Anthony",
-          "description": "Successfully translating a Figma design into a Flutter application requires more than just placing elements on the screen. The objective is to achieve pixel-perfect fidelity, meaning that the Flutter app must precisely mirror the designer's original ...",
-          "link": "https://www.freecodecamp.org/news/how-to-replicate-figma-designs-in-flutter/",
-          "publishedOn": "2025-08-07T23:16:31.000Z",
-          "wordCount": 7712,
-          "title": "How to Replicate Figma Designs in Flutter — A Guide to Pixel-Perfect UI Replication",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754608436544/1825df06-20a8-47a3-af5e-ae0c6d15a7c4.png"
-        },
-        {
-          "id": "6894eea1ba8a1138e41767a1",
-          "author": "Aditya Vikram Kashyap",
-          "description": "If you’ve built something worth pitching – something more than a fancy hobby with a login screen – you need to know your numbers. Not \"I’ll get back to you\" know them, know them like you know your co-founder's coffee order. I have seen too many found...",
-          "link": "https://www.freecodecamp.org/news/key-metrics-that-can-make-or-break-your-startup/",
-          "publishedOn": "2025-08-07T18:21:21.000Z",
-          "wordCount": 4795,
-          "title": "Key Metrics That Can Make or Break Your Startup",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754590848364/2e68c07e-d5d8-4da7-bc41-3798c991bfbc.png"
-        },
-        {
-          "id": "6893e671640b08f689368ee6",
-          "author": "brooklyn",
-          "description": "Windows Subsystem for Linux (WSL) lets you run a Linux environment directly on Windows. This is particularly useful for web development where you can develop and test applications in a Linux environment without leaving Windows. You can even run freeC...",
-          "link": "https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/",
-          "publishedOn": "2025-08-06T23:34:09.000Z",
-          "wordCount": 3708,
-          "title": "How to Free Up and Automatically Manage Disk Space for WSL on Windows 10/11",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754523230294/70893973-fddf-42a9-b41a-2a8f94a47e22.png"
-        },
-        {
-          "id": "6893b598ffc433dd809aa59d",
-          "author": "Manish Shivanandhan",
-          "description": "If you're just starting your coding journey or trying to pick your next language, two names you’ll often hear — among others — are JavaScript and C#. Both are powerful, widely used, and respected in the software world. But they serve different purpos...",
-          "link": "https://www.freecodecamp.org/news/choose-the-right-language-js-vs-c-sharp/",
-          "publishedOn": "2025-08-06T20:05:44.000Z",
-          "wordCount": 2682,
-          "title": "JavaScript vs C#: How to Choose the Right Language as a Beginner",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754510673710/75f0501b-9d42-43ee-bc90-cc028afdeb3a.png"
         }
       ]
     },
@@ -501,16 +516,6 @@
           "wordCount": 479,
           "title": "Things That Caught My Attention Last Week - July 20",
           "imageUrl": null
-        },
-        {
-          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-july-13",
-          "author": null,
-          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
-          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-july-13",
-          "publishedOn": "2025-07-14T00:00:00.000Z",
-          "wordCount": 512,
-          "title": "Things That Caught My Attention Last Week - July 13",
-          "imageUrl": null
         }
       ]
     },
@@ -525,7 +530,7 @@
           "description": "So it's that time of year (actually, the time of several years) to renew my Code Signing certificate. I always dread this because it's a manual process, and invariably, if you're not intimately familiar with the complexities of public key cryptography, the terminology is enough to drive me batty. It's gotten easier since I made some decent notes last few  times I went through this...\nBut all that's out of the window this time around because the CodeSigning rules have changed. Drastically! It actually happened a few years ago, but I was lucky and got my local, still exportable certificate just before the rules changed so I was able to free load for nearly 3 years on the old certificate plan.\nThe new rules don't allow for locally stored, exportable certificates. Instead certificates have to …",
           "link": "https://weblog.west-wind.com/posts/2025/Jul/20/Fighting-through-Setting-up-Microsoft-Trusted-Signing",
           "publishedOn": "2025-07-21T00:56:23.000Z",
-          "wordCount": 6000,
+          "wordCount": 6004,
           "title": "Fighting through Setting up Microsoft Trusted Signing",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Fighting-through-Setting-up-Microsoft-Trusted-Signing/SigningHandBanner.jpg"
         },
@@ -535,7 +540,7 @@
           "description": "The TreeView control in WPF is a pain of a control with so many obvious features that should be but are not automatically handled. One of the problems is trying to select an item and keeping it visible and centered in the active Viewport. You would think that would be automatic or at least there would be an easy way to bring an item into a prominently visible view, but you'd be wrong!\nIn my use case I need to programmatically filter or rather unfilter a bunch of nodes in a TreeView and I want to make sure that the item focused stays visible when the tree is reorganized. Well... the default behavior doesn't do this unfortunately.\nThere is a TreeViewItem.BringIntoView() method and it seems like that should do the trick. Unfortunately it does a really crappy job at it, bringing the TreeViewIt…",
           "link": "https://weblog.west-wind.com/posts/2025/Jul/15/Centering-a-WPF-TreeViewItem-in-the-TreeView-ScrollViewer",
           "publishedOn": "2025-07-16T04:23:03.000Z",
-          "wordCount": 2020,
+          "wordCount": 2016,
           "title": "Centering a WPF TreeViewItem in the TreeView ScrollViewer",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Centering-a-WPF-TreeViewItem-in-the-TreeView-ScrollViewer/DigitalTreeBanner.jgp.png"
         }
@@ -562,7 +567,7 @@
           "description": "The TreeView control in WPF is a pain of a control with so many obvious features that should be but are not automatically handled. One of the problems is trying to select an item and keeping it visible and centered in the active Viewport. You would think that would be automatic or at least there would be an easy way to bring an item into a prominently visible view, but you'd be wrong!\nIn my use case I need to programmatically filter or rather unfilter a bunch of nodes in a TreeView and I want to make sure that the item focused stays visible when the tree is reorganized. Well... the default behavior doesn't do this unfortunately.\nThere is a TreeViewItem.BringIntoView() method and it seems like that should do the trick. Unfortunately it does a really crappy job at it, bringing the TreeViewIt…",
           "link": "https://weblog.west-wind.com/posts/2025/Jul/15/Centering-a-WPF-TreeViewItem-in-the-TreeView-ScrollViewer",
           "publishedOn": "2025-07-16T04:23:03.000Z",
-          "wordCount": 2020,
+          "wordCount": 2016,
           "title": "Centering a WPF TreeViewItem in the TreeView ScrollViewer",
           "imageUrl": "https://weblog.west-wind.com/images/2025/Centering-a-WPF-TreeViewItem-in-the-TreeView-ScrollViewer/DigitalTreeBanner.jgp.png"
         }
@@ -574,203 +579,13 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
-          "id": "stories/722615",
-          "author": null,
-          "description": "This post looks at an alternative way of implementing a native app authentication and authorization. At present, a web browser is used to implement authentication of native applications when using OAuth and OpenID Connect. The alternative approach implemented in the post is based on the OAuth 2.0 for First-Party Applications draft and adapted to be...",
-          "link": "https://dotnetkicks.com/r/722615?url=https://damienbod.com/2025/06/10/experimental-alternative-flow-for-oauth-first-party-applications/",
-          "publishedOn": "2025-08-13T02:07:12.858Z",
-          "wordCount": null,
-          "title": "Experimental alternative flow for OAuth First-Party Applications",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/722646",
-          "author": null,
-          "description": "At WWDC 2025, Apple introduced an interesting new URL Filter API to respond to a key challenge we've talked about previously: the inherent conflict between privacy and security when trying to protect users against web threats. That conflict means that security filtering code usually cannot see a browser (or app's) URLs to compare them against...",
-          "link": "https://dotnetkicks.com/r/722646?url=https://textslashplain.com/2025/06/10/apple-url-filter-api/",
-          "publishedOn": "2025-08-13T02:07:12.857Z",
-          "wordCount": null,
-          "title": "First Look: Apple's NEURLFilter API",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/722805",
-          "author": null,
-          "description": "We recently introduced several new GitHub Copilot-powered .NET experiences designed to help you be more productive. Take a look!",
-          "link": "https://dotnetkicks.com/r/722805?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/",
-          "publishedOn": "2025-08-13T02:07:12.856Z",
-          "wordCount": null,
-          "title": "Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/722771",
-          "author": null,
-          "description": "\"Serverless Monolith\". If you're thinking, \"Wait, serverless is for microservices!\" then you're confused by your execution model.",
-          "link": "https://dotnetkicks.com/r/722771?url=https://codeopinion.com/you-dont-need-microservices-for-serverless/",
-          "publishedOn": "2025-08-13T02:07:12.856Z",
-          "wordCount": null,
-          "title": "You DON'T Need Microservices for Serverless!",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/722710",
-          "author": null,
-          "description": "Learn how to enhance your .NET MAUI apps with multimodal AI capabilities, enabling users to interact through voice using plugins and Microsoft.Extensions.AI.",
-          "link": "https://dotnetkicks.com/r/722710?url=https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/",
-          "publishedOn": "2025-08-13T02:07:12.856Z",
-          "wordCount": null,
-          "title": "Multimodal Voice Intelligence with .NET MAUI - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/722982",
-          "author": null,
-          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET 10 Preview 5 is now available! - .NET Blog Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog Next edit suggestions available in Visual Studio - Visual Studio Blog Multimodal Voice Intelligence with .NET MAUI -...",
-          "link": "https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/",
-          "publishedOn": "2025-08-13T02:07:12.854Z",
-          "wordCount": null,
-          "title": "F# Weekly #24, 2025 - Fidelity &amp; BAREWire",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/722890",
-          "author": null,
-          "description": "Microsoft Family Safety is a feature of Windows that allows parents to control their children's access to apps and content in Windows. The feature is tied to the user accounts of the parent(s) and child(ren). When I visit https://family.microsoft.com and log in with my personal Microsoft Account, I'm presented with the following view: The \"Nate\"...",
-          "link": "https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/",
-          "publishedOn": "2025-08-13T02:07:12.854Z",
-          "wordCount": null,
-          "title": "Family Safety Content Filtering",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/722812",
-          "author": null,
-          "description": "We recently introduced several new GitHub Copilot-powered .NET experiences designed to help you be more productive. Take a look!",
-          "link": "https://dotnetkicks.com/r/722812?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/",
-          "publishedOn": "2025-08-13T02:07:12.854Z",
-          "wordCount": null,
-          "title": "Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723085",
-          "author": null,
-          "description": "SQL Server 2025 is the most significant release for SQL developers in the last decade and will help streamline application development and greatly reduce complexity. Learn more.",
-          "link": "https://dotnetkicks.com/r/723085?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/16/from-code-to-community-the-collective-effort-behind-sql-server-2025/",
-          "publishedOn": "2025-08-13T02:07:12.852Z",
-          "wordCount": null,
-          "title": "From code to community: The collective effort behind SQL Server 2025 - Microsoft SQL Server Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723078",
-          "author": null,
-          "description": "Unleash the potential of agent mcp in your development processes. Experience autonomous assistance and adaptive programming capabilities.",
-          "link": "https://dotnetkicks.com/r/723078?url=https://devblogs.microsoft.com/visualstudio/agent-mode-is-now-generally-available-with-mcp-support/",
-          "publishedOn": "2025-08-13T02:07:12.852Z",
-          "wordCount": null,
-          "title": "Agent mode is now generally available with MCP support - Visual Studio Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723053",
-          "author": null,
-          "description": "In this post I describe why I like to use stacked branches and stacked PRs for larger features, and how I handle making changes to commits in the stack",
-          "link": "https://dotnetkicks.com/r/723053?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-1/",
-          "publishedOn": "2025-08-13T02:07:12.852Z",
-          "wordCount": null,
-          "title": "Working with stacked branches in git (Part 1)",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723086",
-          "author": null,
-          "description": "Enhance your .NET MAUI app with photo-based AI by capturing images and extracting structured information using Microsoft.Extensions.AI.",
-          "link": "https://dotnetkicks.com/r/723086?url=https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/",
-          "publishedOn": "2025-08-13T02:07:12.851Z",
-          "wordCount": null,
-          "title": "Multimodal Vision Intelligence with .NET MAUI - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723269",
-          "author": null,
-          "description": "The five most common mistakes that make code unmaintainable. As your system grows, it becomes impossible to make changes without breaking.",
-          "link": "https://dotnetkicks.com/r/723269?url=https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/",
-          "publishedOn": "2025-08-13T02:07:12.849Z",
-          "wordCount": null,
-          "title": "5 Mistakes That Make Your Code Unmaintainable",
-          "imageUrl": null
-        },
-        {
           "id": "stories/723207",
           "author": null,
           "description": "Forage is an AI email assistant that sorts your mail into categories, provides a summary once or twice a day (your choice) and summarizes newsletters into bullet. points. I talk with Richie Bonilla (CEO and co-founder)* about his startup, what lead him to create Forage and how it works.",
           "link": "https://dotnetkicks.com/r/723207?url=https://jesseliberty.com/2025/06/19/richie-bonilla-and-forage-ai-email/",
-          "publishedOn": "2025-08-13T02:07:12.849Z",
-          "wordCount": null,
+          "publishedOn": "2025-08-14T02:07:33.569Z",
+          "wordCount": 2035,
           "title": "Richie Bonilla and Forage AI Email",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723087",
-          "author": null,
-          "description": "This post announces the release of Microsoft Desired State Configuration v3.1.0. We discuss the features and benefits of DSC and how it differs from PowerShell DSC.",
-          "link": "https://dotnetkicks.com/r/723087?url=https://devblogs.microsoft.com/powershell/announcing-dsc-v3-1-0/",
-          "publishedOn": "2025-08-13T02:07:12.849Z",
-          "wordCount": null,
-          "title": "Announcing Microsoft Desired State Configuration v3.1.0 - PowerShell Team",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723300",
-          "author": null,
-          "description": "MCP is very useful, but it's not curing cancer. Here's why you should use it.",
-          "link": "https://dotnetkicks.com/r/723300?url=https://petabridge.com/blog/mcp-without-the-hype/",
-          "publishedOn": "2025-08-13T02:07:12.848Z",
-          "wordCount": null,
-          "title": "Model Context Protocol, Without the Hype",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723332",
-          "author": null,
-          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Multimodal Vision Intelligence with .NET MAUI - .NET Blog Agent mode is now generally available with MCP support - Visual Studio Blog Azure DevOps MCP Server, Public Preview - Azure DevOps Blog Announcing General Availability of GitHub Copilot for Azure-Now with...",
-          "link": "https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/",
-          "publishedOn": "2025-08-13T02:07:12.846Z",
-          "wordCount": null,
-          "title": "F# Weekly #25, 2025 - 7 Reasons F# Sucks",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723397",
-          "author": null,
-          "description": "A long time ago, I stood in a packed room at VS Live! and watched developers erupt in applause after a debugging demo shaved hours off a real-world problem. That was the moment I realized this wasn't just a conference-it was a place where developers and toolmakers come together to push the craft forward.",
-          "link": "https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/",
-          "publishedOn": "2025-08-13T02:07:12.845Z",
-          "wordCount": null,
-          "title": "Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723377",
-          "author": null,
-          "description": "I got to talk to David Giard on his podcast last week about some of the lessons I've learned the hard way across several large OSS projects. For a little background, I got to follow through on a 15 to 20 year dream of mine to found a company called JasperFx Software LLC to build...",
-          "link": "https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/",
-          "publishedOn": "2025-08-13T02:07:12.845Z",
-          "wordCount": null,
-          "title": "OSS Project Lessons Learned with David Giard",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723657",
-          "author": null,
-          "description": "When your team loses control of its Terraform state file, it loses control of everything in the subscription. An unencrypted or publicly exposed .tfstate",
-          "link": "https://dotnetkicks.com/r/723657?url=https://build5nines.com/securing-terraform-state-in-azure-blob-storage-using-best-practices/",
-          "publishedOn": "2025-08-13T02:07:12.842Z",
-          "wordCount": null,
-          "title": "Securing Terraform State In Azure Blob Storage Using Best Practices | Build5Nines",
           "imageUrl": null
         },
         {
@@ -778,457 +593,17 @@
           "author": null,
           "description": "Legacy code survival guide: Learn the current status of Visual Basic and .NET technologies in 2025, and get tips on managing and upgrading your legacy applications.",
           "link": "https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418",
-          "publishedOn": "2025-08-13T02:07:12.842Z",
-          "wordCount": null,
+          "publishedOn": "2025-08-14T02:07:30.617Z",
+          "wordCount": 1901,
           "title": "Legacy Code Survival Guide: Visual Basic and .NET in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723493",
-          "author": null,
-          "description": "In this post looking at stacked branches I describe how to handle scenarios such as merging on of your stacked branches and handling changes to main",
-          "link": "https://dotnetkicks.com/r/723493?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-2/",
-          "publishedOn": "2025-08-13T02:07:12.842Z",
-          "wordCount": null,
-          "title": "Working with stacked branches in git (Part 2)",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723478",
-          "author": null,
-          "description": "Hear from Microsoft's Yina Arenas on the shifting AI landscape, why businesses get stuck on \"proof of concept,\" and how Azure AI Foundry can help. Learn more.",
-          "link": "https://dotnetkicks.com/r/723478?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/06/23/fyai-how-to-leverage-ai-to-reimagine-cross-functional-collaboration-with-yina-arenas/",
-          "publishedOn": "2025-08-13T02:07:12.842Z",
-          "wordCount": null,
-          "title": "FYAI: How to leverage AI to reimagine cross-functional collaboration with Yina Arenas | The Microsoft Cloud Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723764",
-          "author": null,
-          "description": "In this blog, we'll walk you through what's new across these services so you can plan your upgrade holistically and unlock the full potential of SQL Server 2025.",
-          "link": "https://dotnetkicks.com/r/723764?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/",
-          "publishedOn": "2025-08-13T02:07:12.840Z",
-          "wordCount": null,
-          "title": "Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723757",
-          "author": null,
-          "description": "There's no denying the massive wave of excitement around Agentic AI, Multi-Agent Systems, Generative AI, and Large Language Models (LLMs). Whether it's people",
-          "link": "https://dotnetkicks.com/r/723757?url=https://build5nines.com/its-still-about-the-data-practical-approach-to-building-with-agentic-ai-llms-and-generative-ai/",
-          "publishedOn": "2025-08-13T02:07:12.840Z",
-          "wordCount": null,
-          "title": "It's Still About The Data: Practical Approach To Building With Agentic AI, LLMs And Generative AI | Build5Nines",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723718",
-          "author": null,
-          "description": "Make your .NET MAUI XAML more consistent and easier to read with global and implicit XML namespaces.",
-          "link": "https://dotnetkicks.com/r/723718?url=https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/",
-          "publishedOn": "2025-08-13T02:07:12.840Z",
-          "wordCount": null,
-          "title": "Simpler XAML in .NET MAUI 10 - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723852",
-          "author": null,
-          "description": "If you are reading this, you have most likely already updated to UGOS PRO 1.6.0.2917 and your Pi-hole Docker container failed with the error failfull start project 'pi-hole' err: Container pihole StartingError response from daemon: driver failed programming external connectivity on endpoint pihole (...): Error starting userland proxy: listen tcp4 0.0.0.0:53: bind: address already in...",
-          "link": "https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/",
-          "publishedOn": "2025-08-13T02:07:12.838Z",
-          "wordCount": null,
-          "title": "Pi-hole DNS on UGOS PRO 1.6.0.2917",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723776",
-          "author": null,
-          "description": "Using .NET Channels or MediatR? Looking for an in-memory message bus or producer-consumer? Hang on, do you need reliability?",
-          "link": "https://dotnetkicks.com/r/723776?url=https://codeopinion.com/net-channels-as-a-in-memory-message-bus-beware/",
-          "publishedOn": "2025-08-13T02:07:12.838Z",
-          "wordCount": null,
-          "title": ".NET Channels as a In-Memory Message Bus - Beware!",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723775",
-          "author": null,
-          "description": "In this blog, we'll walk you through what's new across these services so you can plan your upgrade holistically and unlock the full potential of SQL Server 2025.",
-          "link": "https://dotnetkicks.com/r/723775?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/",
-          "publishedOn": "2025-08-13T02:07:12.838Z",
-          "wordCount": null,
-          "title": "Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724019",
-          "author": null,
-          "description": "This post looks at implementing an OpenID Connect client in ASP.NET Core and require a level of authentication (LoA) implemented using Keycloak. The applications are hosted using Aspire. The LoA is requested in Keycloak using the arc_values claim. Code: https://github.com/damienbod/IdentityExternalErrorHandling Setup The applications are implemented using Aspire.",
-          "link": "https://dotnetkicks.com/r/724019?url=https://damienbod.com/2025/07/02/implement-asp-net-core-openid-connect-with-keykloak-to-implement-level-of-authentication-loa-requirements/",
-          "publishedOn": "2025-08-13T02:07:12.836Z",
-          "wordCount": null,
-          "title": "Implement ASP.NET Core OpenID Connect with Keycloak to implement Level of Authentication (LoA) requirements",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/723944",
-          "author": null,
-          "description": "In this post I discuss the new single-file .NET run experience, in which you can run a C# file directly, without needing a csproj project file",
-          "link": "https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/",
-          "publishedOn": "2025-08-13T02:07:12.836Z",
-          "wordCount": null,
-          "title": "Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724071",
-          "author": null,
-          "description": "Today I'm excited to announce the official launch and release of the commercial editions of AutoMapper and MediatR. Both of these libraries have moved under their new corporate owner (me), Lucky Penny Software. I formed this company to house these projects separate from my consulting company, but it's just me",
-          "link": "https://dotnetkicks.com/r/724071?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/",
-          "publishedOn": "2025-08-13T02:07:12.835Z",
-          "wordCount": null,
-          "title": "AutoMapper and MediatR Commercial Editions Launch Today",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724070",
-          "author": null,
-          "description": "Today I'm excited to announce the official launch and release of the commercial editions of AutoMapper and MediatR. Both of these libraries have moved under their new corporate owner (me), Lucky Penny Software. I formed this company to house these projects separate from my consulting company, but it's just me",
-          "link": "https://dotnetkicks.com/r/724070?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/",
-          "publishedOn": "2025-08-13T02:07:12.835Z",
-          "wordCount": null,
-          "title": "AutoMapper and MediatR Commercial Editions Launch Today",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724411",
-          "author": null,
-          "description": "One of my main goals of commercialization of AutoMapper and MediatR was being able to finally invest time in these projects where basically all new work stopped when I lost corporate sponsorship. I wanted to take some time to share where I'd like to take these projects now that I",
-          "link": "https://dotnetkicks.com/r/724411?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/",
-          "publishedOn": "2025-08-13T02:07:12.834Z",
-          "wordCount": null,
-          "title": "AutoMapper and MediatR Roadmaps",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724474",
-          "author": null,
-          "description": "How Split Brain Resolvers ensure consistency even during network turbulence.",
-          "link": "https://dotnetkicks.com/r/724474?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/",
-          "publishedOn": "2025-08-13T02:07:12.832Z",
-          "wordCount": null,
-          "title": "Self-Healing Akka.NET Clusters",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724448",
-          "author": null,
-          "description": "A recap of the latest servicing updates for .NET and .NET Framework for July 2025.",
-          "link": "https://dotnetkicks.com/r/724448?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/",
-          "publishedOn": "2025-08-13T02:07:12.832Z",
-          "wordCount": null,
-          "title": ".NET and .NET Framework July 2025 servicing releases updates - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724429",
-          "author": null,
-          "description": "One of my main goals of commercialization of AutoMapper and MediatR was being able to finally invest time in these projects where basically all new work stopped when I lost corporate sponsorship. I wanted to take some time to share where I'd like to take these projects now that I",
-          "link": "https://dotnetkicks.com/r/724429?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/",
-          "publishedOn": "2025-08-13T02:07:12.832Z",
-          "wordCount": null,
-          "title": "AutoMapper and MediatR Roadmaps",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724676",
-          "author": null,
-          "description": "Learn how custom instructions can tailor GitHub Copilot's AI responses to your team's exact needs.",
-          "link": "https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/",
-          "publishedOn": "2025-08-13T02:07:12.830Z",
-          "wordCount": null,
-          "title": "Customize AI responses from GitHub Copilot - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724540",
-          "author": null,
-          "description": "How the .NET MAUI Team uses GitHub Copilot for Productivity",
-          "link": "https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/",
-          "publishedOn": "2025-08-13T02:07:12.830Z",
-          "wordCount": null,
-          "title": "How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724487",
-          "author": null,
-          "description": "How Split Brain Resolvers ensure consistency even during network turbulence.",
-          "link": "https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/",
-          "publishedOn": "2025-08-13T02:07:12.830Z",
-          "wordCount": null,
-          "title": "Self-Healing Akka.NET Clusters",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724901",
-          "author": null,
-          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog Customize GitHub Copilot in JetBrains with Custom Instructions - Microsoft for Java Developers Customize AI responses from GitHub Copilot - .NET Blog Videos Blazor Community Standup - Integrate...",
-          "link": "https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/",
-          "publishedOn": "2025-08-13T02:07:12.828Z",
-          "wordCount": null,
-          "title": "F# Weekly #28, 2025 - Beyond Zero-Allocation",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724873",
-          "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques",
-          "publishedOn": "2025-08-13T02:07:12.828Z",
-          "wordCount": null,
-          "title": "Are Microservices Becoming Easier?",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724820",
-          "author": null,
-          "description": "It's the halfway point of 2025 some how, and we've now gotten past the big Marten 8.0 and Wolverine 4.0 releases. Right before I go on vacation next week, I thought it would be a good time to jot down some thoughts about where the Critter Stack might go for the rest of 2025 and...",
-          "link": "https://dotnetkicks.com/r/724820?url=https://jeremydmiller.com/2025/07/11/critter-stack-futures-for-the-rest-of-2025/",
-          "publishedOn": "2025-08-13T02:07:12.828Z",
-          "wordCount": null,
-          "title": "Critter Stack Futures for the rest of 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724693",
-          "author": null,
-          "description": "Learn how custom instructions can tailor GitHub Copilot's AI responses to your team's exact needs.",
-          "link": "https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/",
-          "publishedOn": "2025-08-13T02:07:12.828Z",
-          "wordCount": null,
-          "title": "Customize AI responses from GitHub Copilot - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/724992",
-          "author": null,
-          "description": "Forget the keynote fluff. The real power of .NET 10 is in its hidden gems. This blog explores unsung heroes like JIT devirtualization, span-based APIs, and sane time calcs that give you huge perf wins without the hassle.",
-          "link": "https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&utm_medium=DNK-724992&utm_content=DNK-724992&utm_campaign=DNK-724992",
-          "publishedOn": "2025-08-13T02:07:12.826Z",
-          "wordCount": null,
-          "title": "The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/725090",
-          "author": null,
-          "description": "Learn how to create a Model Context Protocol (MCP) server using .NET 10 and publish it to NuGet - making AI capabilities discoverable and reusable across the ecosystem.",
-          "link": "https://dotnetkicks.com/r/725090?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/",
-          "publishedOn": "2025-08-13T02:07:12.823Z",
-          "wordCount": null,
-          "title": "Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/725360",
-          "author": null,
-          "description": "We're excited to announce a new migration experience in Azure Arc to simplify and accelerate SQL Server migration. This new experience, now in preview, is powered by Azure Database Migration Service. Learn more.",
-          "link": "https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/",
-          "publishedOn": "2025-08-13T02:07:12.822Z",
-          "wordCount": null,
-          "title": "Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/725107",
-          "author": null,
-          "description": "Learn how to create a Model Context Protocol (MCP) server using .NET 10 and publish it to NuGet - making AI capabilities discoverable and reusable across the ecosystem.",
-          "link": "https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/",
-          "publishedOn": "2025-08-13T02:07:12.822Z",
-          "wordCount": null,
-          "title": "Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/725466",
-          "author": null,
-          "description": "I just got back from a week long vacation with the family, and I was as rested and relaxed as I can ever be, at least before I picked up a head cold on the last day. Today though, it's time t...",
-          "link": "https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/",
-          "publishedOn": "2025-08-13T02:07:12.820Z",
-          "wordCount": null,
-          "title": "How I Prioritize OSS Bugs",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/725623",
-          "author": null,
-          "description": "GitHub Copilot Chat offers two powerful modes, Ask Mode and Agent Mode, that can dramatically accelerate your development. Learn when to use each mode to get the most out of this tool.",
-          "link": "https://dotnetkicks.com/r/725623?url=https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/",
-          "publishedOn": "2025-08-13T02:07:12.819Z",
-          "wordCount": null,
-          "title": "Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/725935",
-          "author": null,
-          "description": "We are pleased to announce the general availability of Microsoft.PowerShell.PlatyPS 1.0.0, a tool to build PowerShell help files.",
-          "link": "https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/",
-          "publishedOn": "2025-08-13T02:07:12.816Z",
-          "wordCount": null,
-          "title": "Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/726243",
-          "author": null,
-          "description": "In this post I show the new dnx command for running .NET tools without installing them and look at exactly how it works.",
-          "link": "https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/",
-          "publishedOn": "2025-08-13T02:07:12.813Z",
-          "wordCount": null,
-          "title": "Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/726432",
-          "author": null,
-          "description": "At Build 2025, we announced support for LoRA (low-rank-adaptation) finetuning",
-          "link": "https://dotnetkicks.com/r/726432?url=https://blogs.windows.com/windowsdeveloper/2025/07/31/phi-silica-task-specialization-using-lora-in-microsoft-learning-zone-a-technical-deep-dive/",
-          "publishedOn": "2025-08-13T02:07:12.811Z",
-          "wordCount": null,
-          "title": "Phi Silica task specialization using LoRA in Microsoft Learning Zone: A technical deep dive",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/726312",
-          "author": null,
-          "description": "Aspire 9.4 is packed with new features, integrations, and improvements",
-          "link": "https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/",
-          "publishedOn": "2025-08-13T02:07:12.811Z",
-          "wordCount": null,
-          "title": "Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/726622",
-          "author": null,
-          "description": "This post shows how to issue and verify identities (verifiable credentials) using the Swiss Digital identity and trust infrastructure, (swiyu), ASP.NET Core and .NET Aspire. The swiyu infrastructure is implemented using the provided generic containers which implement the OpenID for Verifiable Credential Issuance and the OpenID for Verifiable Presentations standards as well as many other...",
-          "link": "https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/",
-          "publishedOn": "2025-08-13T02:07:12.805Z",
-          "wordCount": null,
-          "title": "Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/727280",
-          "author": null,
-          "description": "Find out about the new features in .NET 10 Preview 7 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!",
-          "link": "https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/",
-          "publishedOn": "2025-08-13T02:07:12.804Z",
-          "wordCount": null,
-          "title": ".NET 10 Preview 7 is now available! - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/727227",
-          "author": null,
-          "description": "In this post I show how to run .NET in your browser without using Blazor, and instead rely on lower-level abstractions provided by [JSImport] and [JSExport]",
-          "link": "https://dotnetkicks.com/r/727227?url=https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/",
-          "publishedOn": "2025-08-13T02:07:12.804Z",
-          "wordCount": null,
-          "title": "Running .NET in the browser without Blazor",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/727117",
-          "author": null,
-          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 - Announcing the Call for Content - .NET Blog 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog The new Dependabot...",
-          "link": "https://dotnetkicks.com/r/727117?url=https://sergeytihon.com/2025/08/10/f-weekly-32-2025-call-for-speakers-net-conf-2025-jetbrains-net-days/",
-          "publishedOn": "2025-08-13T02:07:12.804Z",
-          "wordCount": null,
-          "title": "F# Weekly #32, 2025 - Call for Speakers: .NET Conf 2025 &amp; JetBrains .NET Days",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/726972",
-          "author": null,
-          "description": "Some identity providers use the EdDSA / ED25519 algorithm to sign and issue tokens. This post shows how to validate the tokens using the Nuget package from ScottBrady and ASP.NET Core. Using the default OpenID Connect setup, the keys are not read and the tokens cannot be validated.",
-          "link": "https://dotnetkicks.com/r/726972?url=https://damienbod.com/2025/08/06/use-eddsa-signatures-to-validate-tokens-in-asp-net-core-using-openid-connect/",
-          "publishedOn": "2025-08-13T02:07:12.804Z",
-          "wordCount": null,
-          "title": "Use EdDSA signatures to validate tokens in ASP.NET Core using OpenID Connect",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/726814",
-          "author": null,
-          "description": "Introducing Agent Quality and NLP evaluators in the Microsoft.Extensions.AI.Evaluation libraries.",
-          "link": "https://dotnetkicks.com/r/726814?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/",
-          "publishedOn": "2025-08-13T02:07:12.804Z",
-          "wordCount": null,
-          "title": "Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/726040",
-          "author": null,
-          "description": "Migrating from .NET 8 to 10? This guide covers breaking changes (Preview 6 included), timelines, tools, and pitfalls. Prep your upgrade strategy for LTS success.",
-          "link": "https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040",
-          "publishedOn": "2025-08-13T02:07:12.803Z",
-          "wordCount": 3179,
-          "title": "Breaking Changes in .NET 10: A Migration Guide from .NET 8",
-          "imageUrl": "https://www.gapvelocity.ai/hubfs/NET%208%20to%20.NET%2010.png"
-        },
-        {
-          "id": "stories/726471",
-          "author": null,
-          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
-          "link": "https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/",
-          "publishedOn": "2025-08-13T02:07:12.489Z",
-          "wordCount": 1873,
-          "title": "Video: Visual Toolbox: Git in Visual Studio",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/725331",
-          "author": null,
-          "description": "We're excited to announce the preview of Cake.Sdk, a new way to get the Cake tool scripting experience in regular .NET console applications! This brings you the stellar experience of the new \"dotnet run app.cs\" feature (requires .NET 10), while also working seamlessly with .NET 8 and 9 for regular csproj projects.",
-          "link": "https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs",
-          "publishedOn": "2025-08-13T02:07:12.359Z",
-          "wordCount": 1676,
-          "title": "dotnet cake.cs - preview",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/725714",
-          "author": null,
-          "description": "Want those slick terminal icons and glyphs you keep seeing in screenshots? Here's the definitive guide to getting Nerd Fonts and terminal icons working with PowerShell 7 and Windows Terminal on Windows 11.",
-          "link": "https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/",
-          "publishedOn": "2025-08-13T02:07:12.141Z",
-          "wordCount": 1286,
-          "title": "How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11",
-          "imageUrl": "https://ardalis.com/static/default-post-image-70bde65b888eb4e01143592f6ab1421c.jpg"
-        },
-        {
-          "id": "stories/725920",
-          "author": null,
-          "description": "Learn how to merge multiple MP4 video files into one seamless file on Windows using FFmpeg with lossless quality.",
-          "link": "https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/",
-          "publishedOn": "2025-08-13T02:07:12.103Z",
-          "wordCount": 1078,
-          "title": "How to Combine MP4 Files on Windows Using FFmpeg",
-          "imageUrl": "https://ardalis.com/static/bebd4e2eafc3426f0d1dc86d70a9fe06/6050d/combine-mp4-files-ffmpeg-windows.png"
+          "imageUrl": "https://www.gapvelocity.ai/hubfs/VB%20%26%20.NET%20in%202025.png"
         },
         {
           "id": "stories/726734",
           "author": null,
           "description": "Jeff Fritz (Microsoft) joins me to talk about .NET Aspire, CoPilot Agents and Vibe programming. This is a show not to miss; his enthusiasm is catching and his knowledge is astonishing. Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.",
           "link": "https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/",
-          "publishedOn": "2025-08-13T02:07:11.965Z",
+          "publishedOn": "2025-08-14T02:07:29.567Z",
           "wordCount": 2242,
           "title": "Jeff Fritz on .NET Aspire and CoPilot Agents",
           "imageUrl": null
@@ -1238,10 +613,120 @@
           "author": null,
           "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
           "link": "https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/",
-          "publishedOn": "2025-08-13T02:07:11.669Z",
+          "publishedOn": "2025-08-14T02:07:26.668Z",
           "wordCount": 1873,
           "title": "Video: Visual Toolbox: Git in Visual Studio",
           "imageUrl": null
+        },
+        {
+          "id": "stories/725331",
+          "author": null,
+          "description": "We're excited to announce the preview of Cake.Sdk, a new way to get the Cake tool scripting experience in regular .NET console applications! This brings you the stellar experience of the new \"dotnet run app.cs\" feature (requires .NET 10), while also working seamlessly with .NET 8 and 9 for regular csproj projects.",
+          "link": "https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs",
+          "publishedOn": "2025-08-14T02:07:25.352Z",
+          "wordCount": 1676,
+          "title": "dotnet cake.cs - preview",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/724873",
+          "author": null,
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques",
+          "publishedOn": "2025-08-14T02:07:25.331Z",
+          "wordCount": 1012,
+          "title": "Are Microservices Becoming Easier?",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+        },
+        {
+          "id": "stories/724992",
+          "author": null,
+          "description": "Forget the keynote fluff. The real power of .NET 10 is in its hidden gems. This blog explores unsung heroes like JIT devirtualization, span-based APIs, and sane time calcs that give you huge perf wins without the hassle.",
+          "link": "https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&utm_medium=DNK-724992&utm_content=DNK-724992&utm_campaign=DNK-724992",
+          "publishedOn": "2025-08-14T02:07:23.870Z",
+          "wordCount": 2472,
+          "title": "The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development",
+          "imageUrl": "https://www.gapvelocity.ai/hubfs/1-Jul-11-2025-07-49-37-1787-PM.png"
+        },
+        {
+          "id": "stories/725714",
+          "author": null,
+          "description": "Want those slick terminal icons and glyphs you keep seeing in screenshots? Here's the definitive guide to getting Nerd Fonts and terminal icons working with PowerShell 7 and Windows Terminal on Windows 11.",
+          "link": "https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/",
+          "publishedOn": "2025-08-14T02:07:22.887Z",
+          "wordCount": 1286,
+          "title": "How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11",
+          "imageUrl": "https://ardalis.com/static/default-post-image-70bde65b888eb4e01143592f6ab1421c.jpg"
+        },
+        {
+          "id": "stories/726040",
+          "author": null,
+          "description": "Migrating from .NET 8 to 10? This guide covers breaking changes (Preview 6 included), timelines, tools, and pitfalls. Prep your upgrade strategy for LTS success.",
+          "link": "https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040",
+          "publishedOn": "2025-08-14T02:07:22.336Z",
+          "wordCount": 3179,
+          "title": "Breaking Changes in .NET 10: A Migration Guide from .NET 8",
+          "imageUrl": "https://www.gapvelocity.ai/hubfs/NET%208%20to%20.NET%2010.png"
+        },
+        {
+          "id": "stories/725920",
+          "author": null,
+          "description": "Learn how to merge multiple MP4 video files into one seamless file on Windows using FFmpeg with lossless quality.",
+          "link": "https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/",
+          "publishedOn": "2025-08-14T02:07:22.093Z",
+          "wordCount": 1078,
+          "title": "How to Combine MP4 Files on Windows Using FFmpeg",
+          "imageUrl": "https://ardalis.com/static/bebd4e2eafc3426f0d1dc86d70a9fe06/6050d/combine-mp4-files-ffmpeg-windows.png"
+        },
+        {
+          "id": "stories/726471",
+          "author": null,
+          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
+          "link": "https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/",
+          "publishedOn": "2025-08-14T02:07:22.000Z",
+          "wordCount": 1873,
+          "title": "Video: Visual Toolbox: Git in Visual Studio",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/727404",
+          "author": null,
+          "description": "Watch Microsoft-led sessions from Visual Studio Live! @ Microsoft HQ on-demand. Keynotes, deep dives, and demos from Visual Studio, Azure, and GitHub Copilot experts-plus save on upcoming VS Live! San Diego registration.",
+          "link": "https://dotnetkicks.com/r/727404?url=https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next/",
+          "publishedOn": "2025-08-14T00:36:07.000Z",
+          "wordCount": 7033,
+          "title": "From Redmond to San Diego: VS Live! Highlights, Session Examples, and What's Next - Visual Studio Blog",
+          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/08/Live.jpg"
+        },
+        {
+          "id": "stories/727280",
+          "author": null,
+          "description": "Find out about the new features in .NET 10 Preview 7 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!",
+          "link": "https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/",
+          "publishedOn": "2025-08-12T19:20:00.000Z",
+          "wordCount": 7176,
+          "title": ".NET 10 Preview 7 is now available! - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/08/dotnet-10-preview-7.jpg"
+        },
+        {
+          "id": "stories/727227",
+          "author": null,
+          "description": "In this post I show how to run .NET in your browser without using Blazor, and instead rely on lower-level abstractions provided by [JSImport] and [JSExport]",
+          "link": "https://dotnetkicks.com/r/727227?url=https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/",
+          "publishedOn": "2025-08-12T10:00:00.000Z",
+          "wordCount": 2376,
+          "title": "Running .NET in the browser without Blazor",
+          "imageUrl": "https://andrewlock.net/content/images/2025/wasmbrowser_banner.png"
+        },
+        {
+          "id": "stories/727117",
+          "author": null,
+          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 - Announcing the Call for Content - .NET Blog 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog The new Dependabot...",
+          "link": "https://dotnetkicks.com/r/727117?url=https://sergeytihon.com/2025/08/10/f-weekly-32-2025-call-for-speakers-net-conf-2025-jetbrains-net-days/",
+          "publishedOn": "2025-08-10T07:30:40.000Z",
+          "wordCount": 4383,
+          "title": "F# Weekly #32, 2025 - Call for Speakers: .NET Conf 2025 &amp; JetBrains .NET Days",
+          "imageUrl": "https://sergeytihon.com/wp-content/uploads/2025/08/bafkreig7tijzlbn77eiusewziyjys44y4ms6vvupdvvtgigy5565iciwci.jpg"
         },
         {
           "id": "stories/727008",
@@ -1259,7 +744,7 @@
           "description": "Discover 5 practical GitHub Copilot Chat prompts to boost .NET development productivity, from code optimization to security reviews.",
           "link": "https://dotnetkicks.com/r/726939?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/",
           "publishedOn": "2025-08-06T17:05:00.000Z",
-          "wordCount": 6935,
+          "wordCount": 6931,
           "title": "5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/08/copilot-chat-prompts.jpg"
         },
@@ -1269,9 +754,19 @@
           "description": "Discover 5 practical GitHub Copilot Chat prompts to boost .NET development productivity, from code optimization to security reviews.",
           "link": "https://dotnetkicks.com/r/726936?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/",
           "publishedOn": "2025-08-06T17:05:00.000Z",
-          "wordCount": 6935,
+          "wordCount": 6931,
           "title": "5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/08/copilot-chat-prompts.jpg"
+        },
+        {
+          "id": "stories/726972",
+          "author": null,
+          "description": "Some identity providers use the EdDSA / ED25519 algorithm to sign and issue tokens. This post shows how to validate the tokens using the Nuget package from ScottBrady and ASP.NET Core. Using the default OpenID Connect setup, the keys are not read and the tokens cannot be validated.",
+          "link": "https://dotnetkicks.com/r/726972?url=https://damienbod.com/2025/08/06/use-eddsa-signatures-to-validate-tokens-in-asp-net-core-using-openid-connect/",
+          "publishedOn": "2025-08-06T09:55:52.000Z",
+          "wordCount": 4569,
+          "title": "Use EdDSA signatures to validate tokens in ASP.NET Core using OpenID Connect",
+          "imageUrl": "https://secure.gravatar.com/blavatar/3e721e5246d5d8e1e390fd6017a26f6bd339a6d4269bc74d47a9c36482637d0e?s=200&ts=1754918359"
         },
         {
           "id": "stories/726862",
@@ -1299,7 +794,7 @@
           "description": "We're excited to share the latest preview release of AI Shell that includes new features and improvements based on your feedback.",
           "link": "https://dotnetkicks.com/r/726864?url=https://devblogs.microsoft.com/powershell/preview-6-ai-shell/",
           "publishedOn": "2025-08-05T18:40:38.000Z",
-          "wordCount": 7401,
+          "wordCount": 7068,
           "title": "Introducing MCP Support in AI Shell Preview 6 - PowerShell Team",
           "imageUrl": "https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2024/11/AIShellIconPNG.png"
         },
@@ -1308,6 +803,16 @@
           "author": null,
           "description": "Introducing Agent Quality and NLP evaluators in the Microsoft.Extensions.AI.Evaluation libraries.",
           "link": "https://dotnetkicks.com/r/726818?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/",
+          "publishedOn": "2025-08-05T17:05:00.000Z",
+          "wordCount": 8039,
+          "title": "Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/07/agent-quality-and-nlp-evaluators.jpg"
+        },
+        {
+          "id": "stories/726814",
+          "author": null,
+          "description": "Introducing Agent Quality and NLP evaluators in the Microsoft.Extensions.AI.Evaluation libraries.",
+          "link": "https://dotnetkicks.com/r/726814?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/",
           "publishedOn": "2025-08-05T17:05:00.000Z",
           "wordCount": 8039,
           "title": "Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog",
@@ -1364,14 +869,34 @@
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/07/the-new-dependabot-nuget-updater.png"
         },
         {
+          "id": "stories/726622",
+          "author": null,
+          "description": "This post shows how to issue and verify identities (verifiable credentials) using the Swiss Digital identity and trust infrastructure, (swiyu), ASP.NET Core and .NET Aspire. The swiyu infrastructure is implemented using the provided generic containers which implement the OpenID for Verifiable Credential Issuance and the OpenID for Verifiable Presentations standards as well as many other...",
+          "link": "https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/",
+          "publishedOn": "2025-08-04T05:32:07.000Z",
+          "wordCount": 5928,
+          "title": "Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire",
+          "imageUrl": "https://damienbod.com/wp-content/uploads/2025/07/overview.drawio-1.png"
+        },
+        {
           "id": "stories/726523",
           "author": null,
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog Building AI Agents with the A2A .NET SDK | Azure AI Foundry Blog...",
           "link": "https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/",
           "publishedOn": "2025-08-02T21:46:48.000Z",
-          "wordCount": 4432,
+          "wordCount": 4284,
           "title": "F# Weekly #31, 2025 - Aspire 9.4",
           "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2025/08/announcing-aspire-9-4.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "stories/726432",
+          "author": null,
+          "description": "At Build 2025, we announced support for LoRA (low-rank-adaptation) finetuning",
+          "link": "https://dotnetkicks.com/r/726432?url=https://blogs.windows.com/windowsdeveloper/2025/07/31/phi-silica-task-specialization-using-lora-in-microsoft-learning-zone-a-technical-deep-dive/",
+          "publishedOn": "2025-07-31T16:00:10.000Z",
+          "wordCount": 3906,
+          "title": "Phi Silica task specialization using LoRA in Microsoft Learning Zone: A technical deep dive",
+          "imageUrl": "https://blogs.windows.com/wp-content/uploads/sites/3/2025/07/puzzle_LoRA1920.jpg"
         },
         {
           "id": "stories/726416",
@@ -1379,7 +904,7 @@
           "description": "Discover how Visual Studio Copilot leverages smarter AI-generated edits using speculative decoding and advanced model-based techniques. Learn how these innovations improve code accuracy, speed, and developer productivity-plus, get a sneak peek at the future of Agent Mode in Visual Studio Copilot.",
           "link": "https://dotnetkicks.com/r/726416?url=https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/",
           "publishedOn": "2025-07-31T12:00:42.000Z",
-          "wordCount": 7925,
+          "wordCount": 8021,
           "title": "Smarter AI Edits in Visual Studio Copilot - Visual Studio Blog",
           "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/01/Github-Copilot_16by9.jpg"
         },
@@ -1389,7 +914,7 @@
           "description": "Discover how to build a full-stack application with React and Aspire, integrating a React front-end with an ASP.NET Core Web API and persisting data to a database.",
           "link": "https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/",
           "publishedOn": "2025-07-30T17:00:00.000Z",
-          "wordCount": 12187,
+          "wordCount": 12479,
           "title": "Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/07/aspire-react-thumbnail.png"
         },
@@ -1399,7 +924,7 @@
           "description": "Discover how to build a full-stack application with React and Aspire, integrating a React front-end with an ASP.NET Core Web API and persisting data to a database.",
           "link": "https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/",
           "publishedOn": "2025-07-30T17:00:00.000Z",
-          "wordCount": 12187,
+          "wordCount": 12479,
           "title": "Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/07/aspire-react-thumbnail.png"
         },
@@ -1412,6 +937,26 @@
           "wordCount": 7848,
           "title": "Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/07/announcing-aspire-9-4.jpg"
+        },
+        {
+          "id": "stories/726312",
+          "author": null,
+          "description": "Aspire 9.4 is packed with new features, integrations, and improvements",
+          "link": "https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/",
+          "publishedOn": "2025-07-29T18:05:00.000Z",
+          "wordCount": 7848,
+          "title": "Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/07/announcing-aspire-9-4.jpg"
+        },
+        {
+          "id": "stories/726243",
+          "author": null,
+          "description": "In this post I show the new dnx command for running .NET tools without installing them and look at exactly how it works.",
+          "link": "https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/",
+          "publishedOn": "2025-07-29T10:00:00.000Z",
+          "wordCount": 1820,
+          "title": "Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5",
+          "imageUrl": "https://andrewlock.net/content/images/2019/banner_local_tools.jpg"
         },
         {
           "id": "stories/726440",
@@ -1439,7 +984,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Perla V1.0.0 betas are out! MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog Can You Build Agent2Agent Communication on...",
           "link": "https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/",
           "publishedOn": "2025-07-27T11:51:14.000Z",
-          "wordCount": 4465,
+          "wordCount": 4317,
           "title": "F# Weekly #30, 2025 - Quipu &amp; Perla",
           "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2025/07/xnapper-2025-07-27-13.45.12.png?fit=1200%2C639&ssl=1"
         },
@@ -1454,12 +999,22 @@
           "imageUrl": "https://codeopinion.com/wp-content/uploads/2025/07/Twitter-1.png"
         },
         {
+          "id": "stories/725935",
+          "author": null,
+          "description": "We are pleased to announce the general availability of Microsoft.PowerShell.PlatyPS 1.0.0, a tool to build PowerShell help files.",
+          "link": "https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/",
+          "publishedOn": "2025-07-24T21:35:14.000Z",
+          "wordCount": 6947,
+          "title": "Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team",
+          "imageUrl": "https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2018/09/Powershell_256.png"
+        },
+        {
           "id": "stories/725896",
           "author": null,
           "description": "Before Marten took off and we pivoted to using the \"Critter Stack\" naming motif, the original naming theme for the JasperFx OSS tool suite were some of the small towns near where I grew up in Southwest Missouri. Alba, MO is somewhat famous as the hometown of the Boyer brothers.",
           "link": "https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/",
           "publishedOn": "2025-07-24T14:21:02.000Z",
-          "wordCount": 4918,
+          "wordCount": 4923,
           "title": "Example of Using Alba for HTTP Testing",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/07/image-4.png"
         },
@@ -1494,6 +1049,26 @@
           "imageUrl": "https://andrewlock.net/content/images/2025/embeddedattribute_banner.png"
         },
         {
+          "id": "stories/725623",
+          "author": null,
+          "description": "GitHub Copilot Chat offers two powerful modes, Ask Mode and Agent Mode, that can dramatically accelerate your development. Learn when to use each mode to get the most out of this tool.",
+          "link": "https://dotnetkicks.com/r/725623?url=https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/",
+          "publishedOn": "2025-07-21T17:05:00.000Z",
+          "wordCount": 7217,
+          "title": "Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/07/askVsAgent.jpg"
+        },
+        {
+          "id": "stories/725466",
+          "author": null,
+          "description": "I just got back from a week long vacation with the family, and I was as rested and relaxed as I can ever be, at least before I picked up a head cold on the last day. Today though, it's time t...",
+          "link": "https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/",
+          "publishedOn": "2025-07-20T18:34:55.000Z",
+          "wordCount": 4448,
+          "title": "How I Prioritize OSS Bugs",
+          "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/07/image-3.png"
+        },
+        {
           "id": "stories/725471",
           "author": null,
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET 10 Preview 6 is now available! - .NET Blog Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog Bring your own agents into Microsoft 365 Copilot - Microsoft 365 Developer Blog Customize AI responses from...",
@@ -1502,6 +1077,36 @@
           "wordCount": 4408,
           "title": "F# Weekly #29, 2025 - .NET 10 Preview 6",
           "imageUrl": "https://sergeytihon.com/wp-content/uploads/2025/07/bafkreiepp2y7gfzhkwyx6z5zoixifvz6imuewzdvudlektjy7xjecdszkm.jpg"
+        },
+        {
+          "id": "stories/725360",
+          "author": null,
+          "description": "We're excited to announce a new migration experience in Azure Arc to simplify and accelerate SQL Server migration. This new experience, now in preview, is powered by Azure Database Migration Service. Learn more.",
+          "link": "https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/",
+          "publishedOn": "2025-07-17T21:00:00.000Z",
+          "wordCount": 3724,
+          "title": "Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog",
+          "imageUrl": "https://www.microsoft.com/en-us/sql-server/blog/wp-content/uploads/2018/08/cropped-microsoft_logo_element.png"
+        },
+        {
+          "id": "stories/725107",
+          "author": null,
+          "description": "Learn how to create a Model Context Protocol (MCP) server using .NET 10 and publish it to NuGet - making AI capabilities discoverable and reusable across the ecosystem.",
+          "link": "https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/",
+          "publishedOn": "2025-07-15T20:00:00.000Z",
+          "wordCount": 9137,
+          "title": "Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/07/mcp-server-nuget.jpg"
+        },
+        {
+          "id": "stories/725090",
+          "author": null,
+          "description": "Learn how to create a Model Context Protocol (MCP) server using .NET 10 and publish it to NuGet - making AI capabilities discoverable and reusable across the ecosystem.",
+          "link": "https://dotnetkicks.com/r/725090?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/",
+          "publishedOn": "2025-07-15T20:00:00.000Z",
+          "wordCount": 9137,
+          "title": "Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/07/mcp-server-nuget.jpg"
         },
         {
           "id": "stories/725082",
@@ -1628,12 +1233,62 @@
       "siteUrl": "https://www.aspsnippets.com/RSS.ashx",
       "articles": [
         {
+          "id": "https://aspsnippets.com/Articles/Using-LINQ-Skip-and-Take-functions-using-C-and-VBNet.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to implement LINQ Skip and Take functions in Windows Forms (WinForms) Application using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Using-LINQ-Skip-and-Take-functions-using-C-and-VBNet.aspx",
+          "publishedOn": "2025-08-13T00:00:00.000Z",
+          "wordCount": 2215,
+          "title": "Using LINQ Skip and Take functions using C# and VB.Net",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-MVC-Binding-RadioButton-with-Model.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to bind RadioButton (multiple RadioButtons) using Model in ASP.Net Core MVC.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-MVC-Binding-RadioButton-with-Model.aspx",
+          "publishedOn": "2025-08-13T00:00:00.000Z",
+          "wordCount": 1525,
+          "title": "ASP.Net Core MVC: Binding RadioButton with Model",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Delete-from-Database.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to delete data from Database in ASP.Net Core (.Net Core 8) MVC.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Delete-from-Database.aspx",
+          "publishedOn": "2025-08-13T00:00:00.000Z",
+          "wordCount": 1339,
+          "title": "ASP.Net Core: Delete from Database",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/ASPNet-MVC-Send-Email-from-Controller-using-jQuery-AJAX.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to send email from Controller using jQuery AJAX in ASP.Net MVC.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-MVC-Send-Email-from-Controller-using-jQuery-AJAX.aspx",
+          "publishedOn": "2025-08-13T00:00:00.000Z",
+          "wordCount": 1679,
+          "title": "ASP.Net MVC: Send Email from Controller using jQuery AJAX",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Send-Email-in-ASPNet.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to send Email in ASP.Net using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Send-Email-in-ASPNet.aspx",
+          "publishedOn": "2025-08-12T00:00:00.000Z",
+          "wordCount": 1650,
+          "title": "Send Email in ASP.Net",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
           "id": "https://aspsnippets.com/Articles/Using-HtmlRaw-Helper-Method-in-ASPNet-Core-Razor-Pages.aspx",
           "author": null,
           "description": "Here Mudassar Khan has explained with an example, how to use Html.Raw Helper Method in ASP.Net Core (.Net Core 8) Razor Pages.",
           "link": "https://aspsnippets.com/Articles/Using-HtmlRaw-Helper-Method-in-ASPNet-Core-Razor-Pages.aspx",
           "publishedOn": "2025-08-11T00:00:00.000Z",
-          "wordCount": 1123,
+          "wordCount": 1122,
           "title": "Using Html.Raw Helper Method in ASP.Net Core Razor Pages",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
@@ -1643,7 +1298,7 @@
           "description": "Here Mudassar Khan has explained with an example, how to perform CRUD i.e. Create, Read, Update and Delete operation in WebGrid in ASP.Net Core (.Net Core 8) Razor Pages.",
           "link": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-Select-Insert-Edit-Update-and-Delete-in-WebGrid.aspx",
           "publishedOn": "2025-08-11T00:00:00.000Z",
-          "wordCount": 2449,
+          "wordCount": 2448,
           "title": "ASP.Net Core Razor Pages: Select Insert Edit Update and Delete in WebGrid",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
@@ -1653,7 +1308,7 @@
           "description": "Here Mudassar Khan has explained with an example, how to read QRCode Image in ASP.Net Core (.Net Core 3) MVC.",
           "link": "https://aspsnippets.com/Articles/ASPNet-Core-31-Read-QRCode-Image.aspx",
           "publishedOn": "2025-08-11T00:00:00.000Z",
-          "wordCount": 1324,
+          "wordCount": 1323,
           "title": "ASP.Net Core 3.1: Read QRCode Image",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
@@ -1663,7 +1318,7 @@
           "description": "Here Mudassar Khan has explained with an example, what is Manifest Assembly in .Net in Windows Forms (WinForms) Application using C# and VB.Net?",
           "link": "https://aspsnippets.com/Articles/What-is-Manifest-Assembly-in-Net.aspx",
           "publishedOn": "2025-08-11T00:00:00.000Z",
-          "wordCount": 1410,
+          "wordCount": 1409,
           "title": "What is Manifest Assembly in .Net?",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
@@ -1673,58 +1328,8 @@
           "description": "Here Mudassar Khan has explained with an example, how to generate QR Code image from database in ASP.Net Core (.Net Core 8) Razor Pages.",
           "link": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-Generate-QR-Code-from-Database.aspx",
           "publishedOn": "2025-08-11T00:00:00.000Z",
-          "wordCount": 1470,
+          "wordCount": 1469,
           "title": "ASP.Net Core Razor Pages: Generate QR Code from Database",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Windows-Forms-Select-data-from-Database-using-EntityFramework-in-C-and-VBNet.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to select data from Database using Entity Framework with C# and VB.Net in Windows Forms (WinForms) Application.",
-          "link": "https://aspsnippets.com/Articles/Windows-Forms-Select-data-from-Database-using-EntityFramework-in-C-and-VBNet.aspx",
-          "publishedOn": "2025-08-11T00:00:00.000Z",
-          "wordCount": 1052,
-          "title": "Windows Forms: Select data from Database using EntityFramework in C# and VB.Net",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Insert-Save-Multiple-rows-records-to-database-using-Entity-Framework-in-ASPNet.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to insert (save) multiple rows (records) to database using Entity Framework in ASP.Net.",
-          "link": "https://aspsnippets.com/Articles/Insert-Save-Multiple-rows-records-to-database-using-Entity-Framework-in-ASPNet.aspx",
-          "publishedOn": "2025-08-11T00:00:00.000Z",
-          "wordCount": 1922,
-          "title": "Insert (Save) Multiple rows (records) to database using Entity Framework in ASP.Net",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Insert-Save-data-records-to-database-using-Stored-Procedure-in-ASPNet.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to insert (save) data (records) to database using Stored Procedure with Entity Framework in ASP.Net.",
-          "link": "https://aspsnippets.com/Articles/Insert-Save-data-records-to-database-using-Stored-Procedure-in-ASPNet.aspx",
-          "publishedOn": "2025-08-11T00:00:00.000Z",
-          "wordCount": 2112,
-          "title": "Insert (Save) data (records) to database using Stored Procedure in ASP.Net",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Download-Excel-file-from-Database.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to download Excel document from Database in ASP.Net Core (.Net Core 8).",
-          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Download-Excel-file-from-Database.aspx",
-          "publishedOn": "2025-08-11T00:00:00.000Z",
-          "wordCount": 1457,
-          "title": "ASP.Net Core: Download Excel file from Database",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Download-Text-file-from-Database.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to download Text file from Database in ASP.Net Core (.Net Core 8).",
-          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Download-Text-file-from-Database.aspx",
-          "publishedOn": "2025-08-11T00:00:00.000Z",
-          "wordCount": 1455,
-          "title": "ASP.Net Core: Download Text file from Database",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         }
       ]
@@ -1796,7 +1401,7 @@
           "author": null,
           "description": "The Python ecosystem has evolved rapidly in recent years, with new standards and tools designed to make projects more reliable, reproducible…",
           "link": "https://www.sahansera.dev/modern-python-dependency-management-packaging/",
-          "publishedOn": "2025-08-13T02:06:38.384Z",
+          "publishedOn": "2025-08-14T02:07:15.350Z",
           "wordCount": 3767,
           "title": "Modern Dependency Management and Packaging in Python",
           "imageUrl": "https://www.sahansera.dev/static/687c937ba4cb7754d0ee3a107587d27b/9dc27/modern-python-dependency-management-packaging.jpg"
@@ -2171,18 +1776,7 @@
       "title": "Archive on Strathweb. A free flowing tech monologue.",
       "feedUrl": "https://www.strathweb.com/posts/index.xml",
       "siteUrl": "https://www.strathweb.com/posts/",
-      "articles": [
-        {
-          "id": "https://www.strathweb.com/2025/07/rag-agent-with-hype-pattern-using-semantic-kernel/",
-          "author": null,
-          "description": "In this post we will explore a novel approach to Retrieval-Augmented Generation (RAG) called HyPE (Hypothetical Prompt Embeddings), which I came across in a preprint paper recently. This technique tries to address one of the fundamental challenges in RAG systems: the semantic mismatch between user queries and document content. If you’ve ever built a RAG system, you’ve probably felt the frustration when your carefully crafted vector search returns seemingly irrelevant results. At least for me, it was always tremendously annoying when a question like What is quantum entanglement? wouldn’t reliably match a document section that clearly explains quantum entanglement.",
-          "link": "https://www.strathweb.com/2025/07/rag-agent-with-hype-pattern-using-semantic-kernel/",
-          "publishedOn": "2025-07-14T07:06:14.000Z",
-          "wordCount": 3224,
-          "title": "RAG Agent with HyPE Pattern using Semantic Kernel",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Code with Dan Blog",
