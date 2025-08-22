@@ -2,328 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-08-21T01:57:54.668Z</updated>
+    <updated>2025-08-22T01:58:50.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Using the new WebView2 AllowHostInputProcessing Keyboard Mapping Feature]]></title>
-        <id>4979824_202508210317</id>
-        <link href="https://weblog.west-wind.com/posts/2025/Aug/20/Using-the-new-WebView2-AllowHostInputProcessing-Keyboard-Mapping-Feature"/>
-        <updated>2025-08-21T03:17:34.000Z</updated>
-        <summary type="html"><![CDATA[The WebView2 control is a complex beast and when you're building hybrid Desktop/Web applications that do serious interaction between a WebView2 control and a Desktop interface, you're going to find that there are a lot of areas where the keyboard and focus behavior is not as natural as you want it to be. Probably the most glaring example of this for me in Markdown Monster has been key forwarding and specifically in handling the main window menu accelerators.
-Markdown Monster is a Markdown editor that uses a JavaScript based editor control, running in a WebView.  The editor control interacts in a million ways with the WPF desktop interface, primarily from .NET and WPF into the JavaScript editor, but also with some operations in the JS code triggering the WPF UI with content updates from the…]]></summary>
-        <author>
-            <name>Rick Strahl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using the new WebView2 AllowHostInputProcessing Keyboard Mapping Feature]]></title>
-        <id>4979824_202508210317</id>
-        <link href="https://weblog.west-wind.com/posts/2025/Aug/20/Using-the-new-WebView2-AllowHostInputProcessing-Keyboard-Mapping-Feature"/>
-        <updated>2025-08-21T03:17:34.000Z</updated>
-        <summary type="html"><![CDATA[The WebView2 control is a complex beast and when you're building hybrid Desktop/Web applications that do serious interaction between a WebView2 control and a Desktop interface, you're going to find that there are a lot of areas where the keyboard and focus behavior is not as natural as you want it to be. Probably the most glaring example of this for me in Markdown Monster has been key forwarding and specifically in handling the main window menu accelerators.
-Markdown Monster is a Markdown editor that uses a JavaScript based editor control, running in a WebView.  The editor control interacts in a million ways with the WPF desktop interface, primarily from .NET and WPF into the JavaScript editor, but also with some operations in the JS code triggering the WPF UI with content updates from the…]]></summary>
-        <author>
-            <name>Rick Strahl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog]]></title>
-        <id>stories/723397</id>
-        <link href="https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/"/>
-        <updated>2025-08-21T01:57:53.257Z</updated>
-        <summary type="html"><![CDATA[A long time ago, I stood in a packed room at VS Live! and watched developers erupt in applause after a debugging demo shaved hours off a real-world problem. That was the moment I realized this wasn't just a conference-it was a place where developers and toolmakers come together to push the craft forward.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing Terraform State In Azure Blob Storage Using Best Practices | Build5Nines]]></title>
-        <id>stories/723657</id>
-        <link href="https://dotnetkicks.com/r/723657?url=https://build5nines.com/securing-terraform-state-in-azure-blob-storage-using-best-practices/"/>
-        <updated>2025-08-21T01:57:53.256Z</updated>
-        <summary type="html"><![CDATA[When your team loses control of its Terraform state file, it loses control of everything in the subscription. An unencrypted or publicly exposed .tfstate]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Legacy Code Survival Guide: Visual Basic and .NET in 2025]]></title>
         <id>stories/723418</id>
         <link href="https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&amp;utm_medium=DNK-723418&amp;utm_content=DNK-723418&amp;utm_campaign=DNK-723418"/>
-        <updated>2025-08-21T01:57:53.256Z</updated>
+        <updated>2025-08-22T01:58:45.457Z</updated>
         <summary type="html"><![CDATA[Legacy code survival guide: Learn the current status of Visual Basic and .NET technologies in 2025, and get tips on managing and upgrading your legacy applications.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with stacked branches in git (Part 2)]]></title>
-        <id>stories/723493</id>
-        <link href="https://dotnetkicks.com/r/723493?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-2/"/>
-        <updated>2025-08-21T01:57:53.256Z</updated>
-        <summary type="html"><![CDATA[In this post looking at stacked branches I describe how to handle scenarios such as merging on of your stacked branches and handling changes to main]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FYAI: How to leverage AI to reimagine cross-functional collaboration with Yina Arenas | The Microsoft Cloud Blog]]></title>
-        <id>stories/723478</id>
-        <link href="https://dotnetkicks.com/r/723478?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/06/23/fyai-how-to-leverage-ai-to-reimagine-cross-functional-collaboration-with-yina-arenas/"/>
-        <updated>2025-08-21T01:57:53.256Z</updated>
-        <summary type="html"><![CDATA[Hear from Microsoft's Yina Arenas on the shifting AI landscape, why businesses get stuck on "proof of concept," and how Azure AI Foundry can help. Learn more.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simpler XAML in .NET MAUI 10 - .NET Blog]]></title>
-        <id>stories/723718</id>
-        <link href="https://dotnetkicks.com/r/723718?url=https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/"/>
-        <updated>2025-08-21T01:57:53.254Z</updated>
-        <summary type="html"><![CDATA[Make your .NET MAUI XAML more consistent and easier to read with global and implicit XML namespaces.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog]]></title>
-        <id>stories/723764</id>
-        <link href="https://dotnetkicks.com/r/723764?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/"/>
-        <updated>2025-08-21T01:57:53.253Z</updated>
-        <summary type="html"><![CDATA[In this blog, we'll walk you through what's new across these services so you can plan your upgrade holistically and unlock the full potential of SQL Server 2025.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Still About The Data: Practical Approach To Building With Agentic AI, LLMs And Generative AI | Build5Nines]]></title>
-        <id>stories/723757</id>
-        <link href="https://dotnetkicks.com/r/723757?url=https://build5nines.com/its-still-about-the-data-practical-approach-to-building-with-agentic-ai-llms-and-generative-ai/"/>
-        <updated>2025-08-21T01:57:53.253Z</updated>
-        <summary type="html"><![CDATA[There's no denying the massive wave of excitement around Agentic AI, Multi-Agent Systems, Generative AI, and Large Language Models (LLMs). Whether it's people]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog]]></title>
-        <id>stories/723775</id>
-        <link href="https://dotnetkicks.com/r/723775?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/"/>
-        <updated>2025-08-21T01:57:53.252Z</updated>
-        <summary type="html"><![CDATA[In this blog, we'll walk you through what's new across these services so you can plan your upgrade holistically and unlock the full potential of SQL Server 2025.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1]]></title>
-        <id>stories/723944</id>
-        <link href="https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/"/>
-        <updated>2025-08-21T01:57:53.251Z</updated>
-        <summary type="html"><![CDATA[In this post I discuss the new single-file .NET run experience, in which you can run a C# file directly, without needing a csproj project file]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pi-hole DNS on UGOS PRO 1.6.0.2917]]></title>
-        <id>stories/723852</id>
-        <link href="https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/"/>
-        <updated>2025-08-21T01:57:53.251Z</updated>
-        <summary type="html"><![CDATA[If you are reading this, you have most likely already updated to UGOS PRO 1.6.0.2917 and your Pi-hole Docker container failed with the error failfull start project 'pi-hole' err: Container pihole StartingError response from daemon: driver failed programming external connectivity on endpoint pihole (...): Error starting userland proxy: listen tcp4 0.0.0.0:53: bind: address already in...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET Channels as a In-Memory Message Bus - Beware!]]></title>
-        <id>stories/723776</id>
-        <link href="https://dotnetkicks.com/r/723776?url=https://codeopinion.com/net-channels-as-a-in-memory-message-bus-beware/"/>
-        <updated>2025-08-21T01:57:53.251Z</updated>
-        <summary type="html"><![CDATA[Using .NET Channels or MediatR? Looking for an in-memory message bus or producer-consumer? Hang on, do you need reliability?]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implement ASP.NET Core OpenID Connect with Keycloak to implement Level of Authentication (LoA) requirements]]></title>
-        <id>stories/724019</id>
-        <link href="https://dotnetkicks.com/r/724019?url=https://damienbod.com/2025/07/02/implement-asp-net-core-openid-connect-with-keykloak-to-implement-level-of-authentication-loa-requirements/"/>
-        <updated>2025-08-21T01:57:53.250Z</updated>
-        <summary type="html"><![CDATA[This post looks at implementing an OpenID Connect client in ASP.NET Core and require a level of authentication (LoA) implemented using Keycloak. The applications are hosted using Aspire. The LoA is requested in Keycloak using the arc_values claim. Code: https://github.com/damienbod/IdentityExternalErrorHandling Setup The applications are implemented using Aspire.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoMapper and MediatR Commercial Editions Launch Today]]></title>
-        <id>stories/724071</id>
-        <link href="https://dotnetkicks.com/r/724071?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/"/>
-        <updated>2025-08-21T01:57:53.249Z</updated>
-        <summary type="html"><![CDATA[Today I'm excited to announce the official launch and release of the commercial editions of AutoMapper and MediatR. Both of these libraries have moved under their new corporate owner (me), Lucky Penny Software. I formed this company to house these projects separate from my consulting company, but it's just me]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoMapper and MediatR Commercial Editions Launch Today]]></title>
-        <id>stories/724070</id>
-        <link href="https://dotnetkicks.com/r/724070?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/"/>
-        <updated>2025-08-21T01:57:53.249Z</updated>
-        <summary type="html"><![CDATA[Today I'm excited to announce the official launch and release of the commercial editions of AutoMapper and MediatR. Both of these libraries have moved under their new corporate owner (me), Lucky Penny Software. I formed this company to house these projects separate from my consulting company, but it's just me]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local AI + .NET = AltText Magic in One C# Script - .NET Blog]]></title>
-        <id>stories/724078</id>
-        <link href="https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/"/>
-        <updated>2025-08-21T01:57:53.248Z</updated>
-        <summary type="html"><![CDATA[Learn how to generate image AltText using .NET 10 and local AI models - all in a single C# file with dotnet run app.cs. A fun and accessible example of what AI can do beyond chat.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoMapper and MediatR Roadmaps]]></title>
-        <id>stories/724429</id>
-        <link href="https://dotnetkicks.com/r/724429?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/"/>
-        <updated>2025-08-21T01:57:53.247Z</updated>
-        <summary type="html"><![CDATA[One of my main goals of commercialization of AutoMapper and MediatR was being able to finally invest time in these projects where basically all new work stopped when I lost corporate sponsorship. I wanted to take some time to share where I'd like to take these projects now that I]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoMapper and MediatR Roadmaps]]></title>
-        <id>stories/724411</id>
-        <link href="https://dotnetkicks.com/r/724411?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/"/>
-        <updated>2025-08-21T01:57:53.247Z</updated>
-        <summary type="html"><![CDATA[One of my main goals of commercialization of AutoMapper and MediatR was being able to finally invest time in these projects where basically all new work stopped when I lost corporate sponsorship. I wanted to take some time to share where I'd like to take these projects now that I]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #27, 2025 - Breaking changes: Yay or Nay?]]></title>
-        <id>stories/724267</id>
-        <link href="https://dotnetkicks.com/r/724267?url=https://sergeytihon.com/2025/07/05/f-weekly-27-2025-breaking-changes-yay-or-nay/"/>
-        <updated>2025-08-21T01:57:53.247Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News Release of slight breaking change in upcoming 1.X release · fsprojects/FSharpPlus · Discussion #642 · GitHub Local AI + .NET = AltText Magic in One C# Script - .NET Blog All the Azure news you don't want to miss from Microsoft...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET and .NET Framework July 2025 servicing releases updates - .NET Blog]]></title>
-        <id>stories/724448</id>
-        <link href="https://dotnetkicks.com/r/724448?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/"/>
-        <updated>2025-08-21T01:57:53.245Z</updated>
-        <summary type="html"><![CDATA[A recap of the latest servicing updates for .NET and .NET Framework for July 2025.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Healing Akka.NET Clusters]]></title>
-        <id>stories/724487</id>
-        <link href="https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/"/>
-        <updated>2025-08-21T01:57:53.244Z</updated>
-        <summary type="html"><![CDATA[How Split Brain Resolvers ensure consistency even during network turbulence.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Healing Akka.NET Clusters]]></title>
-        <id>stories/724474</id>
-        <link href="https://dotnetkicks.com/r/724474?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/"/>
-        <updated>2025-08-21T01:57:53.244Z</updated>
-        <summary type="html"><![CDATA[How Split Brain Resolvers ensure consistency even during network turbulence.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog]]></title>
-        <id>stories/724540</id>
-        <link href="https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/"/>
-        <updated>2025-08-21T01:57:53.243Z</updated>
-        <summary type="html"><![CDATA[How the .NET MAUI Team uses GitHub Copilot for Productivity]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customize AI responses from GitHub Copilot - .NET Blog]]></title>
-        <id>stories/724693</id>
-        <link href="https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/"/>
-        <updated>2025-08-21T01:57:53.242Z</updated>
-        <summary type="html"><![CDATA[Learn how custom instructions can tailor GitHub Copilot's AI responses to your team's exact needs.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customize AI responses from GitHub Copilot - .NET Blog]]></title>
-        <id>stories/724676</id>
-        <link href="https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/"/>
-        <updated>2025-08-21T01:57:53.242Z</updated>
-        <summary type="html"><![CDATA[Learn how custom instructions can tailor GitHub Copilot's AI responses to your team's exact needs.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critter Stack Futures for the rest of 2025]]></title>
-        <id>stories/724820</id>
-        <link href="https://dotnetkicks.com/r/724820?url=https://jeremydmiller.com/2025/07/11/critter-stack-futures-for-the-rest-of-2025/"/>
-        <updated>2025-08-21T01:57:53.241Z</updated>
-        <summary type="html"><![CDATA[It's the halfway point of 2025 some how, and we've now gotten past the big Marten 8.0 and Wolverine 4.0 releases. Right before I go on vacation next week, I thought it would be a good time to jot down some thoughts about where the Critter Stack might go for the rest of 2025 and...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3]]></title>
-        <id>stories/725042</id>
-        <link href="https://dotnetkicks.com/r/725042?url=https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/"/>
-        <updated>2025-08-21T01:57:53.240Z</updated>
-        <summary type="html"><![CDATA[In this post I look at the C#14 extension members feature. I show how to convert extension methods to the new syntax and how to add new types of extension.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #28, 2025 - Beyond Zero-Allocation]]></title>
-        <id>stories/724901</id>
-        <link href="https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/"/>
-        <updated>2025-08-21T01:57:53.240Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog Customize GitHub Copilot in JetBrains with Custom Instructions - Microsoft for Java Developers Customize AI responses from GitHub Copilot - .NET Blog Videos Blazor Community Standup - Integrate...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Microservices Becoming Easier?]]></title>
-        <id>stories/724873</id>
-        <link href="https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques"/>
-        <updated>2025-08-21T01:57:53.240Z</updated>
-        <summary type="html"><![CDATA[Mark Heath's Development Blog]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protect and modernize SQL Server 2016 workloads with Microsoft - Microsoft SQL Server Blog]]></title>
-        <id>stories/725065</id>
-        <link href="https://dotnetkicks.com/r/725065?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/15/protect-and-modernize-sql-server-2016-workloads-with-microsoft/"/>
-        <updated>2025-08-21T01:57:53.238Z</updated>
-        <summary type="html"><![CDATA[We encourage all our customers running SQL Server 2016 to start planning for the end of support. We have migration resources, best practices, as well as a rich ecosystem of partners ready to help. Learn more.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -332,138 +20,18 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         <title type="html"><![CDATA[The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development]]></title>
         <id>stories/724992</id>
         <link href="https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&amp;utm_medium=DNK-724992&amp;utm_content=DNK-724992&amp;utm_campaign=DNK-724992"/>
-        <updated>2025-08-21T01:57:53.238Z</updated>
+        <updated>2025-08-22T01:58:43.209Z</updated>
         <summary type="html"><![CDATA[Forget the keynote fluff. The real power of .NET 10 is in its hidden gems. This blog explores unsung heroes like JIT devirtualization, span-based APIs, and sane time calcs that give you huge perf wins without the hassle.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[.NET 10 Preview 6 is now available! - .NET Blog]]></title>
-        <id>stories/725074</id>
-        <link href="https://dotnetkicks.com/r/725074?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/"/>
-        <updated>2025-08-21T01:57:53.237Z</updated>
-        <summary type="html"><![CDATA[Find out about the new features in .NET 10 Preview 6 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog]]></title>
-        <id>stories/725090</id>
-        <link href="https://dotnetkicks.com/r/725090?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/"/>
-        <updated>2025-08-21T01:57:53.236Z</updated>
-        <summary type="html"><![CDATA[Learn how to create a Model Context Protocol (MCP) server using .NET 10 and publish it to NuGet - making AI capabilities discoverable and reusable across the ecosystem.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET 10 Preview 6 is now available! - .NET Blog]]></title>
-        <id>stories/725082</id>
-        <link href="https://dotnetkicks.com/r/725082?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/"/>
-        <updated>2025-08-21T01:57:53.236Z</updated>
-        <summary type="html"><![CDATA[Find out about the new features in .NET 10 Preview 6 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog]]></title>
-        <id>stories/725107</id>
-        <link href="https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/"/>
-        <updated>2025-08-21T01:57:53.235Z</updated>
-        <summary type="html"><![CDATA[Learn how to create a Model Context Protocol (MCP) server using .NET 10 and publish it to NuGet - making AI capabilities discoverable and reusable across the ecosystem.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog]]></title>
-        <id>stories/725360</id>
-        <link href="https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/"/>
-        <updated>2025-08-21T01:57:53.234Z</updated>
-        <summary type="html"><![CDATA[We're excited to announce a new migration experience in Azure Arc to simplify and accelerate SQL Server migration. This new experience, now in preview, is powered by Azure Database Migration Service. Learn more.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dotnet cake.cs - preview]]></title>
-        <id>stories/725331</id>
-        <link href="https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs"/>
-        <updated>2025-08-21T01:57:53.234Z</updated>
-        <summary type="html"><![CDATA[We're excited to announce the preview of Cake.Sdk, a new way to get the Cake tool scripting experience in regular .NET console applications! This brings you the stellar experience of the new "dotnet run app.cs" feature (requires .NET 10), while also working seamlessly with .NET 8 and 9 for regular csproj projects.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #29, 2025 - .NET 10 Preview 6]]></title>
-        <id>stories/725471</id>
-        <link href="https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/"/>
-        <updated>2025-08-21T01:57:53.233Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News .NET 10 Preview 6 is now available! - .NET Blog Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog Bring your own agents into Microsoft 365 Copilot - Microsoft 365 Developer Blog Customize AI responses from...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Prioritize OSS Bugs]]></title>
-        <id>stories/725466</id>
-        <link href="https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/"/>
-        <updated>2025-08-21T01:57:53.233Z</updated>
-        <summary type="html"><![CDATA[I just got back from a week long vacation with the family, and I was as rested and relaxed as I can ever be, at least before I picked up a head cold on the last day. Today though, it's time t...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog]]></title>
-        <id>stories/725623</id>
-        <link href="https://dotnetkicks.com/r/725623?url=https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/"/>
-        <updated>2025-08-21T01:57:53.232Z</updated>
-        <summary type="html"><![CDATA[GitHub Copilot Chat offers two powerful modes, Ask Mode and Agent Mode, that can dramatically accelerate your development. Learn when to use each mode to get the most out of this tool.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fresh Learning Paths Now Available on Pluralsight for VS Subscribers - Visual Studio Blog]]></title>
-        <id>stories/725686</id>
-        <link href="https://dotnetkicks.com/r/725686?url=https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/"/>
-        <updated>2025-08-21T01:57:53.231Z</updated>
-        <summary type="html"><![CDATA[Fresh learning paths and expert-led courses are now available on Pluralsight for Visual Studio Professional and Enterprise subscribers. Unlock new skills in VS Code, GitHub Copilot security, generative AI, Azure automation, and more-activate your extended access today at my.visualstudio.com]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4]]></title>
-        <id>stories/725644</id>
-        <link href="https://dotnetkicks.com/r/725644?url=https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/"/>
-        <updated>2025-08-21T01:57:53.231Z</updated>
-        <summary type="html"><![CDATA[In this post I discuss a new source generator API, AddEmbeddedAttributeDefinition(), added in .NET 10, which makes it easier to embed generated attributes]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog]]></title>
-        <id>stories/725723</id>
-        <link href="https://dotnetkicks.com/r/725723?url=https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/"/>
-        <updated>2025-08-21T01:57:53.230Z</updated>
-        <summary type="html"><![CDATA[The MCP C# SDK has been updated to support the latest Model Context Protocol specification (2025-06-18), bringing structured tool output, elicitation support, enhanced security, and more to .NET developers building AI applications.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11]]></title>
-        <id>stories/725714</id>
-        <link href="https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/"/>
-        <updated>2025-08-21T01:57:53.230Z</updated>
-        <summary type="html"><![CDATA[Want those slick terminal icons and glyphs you keep seeing in screenshots? Here's the definitive guide to getting Nerd Fonts and terminal icons working with PowerShell 7 and Windows Terminal on Windows 11.]]></summary>
+        <title type="html"><![CDATA[Are Microservices Becoming Easier?]]></title>
+        <id>stories/724873</id>
+        <link href="https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques"/>
+        <updated>2025-08-22T01:58:38.162Z</updated>
+        <summary type="html"><![CDATA[Mark Heath's Development Blog]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -472,148 +40,8 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         <title type="html"><![CDATA[How to Combine MP4 Files on Windows Using FFmpeg]]></title>
         <id>stories/725920</id>
         <link href="https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/"/>
-        <updated>2025-08-21T01:57:53.229Z</updated>
+        <updated>2025-08-22T01:58:33.290Z</updated>
         <summary type="html"><![CDATA[Learn how to merge multiple MP4 video files into one seamless file on Windows using FFmpeg with lossless quality.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Example of Using Alba for HTTP Testing]]></title>
-        <id>stories/725896</id>
-        <link href="https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/"/>
-        <updated>2025-08-21T01:57:53.229Z</updated>
-        <summary type="html"><![CDATA[Before Marten took off and we pivoted to using the "Critter Stack" naming motif, the original naming theme for the JasperFx OSS tool suite were some of the small towns near where I grew up in Southwest Missouri. Alba, MO is somewhat famous as the hometown of the Boyer brothers.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database Migration Strategies]]></title>
-        <id>stories/725997</id>
-        <link href="https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/"/>
-        <updated>2025-08-21T01:57:53.227Z</updated>
-        <summary type="html"><![CDATA[Database migrations can be tricky, depending on your application and environment. The key is making backward-compatible changes!]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team]]></title>
-        <id>stories/725935</id>
-        <link href="https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/"/>
-        <updated>2025-08-21T01:57:53.227Z</updated>
-        <summary type="html"><![CDATA[We are pleased to announce the general availability of Microsoft.PowerShell.PlatyPS 1.0.0, a tool to build PowerShell help files.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #30, 2025 - Quipu &amp; Perla]]></title>
-        <id>stories/726122</id>
-        <link href="https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/"/>
-        <updated>2025-08-21T01:57:53.226Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News Perla V1.0.0 betas are out! MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog Can You Build Agent2Agent Communication on...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #30, 2025 - Quipu &amp; Perla]]></title>
-        <id>stories/726136</id>
-        <link href="https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/"/>
-        <updated>2025-08-21T01:57:53.225Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News Perla V1.0.0 betas are out! MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog Can You Build Agent2Agent Communication on...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5]]></title>
-        <id>stories/726243</id>
-        <link href="https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/"/>
-        <updated>2025-08-21T01:57:53.224Z</updated>
-        <summary type="html"><![CDATA[In this post I show the new dnx command for running .NET tools without installing them and look at exactly how it works.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Changes in .NET 10: A Migration Guide from .NET 8]]></title>
-        <id>stories/726040</id>
-        <link href="https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&amp;utm_medium=DNK-726040&amp;utm_content=DNK-726040&amp;utm_campaign=DNK-726040"/>
-        <updated>2025-08-21T01:57:53.224Z</updated>
-        <summary type="html"><![CDATA[Migrating from .NET 8 to 10? This guide covers breaking changes (Preview 6 included), timelines, tools, and pitfalls. Prep your upgrade strategy for LTS success.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog]]></title>
-        <id>stories/726312</id>
-        <link href="https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/"/>
-        <updated>2025-08-21T01:57:53.223Z</updated>
-        <summary type="html"><![CDATA[Aspire 9.4 is packed with new features, integrations, and improvements]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog]]></title>
-        <id>stories/726391</id>
-        <link href="https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/"/>
-        <updated>2025-08-21T01:57:53.222Z</updated>
-        <summary type="html"><![CDATA[Discover how to build a full-stack application with React and Aspire, integrating a React front-end with an ASP.NET Core Web API and persisting data to a database.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog]]></title>
-        <id>stories/726383</id>
-        <link href="https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/"/>
-        <updated>2025-08-21T01:57:53.222Z</updated>
-        <summary type="html"><![CDATA[Discover how to build a full-stack application with React and Aspire, integrating a React front-end with an ASP.NET Core Web API and persisting data to a database.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog]]></title>
-        <id>stories/726313</id>
-        <link href="https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/"/>
-        <updated>2025-08-21T01:57:53.222Z</updated>
-        <summary type="html"><![CDATA[Aspire 9.4 is packed with new features, integrations, and improvements]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phi Silica task specialization using LoRA in Microsoft Learning Zone: A technical deep dive]]></title>
-        <id>stories/726432</id>
-        <link href="https://dotnetkicks.com/r/726432?url=https://blogs.windows.com/windowsdeveloper/2025/07/31/phi-silica-task-specialization-using-lora-in-microsoft-learning-zone-a-technical-deep-dive/"/>
-        <updated>2025-08-21T01:57:53.220Z</updated>
-        <summary type="html"><![CDATA[At Build 2025, we announced support for LoRA (low-rank-adaptation) finetuning]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smarter AI Edits in Visual Studio Copilot - Visual Studio Blog]]></title>
-        <id>stories/726416</id>
-        <link href="https://dotnetkicks.com/r/726416?url=https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/"/>
-        <updated>2025-08-21T01:57:53.220Z</updated>
-        <summary type="html"><![CDATA[Discover how Visual Studio Copilot leverages smarter AI-generated edits using speculative decoding and advanced model-based techniques. Learn how these innovations improve code accuracy, speed, and developer productivity-plus, get a sneak peek at the future of Agent Mode in Visual Studio Copilot.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metadata Tracking Improvements in Marten]]></title>
-        <id>stories/726440</id>
-        <link href="https://dotnetkicks.com/r/726440?url=https://jeremydmiller.com/2025/07/27/metadata-tracking-improvements-in-marten/"/>
-        <updated>2025-08-21T01:57:53.219Z</updated>
-        <summary type="html"><![CDATA[We just released a new batch of improvements in the Marten 8.4 release that improved Marten's already strong support for tracking metadata on event persistence. Override Event Metadata on Individual Events This work was done at the behest of a JasperFx Software client. They only needed to vary header values between events, but while the...]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -622,8 +50,18 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         <title type="html"><![CDATA[Video: Visual Toolbox: Git in Visual Studio]]></title>
         <id>stories/726482</id>
         <link href="https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/"/>
-        <updated>2025-08-21T01:57:53.218Z</updated>
+        <updated>2025-08-22T01:58:28.073Z</updated>
         <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Changes in .NET 10: A Migration Guide from .NET 8]]></title>
+        <id>stories/726040</id>
+        <link href="https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&amp;utm_medium=DNK-726040&amp;utm_content=DNK-726040&amp;utm_campaign=DNK-726040"/>
+        <updated>2025-08-22T01:58:27.699Z</updated>
+        <summary type="html"><![CDATA[Migrating from .NET 8 to 10? This guide covers breaking changes (Preview 6 included), timelines, tools, and pitfalls. Prep your upgrade strategy for LTS success.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -632,38 +70,18 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         <title type="html"><![CDATA[Video: Visual Toolbox: Git in Visual Studio]]></title>
         <id>stories/726471</id>
         <link href="https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/"/>
-        <updated>2025-08-21T01:57:53.218Z</updated>
+        <updated>2025-08-22T01:58:26.780Z</updated>
         <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[F# Weekly #31, 2025 - Aspire 9.4]]></title>
-        <id>stories/726523</id>
-        <link href="https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/"/>
-        <updated>2025-08-21T01:57:53.217Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog Building AI Agents with the A2A .NET SDK | Azure AI Foundry Blog...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire]]></title>
-        <id>stories/726622</id>
-        <link href="https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/"/>
-        <updated>2025-08-21T01:57:53.216Z</updated>
-        <summary type="html"><![CDATA[This post shows how to issue and verify identities (verifiable credentials) using the Swiss Digital identity and trust infrastructure, (swiyu), ASP.NET Core and .NET Aspire. The swiyu infrastructure is implemented using the provided generic containers which implement the OpenID for Verifiable Credential Issuance and the OpenID for Verifiable Presentations standards as well as many other...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new Dependabot NuGet updater: 65% faster with native .NET - .NET Blog]]></title>
-        <id>stories/726617</id>
-        <link href="https://dotnetkicks.com/r/726617?url=https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/"/>
-        <updated>2025-08-21T01:57:53.216Z</updated>
-        <summary type="html"><![CDATA[Discover the new Dependabot NuGet updater that improves performance, accuracy, and developer experience by leveraging native .NET tooling.]]></summary>
+        <title type="html"><![CDATA[How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11]]></title>
+        <id>stories/725714</id>
+        <link href="https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/"/>
+        <updated>2025-08-22T01:58:26.765Z</updated>
+        <summary type="html"><![CDATA[Want those slick terminal icons and glyphs you keep seeing in screenshots? Here's the definitive guide to getting Nerd Fonts and terminal icons working with PowerShell 7 and Windows Terminal on Windows 11.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -672,148 +90,8 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         <title type="html"><![CDATA[Jeff Fritz on .NET Aspire and CoPilot Agents]]></title>
         <id>stories/726734</id>
         <link href="https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/"/>
-        <updated>2025-08-21T01:57:53.206Z</updated>
+        <updated>2025-08-22T01:58:26.546Z</updated>
         <summary type="html"><![CDATA[Jeff Fritz (Microsoft) joins me to talk about .NET Aspire, CoPilot Agents and Vibe programming. This is a show not to miss; his enthusiasm is catching and his knowledge is astonishing. Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6]]></title>
-        <id>stories/726680</id>
-        <link href="https://dotnetkicks.com/r/726680?url=https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/"/>
-        <updated>2025-08-21T01:57:53.206Z</updated>
-        <summary type="html"><![CDATA[In this post I look at the passkey support added to ASP.NET Core Identity and the Blazor Web App template, explore how it works, and look at the implementation]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog]]></title>
-        <id>stories/726809</id>
-        <link href="https://dotnetkicks.com/r/726809?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/"/>
-        <updated>2025-08-21T01:57:53.204Z</updated>
-        <summary type="html"><![CDATA[Support for Visual Studio 2015 ends Oct 14, 2025. Upgrade to Visual Studio 2022 for AI tools, .NET 9, GitHub integration, and full security updates.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog]]></title>
-        <id>stories/726798</id>
-        <link href="https://dotnetkicks.com/r/726798?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/"/>
-        <updated>2025-08-21T01:57:53.204Z</updated>
-        <summary type="html"><![CDATA[Support for Visual Studio 2015 ends Oct 14, 2025. Upgrade to Visual Studio 2022 for AI tools, .NET 9, GitHub integration, and full security updates.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET Conf 2025 - Announcing the Call for Content - .NET Blog]]></title>
-        <id>stories/726779</id>
-        <link href="https://dotnetkicks.com/r/726779?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/"/>
-        <updated>2025-08-21T01:57:53.204Z</updated>
-        <summary type="html"><![CDATA[The .NET Conf 2025 Call for Content is now open! Join us November 11-13 for the premier .NET virtual event celebrating .NET 10. Submit your session proposal by August 31st and share your .NET expertise with developers worldwide.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog]]></title>
-        <id>stories/726814</id>
-        <link href="https://dotnetkicks.com/r/726814?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/"/>
-        <updated>2025-08-21T01:57:53.202Z</updated>
-        <summary type="html"><![CDATA[Introducing Agent Quality and NLP evaluators in the Microsoft.Extensions.AI.Evaluation libraries.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET and .NET Framework August 2025 servicing releases updates - .NET Blog]]></title>
-        <id>stories/726862</id>
-        <link href="https://dotnetkicks.com/r/726862?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/"/>
-        <updated>2025-08-21T01:57:53.201Z</updated>
-        <summary type="html"><![CDATA[A recap of the latest servicing updates for .NET and .NET Framework for August 2025.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET and .NET Framework August 2025 servicing releases updates - .NET Blog]]></title>
-        <id>stories/726844</id>
-        <link href="https://dotnetkicks.com/r/726844?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/"/>
-        <updated>2025-08-21T01:57:53.201Z</updated>
-        <summary type="html"><![CDATA[A recap of the latest servicing updates for .NET and .NET Framework for August 2025.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog]]></title>
-        <id>stories/726818</id>
-        <link href="https://dotnetkicks.com/r/726818?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/"/>
-        <updated>2025-08-21T01:57:53.201Z</updated>
-        <summary type="html"><![CDATA[Introducing Agent Quality and NLP evaluators in the Microsoft.Extensions.AI.Evaluation libraries.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing MCP Support in AI Shell Preview 6 - PowerShell Team]]></title>
-        <id>stories/726864</id>
-        <link href="https://dotnetkicks.com/r/726864?url=https://devblogs.microsoft.com/powershell/preview-6-ai-shell/"/>
-        <updated>2025-08-21T01:57:53.200Z</updated>
-        <summary type="html"><![CDATA[We're excited to share the latest preview release of AI Shell that includes new features and improvements based on your feedback.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use EdDSA signatures to validate tokens in ASP.NET Core using OpenID Connect]]></title>
-        <id>stories/726972</id>
-        <link href="https://dotnetkicks.com/r/726972?url=https://damienbod.com/2025/08/06/use-eddsa-signatures-to-validate-tokens-in-asp-net-core-using-openid-connect/"/>
-        <updated>2025-08-21T01:57:53.199Z</updated>
-        <summary type="html"><![CDATA[Some identity providers use the EdDSA / ED25519 algorithm to sign and issue tokens. This post shows how to validate the tokens using the Nuget package from ScottBrady and ASP.NET Core. Using the default OpenID Connect setup, the keys are not read and the tokens cannot be validated.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog]]></title>
-        <id>stories/726939</id>
-        <link href="https://dotnetkicks.com/r/726939?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/"/>
-        <updated>2025-08-21T01:57:53.199Z</updated>
-        <summary type="html"><![CDATA[Discover 5 practical GitHub Copilot Chat prompts to boost .NET development productivity, from code optimization to security reviews.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog]]></title>
-        <id>stories/726936</id>
-        <link href="https://dotnetkicks.com/r/726936?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/"/>
-        <updated>2025-08-21T01:57:53.199Z</updated>
-        <summary type="html"><![CDATA[Discover 5 practical GitHub Copilot Chat prompts to boost .NET development productivity, from code optimization to security reviews.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loosely Coupled Monolith - Software Architecture - 2025 Edition]]></title>
-        <id>stories/727008</id>
-        <link href="https://dotnetkicks.com/r/727008?url=https://codeopinion.com/loosely-coupled-monolith-software-architecture-2025-edition/"/>
-        <updated>2025-08-21T01:57:53.197Z</updated>
-        <summary type="html"><![CDATA[Loosely Coupled Monolith is focusing on cohesion, managing coupling, and that logical boundaries aren't your physical boundaries.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #32, 2025 - Call for Speakers: .NET Conf 2025 &amp; JetBrains .NET Days]]></title>
-        <id>stories/727117</id>
-        <link href="https://dotnetkicks.com/r/727117?url=https://sergeytihon.com/2025/08/10/f-weekly-32-2025-call-for-speakers-net-conf-2025-jetbrains-net-days/"/>
-        <updated>2025-08-21T01:57:53.196Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 - Announcing the Call for Content - .NET Blog 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog The new Dependabot...]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -822,208 +100,18 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         <title type="html"><![CDATA[Cake.Sdk 5.0.25225.53-beta released]]></title>
         <id>stories/727431</id>
         <link href="https://dotnetkicks.com/r/727431?url=https://cakebuild.net/blog/2025/08/cake-sdk-net-preview-7-update"/>
-        <updated>2025-08-21T01:57:53.195Z</updated>
+        <updated>2025-08-22T01:58:23.533Z</updated>
         <summary type="html"><![CDATA[A new preview version of Cake.Sdk has been released! Version 5.0.25225.53-beta brings compatibility with .NET 10 Preview 7. 🚀 🍰 Compiled with/against .NET 10 Preview 7 - Full compatibility with the latest .NET 10 preview Updated dependencies - All underlying packages updated to their latest versions Fixes for new analyzer warnings - Resolved potential compatibility issues with Preview 7 SDK One notable improvement addresses the issue mentioned in our previous announcement.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Redmond to San Diego: VS Live! Highlights, Session Examples, and What's Next - Visual Studio Blog]]></title>
-        <id>stories/727404</id>
-        <link href="https://dotnetkicks.com/r/727404?url=https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next/"/>
-        <updated>2025-08-21T01:57:53.195Z</updated>
-        <summary type="html"><![CDATA[Watch Microsoft-led sessions from Visual Studio Live! @ Microsoft HQ on-demand. Keynotes, deep dives, and demos from Visual Studio, Azure, and GitHub Copilot experts-plus save on upcoming VS Live! San Diego registration.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET 10 Preview 7 is now available! - .NET Blog]]></title>
-        <id>stories/727280</id>
-        <link href="https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/"/>
-        <updated>2025-08-21T01:57:53.195Z</updated>
-        <summary type="html"><![CDATA[Find out about the new features in .NET 10 Preview 7 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running .NET in the browser without Blazor]]></title>
-        <id>stories/727227</id>
-        <link href="https://dotnetkicks.com/r/727227?url=https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/"/>
-        <updated>2025-08-21T01:57:53.195Z</updated>
-        <summary type="html"><![CDATA[In this post I show how to run .NET in your browser without using Blazor, and instead rely on lower-level abstractions provided by [JSImport] and [JSExport]]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing the NuGet MCP Server Preview - .NET Blog]]></title>
-        <id>stories/727519</id>
-        <link href="https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/"/>
-        <updated>2025-08-21T01:57:53.194Z</updated>
-        <summary type="html"><![CDATA[We've released a preview of the NuGet MCP Server, which extends Copilot by providing realtime information about packages and adds advanced functionality around updating packages.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog]]></title>
-        <id>stories/727490</id>
-        <link href="https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/"/>
-        <updated>2025-08-21T01:57:53.194Z</updated>
-        <summary type="html"><![CDATA[Our new Remote Semantic Search integration helps you find exactly what you need faster and with greater precision than ever before.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog]]></title>
-        <id>stories/727467</id>
-        <link href="https://dotnetkicks.com/r/727467?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/"/>
-        <updated>2025-08-21T01:57:53.194Z</updated>
-        <summary type="html"><![CDATA[Our new Remote Semantic Search integration helps you find exactly what you need faster and with greater precision than ever before.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Akka.Streams.Kafka is the Best Kafka Client for .NET]]></title>
-        <id>stories/727550</id>
-        <link href="https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/"/>
-        <updated>2025-08-21T01:57:53.193Z</updated>
-        <summary type="html"><![CDATA[Stop writing hundreds of lines of error handling code - there's a better way.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Converting an xUnit test project to TUnit]]></title>
-        <id>stories/727846</id>
-        <link href="https://dotnetkicks.com/r/727846?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/"/>
-        <updated>2025-08-21T01:57:53.192Z</updated>
-        <summary type="html"><![CDATA[In this post I discuss the new TUnit testing framework, why I ported one of my libraries to use it instead of xUnit and related issues I had to deal with]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Converting an xUnit test project to TUnit]]></title>
-        <id>stories/727845</id>
-        <link href="https://dotnetkicks.com/r/727845?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/"/>
-        <updated>2025-08-21T01:57:53.192Z</updated>
-        <summary type="html"><![CDATA[In this post I discuss the new TUnit testing framework, why I ported one of my libraries to use it instead of xUnit and related issues I had to deal with]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Operations that Span Multiple Event Streams with the Critter Stack]]></title>
-        <id>stories/727838</id>
-        <link href="https://dotnetkicks.com/r/727838?url=https://jeremydmiller.com/2025/08/18/operations-that-span-multiple-event-streams-with-the-critter-stack/"/>
-        <updated>2025-08-21T01:57:53.192Z</updated>
-        <summary type="html"><![CDATA[Let's just say that Marten incurs some serious benefits to being on top of PostgreSQL and its very strong support for transactional integrity as opposed to some of the high profile commercial Event Sourcing tools who are spending a lot of time and energy on their "Dynamic Consistency Boundary" concept because they lack the ACID...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reset Cookies and force new sign-in using ASP.NET Core Identity]]></title>
-        <id>stories/727827</id>
-        <link href="https://dotnetkicks.com/r/727827?url=https://damienbod.com/2025/08/18/reset-cookies-and-force-new-sign-in-using-asp-net-core-identity/"/>
-        <updated>2025-08-21T01:57:53.192Z</updated>
-        <summary type="html"><![CDATA[This post looks at implementing a cookie reset in an ASP.NET Core application using Duende identity server which federates to Entra ID. Sometimes cookies need to be reset for end users due to size problems, or unknown remote authentication server errors. The cookies can be cleared and a new sign in can be forced.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #33, 2025 - Rider 2025.2 &amp; .NET 10 Preview 7]]></title>
-        <id>stories/727748</id>
-        <link href="https://dotnetkicks.com/r/727748?url=https://sergeytihon.com/2025/08/17/f-weekly-33-2025-rider-2025-2-net-10-preview-7/"/>
-        <updated>2025-08-21T01:57:53.192Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News What's new in F# with Rider 2025.2 Import code completion and quick fixes Type hints and type annotation actions Code editing and analysis C#/VB in-memory references F# Interactive and scripts What's New in Rider 2025.2 .NET 10 Preview 7 is now...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need Some Feedback on Near Term Wolverine Work]]></title>
-        <id>stories/727678</id>
-        <link href="https://dotnetkicks.com/r/727678?url=https://jeremydmiller.com/2025/08/15/need-some-feedback-on-near-term-wolverine-work/"/>
-        <updated>2025-08-21T01:57:53.192Z</updated>
-        <summary type="html"><![CDATA[That's supposed to be a play on a Wolverine as Winnie the Pooh in his "thinking spot" I'm wrestling a little bit with whether the new features and changes coming into Wolverine very soon are worthy of a 5.0 release even though 4.0 was just a couple months ago.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog]]></title>
-        <id>stories/728005</id>
-        <link href="https://dotnetkicks.com/r/728005?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/"/>
-        <updated>2025-08-21T01:57:53.191Z</updated>
-        <summary type="html"><![CDATA[Learn how to bring your own model to Visual Studio Chat. Gain flexibility, control, and customization by choosing the models that best fit your workflow.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog]]></title>
-        <id>stories/727973</id>
-        <link href="https://dotnetkicks.com/r/727973?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/"/>
-        <updated>2025-08-21T01:57:53.191Z</updated>
-        <summary type="html"><![CDATA[Learn how to bring your own model to Visual Studio Chat. Gain flexibility, control, and customization by choosing the models that best fit your workflow.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog]]></title>
-        <id>stories/727902</id>
-        <link href="https://dotnetkicks.com/r/727902?url=https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/"/>
-        <updated>2025-08-21T01:57:53.191Z</updated>
-        <summary type="html"><![CDATA[We're excited to announce that MCP support is now GA in Visual Studio-unlocking richer, real-time context from your entire development stack and expanding the power of Agent Mode like never before.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-OSS - A C# Guide with Ollama - .NET Blog]]></title>
-        <id>stories/727899</id>
-        <link href="https://dotnetkicks.com/r/727899?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/"/>
-        <updated>2025-08-21T01:57:53.191Z</updated>
-        <summary type="html"><![CDATA[Run GPT-OSS locally with C# and Ollama to build fast, private, offline AI]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-OSS - A C# Guide with Ollama - .NET Blog]]></title>
-        <id>stories/727897</id>
-        <link href="https://dotnetkicks.com/r/727897?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/"/>
-        <updated>2025-08-21T01:57:53.191Z</updated>
-        <summary type="html"><![CDATA[Run GPT-OSS locally with C# and Ollama to build fast, private, offline AI]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Product Efficacy]]></title>
-        <id>stories/728032</id>
-        <link href="https://dotnetkicks.com/r/728032?url=https://textslashplain.com/2025/08/20/security-product-efficacy/"/>
-        <updated>2025-08-21T01:57:53.190Z</updated>
-        <summary type="html"><![CDATA[I've written about security products previously, laying out the framing that security products combine sensors and throttles with threat intelligence to provide protection against threats. As a product engineer, I spend most of my time thinking about how to improve sensors and throttles to enhance protection, but those components only provide value if the threat...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot Diagnostics toolset for .NET In Visual Studio - .NET Blog]]></title>
-        <id>stories/728012</id>
-        <link href="https://dotnetkicks.com/r/728012?url=https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/"/>
-        <updated>2025-08-21T01:57:53.190Z</updated>
-        <summary type="html"><![CDATA[Debugging doesn't have to be a grind. With Copilot woven into Visual Studio, you get AI-powered breakpoints, insights, exception fixes, and performance summaries all right where you work.]]></summary>
+        <title type="html"><![CDATA[dotnet cake.cs - preview]]></title>
+        <id>stories/725331</id>
+        <link href="https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs"/>
+        <updated>2025-08-22T01:58:20.919Z</updated>
+        <summary type="html"><![CDATA[We're excited to announce the preview of Cake.Sdk, a new way to get the Cake tool scripting experience in regular .NET console applications! This brings you the stellar experience of the new "dotnet run app.cs" feature (requires .NET 10), while also working seamlessly with .NET 8 and 9 for regular csproj projects.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -1032,10 +120,112 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         <title type="html"><![CDATA[Modern Dependency Management and Packaging in Python]]></title>
         <id>https://www.sahansera.dev/modern-python-dependency-management-packaging/</id>
         <link href="https://www.sahansera.dev/modern-python-dependency-management-packaging/"/>
-        <updated>2025-08-21T01:57:21.038Z</updated>
+        <updated>2025-08-22T01:58:18.990Z</updated>
         <summary type="html"><![CDATA[The Python ecosystem has evolved rapidly in recent years, with new standards and tools designed to make projects more reliable, reproducible…]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Separate Databases? Explaining Like You're Five]]></title>
+        <id>stories/728117</id>
+        <link href="https://dotnetkicks.com/r/728117?url=https://codeopinion.com/why-separate-databases-explaining-like-youre-five/"/>
+        <updated>2025-08-21T18:16:33.000Z</updated>
+        <summary type="html"><![CDATA[I want to give you three different examples and reasons why you might want to separate customers and orders into different databases.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhance your CLI testing workflow with the new dotnet test - .NET Blog]]></title>
+        <id>stories/728111</id>
+        <link href="https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/"/>
+        <updated>2025-08-21T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how .NET 10 transforms dotnet test with native Microsoft.Testing.Platform integration, delivering better performance and enhanced diagnostics.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Control over Your Copilot Code Suggestions - Visual Studio Blog]]></title>
+        <id>stories/728100</id>
+        <link href="https://dotnetkicks.com/r/728100?url=https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions/"/>
+        <updated>2025-08-21T16:00:37.000Z</updated>
+        <summary type="html"><![CDATA[enhanced control over your Copilot experience, so you can decide when suggestions show up and how much you accept, right inside your editor.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Checkmate Patterns in Chess for Beginners]]></title>
+        <id>68a72ee03bbf12346853dce9</id>
+        <link href="https://www.freecodecamp.org/news/checkmate-patterns-in-chess-for-beginners/"/>
+        <updated>2025-08-21T14:36:16.000Z</updated>
+        <summary type="html"><![CDATA[After learning the rules and basics of chess, there are various concepts that beginners should learn in order to keep improving. Some of these concepts include opening principles, middle game concepts, endgame fundamentals, and strategy. In this hand...]]></summary>
+        <author>
+            <name>Ihechikara Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Checkmate in Chess]]></title>
+        <id>68a725840cbb7e6465d8f441</id>
+        <link href="https://www.freecodecamp.org/news/how-to-checkmate-in-chess/"/>
+        <updated>2025-08-21T13:56:20.000Z</updated>
+        <summary type="html"><![CDATA[Ready to turn your chess advantages into decisive victories? We've just released a new beginner-level course on the freeCodeCamp.org YouTube channel that focuses on the most important phase of the game: the endgame. This course is designed for player...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – August 21, 2025 (#4481)]]></title>
+        <id>https://www.alvinashcraft.com/?p=36364</id>
+        <link href="https://www.alvinashcraft.com/2025/08/21/dew-drop-august-21-2025-4481/"/>
+        <updated>2025-08-21T11:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Top Links Windows App SDK v1.8.0-preview1 release (Roy MacLachlan) Copilot Diagnostics toolset for .NET In Visual Studio (Harshada Hole) Quantum-safe security: Progress towards next-generation cryptography (Mark Russinovich & Michal Braverman-Blumenstyk) .NET Rocks! – C# 14 with Dustin Campbell (Carl Franklin & Richard Campbell) Designing Multi-Agent Intelligence (Vinicius Souza, Maggie Liu & Thiago Rotta) Bring Your … Continue reading Dew Drop – August 21, 2025 (#4481)]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the new WebView2 AllowHostInputProcessing Keyboard Mapping Feature]]></title>
+        <id>4979824_202508210317</id>
+        <link href="https://weblog.west-wind.com/posts/2025/Aug/20/Using-the-new-WebView2-AllowHostInputProcessing-Keyboard-Mapping-Feature"/>
+        <updated>2025-08-21T03:17:34.000Z</updated>
+        <summary type="html"><![CDATA[The WebView2 control is a complex beast and when you're building hybrid Desktop/Web applications that do serious interaction between a WebView2 control and a Desktop interface, you're going to find that there are a lot of areas where the keyboard and focus behavior is not as natural as you want it to be. Probably the most glaring example of this for me in Markdown Monster has been key forwarding and specifically in handling the main window menu accelerators.
+Markdown Monster is a Markdown editor that uses a JavaScript based editor control, running in a WebView.  The editor control interacts in a million ways with the WPF desktop interface, primarily from .NET and WPF into the JavaScript editor, but also with some operations in the JS code triggering the WPF UI with content updates from the…]]></summary>
+        <author>
+            <name>Rick Strahl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the new WebView2 AllowHostInputProcessing Keyboard Mapping Feature]]></title>
+        <id>4979824_202508210317</id>
+        <link href="https://weblog.west-wind.com/posts/2025/Aug/20/Using-the-new-WebView2-AllowHostInputProcessing-Keyboard-Mapping-Feature"/>
+        <updated>2025-08-21T03:17:34.000Z</updated>
+        <summary type="html"><![CDATA[The WebView2 control is a complex beast and when you're building hybrid Desktop/Web applications that do serious interaction between a WebView2 control and a Desktop interface, you're going to find that there are a lot of areas where the keyboard and focus behavior is not as natural as you want it to be. Probably the most glaring example of this for me in Markdown Monster has been key forwarding and specifically in handling the main window menu accelerators.
+Markdown Monster is a Markdown editor that uses a JavaScript based editor control, running in a WebView.  The editor control interacts in a million ways with the WPF desktop interface, primarily from .NET and WPF into the JavaScript editor, but also with some operations in the JS code triggering the WPF UI with content updates from the…]]></summary>
+        <author>
+            <name>Rick Strahl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Firebase Crashlytics in a Flutter App (iOS and Android)]]></title>
+        <id>68a6656e9437c0afc5323dc1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-firebase-crashlytics-in-a-flutter-app-ios-and-android/"/>
+        <updated>2025-08-21T00:16:46.000Z</updated>
+        <summary type="html"><![CDATA[When you’re building mobile applications, one of the biggest challenges you might face is ensuring stability in real-world usage. No matter how much testing you do, unexpected crashes are bound to occur. This is where Firebase Crashlytics becomes an ...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Product Efficacy]]></title>
+        <id>stories/728032</id>
+        <link href="https://dotnetkicks.com/r/728032?url=https://textslashplain.com/2025/08/20/security-product-efficacy/"/>
+        <updated>2025-08-20T21:24:43.000Z</updated>
+        <summary type="html"><![CDATA[I've written about security products previously, laying out the framing that security products combine sensors and throttles with threat intelligence to provide protection against threats. As a product engineer, I spend most of my time thinking about how to improve sensors and throttles to enhance protection, but those components only provide value if the threat...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1046,6 +236,16 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         <summary type="html"><![CDATA[Tic-Tac-Toe is a great project for beginners who want to learn how to build games. It’s simple to understand but gives you the chance to learn about game state, player turns, winning logic, and user input. In this tutorial, you’ll learn how to build ...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Diagnostics toolset for .NET In Visual Studio - .NET Blog]]></title>
+        <id>stories/728012</id>
+        <link href="https://dotnetkicks.com/r/728012?url=https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/"/>
+        <updated>2025-08-20T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Debugging doesn't have to be a grind. With Copilot woven into Visual Studio, you get AI-powered breakpoints, insights, exception fixes, and performance summaries all right where you work.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1076,6 +276,26 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         <summary type="html"><![CDATA[Ruby is a programming language designed with developer happiness in mind. Its elegant and intuitive syntax makes coding not only productive but also enjoyable. Ruby stands out with its powerful metaprogramming capabilities, allowing developers to tre...]]></summary>
         <author>
             <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog]]></title>
+        <id>stories/728005</id>
+        <link href="https://dotnetkicks.com/r/728005?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/"/>
+        <updated>2025-08-20T15:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to bring your own model to Visual Studio Chat. Gain flexibility, control, and customization by choosing the models that best fit your workflow.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog]]></title>
+        <id>stories/727973</id>
+        <link href="https://dotnetkicks.com/r/727973?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/"/>
+        <updated>2025-08-20T15:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to bring your own model to Visual Studio Chat. Gain flexibility, control, and customization by choosing the models that best fit your workflow.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1149,6 +369,16 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog]]></title>
+        <id>stories/727902</id>
+        <link href="https://dotnetkicks.com/r/727902?url=https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/"/>
+        <updated>2025-08-19T18:23:21.000Z</updated>
+        <summary type="html"><![CDATA[We're excited to announce that MCP support is now GA in Visual Studio-unlocking richer, real-time context from your entire development stack and expanding the power of Agent Mode like never before.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What are Data Transfer Objects? Learn to Use DTOs in Your Java Spring-Based Projects]]></title>
         <id>68a4ba42388ce2383306b9b3</id>
         <link href="https://www.freecodecamp.org/news/what-are-dtos-java/"/>
@@ -1169,23 +399,23 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Assign Unique IDs to Express API Requests for Tracing]]></title>
-        <id>68a4b96a7c0721701837c266</id>
-        <link href="https://www.freecodecamp.org/news/how-to-assign-unique-ids-to-express-api-requests-for-tracing/"/>
-        <updated>2025-08-19T17:50:34.000Z</updated>
-        <summary type="html"><![CDATA[The ability to track what happens with API requests is an important aspect of monitoring, tracing and debugging back-end applications. But how do you differentiate between the reports of two consecutive API requests to the same API endpoint? This art...]]></summary>
+        <title type="html"><![CDATA[GPT-OSS - A C# Guide with Ollama - .NET Blog]]></title>
+        <id>stories/727899</id>
+        <link href="https://dotnetkicks.com/r/727899?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/"/>
+        <updated>2025-08-19T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Run GPT-OSS locally with C# and Ollama to build fast, private, offline AI]]></summary>
         <author>
-            <name>Orim Dominic Adah</name>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code and Train Qwen3 from Scratch]]></title>
-        <id>68a4849538274dba4af10263</id>
-        <link href="https://www.freecodecamp.org/news/code-and-train-qwen3-from-scratch/"/>
-        <updated>2025-08-19T14:05:09.000Z</updated>
-        <summary type="html"><![CDATA[Qwen3 is the cutting-edge series of large language models developed by Alibaba Cloud's Qwen team. The LLM is known for its advanced reasoning, multilingual support, and efficient hybrid "Thinking" and "Non-Thinking" modes. We just posted a course on ...]]></summary>
+        <title type="html"><![CDATA[GPT-OSS - A C# Guide with Ollama - .NET Blog]]></title>
+        <id>stories/727897</id>
+        <link href="https://dotnetkicks.com/r/727897?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/"/>
+        <updated>2025-08-19T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Run GPT-OSS locally with C# and Ollama to build fast, private, offline AI]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1196,6 +426,26 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         <summary type="html"><![CDATA[Top Links Highlights from Git 2.51 (Taylor Blau) Visual Studio for Visual Studio Code Users | Visual Studio Toolbox (Robert Green & Johan Smarius) Azure Developer CLI (azd) – August 2025 (PuiChee (PC) Chan) ASP.NET Core updates in .NET 10 Preview 7 (Dan Roth) How I learn about generative AI (Pamela Fox) The VS Code … Continue reading Dew Drop – August 19, 2025 (#4479)]]></summary>
         <author>
             <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Converting an xUnit test project to TUnit]]></title>
+        <id>stories/727846</id>
+        <link href="https://dotnetkicks.com/r/727846?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/"/>
+        <updated>2025-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I discuss the new TUnit testing framework, why I ported one of my libraries to use it instead of xUnit and related issues I had to deal with]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Converting an xUnit test project to TUnit]]></title>
+        <id>stories/727845</id>
+        <link href="https://dotnetkicks.com/r/727845?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/"/>
+        <updated>2025-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I discuss the new TUnit testing framework, why I ported one of my libraries to use it instead of xUnit and related issues I had to deal with]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1269,6 +519,16 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Operations that Span Multiple Event Streams with the Critter Stack]]></title>
+        <id>stories/727838</id>
+        <link href="https://dotnetkicks.com/r/727838?url=https://jeremydmiller.com/2025/08/18/operations-that-span-multiple-event-streams-with-the-critter-stack/"/>
+        <updated>2025-08-19T00:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Let's just say that Marten incurs some serious benefits to being on top of PostgreSQL and its very strong support for transactional integrity as opposed to some of the high profile commercial Event Sourcing tools who are spending a lot of time and energy on their "Dynamic Consistency Boundary" concept because they lack the ACID...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Using Bootstrap TimePicker in HTML]]></title>
         <id>https://aspsnippets.com/Articles/Using-Bootstrap-TimePicker-in-HTML.aspx</id>
         <link href="https://aspsnippets.com/Articles/Using-Bootstrap-TimePicker-in-HTML.aspx"/>
@@ -1309,16 +569,6 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create a Real-Time Gesture-to-Text Translator Using Python and Mediapipe]]></title>
-        <id>68a331edf6c19271552e2ac7</id>
-        <link href="https://www.freecodecamp.org/news/create-a-real-time-gesture-to-text-translator/"/>
-        <updated>2025-08-18T14:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Sign and symbol languages, like Makaton and American Sign Language (ASL), are powerful communication tools. However, they can create challenges when communicating with people who don't understand them. As a researcher working on AI for accessibility,...]]></summary>
-        <author>
-            <name>OMOTAYO OMOYEMI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3D Layered Text: The Basics]]></title>
         <id>https://css-tricks.com/?p=388313</id>
         <link href="https://css-tricks.com/3d-layered-text-the-basics/"/>
@@ -1350,6 +600,16 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Reset Cookies and force new sign-in using ASP.NET Core Identity]]></title>
+        <id>stories/727827</id>
+        <link href="https://dotnetkicks.com/r/727827?url=https://damienbod.com/2025/08/18/reset-cookies-and-force-new-sign-in-using-asp-net-core-identity/"/>
+        <updated>2025-08-18T05:16:16.000Z</updated>
+        <summary type="html"><![CDATA[This post looks at implementing a cookie reset in an ASP.NET Core application using Duende identity server which federates to Entra ID. Sometimes cookies need to be reset for end users due to size problems, or unknown remote authentication server errors. The cookies can be cleared and a new sign in can be forced.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Things That Caught My Attention Last Week - August 17]]></title>
         <id>http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-august-17</id>
         <link href="http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-august-17"/>
@@ -1360,6 +620,16 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[F# Weekly #33, 2025 - Rider 2025.2 &amp; .NET 10 Preview 7]]></title>
+        <id>stories/727748</id>
+        <link href="https://dotnetkicks.com/r/727748?url=https://sergeytihon.com/2025/08/17/f-weekly-33-2025-rider-2025-2-net-10-preview-7/"/>
+        <updated>2025-08-17T07:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News What's new in F# with Rider 2025.2 Import code completion and quick fixes Type hints and type annotation actions Code editing and analysis C#/VB in-memory references F# Interactive and scripts What's New in Rider 2025.2 .NET 10 Preview 7 is now...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UX Chronicles: Why Streaming Apps Still Suck—and Why That Should Terrify Tech Teams]]></title>
         <id>http://dotnettips.wordpress.com/?p=15409</id>
         <link href="https://dotnettips.wordpress.com/2025/08/17/ux-chronicles-why-streaming-apps-still-suck-and-why-that-should-terrify-tech-teams/"/>
@@ -1367,6 +637,16 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         <summary type="html"><![CDATA[Major streaming platforms like Netflix and Amazon Prime Video are failing to prioritize user experience, leading to frustration for users. Issues such as misleading content promotion, disruptive ads, disorganized content, and technical malfunctions highlight a disconnect between companies and their audience. Executives must engage with their products to improve usability and user satisfaction.]]></summary>
         <author>
             <name>dotNetDave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need Some Feedback on Near Term Wolverine Work]]></title>
+        <id>stories/727678</id>
+        <link href="https://dotnetkicks.com/r/727678?url=https://jeremydmiller.com/2025/08/15/need-some-feedback-on-near-term-wolverine-work/"/>
+        <updated>2025-08-15T19:57:46.000Z</updated>
+        <summary type="html"><![CDATA[That's supposed to be a play on a Wolverine as Winnie the Pooh in his "thinking spot" I'm wrestling a little bit with whether the new features and changes coming into Wolverine very soon are worthy of a 5.0 release even though 4.0 was just a couple months ago.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1422,6 +702,26 @@ A Few Things About the Anchor Element’s href You Might Not Have Known original
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Announcing the NuGet MCP Server Preview - .NET Blog]]></title>
+        <id>stories/727519</id>
+        <link href="https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/"/>
+        <updated>2025-08-14T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We've released a preview of the NuGet MCP Server, which extends Copilot by providing realtime information about packages and adds advanced functionality around updating packages.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Akka.Streams.Kafka is the Best Kafka Client for .NET]]></title>
+        <id>stories/727550</id>
+        <link href="https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/"/>
+        <updated>2025-08-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stop writing hundreds of lines of error handling code - there's a better way.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dew Drop – August 14, 2025 (#4476)]]></title>
         <id>https://www.alvinashcraft.com/?p=36352</id>
         <link href="https://www.alvinashcraft.com/2025/08/14/dew-drop-august-14-2025-4476/"/>
@@ -1447,6 +747,36 @@ On Accessibility Conformance, Design Systems, and CSS “Base” Units originall
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog]]></title>
+        <id>stories/727490</id>
+        <link href="https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/"/>
+        <updated>2025-08-14T12:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Our new Remote Semantic Search integration helps you find exactly what you need faster and with greater precision than ever before.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog]]></title>
+        <id>stories/727467</id>
+        <link href="https://dotnetkicks.com/r/727467?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/"/>
+        <updated>2025-08-14T12:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Our new Remote Semantic Search integration helps you find exactly what you need faster and with greater precision than ever before.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Redmond to San Diego: VS Live! Highlights, Session Examples, and What's Next - Visual Studio Blog]]></title>
+        <id>stories/727404</id>
+        <link href="https://dotnetkicks.com/r/727404?url=https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next/"/>
+        <updated>2025-08-14T00:36:07.000Z</updated>
+        <summary type="html"><![CDATA[Watch Microsoft-led sessions from Visual Studio Live! @ Microsoft HQ on-demand. Keynotes, deep dives, and demos from Visual Studio, Azure, and GitHub Copilot experts-plus save on upcoming VS Live! San Diego registration.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[We Might Need Something Between Root and Relative CSS Units for “Base Elements”]]></title>
         <id>https://css-tricks.com/?p=388448</id>
         <link href="https://css-tricks.com/we-might-need-something-between-root-and-relative-css-units-for-base-elements/"/>
@@ -1468,6 +798,16 @@ We Might Need Something Between Root and Relative CSS Units for “Base Elements
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[.NET 10 Preview 7 is now available! - .NET Blog]]></title>
+        <id>stories/727280</id>
+        <link href="https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/"/>
+        <updated>2025-08-12T19:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Find out about the new features in .NET 10 Preview 7 across the .NET runtime, SDK, libraries, ASP.NET Core, Blazor, C#, .NET MAUI, and more!]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS-Questions]]></title>
         <id>https://css-tricks.com/?p=388740</id>
         <link href="https://css-tricks.com/css-questions/"/>
@@ -1486,6 +826,16 @@ CSS-Questions originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[Top Links VS Code July 2025 Release (version 1.103) (Visual Studio Code Team) Blueberry Hill (Kieran Healy) – How many b’s in blueberry, ChatGPT? 5 Copilot Chat Prompts .NET Devs Should Steal Today (Wendy Breiding) Merge Conflict Episode #475 – We Built 6 Apps with GitHub Spark (James Montemagno & Frank Kreuger) Introducing GPT-5 and … Continue reading Dew Drop – August 12, 2025 (#4475)]]></summary>
         <author>
             <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running .NET in the browser without Blazor]]></title>
+        <id>stories/727227</id>
+        <link href="https://dotnetkicks.com/r/727227?url=https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/"/>
+        <updated>2025-08-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I show how to run .NET in your browser without using Blazor, and instead rely on lower-level abstractions provided by [JSImport] and [JSExport]]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1541,6 +891,16 @@ Stuff & Nonsense Practical Layout Workshop originally published on CSS-Tricks, w
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[F# Weekly #32, 2025 - Call for Speakers: .NET Conf 2025 &amp; JetBrains .NET Days]]></title>
+        <id>stories/727117</id>
+        <link href="https://dotnetkicks.com/r/727117?url=https://sergeytihon.com/2025/08/10/f-weekly-32-2025-call-for-speakers-net-conf-2025-jetbrains-net-days/"/>
+        <updated>2025-08-10T07:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 - Announcing the Call for Content - .NET Blog 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog The new Dependabot...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Boost Your .NET Projects: Simplify Date & Time Formatting with Spargine’s DateTimeFormat]]></title>
         <id>http://dotnettips.wordpress.com/?p=15401</id>
         <link href="https://dotnettips.wordpress.com/2025/08/10/boost-your-net-projects-simplify-date-time-formatting-with-spargines-datetimeformat/"/>
@@ -1592,6 +952,36 @@ How to Prepare for CSS-Specific Interview Questions originally published on CSS-
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Loosely Coupled Monolith - Software Architecture - 2025 Edition]]></title>
+        <id>stories/727008</id>
+        <link href="https://dotnetkicks.com/r/727008?url=https://codeopinion.com/loosely-coupled-monolith-software-architecture-2025-edition/"/>
+        <updated>2025-08-07T16:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Loosely Coupled Monolith is focusing on cohesion, managing coupling, and that logical boundaries aren't your physical boundaries.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog]]></title>
+        <id>stories/726939</id>
+        <link href="https://dotnetkicks.com/r/726939?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/"/>
+        <updated>2025-08-06T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover 5 practical GitHub Copilot Chat prompts to boost .NET development productivity, from code optimization to security reviews.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog]]></title>
+        <id>stories/726936</id>
+        <link href="https://dotnetkicks.com/r/726936?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/"/>
+        <updated>2025-08-06T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover 5 practical GitHub Copilot Chat prompts to boost .NET development productivity, from code optimization to security reviews.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dew Drop – August 6, 2025 (#4474)]]></title>
         <id>https://www.alvinashcraft.com/?p=36348</id>
         <link href="https://www.alvinashcraft.com/2025/08/06/dew-drop-august-6-2025-4474/"/>
@@ -1623,6 +1013,96 @@ Bringing Back Parallax With Scroll-Driven CSS Animations originally published on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Use EdDSA signatures to validate tokens in ASP.NET Core using OpenID Connect]]></title>
+        <id>stories/726972</id>
+        <link href="https://dotnetkicks.com/r/726972?url=https://damienbod.com/2025/08/06/use-eddsa-signatures-to-validate-tokens-in-asp-net-core-using-openid-connect/"/>
+        <updated>2025-08-06T09:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Some identity providers use the EdDSA / ED25519 algorithm to sign and issue tokens. This post shows how to validate the tokens using the Nuget package from ScottBrady and ASP.NET Core. Using the default OpenID Connect setup, the keys are not read and the tokens cannot be validated.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET and .NET Framework August 2025 servicing releases updates - .NET Blog]]></title>
+        <id>stories/726862</id>
+        <link href="https://dotnetkicks.com/r/726862?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/"/>
+        <updated>2025-08-05T22:54:56.000Z</updated>
+        <summary type="html"><![CDATA[A recap of the latest servicing updates for .NET and .NET Framework for August 2025.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET and .NET Framework August 2025 servicing releases updates - .NET Blog]]></title>
+        <id>stories/726844</id>
+        <link href="https://dotnetkicks.com/r/726844?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/"/>
+        <updated>2025-08-05T22:54:56.000Z</updated>
+        <summary type="html"><![CDATA[A recap of the latest servicing updates for .NET and .NET Framework for August 2025.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing MCP Support in AI Shell Preview 6 - PowerShell Team]]></title>
+        <id>stories/726864</id>
+        <link href="https://dotnetkicks.com/r/726864?url=https://devblogs.microsoft.com/powershell/preview-6-ai-shell/"/>
+        <updated>2025-08-05T18:40:38.000Z</updated>
+        <summary type="html"><![CDATA[We're excited to share the latest preview release of AI Shell that includes new features and improvements based on your feedback.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog]]></title>
+        <id>stories/726818</id>
+        <link href="https://dotnetkicks.com/r/726818?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/"/>
+        <updated>2025-08-05T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Agent Quality and NLP evaluators in the Microsoft.Extensions.AI.Evaluation libraries.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog]]></title>
+        <id>stories/726814</id>
+        <link href="https://dotnetkicks.com/r/726814?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/"/>
+        <updated>2025-08-05T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Agent Quality and NLP evaluators in the Microsoft.Extensions.AI.Evaluation libraries.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog]]></title>
+        <id>stories/726809</id>
+        <link href="https://dotnetkicks.com/r/726809?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/"/>
+        <updated>2025-08-05T16:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Support for Visual Studio 2015 ends Oct 14, 2025. Upgrade to Visual Studio 2022 for AI tools, .NET 9, GitHub integration, and full security updates.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog]]></title>
+        <id>stories/726798</id>
+        <link href="https://dotnetkicks.com/r/726798?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/"/>
+        <updated>2025-08-05T16:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Support for Visual Studio 2015 ends Oct 14, 2025. Upgrade to Visual Studio 2022 for AI tools, .NET 9, GitHub integration, and full security updates.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET Conf 2025 - Announcing the Call for Content - .NET Blog]]></title>
+        <id>stories/726779</id>
+        <link href="https://dotnetkicks.com/r/726779?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/"/>
+        <updated>2025-08-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The .NET Conf 2025 Call for Content is now open! Join us November 11-13 for the premier .NET virtual event celebrating .NET 10. Submit your session proposal by August 31st and share your .NET expertise with developers worldwide.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dew Drop – August 5, 2025 (#4473)]]></title>
         <id>https://www.alvinashcraft.com/?p=36346</id>
         <link href="https://www.alvinashcraft.com/2025/08/05/dew-drop-august-5-2025-4473/"/>
@@ -1644,12 +1124,32 @@ Bringing Back Parallax With Scroll-Driven CSS Animations originally published on
     </entry>
     <entry>
         <title type="html"><![CDATA[Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6]]></title>
+        <id>stories/726680</id>
+        <link href="https://dotnetkicks.com/r/726680?url=https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/"/>
+        <updated>2025-08-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I look at the passkey support added to ASP.NET Core Identity and the Blazor Web App template, explore how it works, and look at the implementation]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6]]></title>
         <id>https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/</id>
         <link href="https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/"/>
         <updated>2025-08-05T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[In this post I look at the passkey support added to ASP.NET Core Identity and the Blazor Web App template, explore how it works, and look at the implementation]]></summary>
         <author>
             <name>Andrew Lock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new Dependabot NuGet updater: 65% faster with native .NET - .NET Blog]]></title>
+        <id>stories/726617</id>
+        <link href="https://dotnetkicks.com/r/726617?url=https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/"/>
+        <updated>2025-08-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the new Dependabot NuGet updater that improves performance, accuracy, and developer experience by leveraging native .NET tooling.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1674,6 +1174,16 @@ Thinking Deeply About Theming and Color Naming originally published on CSS-Trick
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire]]></title>
+        <id>stories/726622</id>
+        <link href="https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/"/>
+        <updated>2025-08-04T05:32:07.000Z</updated>
+        <summary type="html"><![CDATA[This post shows how to issue and verify identities (verifiable credentials) using the Swiss Digital identity and trust infrastructure, (swiyu), ASP.NET Core and .NET Aspire. The swiyu infrastructure is implemented using the provided generic containers which implement the OpenID for Verifiable Credential Issuance and the OpenID for Verifiable Presentations standards as well as many other...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Things That Caught My Attention Last Week - August 4]]></title>
         <id>http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-august-3</id>
         <link href="http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-august-3"/>
@@ -1691,6 +1201,16 @@ Thinking Deeply About Theming and Color Naming originally published on CSS-Trick
         <summary type="html"><![CDATA[The content emphasizes the critical value of veteran software engineers, highlighting how their experience can enhance team outcomes beyond coding roles. It critiques the trend of assigning key positions to less experienced individuals, leading to poor project execution. The article proposes leveraging veteran engineers in management, mentorship, and technical consultancy to improve software development practices.]]></summary>
         <author>
             <name>dotNetDave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F# Weekly #31, 2025 - Aspire 9.4]]></title>
+        <id>stories/726523</id>
+        <link href="https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/"/>
+        <updated>2025-08-02T21:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog Building AI Agents with the A2A .NET SDK | Azure AI Foundry Blog...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1724,6 +1244,26 @@ Thinking Deeply About Theming and Color Naming originally published on CSS-Trick
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Phi Silica task specialization using LoRA in Microsoft Learning Zone: A technical deep dive]]></title>
+        <id>stories/726432</id>
+        <link href="https://dotnetkicks.com/r/726432?url=https://blogs.windows.com/windowsdeveloper/2025/07/31/phi-silica-task-specialization-using-lora-in-microsoft-learning-zone-a-technical-deep-dive/"/>
+        <updated>2025-07-31T16:00:10.000Z</updated>
+        <summary type="html"><![CDATA[At Build 2025, we announced support for LoRA (low-rank-adaptation) finetuning]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smarter AI Edits in Visual Studio Copilot - Visual Studio Blog]]></title>
+        <id>stories/726416</id>
+        <link href="https://dotnetkicks.com/r/726416?url=https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/"/>
+        <updated>2025-07-31T12:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Discover how Visual Studio Copilot leverages smarter AI-generated edits using speculative decoding and advanced model-based techniques. Learn how these innovations improve code accuracy, speed, and developer productivity-plus, get a sneak peek at the future of Agent Mode in Visual Studio Copilot.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stories Of August (2025 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/</id>
         <link href="https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/"/>
@@ -1741,6 +1281,26 @@ Thinking Deeply About Theming and Color Naming originally published on CSS-Trick
         <summary type="html"><![CDATA[Top Links Azure SDK Release (July 2025) (Ronnie Geraghty) Building a Full-Stack App with React and Aspire: A Step-by-Step Guide (Sayed Ibrahim Hashimi) Publish your .NET MCP Server to NuGet (Erik EJ) See Who Rules Cricket: ICC Trophy Wins in a Powerful .NET MAUI Treemap Chart (Vimala Thirumalai Kumar) Design AI Workloads with the Azure … Continue reading Dew Drop – July 31, 2025 (#4470)]]></summary>
         <author>
             <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog]]></title>
+        <id>stories/726391</id>
+        <link href="https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/"/>
+        <updated>2025-07-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to build a full-stack application with React and Aspire, integrating a React front-end with an ASP.NET Core Web API and persisting data to a database.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog]]></title>
+        <id>stories/726383</id>
+        <link href="https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/"/>
+        <updated>2025-07-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to build a full-stack application with React and Aspire, integrating a React front-end with an ASP.NET Core Web API and persisting data to a database.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1765,13 +1325,33 @@ Keeping Article Demos Alive When Third-Party APIs Die originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop – July 30, 2025 (#4469)]]></title>
-        <id>https://www.alvinashcraft.com/?p=36337</id>
-        <link href="https://www.alvinashcraft.com/2025/07/30/dew-drop-july-30-2025-4469/"/>
-        <updated>2025-07-30T11:37:38.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Watch Live: Visual Studio Toolbox at VS LIVE! Redmond 2025 (Jim Harrer) React UI for Native Apps (Sam Basu) Aspire 9.4 is here with a CLI and interactive dashboard features (Maddy Montaquila) Introducing study mode in ChatGPT (OpenAI Team) MCP Dev Days Keynote: Building the Future of AI Development Together (Jay Parikh) Developers … Continue reading Dew Drop – July 30, 2025 (#4469)]]></summary>
+        <title type="html"><![CDATA[Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog]]></title>
+        <id>stories/726313</id>
+        <link href="https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/"/>
+        <updated>2025-07-29T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Aspire 9.4 is packed with new features, integrations, and improvements]]></summary>
         <author>
-            <name>Alvin A.</name>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog]]></title>
+        <id>stories/726312</id>
+        <link href="https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/"/>
+        <updated>2025-07-29T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Aspire 9.4 is packed with new features, integrations, and improvements]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5]]></title>
+        <id>stories/726243</id>
+        <link href="https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/"/>
+        <updated>2025-07-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I show the new dnx command for running .NET tools without installing them and look at exactly how it works.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1816,6 +1396,36 @@ Making a Masonry Layout That Works Today originally published on CSS-Tricks, whi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Metadata Tracking Improvements in Marten]]></title>
+        <id>stories/726440</id>
+        <link href="https://dotnetkicks.com/r/726440?url=https://jeremydmiller.com/2025/07/27/metadata-tracking-improvements-in-marten/"/>
+        <updated>2025-07-27T21:53:52.000Z</updated>
+        <summary type="html"><![CDATA[We just released a new batch of improvements in the Marten 8.4 release that improved Marten's already strong support for tracking metadata on event persistence. Override Event Metadata on Individual Events This work was done at the behest of a JasperFx Software client. They only needed to vary header values between events, but while the...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F# Weekly #30, 2025 - Quipu &amp; Perla]]></title>
+        <id>stories/726136</id>
+        <link href="https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/"/>
+        <updated>2025-07-27T11:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News Perla V1.0.0 betas are out! MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog Can You Build Agent2Agent Communication on...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F# Weekly #30, 2025 - Quipu &amp; Perla]]></title>
+        <id>stories/726122</id>
+        <link href="https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/"/>
+        <updated>2025-07-27T11:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News Perla V1.0.0 betas are out! MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog Can You Build Agent2Agent Communication on...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine]]></title>
         <id>http://dotnettips.wordpress.com/?p=15298</id>
         <link href="https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/"/>
@@ -1856,6 +1466,16 @@ Making a Masonry Layout That Works Today originally published on CSS-Tricks, whi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Database Migration Strategies]]></title>
+        <id>stories/725997</id>
+        <link href="https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/"/>
+        <updated>2025-07-25T14:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Database migrations can be tricky, depending on your application and environment. The key is making backward-compatible changes!]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Discover a CSS Trick]]></title>
         <id>https://css-tricks.com/?p=387862</id>
         <link href="https://css-tricks.com/how-to-discover-a-css-trick/"/>
@@ -1864,6 +1484,26 @@ Making a Masonry Layout That Works Today originally published on CSS-Tricks, whi
 How to Discover a CSS Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team]]></title>
+        <id>stories/725935</id>
+        <link href="https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/"/>
+        <updated>2025-07-24T21:35:14.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the general availability of Microsoft.PowerShell.PlatyPS 1.0.0, a tool to build PowerShell help files.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Example of Using Alba for HTTP Testing]]></title>
+        <id>stories/725896</id>
+        <link href="https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/"/>
+        <updated>2025-07-24T14:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Before Marten took off and we pivoted to using the "Critter Stack" naming motif, the original naming theme for the JasperFx OSS tool suite were some of the small towns near where I grew up in Southwest Missouri. Alba, MO is somewhat famous as the hometown of the Boyer brothers.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1900,60 +1540,23 @@ This post shows you how to use HTTP headers to make your ASP.NET Core applicatio
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4]]></title>
-        <id>https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/</id>
-        <link href="https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/"/>
-        <updated>2025-07-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this post I discuss a new source generator API, AddEmbeddedAttributeDefinition(), added in .NET 10, which makes it easier to embed generated attributes]]></summary>
+        <title type="html"><![CDATA[MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog]]></title>
+        <id>stories/725723</id>
+        <link href="https://dotnetkicks.com/r/725723?url=https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/"/>
+        <updated>2025-07-22T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The MCP C# SDK has been updated to support the latest Model Context Protocol specification (2025-06-18), bringing structured tool output, elicitation support, enhanced security, and more to .NET developers building AI applications.]]></summary>
         <author>
-            <name>Andrew Lock</name>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure Functions on Azure Container Apps: KEDA Scaling for Service Bus Functions When Using AZURE_CLIENT_ID]]></title>
-        <id>https://jaliyaudagedara.blogspot.com/2025/07/azure-functions-on-azure-container-apps.html</id>
-        <link href="https://jaliyaudagedara.blogspot.com/2025/07/azure-functions-on-azure-container-apps.html"/>
-        <updated>2025-07-22T07:09:00.000Z</updated>
-        <summary type="html"><![CDATA[In a previous post, I wrote about creating Azure Container Apps
-  using&nbsp;az&nbsp;containerapp&nbsp;create&nbsp;--kind functionapp&nbsp;(az functionapp create VS az containerapp create --kind functionapp).
-
-
-  One of the main advantages of this approach is these function apps are
-  preconfigured with auto scaling rules for
-  triggers like Azure Service Bus, Azure Event Hubs etc.
-
-
-  However]]></summary>
+        <title type="html"><![CDATA[Fresh Learning Paths Now Available on Pluralsight for VS Subscribers - Visual Studio Blog]]></title>
+        <id>stories/725686</id>
+        <link href="https://dotnetkicks.com/r/725686?url=https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/"/>
+        <updated>2025-07-22T14:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Fresh learning paths and expert-led courses are now available on Pluralsight for Visual Studio Professional and Enterprise subscribers. Unlock new skills in VS Code, GitHub Copilot security, generative AI, Azure automation, and more-activate your extended access today at my.visualstudio.com]]></summary>
         <author>
-            <name>Jaliya's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 Leveling Up Your AI Agents: A Story-Driven Guide to MCP Tools, Resources, Prompts, and Logging]]></title>
-        <id>https://blog.codewithdan.com/?p=3322</id>
-        <link href="https://blog.codewithdan.com/leveling-up-your-ai-agents-a-story-driven-guide-to-mcp-tools-resources-prompts-and-logging/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=leveling-up-your-ai-agents-a-story-driven-guide-to-mcp-tools-resources-prompts-and-logging"/>
-        <updated>2025-07-22T00:26:50.000Z</updated>
-        <summary type="html"><![CDATA[AI copilots are getting smarter. They can chat, reason, and even follow complex instructions. But if you want your AI to actually do something useful, like trigger a function, fetch some data, or keep a log of what happened, you need more than just prompts. You need structure and you need context. You need something […]]]></summary>
-        <author>
-            <name>Dan Wahlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My MVP Journey: A Decade of Community and Code]]></title>
-        <id>https://asp.net-hacker.rocks/2025/07/22/former-mvp.html</id>
-        <link href="https://asp.net-hacker.rocks/2025/07/22/former-mvp.html"/>
-        <updated>2025-07-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's with a mix of emotions that I'm writing this post. After an incredible ten years as a Microsoft MVP, my recent application for renewal was not accepted. Actually, I expected to not being renewed as an MVP, after two years of just small contributions to the community. While the initial feeling is certainly one of disappointment, it's quickly overshadowed by immense gratitude and an overwhelming sense of pride for the journey I've been on and the phenomenal community I've been part of.
-
-A Decade of Connection
-
-Being a Microsoft MVP was more than just a title; it was a unique opportunity to connect with a passionate and incredibly smart global community. Looking back at the past decade, I'm genuinely thankful for the experiences and connections.
-
-Direct Access to Experts
-
-One of the …]]></summary>
-        <author>
-            <name>Jürgen Gutsch</name>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
 </feed>
