@@ -2,26 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-09-16T01:50:28.852Z</updated>
+    <updated>2025-09-17T01:50:18.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Jeff Fritz on .NET Aspire and CoPilot Agents]]></title>
-        <id>stories/726734</id>
-        <link href="https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/"/>
-        <updated>2025-09-16T01:50:18.484Z</updated>
-        <summary type="html"><![CDATA[Jeff Fritz (Microsoft) joins me to talk about .NET Aspire, CoPilot Agents and Vibe programming. This is a show not to miss; his enthusiasm is catching and his knowledge is astonishing. Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Changes in .NET 10: A Migration Guide from .NET 8]]></title>
-        <id>stories/726040</id>
-        <link href="https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&amp;utm_medium=DNK-726040&amp;utm_content=DNK-726040&amp;utm_campaign=DNK-726040"/>
-        <updated>2025-09-16T01:50:15.220Z</updated>
-        <summary type="html"><![CDATA[Migrating from .NET 8 to 10? This guide covers breaking changes (Preview 6 included), timelines, tools, and pitfalls. Prep your upgrade strategy for LTS success.]]></summary>
+        <title type="html"><![CDATA[Cake.Sdk 5.0.25225.53-beta released]]></title>
+        <id>stories/727431</id>
+        <link href="https://dotnetkicks.com/r/727431?url=https://cakebuild.net/blog/2025/08/cake-sdk-net-preview-7-update"/>
+        <updated>2025-09-17T01:49:56.010Z</updated>
+        <summary type="html"><![CDATA[A new preview version of Cake.Sdk has been released! Version 5.0.25225.53-beta brings compatibility with .NET 10 Preview 7. 🚀 🍰 Compiled with/against .NET 10 Preview 7 - Full compatibility with the latest .NET 10 preview Updated dependencies - All underlying packages updated to their latest versions Fixes for new analyzer warnings - Resolved potential compatibility issues with Preview 7 SDK One notable improvement addresses the issue mentioned in our previous announcement.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -30,38 +20,31 @@
         <title type="html"><![CDATA[Celebrating 15 years of Yet Another Podcast]]></title>
         <id>stories/729155</id>
         <link href="https://dotnetkicks.com/r/729155?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/"/>
-        <updated>2025-09-16T01:50:14.140Z</updated>
+        <updated>2025-09-17T01:49:53.327Z</updated>
         <summary type="html"><![CDATA[Today we are celebrating 15 years of commercial-free podcasting on . NET-related issues. Thank you for your ongoing interest and support. Stay tuned for a very special podcast on Visual Studio coming sometime next week. Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video: Visual Toolbox: Git in Visual Studio]]></title>
-        <id>stories/726471</id>
-        <link href="https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/"/>
-        <updated>2025-09-16T01:50:03.040Z</updated>
-        <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.]]></summary>
+        <title type="html"><![CDATA[.NET 10 Release 1: Performance Boosts, Security Upgrades, and Smarter AI]]></title>
+        <id>stories/729874</id>
+        <link href="https://dotnetkicks.com/r/729874?url=https://www.gapvelocity.ai/blog/dotnet-10-release-1?utm_source=DNK-729874&amp;utm_medium=DNK-729874&amp;utm_content=DNK-729874&amp;utm_campaign=DNK-729874"/>
+        <updated>2025-09-17T01:49:52.267Z</updated>
+        <summary type="html"><![CDATA[.NET 10 RC1 is here, and it's a monster. Think your code is fast now? Just wait.
+The team pulled a Frederic Tudor, the 19th-century "Ice King," compounding thousands of tiny optimizations into a massive performance leap. The JIT is now a wizard at "deabstraction," making your clean, high-level C# run like hand-tuned C.
+
+The real magic trick? Expanded escape analysis. The compiler can now stack-allocate small objects that it proves don't "escape" a method. That means less heap allocation and fewer GC pauses. It's the free performance lunch you were always told doesn't exist. Your app gets faster without you changing a line of code.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cake.Sdk 5.0.25225.53-beta released]]></title>
-        <id>stories/727431</id>
-        <link href="https://dotnetkicks.com/r/727431?url=https://cakebuild.net/blog/2025/08/cake-sdk-net-preview-7-update"/>
-        <updated>2025-09-16T01:50:02.938Z</updated>
-        <summary type="html"><![CDATA[A new preview version of Cake.Sdk has been released! Version 5.0.25225.53-beta brings compatibility with .NET 10 Preview 7. 🚀 🍰 Compiled with/against .NET 10 Preview 7 - Full compatibility with the latest .NET 10 preview Updated dependencies - All underlying packages updated to their latest versions Fixes for new analyzer warnings - Resolved potential compatibility issues with Preview 7 SDK One notable improvement addresses the issue mentioned in our previous announcement.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrating 15 years of Yet Another Podcast]]></title>
-        <id>stories/729142</id>
-        <link href="https://dotnetkicks.com/r/729142?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/"/>
-        <updated>2025-09-16T01:50:02.271Z</updated>
-        <summary type="html"><![CDATA[Today we are celebrating 15 years of commercial-free podcasting on . NET-related issues. Thank you for your ongoing interest and support. Stay tuned for a very special podcast on Visual Studio coming sometime next week. Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.]]></summary>
+        <title type="html"><![CDATA[Jeff Fritz on .NET Aspire and CoPilot Agents]]></title>
+        <id>stories/726734</id>
+        <link href="https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/"/>
+        <updated>2025-09-17T01:49:52.243Z</updated>
+        <summary type="html"><![CDATA[Jeff Fritz (Microsoft) joins me to talk about .NET Aspire, CoPilot Agents and Vibe programming. This is a show not to miss; his enthusiasm is catching and his knowledge is astonishing. Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -70,8 +53,18 @@
         <title type="html"><![CDATA[Visual Studio 2026! with Mads Kristensen]]></title>
         <id>stories/729393</id>
         <link href="https://dotnetkicks.com/r/729393?url=https://jesseliberty.com/2025/09/09/visual-studio-2026-with-mads-kristensen/"/>
-        <updated>2025-09-16T01:50:01.526Z</updated>
+        <updated>2025-09-17T01:49:51.738Z</updated>
         <summary type="html"><![CDATA[Visual Studio 2026 is here. Mads takes us through the highlights View this podcast on YouTube Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video: Visual Toolbox: Git in Visual Studio]]></title>
+        <id>stories/726471</id>
+        <link href="https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/"/>
+        <updated>2025-09-17T01:49:51.421Z</updated>
+        <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -80,58 +73,8 @@
         <title type="html"><![CDATA[Video: Visual Toolbox: Git in Visual Studio]]></title>
         <id>stories/726482</id>
         <link href="https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/"/>
-        <updated>2025-09-16T01:50:01.421Z</updated>
+        <updated>2025-09-17T01:49:51.397Z</updated>
         <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cake.Sdk 5.0.25257.82-beta released]]></title>
-        <id>stories/729742</id>
-        <link href="https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug"/>
-        <updated>2025-09-16T01:50:01.208Z</updated>
-        <summary type="html"><![CDATA[We're excited to announce the release of Cake.Sdk 5.0.25257.82-beta, a minor preview release that brings improvements to performance, the debugging experience, and native .NET CLI publish support. The biggest improvement in this release is that dotnet publish now works with Cake.Sdk.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cake.Sdk 5.0.25253.70-beta released]]></title>
-        <id>stories/729475</id>
-        <link href="https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update"/>
-        <updated>2025-09-16T01:50:01.063Z</updated>
-        <summary type="html"><![CDATA[A new preview version of Cake.Sdk has been released! Version 5.0.25253.70-beta brings compatibility with .NET 10 RC1 and introduces powerful new features for modular build script organization.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Facadeware Problem, But, Also, Help Me Beat My Car to Death]]></title>
-        <id>stories/729323</id>
-        <link href="https://dotnetkicks.com/r/729323?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/"/>
-        <updated>2025-09-16T01:49:59.403Z</updated>
-        <summary type="html"><![CDATA[Make no mistake. This is a shitpost. But it's also going to be more than a simple shit post. Let me explain. I've created an IndieGogo campaign to help us do what Stellantis should have done itself: take the dangerous car they sold me off the road and destroy it.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windowing overview for WinUI and Windows App SDK - Windows apps]]></title>
-        <id>stories/728956</id>
-        <link href="https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview"/>
-        <updated>2025-09-16T01:49:56.306Z</updated>
-        <summary type="html"><![CDATA[Overview of windowing APIs in the Windows App SDK]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Facadeware Problem, But, Also, Help Me Beat My Car to Death]]></title>
-        <id>stories/729327</id>
-        <link href="https://dotnetkicks.com/r/729327?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/"/>
-        <updated>2025-09-16T01:49:55.247Z</updated>
-        <summary type="html"><![CDATA[Make no mistake. This is a shitpost. But it's also going to be more than a simple shit post. Let me explain. I've created an IndieGogo campaign to help us do what Stellantis should have done itself: take the dangerous car they sold me off the road and destroy it.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -140,20 +83,180 @@
         <title type="html"><![CDATA[Mads K (Microsoft) on Visual Studio and VSCode]]></title>
         <id>stories/728714</id>
         <link href="https://dotnetkicks.com/r/728714?url=https://jesseliberty.com/2025/08/31/mads-k-microsoft-on-visual-studio-and-vscode/"/>
-        <updated>2025-09-16T01:49:55.055Z</updated>
+        <updated>2025-09-17T01:49:49.694Z</updated>
         <summary type="html"><![CDATA[Mads K of Microsoft talks about the targeting of Visual Studio and VSCode. Towards the end, I ask him about a few of his favorite plugins. Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modern Dependency Management and Packaging in Python]]></title>
-        <id>https://www.sahansera.dev/modern-python-dependency-management-packaging/</id>
-        <link href="https://www.sahansera.dev/modern-python-dependency-management-packaging/"/>
-        <updated>2025-09-16T01:49:54.475Z</updated>
-        <summary type="html"><![CDATA[The Python ecosystem has evolved rapidly in recent years, with new standards and tools designed to make projects more reliable, reproducible…]]></summary>
+        <title type="html"><![CDATA[Celebrating 15 years of Yet Another Podcast]]></title>
+        <id>stories/729142</id>
+        <link href="https://dotnetkicks.com/r/729142?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/"/>
+        <updated>2025-09-17T01:49:49.415Z</updated>
+        <summary type="html"><![CDATA[Today we are celebrating 15 years of commercial-free podcasting on . NET-related issues. Thank you for your ongoing interest and support. Stay tuned for a very special podcast on Visual Studio coming sometime next week. Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.]]></summary>
         <author>
-            <name>sahansera.dev RSS Feed</name>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cake.Sdk 5.0.25253.70-beta released]]></title>
+        <id>stories/729475</id>
+        <link href="https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update"/>
+        <updated>2025-09-17T01:49:49.158Z</updated>
+        <summary type="html"><![CDATA[A new preview version of Cake.Sdk has been released! Version 5.0.25253.70-beta brings compatibility with .NET 10 RC1 and introduces powerful new features for modular build script organization.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FabCon Vienna: Build data-rich agents on an enterprise-ready foundation]]></title>
+        <id>stories/730007</id>
+        <link href="https://dotnetkicks.com/r/730007?url=https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation"/>
+        <updated>2025-09-17T01:49:49.076Z</updated>
+        <summary type="html"><![CDATA[Learn about the new features and enhancements announced for Microsoft Fabric at FabCon Vienna 2025.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Facadeware Problem, But, Also, Help Me Beat My Car to Death]]></title>
+        <id>stories/729327</id>
+        <link href="https://dotnetkicks.com/r/729327?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/"/>
+        <updated>2025-09-17T01:49:48.794Z</updated>
+        <summary type="html"><![CDATA[Make no mistake. This is a shitpost. But it's also going to be more than a simple shit post. Let me explain. I've created an IndieGogo campaign to help us do what Stellantis should have done itself: take the dangerous car they sold me off the road and destroy it.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FabCon Vienna: Build data-rich agents on an enterprise-ready foundation]]></title>
+        <id>stories/729995</id>
+        <link href="https://dotnetkicks.com/r/729995?url=https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation"/>
+        <updated>2025-09-17T01:49:47.797Z</updated>
+        <summary type="html"><![CDATA[Learn about the new features and enhancements announced for Microsoft Fabric at FabCon Vienna 2025.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cake.Sdk 5.0.25257.82-beta released]]></title>
+        <id>stories/729742</id>
+        <link href="https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug"/>
+        <updated>2025-09-17T01:49:43.041Z</updated>
+        <summary type="html"><![CDATA[We're excited to announce the release of Cake.Sdk 5.0.25257.82-beta, a minor preview release that brings improvements to performance, the debugging experience, and native .NET CLI publish support. The biggest improvement in this release is that dotnet publish now works with Cake.Sdk.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Facadeware Problem, But, Also, Help Me Beat My Car to Death]]></title>
+        <id>stories/729323</id>
+        <link href="https://dotnetkicks.com/r/729323?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/"/>
+        <updated>2025-09-17T01:49:41.403Z</updated>
+        <summary type="html"><![CDATA[Make no mistake. This is a shitpost. But it's also going to be more than a simple shit post. Let me explain. I've created an IndieGogo campaign to help us do what Stellantis should have done itself: take the dangerous car they sold me off the road and destroy it.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FabCon Vienna: Build data-rich agents on an enterprise-ready foundation]]></title>
+        <id>stories/730005</id>
+        <link href="https://dotnetkicks.com/r/730005?url=https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation"/>
+        <updated>2025-09-17T01:49:40.999Z</updated>
+        <summary type="html"><![CDATA[Learn about the new features and enhancements announced for Microsoft Fabric at FabCon Vienna 2025.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windowing overview for WinUI and Windows App SDK - Windows apps]]></title>
+        <id>stories/728956</id>
+        <link href="https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview"/>
+        <updated>2025-09-17T01:49:40.694Z</updated>
+        <summary type="html"><![CDATA[Overview of windowing APIs in the Windows App SDK]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use ObjectBox in Flutter]]></title>
+        <id>68c9995460a5f06c06227f63</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-objectbox-in-flutter/"/>
+        <updated>2025-09-16T17:07:32.000Z</updated>
+        <summary type="html"><![CDATA[ObjectBox is a high-performance, lightweight, NoSQL embedded database built specifically for Flutter and Dart applications. It provides reactive APIs, indexes, relationships, and migrations, all designed to make local data management smooth and effic...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SerpApi: A Complete API For Fetching Search Engine Data]]></title>
+        <id>https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/</id>
+        <link href="https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/"/>
+        <updated>2025-09-16T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From competitive SEO research and monitoring prices to training AI and parsing local geographic data, real-time search results power smarter apps. Tools like SerpApi make it easy to pull, customize, and integrate this data directly into your app or website.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET STS releases supported for 24 months - .NET Blog]]></title>
+        <id>stories/729969</id>
+        <link href="https://dotnetkicks.com/r/729969?url=https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/"/>
+        <updated>2025-09-16T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NET STS releases will be supported for 24 months]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – September 16, 2025 (#4498)]]></title>
+        <id>https://www.alvinashcraft.com/?p=36400</id>
+        <link href="https://www.alvinashcraft.com/2025/09/16/dew-drop-september-16-2025-4498/"/>
+        <updated>2025-09-16T12:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Top Links Diving Into Spec-Driven Development With GitHub Spec Kit (Den Delimarsky) Managing Containers in Visual Studio | Visual Studio Toolbox (Robert Green & Lance McCarthy) VS Code: Introducing auto model selection (preview) (Isidor Nikolic) Introducing the Pure React Data Grid: Built with Hooks for Faster, Leaner UIs (Mohammed Farook J.) Coffee and Open Source … Continue reading Dew Drop – September 16, 2025 (#4498)]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8]]></title>
+        <id>stories/729922</id>
+        <link href="https://dotnetkicks.com/r/729922?url=https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/"/>
+        <updated>2025-09-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I look at the advantages, trade-offs, and implications of the new platform-specific .NET tool feature added in .NET 10, and how to support old SDKs]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8]]></title>
+        <id>stories/729909</id>
+        <link href="https://dotnetkicks.com/r/729909?url=https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/"/>
+        <updated>2025-09-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I look at the advantages, trade-offs, and implications of the new platform-specific .NET tool feature added in .NET 10, and how to support old SDKs]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8]]></title>
+        <id>https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/</id>
+        <link href="https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/"/>
+        <updated>2025-09-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I look at the advantages, trade-offs, and implications of the new platform-specific .NET tool feature added in .NET 10, and how to support old SDKs]]></summary>
+        <author>
+            <name>Andrew Lock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functional Personas With AI: A Lean, Practical Workflow]]></title>
+        <id>https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/</id>
+        <link href="https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/"/>
+        <updated>2025-09-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stale UX asset and demonstrates that it’s possible to create truly useful functional personas in a lightweight way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
     <entry>
@@ -528,16 +631,6 @@ Consider the following.
         <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to implement AlphaNumeric Captcha in ASP.Net WebForms.]]></summary>
         <author>
             <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Extend CRUD Operations to Align with Business Workflows]]></title>
-        <id>68c19bc01159a9ac851f6cb5</id>
-        <link href="https://www.freecodecamp.org/news/extend-crud-operations-to-align-with-business-workflows/"/>
-        <updated>2025-09-10T15:39:44.000Z</updated>
-        <summary type="html"><![CDATA[Most developers are introduced to databases and APIs through a simple pattern: CRUD—Create, Read, Update, Delete. It seems like the perfect abstraction. With just four operations, you can model almost anything. Tutorials use it. Frameworks generate i...]]></summary>
-        <author>
-            <name>Tim Kleier</name>
         </author>
     </entry>
     <entry>
@@ -1056,16 +1149,6 @@ I’ve heard this countless times, from IT managers, junior DBAs, and even seaso
 CSS Elevator: A Pure CSS State Machine With Floor Navigation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Christian Sabourin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop – August 29, 2025 (#4486)]]></title>
-        <id>https://www.alvinashcraft.com/?p=36374</id>
-        <link href="https://www.alvinashcraft.com/2025/08/29/dew-drop-august-29-2025-4486/"/>
-        <updated>2025-08-29T11:48:42.000Z</updated>
-        <summary type="html"><![CDATA[Top Links 🎉 The Windows Community Toolkit is 9 years old! 🎉 (Michael Hawker) ReSharper’s New Out-of-Process Engine Cuts UI Freezes in Visual Studio by 80% (Mehul Harry) Getting Started with the Aspire CLI (Jeffrey Fritz) How GitHub Models can help open source maintainers focus on what matters (Ashley Wolf) Announcing Awesome Copilot MCP Server … Continue reading Dew Drop – August 29, 2025 (#4486)]]></summary>
-        <author>
-            <name>Alvin A.</name>
         </author>
     </entry>
     <entry>
@@ -1612,26 +1695,6 @@ Markdown Monster is a Markdown editor that uses a JavaScript based editor contro
         <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
         <author>
             <name>Peter Ritchie's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #33, 2025 - Rider 2025.2 &amp; .NET 10 Preview 7]]></title>
-        <id>stories/727748</id>
-        <link href="https://dotnetkicks.com/r/727748?url=https://sergeytihon.com/2025/08/17/f-weekly-33-2025-rider-2025-2-net-10-preview-7/"/>
-        <updated>2025-08-17T07:08:28.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News What's new in F# with Rider 2025.2 Import code completion and quick fixes Type hints and type annotation actions Code editing and analysis C#/VB in-memory references F# Interactive and scripts What's New in Rider 2025.2 .NET 10 Preview 7 is now...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX Chronicles: Why Streaming Apps Still Suck—and Why That Should Terrify Tech Teams]]></title>
-        <id>http://dotnettips.wordpress.com/?p=15409</id>
-        <link href="https://dotnettips.wordpress.com/2025/08/17/ux-chronicles-why-streaming-apps-still-suck-and-why-that-should-terrify-tech-teams/"/>
-        <updated>2025-08-17T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Major streaming platforms like Netflix and Amazon Prime Video are failing to prioritize user experience, leading to frustration for users. Issues such as misleading content promotion, disruptive ads, disorganized content, and technical malfunctions highlight a disconnect between companies and their audience. Executives must engage with their products to improve usability and user satisfaction.]]></summary>
-        <author>
-            <name>dotNetDave</name>
         </author>
     </entry>
 </feed>
