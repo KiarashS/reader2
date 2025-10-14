@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389636",
+          "author": "Saleh Mubashar",
+          "description": "Looking at the CSS Masonry discussions and what they can teach us about the development of new CSS features. What is the CSSWG’s role? What influence do browsers have? What can learn from the way past features evolved?\nMasonry: Watching a CSS Feature Evolve originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/masonry-watching-a-css-feature-evolve/",
+          "publishedOn": "2025-10-13T14:31:35.000Z",
+          "wordCount": 3515,
+          "title": "Masonry: Watching a CSS Feature Evolve",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/css-tricks-logo-blur.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389611",
           "author": "Daniel Schwarz",
           "description": "The TL;DR is that stretch does the same thing as declaring 100%, but ignores padding when looking at the available space. \nWe Completely Missed width/height: stretch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -115,16 +125,6 @@
           "wordCount": 5048,
           "title": "The “Most Hated” CSS Feature: cos() and sin()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/most_hated_feature.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389060",
-          "author": "Daniel Schwarz",
-          "description": "When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when border-radius came onto the scene, I remember everybody thinking that it was the best thing ever. …\nWhat Can We Actually Do With corner-shape? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-can-we-actually-do-with-corner-shape/",
-          "publishedOn": "2025-09-12T14:20:45.000Z",
-          "wordCount": 3406,
-          "title": "What Can We Actually Do With corner-shape?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/s_B9520AAEB8E72143A2990CEB07209D80D9AD692AC1F43B71E4BC9C84D7184887_1757081374239_Screenshot2025-09-05at8.08.39AM.png"
         }
       ]
     },
@@ -134,12 +134,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
+          "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
+          "publishedOn": "2025-10-13T10:00:00.000Z",
+          "wordCount": 4558,
+          "title": "The Grayscale Problem",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
           "author": "hello@smashingmagazine.com (Andy Clarke)",
           "description": "SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.",
           "link": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
           "publishedOn": "2025-10-06T13:00:00.000Z",
-          "wordCount": 4370,
+          "wordCount": 4361,
           "title": "Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg",
@@ -154,7 +169,7 @@
           "description": "Ready to move beyond static mockups? Here is a practical, step-by-step guide to Intent Prototyping — a disciplined method that uses AI to turn your design intent (UI sketches, conceptual models, and user flows) directly into a live prototype, making it your primary canvas for ideation.",
           "link": "https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/",
           "publishedOn": "2025-10-03T10:00:00.000Z",
-          "wordCount": 9686,
+          "wordCount": 9694,
           "title": "Intent Prototyping: A Practical Guide To Building With Clarity (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/intent-prototyping-practical-guide-building-clarity/intent-prototyping-practical-guide-building-clarity.jpg",
@@ -184,7 +199,7 @@
           "description": "What if your best AI prompts didn’t disappear into your unorganized chat history, but came back tomorrow as a reliable assistant? In this article, you’ll learn how to turn one-off “aha” prompts into reusable assistants that are tailored to your audience, grounded in your knowledge, and consistent every time, saving you (and your team) from typing the same 448-word prompt ever again.",
           "link": "https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/",
           "publishedOn": "2025-09-26T10:00:00.000Z",
-          "wordCount": 6543,
+          "wordCount": 6549,
           "title": "From Prompt To Partner: Designing Your Custom AI Assistant",
           "enclosure": {
             "url": "http://files.smashing.media/articles/from-prompt-to-partner-designing-custom-ai-assistant/from-prompt-to-partner-designing-custom-ai-assistant.jpg",
@@ -199,7 +214,7 @@
           "description": "Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.",
           "link": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
           "publishedOn": "2025-09-24T17:00:00.000Z",
-          "wordCount": 5418,
+          "wordCount": 5427,
           "title": "Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg",
@@ -214,7 +229,7 @@
           "description": "Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.",
           "link": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
           "publishedOn": "2025-09-22T13:00:00.000Z",
-          "wordCount": 4544,
+          "wordCount": 4545,
           "title": "Ambient Animations In Web Design: Principles And Implementation (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ambient-animations-web-design-principles-implementation/ambient-animations-web-design-principles-implementation.jpg",
@@ -229,7 +244,7 @@
           "description": "With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface. When it works, interactions feel seamless. When it fails, the entire experience collapses. But trust isn’t mystical. It can be understood, measured, and designed for. Here are practical methods and strategies for designing more trustworthy and ethical AI systems.",
           "link": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
           "publishedOn": "2025-09-19T10:00:00.000Z",
-          "wordCount": 6946,
+          "wordCount": 6937,
           "title": "The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confidence",
           "enclosure": {
             "url": "http://files.smashing.media/articles/psychology-trust-ai-guide-measuring-designing-user-confidence/psychology-trust-ai-guide-measuring-designing-user-confidence.jpg",
@@ -244,7 +259,7 @@
           "description": "As responsible digital professionals, we are becoming increasingly aware of the environmental impact of our work and need to find effective and pragmatic ways to reduce it. James Chudley shares a new decarbonising approach that will help you to minimise the environmental impact of your website, benefiting people, profit, purpose, performance, and the planet.",
           "link": "https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/",
           "publishedOn": "2025-09-18T10:00:00.000Z",
-          "wordCount": 5712,
+          "wordCount": 5698,
           "title": "How To Minimize The Environmental Impact Of Your Website",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-minimize-environmental-impact-website/how-minimize-environmental-impact-website.jpg",
@@ -297,21 +312,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/creating-elastic-bounce-effects-expressive-animator/creating-elastic-bounce-effects-expressive-animator.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
-          "author": "hello@smashingmagazine.com (Karan Rawal)",
-          "description": "Real-time dashboards are decision assistants, not passive displays. In environments like fleet management, healthcare, and operations, the cost of a delay or misstep is high. Karan Rawal explores strategic UX patterns that shorten time-to-decision, reduce cognitive overload, and make live systems trustworthy.",
-          "link": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
-          "publishedOn": "2025-09-12T15:00:00.000Z",
-          "wordCount": 6273,
-          "title": "From Data To Decisions: UX Strategies For Real-Time Dashboards",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg"
         }
       ]
     },
@@ -320,6 +320,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68ed26f9351f8e053ca7b62c",
+          "author": "Manish Shivanandhan",
+          "description": "Every developer has faced this moment: you deploy an update, everything works fine, and then that small voice in your head asks, “But is it secure?” You have run your unit tests, your linter is happy, and the code reviews are green. Still, you know t...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-strix-the-open-source-ai-agent-for-security-testing/",
+          "publishedOn": "2025-10-13T16:21:13.000Z",
+          "wordCount": 2487,
+          "title": "How to Use Strix, the Open-Source AI Agent for Security Testing",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760372398262/3dcf2055-4bfd-40ba-b018-9a25ea27436e.png"
+        },
+        {
+          "id": "68ed22c02001907a6cb6d50a",
+          "author": "Soham Mehta",
+          "description": "n8n is a visual, node-based automation platform that lets you automate tasks with drag-and-drop nodes. It’s popular for multi-step automations and AI chains thanks to built-in nodes for agents and app integrations. In this tutorial, you’ll build a sm...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-ai-workflows-with-n8n/",
+          "publishedOn": "2025-10-13T16:03:12.000Z",
+          "wordCount": 2096,
+          "title": "How to Build AI Workflows with n8n",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760371342462/f8874220-238b-4819-a6f1-c35756b355bc.png"
+        },
+        {
+          "id": "68ed078ea201be4106f2d7b2",
+          "author": "Beau Carnes",
+          "description": "Prepare for the Google Generative AI Leader exam and pass! A Generative AI Leader is a visionary professional with comprehensive knowledge of how generative AI (gen AI) can transform businesses. They have business-level knowledge of Google Cloud's ge...",
+          "link": "https://www.freecodecamp.org/news/pass-the-google-generative-ai-leader-certification-exam/",
+          "publishedOn": "2025-10-13T14:07:10.000Z",
+          "wordCount": 996,
+          "title": "Pass the Google Generative AI Leader Certification Exam",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760364411037/aadc2471-a1f1-4709-9400-6b79c54bf1e5.png"
+        },
         {
           "id": "68e91f889b56081e93d896cd",
           "author": "Beau Carnes",
@@ -389,36 +419,6 @@
           "wordCount": 1052,
           "title": "Learn Databases and SQL from Harvard University",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760020545784/53c7451f-ea27-4471-afa6-87c1ca44827a.jpeg"
-        },
-        {
-          "id": "68e7c63485bb550e2fceeb6f",
-          "author": "Beau Carnes",
-          "description": "Want to learn how to combine React 19 and AI LLMs to build something handy? We just published a course on the freeCodeCamp.org YouTube channel that will teach you to build an AI-powered Code Explainer App from scratch. Tapas Adhikary created this cou...",
-          "link": "https://www.freecodecamp.org/news/react-project-tutorial-build-an-ai-code-explainer/",
-          "publishedOn": "2025-10-09T14:27:00.000Z",
-          "wordCount": 1045,
-          "title": "React Project Tutorial – Build an AI Code Explainer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760020000428/7a75a52c-fd9b-4e7b-8500-e936b7a94460.jpeg"
-        },
-        {
-          "id": "68e7c5326d2d054fee0c0ed0",
-          "author": "Beau Carnes",
-          "description": "Have you ever wondered about the history of vision transformers? We just published a course on the freeCodeCamp.org YouTube channel that is a conceptual and architectural journey through deep learning vision models, tracing the evolution from LeNet a...",
-          "link": "https://www.freecodecamp.org/news/the-history-of-deep-learning-vision-architectures/",
-          "publishedOn": "2025-10-09T14:22:42.000Z",
-          "wordCount": 1005,
-          "title": "The History of Deep Learning Vision Architectures",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760019746984/9956c742-fbf4-4da7-b3f9-8a22967c1ba9.jpeg"
-        },
-        {
-          "id": "68e7c3f924b6c99d1467d409",
-          "author": "Beau Carnes",
-          "description": "He's a self-taught software engineer who got his first developer job at age 43. He spent decades working in manufacturing while raising his kids, before using freeCodeCamp to learn programming. He was able to translate his JavaScript skills into work...",
-          "link": "https://www.freecodecamp.org/news/from-manufacturing-worker-to-first-developer-job-at-age-43-with-thomas-gooch-podcast-191/",
-          "publishedOn": "2025-10-09T14:17:29.000Z",
-          "wordCount": 1342,
-          "title": "From manufacturing worker to first developer job at age 43 with Thomas Gooch [Podcast #191]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760019279104/f82fb425-d635-436a-8daa-8e2122efa2ec.jpeg"
         }
       ]
     },
@@ -477,83 +477,73 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
-          "id": "stories/731623",
+          "id": "stories/729142",
           "author": null,
-          "description": "Version 5.1.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to both Cake Scripting and Cake Frosting since the Cake v5.0.0 release!",
-          "link": "https://dotnetkicks.com/r/731623?url=https://cakebuild.net/blog/2025/10/cake-v5.1.0-released",
-          "publishedOn": "2025-10-13T02:00:12.129Z",
-          "wordCount": 1004,
-          "title": "Cake v5.1.0 released",
+          "description": "Today we are celebrating 15 years of commercial-free podcasting on . NET-related issues. Thank you for your ongoing interest and support. Stay tuned for a very special podcast on Visual Studio coming sometime next week. Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.",
+          "link": "https://dotnetkicks.com/r/729142?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/",
+          "publishedOn": "2025-10-14T01:53:30.778Z",
+          "wordCount": 2316,
+          "title": "Celebrating 15 years of Yet Another Podcast",
           "imageUrl": null
         },
         {
-          "id": "stories/728956",
+          "id": "stories/731118",
           "author": null,
-          "description": "Overview of windowing APIs in the Windows App SDK",
-          "link": "https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview",
-          "publishedOn": "2025-10-13T02:00:09.895Z",
-          "wordCount": 1858,
-          "title": "Windowing overview for WinUI and Windows App SDK - Windows apps",
-          "imageUrl": "https://learn.microsoft.com/en-us/media/open-graph-image.png"
+          "description": "Join Steve Smith (Ardalis) at 5 major developer conferences in October 2025 across 3 countries. Sessions on Clean Architecture, SOLID principles, microservices, and modular monoliths. Includes JetBrains .NET Days, DevIntersection, Azure Dev Summit, NDC Porto, and TechoramaNL.",
+          "link": "https://dotnetkicks.com/r/731118?url=https://ardalis.com/ardalis-fall-2025-speaking-tour/",
+          "publishedOn": "2025-10-14T01:53:29.898Z",
+          "wordCount": 1093,
+          "title": "Ardalis Fall 2025 Speaking Tour",
+          "imageUrl": "https://ardalis.com/static/94f028b8f867569247e4b8c09b0db883/6050d/ardalis-fall-2025-speaking-tour.png"
+        },
+        {
+          "id": "stories/730936",
+          "author": null,
+          "description": "Lance takes us through what MCP is, why it is important, and how to work with it. You can reach Lance here: https://bsky.app/profile/lance.boston https://twitter.com/l_anceM Https://dvlup.com Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.",
+          "link": "https://dotnetkicks.com/r/730936?url=https://jesseliberty.com/2025/09/25/lance-mccarthy-on-copilot-mcp-servers/",
+          "publishedOn": "2025-10-14T01:53:29.532Z",
+          "wordCount": 3511,
+          "title": "Lance McCarthy on CoPilot & MCP Servers",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/732018",
+          "author": null,
+          "description": "Python’s AI reign is toast. .NET 10 (LTS) isn't just an update; it's a weapon. Native vectors in EF Core, AI abstraction (IChatClient!), and performance that makes Python look like a tired, old scripting language. Your cloud bill and CIO will finally sleep at night. Ditch the v-envs!",
+          "link": "https://dotnetkicks.com/r/732018?url=https://www.gapvelocity.ai/blog/dotnet10-smacks-down-python-ai",
+          "publishedOn": "2025-10-14T01:53:29.488Z",
+          "wordCount": 2503,
+          "title": ".NET 10: The Deathblow to Python’s AI Dominance? 💀",
+          "imageUrl": "https://www.gapvelocity.ai/hubfs/NET%20Python.png"
         },
         {
           "id": "stories/728714",
           "author": null,
           "description": "Mads K of Microsoft talks about the targeting of Visual Studio and VSCode. Towards the end, I ask him about a few of his favorite plugins. Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.",
           "link": "https://dotnetkicks.com/r/728714?url=https://jesseliberty.com/2025/08/31/mads-k-microsoft-on-visual-studio-and-vscode/",
-          "publishedOn": "2025-10-13T02:00:08.610Z",
-          "wordCount": 2404,
+          "publishedOn": "2025-10-14T01:53:29.020Z",
+          "wordCount": 2535,
           "title": "Mads K (Microsoft) on Visual Studio and VSCode",
           "imageUrl": null
         },
         {
-          "id": "stories/732297",
+          "id": "stories/729874",
           "author": null,
-          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
-          "link": "https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/",
-          "publishedOn": "2025-10-13T02:00:08.164Z",
-          "wordCount": 1756,
-          "title": "James Montemagno on Vibe Coding",
-          "imageUrl": null
+          "description": ".NET 10 RC1 is here, and it's a monster. Think your code is fast now? Just wait.\nThe team pulled a Frederic Tudor, the 19th-century \"Ice King,\" compounding thousands of tiny optimizations into a massive performance leap. The JIT is now a wizard at \"deabstraction,\" making your clean, high-level C# run like hand-tuned C.\n\nThe real magic trick? Expanded escape analysis. The compiler can now stack-allocate small objects that it proves don't \"escape\" a method. That means less heap allocation and fewer GC pauses. It's the free performance lunch you were always told doesn't exist. Your app gets faster without you changing a line of code.",
+          "link": "https://dotnetkicks.com/r/729874?url=https://www.gapvelocity.ai/blog/dotnet-10-release-1?utm_source=DNK-729874&utm_medium=DNK-729874&utm_content=DNK-729874&utm_campaign=DNK-729874",
+          "publishedOn": "2025-10-14T01:53:28.850Z",
+          "wordCount": 4701,
+          "title": ".NET 10 Release 1: Performance Boosts, Security Upgrades, and Smarter AI",
+          "imageUrl": "https://www.gapvelocity.ai/hubfs/NET10%20Release1.png"
         },
         {
-          "id": "stories/729323",
+          "id": "stories/729393",
           "author": null,
-          "description": "Make no mistake. This is a shitpost. But it's also going to be more than a simple shit post. Let me explain. I've created an IndieGogo campaign to help us do what Stellantis should have done itself: take the dangerous car they sold me off the road and destroy it.",
-          "link": "https://dotnetkicks.com/r/729323?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/",
-          "publishedOn": "2025-10-13T02:00:08.131Z",
-          "wordCount": 6288,
-          "title": "The Facadeware Problem, But, Also, Help Me Beat My Car to Death",
-          "imageUrl": "https://daedtech.com/wp-content/uploads/2025/07/TowedJeep2024-250x300.png"
-        },
-        {
-          "id": "stories/729742",
-          "author": null,
-          "description": "We're excited to announce the release of Cake.Sdk 5.0.25257.82-beta, a minor preview release that brings improvements to performance, the debugging experience, and native .NET CLI publish support. The biggest improvement in this release is that dotnet publish now works with Cake.Sdk.",
-          "link": "https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug",
-          "publishedOn": "2025-10-13T02:00:04.755Z",
-          "wordCount": 829,
-          "title": "Cake.Sdk 5.0.25257.82-beta released",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/730007",
-          "author": null,
-          "description": "Learn about the new features and enhancements announced for Microsoft Fabric at FabCon Vienna 2025.",
-          "link": "https://dotnetkicks.com/r/730007?url=https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation",
-          "publishedOn": "2025-10-13T02:00:04.696Z",
-          "wordCount": 2512,
-          "title": "FabCon Vienna: Build data-rich agents on an enterprise-ready foundation",
-          "imageUrl": "https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/media_14ca64bd45dcb4fe6abb35a835c6936db7dd1a09e.png?width=1200&format=pjpg&optimize=medium"
-        },
-        {
-          "id": "stories/730190",
-          "author": null,
-          "description": "Conversation with Scott Hunter (VP Microsoft) about Visual Studio, CoPilot Agents, MCP, Azure, Azure Functions and much more. Note: ZenCastr ate Scott's links, but you can get started at https://learn.microsoft.com Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.",
-          "link": "https://dotnetkicks.com/r/730190?url=https://jesseliberty.com/2025/09/17/scott-hunter/",
-          "publishedOn": "2025-10-13T02:00:04.466Z",
-          "wordCount": 1932,
-          "title": "Scott Hunter",
+          "description": "Visual Studio 2026 is here. Mads takes us through the highlights View this podcast on YouTube Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
+          "link": "https://dotnetkicks.com/r/729393?url=https://jesseliberty.com/2025/09/09/visual-studio-2026-with-mads-kristensen/",
+          "publishedOn": "2025-10-14T01:53:24.410Z",
+          "wordCount": 3285,
+          "title": "Visual Studio 2026! with Mads Kristensen",
           "imageUrl": null
         },
         {
@@ -561,89 +551,9 @@
           "author": null,
           "description": "Today we are celebrating 15 years of commercial-free podcasting on . NET-related issues. Thank you for your ongoing interest and support. Stay tuned for a very special podcast on Visual Studio coming sometime next week. Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.",
           "link": "https://dotnetkicks.com/r/729155?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/",
-          "publishedOn": "2025-10-13T02:00:04.328Z",
-          "wordCount": 2287,
+          "publishedOn": "2025-10-14T01:53:24.121Z",
+          "wordCount": 2316,
           "title": "Celebrating 15 years of Yet Another Podcast",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/729393",
-          "author": null,
-          "description": "Visual Studio 2026 is here. Mads takes us through the highlights View this podcast on YouTube Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
-          "link": "https://dotnetkicks.com/r/729393?url=https://jesseliberty.com/2025/09/09/visual-studio-2026-with-mads-kristensen/",
-          "publishedOn": "2025-10-13T02:00:04.246Z",
-          "wordCount": 3224,
-          "title": "Visual Studio 2026! with Mads Kristensen",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/729142",
-          "author": null,
-          "description": "Today we are celebrating 15 years of commercial-free podcasting on . NET-related issues. Thank you for your ongoing interest and support. Stay tuned for a very special podcast on Visual Studio coming sometime next week. Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.",
-          "link": "https://dotnetkicks.com/r/729142?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/",
-          "publishedOn": "2025-10-13T02:00:04.005Z",
-          "wordCount": 2287,
-          "title": "Celebrating 15 years of Yet Another Podcast",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/730936",
-          "author": null,
-          "description": "Lance takes us through what MCP is, why it is important, and how to work with it. You can reach Lance here: https://bsky.app/profile/lance.boston https://twitter.com/l_anceM Https://dvlup.com Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.",
-          "link": "https://dotnetkicks.com/r/730936?url=https://jesseliberty.com/2025/09/25/lance-mccarthy-on-copilot-mcp-servers/",
-          "publishedOn": "2025-10-13T02:00:03.628Z",
-          "wordCount": 3511,
-          "title": "Lance McCarthy on CoPilot & MCP Servers",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/730393",
-          "author": null,
-          "description": "In the past short while, we've seen the release of Visual Studio 2026 and iOS-26. They both have great improvements, though if I had to choose, the one that is making the biggest impact on me is, of course, Visual Studio. And there, the biggest improvement is performance.",
-          "link": "https://dotnetkicks.com/r/730393?url=https://jesseliberty.com/2025/09/19/what-a-fortnight-vs2026-and-ios26/",
-          "publishedOn": "2025-10-13T02:00:03.576Z",
-          "wordCount": 2476,
-          "title": "What a fortnight! VS2026 and iOS26",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/729995",
-          "author": null,
-          "description": "Learn about the new features and enhancements announced for Microsoft Fabric at FabCon Vienna 2025.",
-          "link": "https://dotnetkicks.com/r/729995?url=https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation",
-          "publishedOn": "2025-10-13T02:00:02.814Z",
-          "wordCount": 2512,
-          "title": "FabCon Vienna: Build data-rich agents on an enterprise-ready foundation",
-          "imageUrl": "https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/media_14ca64bd45dcb4fe6abb35a835c6936db7dd1a09e.png?width=1200&format=pjpg&optimize=medium"
-        },
-        {
-          "id": "stories/729874",
-          "author": null,
-          "description": ".NET 10 RC1 is here, and it's a monster. Think your code is fast now? Just wait.\nThe team pulled a Frederic Tudor, the 19th-century \"Ice King,\" compounding thousands of tiny optimizations into a massive performance leap. The JIT is now a wizard at \"deabstraction,\" making your clean, high-level C# run like hand-tuned C.\n\nThe real magic trick? Expanded escape analysis. The compiler can now stack-allocate small objects that it proves don't \"escape\" a method. That means less heap allocation and fewer GC pauses. It's the free performance lunch you were always told doesn't exist. Your app gets faster without you changing a line of code.",
-          "link": "https://dotnetkicks.com/r/729874?url=https://www.gapvelocity.ai/blog/dotnet-10-release-1?utm_source=DNK-729874&utm_medium=DNK-729874&utm_content=DNK-729874&utm_campaign=DNK-729874",
-          "publishedOn": "2025-10-13T02:00:00.725Z",
-          "wordCount": 4701,
-          "title": ".NET 10 Release 1: Performance Boosts, Security Upgrades, and Smarter AI",
-          "imageUrl": "https://www.gapvelocity.ai/hubfs/NET10%20Release1.png"
-        },
-        {
-          "id": "stories/732018",
-          "author": null,
-          "description": "Python’s AI reign is toast. .NET 10 (LTS) isn't just an update; it's a weapon. Native vectors in EF Core, AI abstraction (IChatClient!), and performance that makes Python look like a tired, old scripting language. Your cloud bill and CIO will finally sleep at night. Ditch the v-envs!",
-          "link": "https://dotnetkicks.com/r/732018?url=https://www.gapvelocity.ai/blog/dotnet10-smacks-down-python-ai",
-          "publishedOn": "2025-10-13T02:00:00.272Z",
-          "wordCount": 2503,
-          "title": ".NET 10: The Deathblow to Python’s AI Dominance? 💀",
-          "imageUrl": "https://www.gapvelocity.ai/hubfs/NET%20Python.png"
-        },
-        {
-          "id": "stories/729475",
-          "author": null,
-          "description": "A new preview version of Cake.Sdk has been released! Version 5.0.25253.70-beta brings compatibility with .NET 10 RC1 and introduces powerful new features for modular build script organization.",
-          "link": "https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update",
-          "publishedOn": "2025-10-13T02:00:00.077Z",
-          "wordCount": 1387,
-          "title": "Cake.Sdk 5.0.25253.70-beta released",
           "imageUrl": null
         },
         {
@@ -651,30 +561,150 @@
           "author": null,
           "description": "Learn about the new features and enhancements announced for Microsoft Fabric at FabCon Vienna 2025.",
           "link": "https://dotnetkicks.com/r/730005?url=https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation",
-          "publishedOn": "2025-10-13T01:59:59.340Z",
+          "publishedOn": "2025-10-14T01:53:24.026Z",
           "wordCount": 2512,
           "title": "FabCon Vienna: Build data-rich agents on an enterprise-ready foundation",
           "imageUrl": "https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/media_14ca64bd45dcb4fe6abb35a835c6936db7dd1a09e.png?width=1200&format=pjpg&optimize=medium"
         },
         {
-          "id": "stories/731118",
+          "id": "stories/728956",
           "author": null,
-          "description": "Join Steve Smith (Ardalis) at 5 major developer conferences in October 2025 across 3 countries. Sessions on Clean Architecture, SOLID principles, microservices, and modular monoliths. Includes JetBrains .NET Days, DevIntersection, Azure Dev Summit, NDC Porto, and TechoramaNL.",
-          "link": "https://dotnetkicks.com/r/731118?url=https://ardalis.com/ardalis-fall-2025-speaking-tour/",
-          "publishedOn": "2025-10-13T01:59:59.317Z",
-          "wordCount": 1093,
-          "title": "Ardalis Fall 2025 Speaking Tour",
-          "imageUrl": "https://ardalis.com/static/94f028b8f867569247e4b8c09b0db883/6050d/ardalis-fall-2025-speaking-tour.png"
+          "description": "Overview of windowing APIs in the Windows App SDK",
+          "link": "https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview",
+          "publishedOn": "2025-10-14T01:53:23.115Z",
+          "wordCount": 1858,
+          "title": "Windowing overview for WinUI and Windows App SDK - Windows apps",
+          "imageUrl": "https://learn.microsoft.com/en-us/media/open-graph-image.png"
+        },
+        {
+          "id": "stories/731623",
+          "author": null,
+          "description": "Version 5.1.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to both Cake Scripting and Cake Frosting since the Cake v5.0.0 release!",
+          "link": "https://dotnetkicks.com/r/731623?url=https://cakebuild.net/blog/2025/10/cake-v5.1.0-released",
+          "publishedOn": "2025-10-14T01:53:22.802Z",
+          "wordCount": 1004,
+          "title": "Cake v5.1.0 released",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/732297",
+          "author": null,
+          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
+          "link": "https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/",
+          "publishedOn": "2025-10-14T01:53:09.973Z",
+          "wordCount": 2078,
+          "title": "James Montemagno on Vibe Coding",
+          "imageUrl": null
         },
         {
           "id": "stories/729327",
           "author": null,
           "description": "Make no mistake. This is a shitpost. But it's also going to be more than a simple shit post. Let me explain. I've created an IndieGogo campaign to help us do what Stellantis should have done itself: take the dangerous car they sold me off the road and destroy it.",
           "link": "https://dotnetkicks.com/r/729327?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/",
-          "publishedOn": "2025-10-13T01:59:58.682Z",
+          "publishedOn": "2025-10-14T01:53:09.904Z",
           "wordCount": 6288,
           "title": "The Facadeware Problem, But, Also, Help Me Beat My Car to Death",
           "imageUrl": "https://daedtech.com/wp-content/uploads/2025/07/TowedJeep2024-250x300.png"
+        },
+        {
+          "id": "stories/730007",
+          "author": null,
+          "description": "Learn about the new features and enhancements announced for Microsoft Fabric at FabCon Vienna 2025.",
+          "link": "https://dotnetkicks.com/r/730007?url=https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation",
+          "publishedOn": "2025-10-14T01:53:09.715Z",
+          "wordCount": 2512,
+          "title": "FabCon Vienna: Build data-rich agents on an enterprise-ready foundation",
+          "imageUrl": "https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/media_14ca64bd45dcb4fe6abb35a835c6936db7dd1a09e.png?width=1200&format=pjpg&optimize=medium"
+        },
+        {
+          "id": "stories/730393",
+          "author": null,
+          "description": "In the past short while, we've seen the release of Visual Studio 2026 and iOS-26. They both have great improvements, though if I had to choose, the one that is making the biggest impact on me is, of course, Visual Studio. And there, the biggest improvement is performance.",
+          "link": "https://dotnetkicks.com/r/730393?url=https://jesseliberty.com/2025/09/19/what-a-fortnight-vs2026-and-ios26/",
+          "publishedOn": "2025-10-14T01:53:09.054Z",
+          "wordCount": 2671,
+          "title": "What a fortnight! VS2026 and iOS26",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/729475",
+          "author": null,
+          "description": "A new preview version of Cake.Sdk has been released! Version 5.0.25253.70-beta brings compatibility with .NET 10 RC1 and introduces powerful new features for modular build script organization.",
+          "link": "https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update",
+          "publishedOn": "2025-10-14T01:53:09.032Z",
+          "wordCount": 1387,
+          "title": "Cake.Sdk 5.0.25253.70-beta released",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/729742",
+          "author": null,
+          "description": "We're excited to announce the release of Cake.Sdk 5.0.25257.82-beta, a minor preview release that brings improvements to performance, the debugging experience, and native .NET CLI publish support. The biggest improvement in this release is that dotnet publish now works with Cake.Sdk.",
+          "link": "https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug",
+          "publishedOn": "2025-10-14T01:53:09.001Z",
+          "wordCount": 829,
+          "title": "Cake.Sdk 5.0.25257.82-beta released",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/730190",
+          "author": null,
+          "description": "Conversation with Scott Hunter (VP Microsoft) about Visual Studio, CoPilot Agents, MCP, Azure, Azure Functions and much more. Note: ZenCastr ate Scott's links, but you can get started at https://learn.microsoft.com Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.",
+          "link": "https://dotnetkicks.com/r/730190?url=https://jesseliberty.com/2025/09/17/scott-hunter/",
+          "publishedOn": "2025-10-14T01:53:08.787Z",
+          "wordCount": 2070,
+          "title": "Scott Hunter",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/729323",
+          "author": null,
+          "description": "Make no mistake. This is a shitpost. But it's also going to be more than a simple shit post. Let me explain. I've created an IndieGogo campaign to help us do what Stellantis should have done itself: take the dangerous car they sold me off the road and destroy it.",
+          "link": "https://dotnetkicks.com/r/729323?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/",
+          "publishedOn": "2025-10-14T01:53:08.665Z",
+          "wordCount": 6288,
+          "title": "The Facadeware Problem, But, Also, Help Me Beat My Car to Death",
+          "imageUrl": "https://daedtech.com/wp-content/uploads/2025/07/TowedJeep2024-250x300.png"
+        },
+        {
+          "id": "stories/729995",
+          "author": null,
+          "description": "Learn about the new features and enhancements announced for Microsoft Fabric at FabCon Vienna 2025.",
+          "link": "https://dotnetkicks.com/r/729995?url=https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation",
+          "publishedOn": "2025-10-14T01:53:08.448Z",
+          "wordCount": 2512,
+          "title": "FabCon Vienna: Build data-rich agents on an enterprise-ready foundation",
+          "imageUrl": "https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/media_14ca64bd45dcb4fe6abb35a835c6936db7dd1a09e.png?width=1200&format=pjpg&optimize=medium"
+        },
+        {
+          "id": "stories/732384",
+          "author": null,
+          "description": "Amanda Silver's leadership has helped shape Microsoft's evolution toward open-source collaboration. Learn more in this edition of FYAI.",
+          "link": "https://dotnetkicks.com/r/732384?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/",
+          "publishedOn": "2025-10-13T15:00:00.000Z",
+          "wordCount": 6008,
+          "title": "FYAI: Why developers will lead AI transformation across the enterprise | The Microsoft Cloud Blog",
+          "imageUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2025/10/Cloud_FYAI_Blog_251001-01-1024x576.png"
+        },
+        {
+          "id": "stories/732383",
+          "author": null,
+          "description": "Amanda Silver's leadership has helped shape Microsoft's evolution toward open-source collaboration. Learn more in this edition of FYAI.",
+          "link": "https://dotnetkicks.com/r/732383?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/",
+          "publishedOn": "2025-10-13T15:00:00.000Z",
+          "wordCount": 6008,
+          "title": "FYAI: Why developers will lead AI transformation across the enterprise | The Microsoft Cloud Blog",
+          "imageUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2025/10/Cloud_FYAI_Blog_251001-01-1024x576.png"
+        },
+        {
+          "id": "stories/732382",
+          "author": null,
+          "description": "Amanda Silver's leadership has helped shape Microsoft's evolution toward open-source collaboration. Learn more in this edition of FYAI.",
+          "link": "https://dotnetkicks.com/r/732382?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/",
+          "publishedOn": "2025-10-13T15:00:00.000Z",
+          "wordCount": 6008,
+          "title": "FYAI: Why developers will lead AI transformation across the enterprise | The Microsoft Cloud Blog",
+          "imageUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2025/10/Cloud_FYAI_Blog_251001-01-1024x576.png"
         },
         {
           "id": "stories/732324",
@@ -682,7 +712,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Preparing for the .NET 10 GC (DATAS) - .NET Blog Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET - .NET Blog September 2025 (version 1.105) Visual Studio Dev/Test Benefit Explained - Visual Studio Blog Developer and AI Code Reviewer:...",
           "link": "https://dotnetkicks.com/r/732324?url=https://sergeytihon.com/2025/10/11/f-weekly-41-2025-jetbrains-net-days-online-2025/",
           "publishedOn": "2025-10-11T20:40:51.000Z",
-          "wordCount": 4330,
+          "wordCount": 4356,
           "title": "F# Weekly #41, 2025 - JetBrains .NET Days Online 2025",
           "imageUrl": "https://sergeytihon.com/wp-content/uploads/2025/10/bafkreieubibp43wd7an6qfmriuldicz6vyyabswznjajhjifai7q37hzta.jpg"
         },
@@ -702,7 +732,7 @@
           "description": "Learn how DATAS in .NET 10 adapts heap size, what changes to expect versus previous Server Garbage Collection (GC) behavior, and how to decide whether to tune or disable it.",
           "link": "https://dotnetkicks.com/r/732105?url=https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/",
           "publishedOn": "2025-10-08T17:00:00.000Z",
-          "wordCount": 12109,
+          "wordCount": 12725,
           "title": "Preparing for the .NET 10 GC (DATAS) - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/09/preparing-for-dotnet-10-gc.jpg"
         },
@@ -952,7 +982,7 @@
           "description": "For any shops using the \"Critter Stack\" (Marten and Wolverine), JasperFx Software offers support contracts and custom consulting engagements in support of these tools -- or really anything you might be doing on the server side with .NET as well. Something we've had some success with, especially lately, is positioning these \"support\" contracts as essentially...",
           "link": "https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/",
           "publishedOn": "2025-09-24T00:38:45.000Z",
-          "wordCount": 4749,
+          "wordCount": 4754,
           "title": "Little Diary of How JasperFx Helps Our Clients",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2023/07/cropped-cropped-jasperfx-logo-final-orange-bg.jpg"
         },
@@ -1042,7 +1072,7 @@
           "description": "So here's a common scenario when building a system using Event Sourcing with Marten: Some of the data in your system is just reference data stored as plain old Marten documents. Something like user data (like I'll use in just a bit), company data, or some other kind of static reference data that doesn't justify...",
           "link": "https://dotnetkicks.com/r/730234?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/",
           "publishedOn": "2025-09-17T21:49:26.000Z",
-          "wordCount": 5289,
+          "wordCount": 5294,
           "title": "Event Enrichment in Marten Projections",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2024/03/logo.png"
         },
@@ -1062,7 +1092,7 @@
           "description": "So here's a common scenario when building a system using Event Sourcing with Marten: Some of the data in your system is just reference data stored as plain old Marten documents. Something like user data (like I'll use in just a bit), company data, or some other kind of static reference data that doesn't justify...",
           "link": "https://dotnetkicks.com/r/730204?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/",
           "publishedOn": "2025-09-17T21:49:26.000Z",
-          "wordCount": 5294,
+          "wordCount": 5286,
           "title": "Event Enrichment in Marten Projections",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2024/03/logo.png"
         },
@@ -1102,7 +1132,7 @@
           "description": "NET STS releases will be supported for 24 months",
           "link": "https://dotnetkicks.com/r/729969?url=https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/",
           "publishedOn": "2025-09-16T17:00:00.000Z",
-          "wordCount": 10084,
+          "wordCount": 10162,
           "title": ".NET STS releases supported for 24 months - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/09/dotnet-releases-support-scaled.jpg"
         },
@@ -1152,7 +1182,7 @@
           "description": "Wolverine has long had some ability to schedule some messages to be executed at a later time or schedule messages to be delivered at a later time. The Wolverine 4.12 release last night added some probably overdue test automation helpers to better deal with scheduled messaging within integration testing against Wolverine applications -- and that...",
           "link": "https://dotnetkicks.com/r/729825?url=https://jeremydmiller.com/2025/09/15/working-and-testing-against-scheduled-messages-with-wolverine/",
           "publishedOn": "2025-09-15T14:58:00.000Z",
-          "wordCount": 5494,
+          "wordCount": 5499,
           "title": "Working and Testing Against Scheduled Messages with Wolverine",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/09/image-1.png"
         },
@@ -1189,9 +1219,9 @@
           "description": "This discusses the principles of defensive programming to enhance software development. It emphasizes error prevention strategies such as input validation, comprehensive error handling, and assumption checking. By adopting these practices, developers can create reliable, maintainable applications, reduce bugs and their associated costs, and improve overall code quality and user satisfaction.",
           "link": "https://dotnettips.wordpress.com/2025/10/08/defensive-programming-with-microsoft-net-anticipate-errors-and-eliminate-bugs/",
           "publishedOn": "2025-10-08T06:00:00.000Z",
-          "wordCount": 6897,
+          "wordCount": null,
           "title": "Defensive Programming with Microsoft .NET: Anticipate Errors and Eliminate Bugs",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/10/20250930_1513_amplified-code-protection_remix_01k6e3z5qvfvy8cb0chxee9aaj.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15492",
@@ -1199,9 +1229,9 @@
           "description": "The PBKDF2PasswordHasher in Spargine is essential for securely handling passwords in modern applications. It uses the PBKDF2 algorithm to hash passwords with a unique salt and multiple iterations, making it resistant to brute-force attacks. Upcoming updates will enhance its versatility by supporting additional algorithms, ensuring future readiness.",
           "link": "https://dotnettips.wordpress.com/2025/10/05/boost-your-net-projects-secure-passwords-with-pbkdf2passwordhasher-in-spargine/",
           "publishedOn": "2025-10-05T06:00:00.000Z",
-          "wordCount": 5451,
+          "wordCount": null,
           "title": "Boost Your .NET Projects: Secure Passwords with PBKDF2PasswordHasher in Spargine",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/08/20250823_1319_boost-your-projects_simple_compose_01k3c2d9n0f56az14154dw09cc.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15554",
@@ -1209,9 +1239,9 @@
           "description": "The 20th Anniversary Edition of Rock Your Code: Coding Standards for Microsoft .NET, authored by David McCarter, is now available on Amazon. This comprehensive guide offers updated standards for .NET 10, best practices, and expert insights, making it essential for software engineers aiming for improved code quality and performance over two decades.",
           "link": "https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/",
           "publishedOn": "2025-10-01T12:00:00.000Z",
-          "wordCount": 4800,
+          "wordCount": null,
           "title": "Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition)",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/09/20250910_1727_vintage-guitar-glamour_simple_compose_01k4tvr2rkeypvwthfpt4jc6e3.png?fit=800%2C1200&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15569",
@@ -1239,7 +1269,7 @@
           "description": "ObservableList enhances the typical List by integrating event notifications for dynamic collection changes, making it ideal for MVVM applications in WPF, MAUI, and Xamarin. It supports multiple constructors, provides essential methods for collection management, and raises relevant events to keep UI synchronized, ensuring responsive and maintainable applications.",
           "link": "https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/",
           "publishedOn": "2025-09-21T06:00:00.000Z",
-          "wordCount": 5587,
+          "wordCount": 5584,
           "title": "Boost Your .NET Projects: Mastering ObservableList in Spargine",
           "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/09/20250823_1115_spargine-code-universe_simple_compose_01k3bva3fdehavr59rvg3e7acy.png?fit=1200%2C800&ssl=1"
         },
@@ -1249,7 +1279,7 @@
           "description": "DistinctConcurrentBag in Spargine is a thread-safe, unordered collection that ensures uniqueness of elements, preventing duplicates. It offers methods for adding, removing, checking, and enumerating items, making it ideal for concurrent programming in .NET. For blocking behavior with uniqueness, DistinctBlockingCollection is recommended.",
           "link": "https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/",
           "publishedOn": "2025-09-14T06:00:00.000Z",
-          "wordCount": 5302,
+          "wordCount": 5299,
           "title": "Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine",
           "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/08/20250818_1531_boost-.net-with-spargine_simple_compose_01k2zdy30sep6b0b867p36xkfg.png?fit=1200%2C800&ssl=1"
         }
@@ -1411,12 +1441,27 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2025/10/13/dew-drop-october-13-2025-4517/",
+          "author": "Alvin A.",
+          "description": "Top Links Single day registration is now available for TechBash 2025 (TechBash Team) Software Leadership with Jonathan “J.” Tower – Azure & DevOps Podcast Episode #371 (Jeffrey Palermo) How to Add MCP Servers to Claude Code with Docker MCP Toolkit (Ajeet Singh Raina) React Compiler v1.0 (Lauren Tan) Building Human-in-the-loop AI Workflows with Microsoft Agent … Continue reading Dew Drop – October 13, 2025 (#4517)",
+          "link": "https://www.alvinashcraft.com/2025/10/13/dew-drop-october-13-2025-4517/",
+          "publishedOn": "2025-10-13T12:28:31.000Z",
+          "wordCount": 2333,
+          "title": "Dew Drop – October 13, 2025 (#4517)",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1622272/episodes/17988367-115-how-ai-transforms-software-development-with-jelle-fremery.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/?p=36446",
           "author": "Alvin A.",
           "description": "Top Links Uno Platform 6.3: Faster Rendering, .NET 10 Preview, VS 2026 Ready (Uno Platform Team) Visual Studio Code September 2025 (version 1.105) Release Notes (VS Code Team) Accelerating AI PC Experiences with OpenVINO and Windows ML (Sudhir Tonse Udupa) The Hanselminutes Podcast – Competence builds confidence with .NET Principal Engineer Safia Abdalla (Scott Hanselman) … Continue reading Dew Drop – October 10, 2025 (#4516)",
           "link": "https://www.alvinashcraft.com/2025/10/10/dew-drop-october-10-2025-4516/",
           "publishedOn": "2025-10-10T11:24:52.000Z",
-          "wordCount": 2019,
+          "wordCount": 2028,
           "title": "Dew Drop – October 10, 2025 (#4516)",
           "imageUrl": null
         },
@@ -1518,16 +1563,6 @@
           "publishedOn": "2025-09-26T11:06:29.000Z",
           "wordCount": 1763,
           "title": "Dew Drop – September 26, 2025 (#4506)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/?p=36418",
-          "author": "Alvin A.",
-          "description": "Top Links .NET Rocks! – Visual Studio Code AI with James Montemagno (Carl Franklin & Richard Campbell) Exploring Text-to-Image capabilities in .NET (Jeremy Likness) .NET Native Apps CLI Cheatsheet (Sam Basu) Copilot Spaces is now generally available (GitHub) Preparing for the .NET 10 GC (Maoni Stephens) Visual Studio 2026 Insiders: Using Podman for Container Development … Continue reading Dew Drop – September 25, 2025 (#4505)",
-          "link": "https://www.alvinashcraft.com/2025/09/25/dew-drop-september-25-2025-4505/",
-          "publishedOn": "2025-09-25T11:24:28.000Z",
-          "wordCount": 2104,
-          "title": "Dew Drop – September 25, 2025 (#4505)",
           "imageUrl": null
         }
       ]
@@ -1674,7 +1709,7 @@
           "publishedOn": "2025-10-05T13:43:30.000Z",
           "wordCount": 4505,
           "title": "SQL Server Diagnostics Done Right",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1759974719"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1760320786"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3564",
@@ -1684,7 +1719,7 @@
           "publishedOn": "2025-10-05T12:54:02.000Z",
           "wordCount": 5016,
           "title": "The Overlooked Link Between Security and Performance in SQL Server",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1759974719"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1760320786"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3544",
@@ -1694,7 +1729,7 @@
           "publishedOn": "2025-10-05T10:55:09.000Z",
           "wordCount": 4491,
           "title": "Bad Statistics, Bad Execution Plans: The Root of 80% of SQL Server Performance Issues",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1759974719"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1760320786"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3524",
@@ -1704,7 +1739,7 @@
           "publishedOn": "2025-10-04T21:55:07.000Z",
           "wordCount": 4388,
           "title": "Understanding SET XACT_ABORT in SQL Server",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1759974719"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1760320786"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3513",
@@ -1714,7 +1749,7 @@
           "publishedOn": "2025-10-04T20:40:05.000Z",
           "wordCount": 4259,
           "title": "Validating SQL Server Backups",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1759974719"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1760320786"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3485",
@@ -1724,7 +1759,7 @@
           "publishedOn": "2025-10-04T15:31:13.000Z",
           "wordCount": 5596,
           "title": "Smarter Plans for Optional Parameters: SQL Server 2025’s OPPO Feature in Action",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1759974719"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1760320786"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3421",
@@ -1734,7 +1769,7 @@
           "publishedOn": "2025-10-02T15:11:57.000Z",
           "wordCount": 4441,
           "title": "Disk Space is cheap but Bad SQL Design will bankrupt your performance",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1759974719"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1760320786"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3404",
@@ -1744,7 +1779,7 @@
           "publishedOn": "2025-09-30T17:10:57.000Z",
           "wordCount": 4726,
           "title": "Mastering EF Core Performance: Top 10 Query Optimization Techniques Every .NET Developer Should Know",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1759974719"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1760320786"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3387",
@@ -1754,7 +1789,7 @@
           "publishedOn": "2025-09-28T13:45:20.000Z",
           "wordCount": 5003,
           "title": "Supercharge Your EF Core 8 Performance with Second-Level Caching",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1759974719"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1760320786"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3373",
@@ -1764,17 +1799,7 @@
           "publishedOn": "2025-09-28T10:46:44.000Z",
           "wordCount": 4616,
           "title": "Why .Include() is killing your EF Core performance and what to use instead",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1759974719"
-        },
-        {
-          "id": "http://dotnetstories.wordpress.com/?p=3350",
-          "author": "fofo",
-          "description": "DBCC DROPCLEANBUFFERS removes all clean data pages from the buffer pool. The next queries hit storage (disk/SSD) instead of memory.\n\nDBCC FREEPROCCACHE removes all compiled plans from the plan cache. Queries across the whole instance must recompile, spiking CPU.",
-          "link": "https://dotnetstories.wordpress.com/2025/09/13/sql-server-myth-dbcc-dropcleanbuffers-dbcc-freeproccache-are-harmless-troubleshooting-tools/",
-          "publishedOn": "2025-09-13T09:52:05.000Z",
-          "wordCount": 4430,
-          "title": "SQL Server Myth: “DBCC DROPCLEANBUFFERS / DBCC FREEPROCCACHE are harmless troubleshooting tools”",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1759974719"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1760320786"
         }
       ]
     },
