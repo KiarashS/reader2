@@ -17,7 +17,7 @@
           "description": "A few links about headings that I've had stored under my top hat.\nHeadings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/",
           "publishedOn": "2025-11-10T14:44:13.000Z",
-          "wordCount": 2534,
+          "wordCount": 2867,
           "title": "Headings: Semantics, Fluidity, and Styling — Oh My!",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/10/fluid-heading.mov",
@@ -139,12 +139,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
+          "author": "hello@smashingmagazine.com (Matt Zeunert)",
+          "description": "There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.",
+          "link": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
+          "publishedOn": "2025-11-11T10:00:00.000Z",
+          "wordCount": 3961,
+          "title": "Effectively Monitoring Web Performance",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/effectively-monitoring-web-performance/effectively-monitoring-web-performance.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/effectively-monitoring-web-performance/effectively-monitoring-web-performance.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "author": "hello@smashingmagazine.com (Andy Clarke)",
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4728,
+          "wordCount": 4723,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -189,7 +204,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4761,
+          "wordCount": 4766,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -204,7 +219,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4454,
+          "wordCount": 4459,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -214,7 +229,7 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4607,
+          "wordCount": 4599,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         },
@@ -224,7 +239,7 @@
           "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
           "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
           "publishedOn": "2025-10-17T08:00:00.000Z",
-          "wordCount": 5838,
+          "wordCount": 5827,
           "title": "AI In UX: Achieve More With Less",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
@@ -254,7 +269,7 @@
           "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
           "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
           "publishedOn": "2025-10-13T10:00:00.000Z",
-          "wordCount": 4576,
+          "wordCount": 4675,
           "title": "The Grayscale Problem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg",
@@ -452,7 +467,7 @@
           "description": "Enums enhance code readability but can lead to errors if not validated, as any integer can be cast as an Enum, including invalid values. Validating Enum inputs prevents silent data corruption, ensures meaningful defaults, and avoids processing impossible states. Always validate at method boundaries and define a zero value as \"unknown.\"",
           "link": "https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/",
           "publishedOn": "2025-11-09T07:00:00.000Z",
-          "wordCount": 4373,
+          "wordCount": 4366,
           "title": "Defensive Programming Rule #3: Validate Your Enums (Every Time)",
           "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/10/20251002_1117_validate-your-enums_remix_01k6jvashcet094ge9bdg7j4q.png?fit=1200%2C800&ssl=1"
         },
@@ -462,9 +477,9 @@
           "description": "Parameter validation is crucial in programming, ensuring applications reject bad data before it causes issues. It safeguards data integrity, reduces bugs, and enhances developer satisfaction. The use of meaningful exceptions and tools like Spargine can standardize validation, while adopting strategies like nameof improves error messaging accuracy. Consistent validation fosters reliable APIs.",
           "link": "https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/",
           "publishedOn": "2025-11-02T06:00:00.000Z",
-          "wordCount": 4375,
+          "wordCount": null,
           "title": "Defensive Programming Rule #2: Always Validate Method Parameters",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/10/20251001_1134_rock-drummers-code-wisdom_remix_01k6g9vvt3erjbrv82mea6fyav.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15607",
@@ -472,9 +487,9 @@
           "description": "Defensive programming emphasizes anticipating potential failures in code, treating every line as a possible error point. Developers should use structured exception handling, provide meaningful error messages, and maintain system integrity. Tools like Spargine facilitate effective defensive programming by simplifying error handling and promoting resilience in applications by addressing unexpected scenarios.",
           "link": "https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/",
           "publishedOn": "2025-10-26T06:00:00.000Z",
-          "wordCount": 4254,
+          "wordCount": null,
           "title": "Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/09/20250930_1553_error-free-rock-anthem_remix_01k6e6acdpfkhtrwy50w3prwtm.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15565",
@@ -482,9 +497,9 @@
           "description": "For decades, the author has focused on improving code quality through teaching and speaking, emphasizing the joy of mentoring developers. Despite the shift to virtual formats, they believe in-person interactions are essential for effective learning. The author highlights the importance of preparation, resilience against criticism, and making a positive impact on individuals.",
           "link": "https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/",
           "publishedOn": "2025-10-19T06:00:00.000Z",
-          "wordCount": 6588,
+          "wordCount": null,
           "title": "Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/09/20250921_1046_dramatic-microphone-spotlight_simple_compose_01k5pf68sdfmxv6my0h29cwhpx.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15694",
@@ -492,19 +507,9 @@
           "description": "The author reflects on their successful mid-1990s prediction that data ownership would dictate power. They discuss the present reality, where tech giants utilize data for profit and manipulation. Emphasizing personal data protection, they share practical habits for minimizing exposure and invite others to contribute their own safety tips.",
           "link": "https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/",
           "publishedOn": "2025-10-15T06:00:00.000Z",
-          "wordCount": 5557,
+          "wordCount": null,
           "title": "Tech Prediction: The Data Kings Will Rule the World",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/10/20251014_0951_technology-time-travel_simple_compose_01k7hk6bawed7bfjstqtgcxg7f.png?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "http://dotnettips.wordpress.com/?p=15496",
-          "author": "dotNetDave",
-          "description": "The Spargine Services type simplifies Windows service management in .NET applications, allowing developers to efficiently load, start, stop, and check service statuses without complex API interactions. With functionalities for bulk operations and process management, it streamlines service-dependent application development, saving significant time and effort for users.",
-          "link": "https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/",
-          "publishedOn": "2025-10-12T06:00:00.000Z",
-          "wordCount": 5369,
-          "title": "Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/08/20250823_1359_spargine-open-source-power_simple_compose_01k3c4njezfdtt51mvetwphvs9.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         }
       ]
     },
@@ -664,12 +669,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2025/11/11/dew-drop-november-11-2025-4538/",
+          "author": "Alvin A.",
+          "description": "Top Links More on Mermaid Charts in Visual Studio 2026 | Visual Studio Toolbox (Robert Green & Erik Ejlskov Jensen) Advancing security with Windows and Surface | Microsoft SFI Report Nov 2025 (Katharine Holdsworth) Missing Security Features in .NET 10 (Khalid Abuhakmeh) How to Target Excel Metadata in C# for Smarter Document Management (Mohan Chandran) … Continue reading Dew Drop – November 11, 2025 (#4538)",
+          "link": "https://www.alvinashcraft.com/2025/11/11/dew-drop-november-11-2025-4538/",
+          "publishedOn": "2025-11-11T12:11:30.000Z",
+          "wordCount": 2348,
+          "title": "Dew Drop – November 11, 2025 (#4538)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2025/11/10/dew-drop-november-10-2025-4537/",
           "author": "Alvin A.",
           "description": "Top Links INotifyPodcastChanged Episode #12 – Enterprise Apps with Ginny Caughey (Joseph Finney & Tamás Deme) Modern .NET Reflection with UnsafeAccessor (NDepend Team) Betatalks, the Podcast #117 – AI and the Future of Developer Documentation – with Alvin Ashcraft (Rick van den Bosch & Oscar van Tol) What 986 million code pushes say about the … Continue reading Dew Drop – November 10, 2025 (#4537)",
           "link": "https://www.alvinashcraft.com/2025/11/10/dew-drop-november-10-2025-4537/",
           "publishedOn": "2025-11-10T11:54:53.000Z",
-          "wordCount": 1894,
+          "wordCount": 1903,
           "title": "Dew Drop – November 10, 2025 (#4537)",
           "enclosure": {
             "url": "https://www.buzzsprout.com/1622272/episodes/18148869-117-ai-and-the-future-of-developer-documentation-with-alvin-ashcraft.mp3",
@@ -776,16 +791,6 @@
           "publishedOn": "2025-10-27T11:27:17.000Z",
           "wordCount": 2535,
           "title": "Dew Drop – October 27, 2025 (#4527)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2025/10/24/dew-drop-october-24-2025-4526/",
-          "author": "Alvin A.",
-          "description": "Top Links Microsoft’s Mico is a ‘Clippy’ for the AI era (Sarah Perez) Meet Copilot Mode in Edge: Your AI browser (Sean Lyndersay) The road to better completions: Building a faster, smarter GitHub Copilot with a new custom model (Shengyu Fu) Code Generation and the Shifting Value of Software (Tim O’Brien) Build an Employee Onboard … Continue reading Dew Drop – October 24, 2025 (#4526)",
-          "link": "https://www.alvinashcraft.com/2025/10/24/dew-drop-october-24-2025-4526/",
-          "publishedOn": "2025-10-24T11:21:55.000Z",
-          "wordCount": 1861,
-          "title": "Dew Drop – October 24, 2025 (#4526)",
           "imageUrl": null
         }
       ]
@@ -977,6 +982,16 @@
       "siteUrl": "https://dotnetstories.wordpress.com",
       "articles": [
         {
+          "id": "http://dotnetstories.wordpress.com/?p=3681",
+          "author": "fofo",
+          "description": "The official release of .NET 10 marks one of the most significant updates in recent years. With performance gains across the stack, new AI-driven capabilities, improvements in ASP.NET Core and .NET MAUI, and the introduction of the Agent Framework, .NET 10 sets the pace for modern, scalable, cross-platform development. This article walks through the key features, what has changed, and why .NET 10 matters for developers and architects preparing the next wave of applications.",
+          "link": "https://dotnetstories.wordpress.com/2025/11/11/net-10-has-arrived-what-developers-need-to-know-today/",
+          "publishedOn": "2025-11-11T18:16:50.000Z",
+          "wordCount": 4009,
+          "title": ".NET 10 Has Arrived: What Developers Need to Know Today",
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1762903516"
+        },
+        {
           "id": "http://dotnetstories.wordpress.com/?p=3658",
           "author": "fofo",
           "description": "The transaction log is one of SQL Server’s most misunderstood components. Undersize it and your system chokes on autogrowths; oversize it and your storage team complains about wasted space. Let’s cut through the myths and build a methodical way to size your transaction log properly, based on recovery model, workload, and backup strategy.",
@@ -984,7 +999,7 @@
           "publishedOn": "2025-11-04T00:48:06.000Z",
           "wordCount": 4208,
           "title": "Sizing Your Transaction Log in SQL Server: How Big Is Big Enough?",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1762740303"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1762653847"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3639",
@@ -994,7 +1009,7 @@
           "publishedOn": "2025-11-02T19:17:57.000Z",
           "wordCount": 3959,
           "title": "SQL Server Myth: “Checkpoint Only Writes Pages from Committed Transactions”",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1762740303"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1762653847"
         }
       ]
     },
