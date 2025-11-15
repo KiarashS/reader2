@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390408",
+          "author": "Ryan Trimble",
+          "description": "The extremely new framework that caught lots of attention will continue as a personal project.\nQuiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
+          "publishedOn": "2025-11-14T15:32:50.000Z",
+          "wordCount": 1860,
+          "title": "Quiet UI Came and Went, Quiet as a Mouse",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/quiet-ui.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390178",
           "author": "Daniel Schwarz",
           "description": "Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.\nThe Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -102,7 +112,7 @@
           "description": "A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.\nAn Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/an-introduction-to-javascript-expressions/",
           "publishedOn": "2025-10-22T19:08:23.000Z",
-          "wordCount": 4302,
+          "wordCount": 4406,
           "title": "An Introduction to JavaScript Expressions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
         },
@@ -115,21 +125,6 @@
           "wordCount": 2755,
           "title": "Building a Honeypot Field That Works",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/04/sticky-header.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389737",
-          "author": "Temani Afif",
-          "description": "Let’s suppose you have N elements with the same animation that should animate sequentially. Modern CSS makes this easy and it works for any number of items!\nSequential linear() Animation With N Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/sequential-linear-animation-with-n-elements/",
-          "publishedOn": "2025-10-15T13:39:39.000Z",
-          "wordCount": 3536,
-          "title": "Sequential linear() Animation With N Elements",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/10/sequential-2.mov",
-            "length": "310986",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/sequential-thumb.png"
         }
       ]
     },
@@ -139,12 +134,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
+          "author": "hello@smashingmagazine.com (Godstime Aburu)",
+          "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
+          "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
+          "publishedOn": "2025-11-14T13:00:00.000Z",
+          "wordCount": 6492,
+          "title": "CSS Gamepad API Visual Debugging With CSS Layers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "author": "hello@smashingmagazine.com (Bryan Rasmussen)",
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6486,
+          "wordCount": 6492,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -174,7 +184,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4723,
+          "wordCount": 4725,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -219,7 +229,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4779,
+          "wordCount": 4772,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -234,7 +244,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4464,
+          "wordCount": 4458,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -244,7 +254,7 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4707,
+          "wordCount": 4595,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         },
@@ -254,7 +264,7 @@
           "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
           "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
           "publishedOn": "2025-10-17T08:00:00.000Z",
-          "wordCount": 5832,
+          "wordCount": 5847,
           "title": "AI In UX: Achieve More With Less",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
@@ -286,12 +296,42 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "691770eb5879bafaa784b694",
+          "author": "Manish Shivanandhan",
+          "description": "If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need.  It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and ...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-pocketbase-build-a-lightweight-backend-in-minutes/",
+          "publishedOn": "2025-11-14T18:11:55.000Z",
+          "wordCount": 2512,
+          "title": "How to Get Started with PocketBase: Build a Lightweight Backend in Minutes",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763143867523/1a4c8cd4-629f-4dd7-8a82-5b6d0d34d90e.png"
+        },
+        {
+          "id": "69174b1090e746d252948913",
+          "author": "Beau Carnes",
+          "description": "Dr. David J. Malan teaches computer science at Harvard. Over the past decade, millions of people have taken his CS50 course both in person and online. He joins us to talk about: Why he still recommends learning the C programming language in 2026 Ho...",
+          "link": "https://www.freecodecamp.org/news/harvard-cs50-prof-david-j-malan-on-why-you-should-learn-programming-slowly-podcast-197/",
+          "publishedOn": "2025-11-14T15:30:24.000Z",
+          "wordCount": 1305,
+          "title": "Harvard CS50 prof David J. Malan on why you should learn programming slowly [Podcast #197]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763049586370/5f7786af-7213-444f-acff-a8060ccbfc88.jpeg"
+        },
+        {
+          "id": "691740a91f4fa448325a55f9",
+          "author": "Nneoma Uche",
+          "description": "Several languages and frameworks depend on dependency injection—no pun intended. Go, Angular, NestJS, and Python's FastAPI all use it as a core pattern. If you've been working with FastAPI, you've likely encountered dependencies in action. Perhaps yo...",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/",
+          "publishedOn": "2025-11-14T14:46:01.000Z",
+          "wordCount": 3191,
+          "title": "How to Implement Dependency Injection in FastAPI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763131442081/76eff35b-be68-49c1-9743-d78ebc87b292.png"
+        },
+        {
           "id": "69164b0a612455db63b30bdc",
           "author": "Manish Shivanandhan",
-          "description": "When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers.  What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC.  The ...",
+          "description": "When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers. What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC. The sa...",
           "link": "https://www.freecodecamp.org/news/from-pixels-to-predictions-how-gpus-started-powering-modern-ai/",
           "publishedOn": "2025-11-13T21:18:02.000Z",
-          "wordCount": 1966,
+          "wordCount": 1964,
           "title": "From Pixels to Predictions: How GPUs Started Powering Modern AI",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763068628238/531621b6-1931-422f-b8ff-455c1ef58dab.png"
         },
@@ -303,7 +343,7 @@
           "publishedOn": "2025-11-13T21:16:29.000Z",
           "wordCount": 4194,
           "title": "How Bluetooth Socket Settings Power Android’s Low Power Island: A Friendly Deep Dive into AOSP’s Hidden Energy Saver",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763071691608/30075d98-7eb4-4f87-9396-d76d91c92fea.png"
         },
         {
           "id": "69164a5b08d80a5fa5d56f1e",
@@ -354,36 +394,6 @@
           "wordCount": 4581,
           "title": "How to Solve 5 Common RAG Failures with Knowledge Graphs",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762904270014/5ebeec2b-0823-4f59-bdd7-bf37cb68a978.png"
-        },
-        {
-          "id": "6915ec909bbfb50f5a356a15",
-          "author": "Beau Carnes",
-          "description": "Discrete mathematics plays a key role in machine learning and algorithms. You can use it to find the shortest path (graph theory), encrypt files, compress data, and to do many other things. We just posted a discreet mathematics course on the freeCode...",
-          "link": "https://www.freecodecamp.org/news/learn-discrete-mathematics/",
-          "publishedOn": "2025-11-13T14:34:56.000Z",
-          "wordCount": 1123,
-          "title": "Learn Discrete Mathematics",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763044466535/8ae84f6a-dfd2-4988-8f73-77e6f548846b.jpeg"
-        },
-        {
-          "id": "6915ea7e997289c5d5272773",
-          "author": "Beau Carnes",
-          "description": "n8n is an open-source workflow automation platform that lets you connect different apps, APIs, and services to easily automate tasks without needing to implement extensive code. We just posted a course on the freeCodeCamp.org YouTube channel that is ...",
-          "link": "https://www.freecodecamp.org/news/build-complex-workflows-with-n8n-and-master-ai-integration/",
-          "publishedOn": "2025-11-13T14:26:06.000Z",
-          "wordCount": 1231,
-          "title": "Build Complex Workflows with n8n & Master AI Integration",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762950806004/02d41988-6e9f-4962-8872-c41110175882.jpeg"
-        },
-        {
-          "id": "6914ff68e1ffda5f6ea6d8ea",
-          "author": "Chirag Agrawal",
-          "description": "Integrating vector search into traditional data platforms is becoming a common task in the current AI-driven landscape. When Google announced general availability for vector search in BigQuery in early 2024, it joined a growing list of established da...",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-vector-search-in-columnar-storage/",
-          "publishedOn": "2025-11-12T21:43:04.000Z",
-          "wordCount": 4082,
-          "title": "How to Integrate Vector Search in Columnar Storage",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762983768101/928331bd-3f97-4d05-92fb-2d8ea9af5dab.png"
         }
       ]
     },
@@ -431,16 +441,6 @@
           "wordCount": 473,
           "title": "Things That Caught My Attention Last Week - October 19",
           "imageUrl": null
-        },
-        {
-          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-12",
-          "author": null,
-          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
-          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-12",
-          "publishedOn": "2025-10-15T00:00:00.000Z",
-          "wordCount": 482,
-          "title": "Things That Caught My Attention Last Week - October 12",
-          "imageUrl": null
         }
       ]
     },
@@ -455,6 +455,633 @@
       "feedUrl": "https://feeds.feedburner.com/RickStrahl",
       "siteUrl": "https://weblog.west-wind.com/",
       "articles": []
+    },
+    {
+      "title": "dotnetkicks.com",
+      "feedUrl": "https://dotnetkicks.com/feeds/rss",
+      "siteUrl": "https://dotnetkicks.com/",
+      "articles": [
+        {
+          "id": "stories/732297",
+          "author": null,
+          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
+          "link": "https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/",
+          "publishedOn": "2025-11-15T01:57:34.859Z",
+          "wordCount": 3993,
+          "title": "James Montemagno on Vibe Coding",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/731623",
+          "author": null,
+          "description": "Version 5.1.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to both Cake Scripting and Cake Frosting since the Cake v5.0.0 release!",
+          "link": "https://dotnetkicks.com/r/731623?url=https://cakebuild.net/blog/2025/10/cake-v5.1.0-released",
+          "publishedOn": "2025-11-15T01:57:34.182Z",
+          "wordCount": 1006,
+          "title": "Cake v5.1.0 released",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/734797",
+          "author": null,
+          "description": "Version 6.0.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to Cake Scripting, Cake Frosting, and the new Cake.Sdk runner since the Cake v5.1.0 release!",
+          "link": "https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released",
+          "publishedOn": "2025-11-15T01:57:32.944Z",
+          "wordCount": 1289,
+          "title": "Cake v6.0.0 released",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/730936",
+          "author": null,
+          "description": "Lance takes us through what MCP is, why it is important, and how to work with it. You can reach Lance here: https://bsky.app/profile/lance.boston https://twitter.com/l_anceM Https://dvlup.com Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses.",
+          "link": "https://dotnetkicks.com/r/730936?url=https://jesseliberty.com/2025/09/25/lance-mccarthy-on-copilot-mcp-servers/",
+          "publishedOn": "2025-11-15T01:57:32.823Z",
+          "wordCount": 3274,
+          "title": "Lance McCarthy on CoPilot & MCP Servers",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/732018",
+          "author": null,
+          "description": "Python’s AI reign is toast. .NET 10 (LTS) isn't just an update; it's a weapon. Native vectors in EF Core, AI abstraction (IChatClient!), and performance that makes Python look like a tired, old scripting language. Your cloud bill and CIO will finally sleep at night. Ditch the v-envs!",
+          "link": "https://dotnetkicks.com/r/732018?url=https://www.gapvelocity.ai/blog/dotnet10-smacks-down-python-ai",
+          "publishedOn": "2025-11-15T01:57:32.599Z",
+          "wordCount": 2514,
+          "title": ".NET 10: The Deathblow to Python’s AI Dominance? 💀",
+          "imageUrl": "https://www.gapvelocity.ai/hubfs/NET%20Python.png"
+        },
+        {
+          "id": "stories/731858",
+          "author": null,
+          "description": "With the release of .NET 10 just around the corner (next month!), it's time to take a look at the new features we can expect for C# 14. Note: the goal of this post is not to be an exhaustive list of all new features.",
+          "link": "https://dotnetkicks.com/r/731858?url=https://thomaslevesque.com/2025/04/11/interesting-new-csharp-14-features-coming-with-net-10/",
+          "publishedOn": "2025-11-15T01:57:32.084Z",
+          "wordCount": 3,
+          "title": "Interesting new C# 14 features coming with .NET 10",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/735014",
+          "author": null,
+          "description": "Discover how Azure MCP Server integrates with Visual Studio 2026 to revolutionize your Azure development experience and efficiency.",
+          "link": "https://dotnetkicks.com/r/735014?url=https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/",
+          "publishedOn": "2025-11-14T14:00:14.000Z",
+          "wordCount": 6729,
+          "title": "Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows - Visual Studio Blog",
+          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/11/FeatureImage_AZMCP-e1762898877528.webp"
+        },
+        {
+          "id": "stories/734933",
+          "author": null,
+          "description": "Visual Studio 2026 introduces a refreshed user experience, thoughtfully crafted for clarity, accessibility, and a clean interface that feels right at home on Windows. This update is the result of extensive collaboration with developers and incorporates valuable feedback from the community. We've improved typography, iconography, and the overall layout to minimize distractions and keep your [...]",
+          "link": "https://dotnetkicks.com/r/734933?url=https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/",
+          "publishedOn": "2025-11-13T15:00:29.000Z",
+          "wordCount": 6827,
+          "title": "A first look at the all‑new UX in Visual Studio 2026 - Visual Studio Blog",
+          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/10/a-screenshot-of-a-computer-program-ai-generated-c-1.webp"
+        },
+        {
+          "id": "stories/734911",
+          "author": null,
+          "description": "Learn how auto model selection (preview) streamlines your experience by automatically choosing the best model for each request.",
+          "link": "https://dotnetkicks.com/r/734911?url=https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/",
+          "publishedOn": "2025-11-12T17:38:43.000Z",
+          "wordCount": 6866,
+          "title": "Introducing Copilot auto model selection (preview) - Visual Studio Blog",
+          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/11/auto-zoom-out.webp"
+        },
+        {
+          "id": "stories/734785",
+          "author": null,
+          "description": "CQRS Handlers that bloated mess. It's a nightmare. There is a way out which is using a pipeline of execution to separate concerns.",
+          "link": "https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/",
+          "publishedOn": "2025-11-11T20:13:00.000Z",
+          "wordCount": 1166,
+          "title": "Clean Up Bloated CQRS Handlers",
+          "imageUrl": "https://codeopinion.com/wp-content/uploads/2025/11/Twitter.png"
+        },
+        {
+          "id": "stories/734772",
+          "author": null,
+          "description": "CQRS Handlers that bloated mess. It's a nightmare. There is a way out which is using a pipeline of execution to separate concerns.",
+          "link": "https://dotnetkicks.com/r/734772?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/",
+          "publishedOn": "2025-11-11T20:13:00.000Z",
+          "wordCount": 1166,
+          "title": "Clean Up Bloated CQRS Handlers",
+          "imageUrl": "https://codeopinion.com/wp-content/uploads/2025/11/Twitter.png"
+        },
+        {
+          "id": "stories/734754",
+          "author": null,
+          "description": "Dear developers, We're thrilled to announce that Visual Studio 2026 is now generally available! This is a moment we've built side by side with you. Your feedback has helped shape this release more than any before. Since the introduction of the Insiders Channel in September, more developers have downloaded and tested this preview than any [...]",
+          "link": "https://dotnetkicks.com/r/734754?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/",
+          "publishedOn": "2025-11-11T16:08:47.000Z",
+          "wordCount": 7410,
+          "title": "Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog",
+          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/09/vscom-share-image.jpg"
+        },
+        {
+          "id": "stories/734719",
+          "author": null,
+          "description": "Announcing the release of .NET 10, the most productive, modern, secure, intelligent, and performant release of .NET yet. With updates across ASP.NET Core, C# 14, .NET MAUI, Aspire, and so much more.",
+          "link": "https://dotnetkicks.com/r/734719?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/",
+          "publishedOn": "2025-11-11T15:38:00.000Z",
+          "wordCount": 11775,
+          "title": "Announcing .NET 10 - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/11/announcing-dotnet-10.webp"
+        },
+        {
+          "id": "stories/734718",
+          "author": null,
+          "description": "A recap of the latest servicing updates for .NET and .NET Framework for November 2025.",
+          "link": "https://dotnetkicks.com/r/734718?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/",
+          "publishedOn": "2025-11-11T15:30:00.000Z",
+          "wordCount": 6617,
+          "title": ".NET and .NET Framework November 2025 servicing releases updates - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/11/november2025updates.webp"
+        },
+        {
+          "id": "stories/734707",
+          "author": null,
+          "description": "A recap of the latest servicing updates for .NET and .NET Framework for November 2025.",
+          "link": "https://dotnetkicks.com/r/734707?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/",
+          "publishedOn": "2025-11-11T15:30:00.000Z",
+          "wordCount": 6617,
+          "title": ".NET and .NET Framework November 2025 servicing releases updates - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/11/november2025updates.webp"
+        },
+        {
+          "id": "stories/734693",
+          "author": null,
+          "description": "A recap of the latest servicing updates for .NET and .NET Framework for November 2025.",
+          "link": "https://dotnetkicks.com/r/734693?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/",
+          "publishedOn": "2025-11-11T15:30:00.000Z",
+          "wordCount": 6617,
+          "title": ".NET and .NET Framework November 2025 servicing releases updates - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/11/november2025updates.webp"
+        },
+        {
+          "id": "stories/734962",
+          "author": null,
+          "description": "Read more about the key updates and milestones of Microsoft's Secure Future Initiative in the November 2025 SFI progress report.",
+          "link": "https://dotnetkicks.com/r/734962?url=https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/",
+          "publishedOn": "2025-11-10T17:00:00.000Z",
+          "wordCount": 5691,
+          "title": "Latest progress update on Microsoft's Secure Future Initiative | Microsoft Security Blog",
+          "imageUrl": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2025/11/Security_SFIReportBlog-ReCrop_Blog_251107.png"
+        },
+        {
+          "id": "stories/734650",
+          "author": null,
+          "description": "The post shows how to use the Swiss Digital identity and trust infrastructure, (swiyu) as an MFA method in an ASP.NET Core web application using ASP.NET Core Identity and Duende IdentityServer. The generic containers from swiyu are used to integrate the Swiss E-ID and the OpenID for Verifiable Presentations standards.",
+          "link": "https://dotnetkicks.com/r/734650?url=https://damienbod.com/2025/11/10/implement-mfa-using-swiyu-the-swiss-e-id-with-duende-identityserver-asp-net-core-identity-and-net-aspire/",
+          "publishedOn": "2025-11-10T07:04:04.000Z",
+          "wordCount": 6702,
+          "title": "Implement MFA using swiyu, the Swiss E-ID with Duende IdentityServer, ASP.NET Core Identity and .NET Aspire",
+          "imageUrl": "https://damienbod.com/wp-content/uploads/2025/10/overview.drawio.png"
+        },
+        {
+          "id": "stories/734378",
+          "author": null,
+          "description": "My internal code name for one of the new features I'm describing is \"multi-stage tracked sessions\" which somehow got me thinking of the ZZ Top song \"Stages\" and their Afterburner album because the sound track for getting this work done this week. Not ZZ Top's best stuff, but there's still some bangers on it, or...",
+          "link": "https://dotnetkicks.com/r/734378?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/",
+          "publishedOn": "2025-11-06T02:36:45.000Z",
+          "wordCount": 6044,
+          "title": "The Critter Stack Gets Even Better at Testing",
+          "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/11/image.png"
+        },
+        {
+          "id": "stories/734367",
+          "author": null,
+          "description": "My internal code name for one of the new features I'm describing is \"multi-stage tracked sessions\" which somehow got me thinking of the ZZ Top song \"Stages\" and their Afterburner album because the sound track for getting this work done this week. Not ZZ Top's best stuff, but there's still some bangers on it, or...",
+          "link": "https://dotnetkicks.com/r/734367?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/",
+          "publishedOn": "2025-11-06T02:36:45.000Z",
+          "wordCount": 6041,
+          "title": "The Critter Stack Gets Even Better at Testing",
+          "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/11/image.png"
+        },
+        {
+          "id": "stories/734333",
+          "author": null,
+          "description": "Learn how Microsoft Copilot Studio uses .NET to provide a consistent AI agent execution across platforms, including on the web via WebAssembly.",
+          "link": "https://dotnetkicks.com/r/734333?url=https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/",
+          "publishedOn": "2025-11-05T18:05:00.000Z",
+          "wordCount": 7684,
+          "title": "How Copilot Studio uses .NET and WebAssembly for performance and innovation - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/11/copilot-studio-dotnet-wasm.webp"
+        },
+        {
+          "id": "stories/734253",
+          "author": null,
+          "description": "Last year, I wrote a blog post discussing ideas on how to support use-cases in Apache Flink that required dynamically resolving (and potentially creating) sinks at runtime based on the incoming data. While this solution was fairly practical, it was written against older APIs as opposed leveraging the new Unified",
+          "link": "https://dotnetkicks.com/r/734253?url=https://rion.io/2025/11/05/exploring-dynamic-sink-routing-in-apache-flink-via-demultiplexingsink/",
+          "publishedOn": "2025-11-05T13:00:00.000Z",
+          "wordCount": 1533,
+          "title": "Exploring Dynamic Sink Routing in Apache Flink via DemultiplexingSink",
+          "imageUrl": "https://cdn.getmidnight.com/eaf3f984c453cc67c8ff9d1f57fc3386/2025/11/demultiplexing-traffic.jpg"
+        },
+        {
+          "id": "stories/734139",
+          "author": null,
+          "description": "The biggest .NET event of the year is just one week away! Join us November 11-13 for .NET 10 and Visual Studio 2026, plus a Student Zone on November 14th.",
+          "link": "https://dotnetkicks.com/r/734139?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/",
+          "publishedOn": "2025-11-04T18:00:00.000Z",
+          "wordCount": 7687,
+          "title": "Get Ready for .NET Conf 2025! - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/11/dnc25-save-date-scaled.webp"
+        },
+        {
+          "id": "stories/734124",
+          "author": null,
+          "description": "The biggest .NET event of the year is just one week away! Join us November 11-13 for .NET 10 and Visual Studio 2026, plus a Student Zone on November 14th.",
+          "link": "https://dotnetkicks.com/r/734124?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/",
+          "publishedOn": "2025-11-04T18:00:00.000Z",
+          "wordCount": 7687,
+          "title": "Get Ready for .NET Conf 2025! - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/11/dnc25-save-date-scaled.webp"
+        },
+        {
+          "id": "stories/734032",
+          "author": null,
+          "description": "Starting a new policy of regular quarterly releases, today I pushed out new versions of AutoMapper and MediatR: * AutoMapper 15.1.0 Release Notes * MediatR 13.1.0 Release Notes The previous versions restored netstandard2.0 support across the board. In these releases, I'm including first-class support for net462 where",
+          "link": "https://dotnetkicks.com/r/734032?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/",
+          "publishedOn": "2025-11-03T22:06:16.000Z",
+          "wordCount": 664,
+          "title": "AutoMapper 15.1 and MediatR 13.1 Released",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/734021",
+          "author": null,
+          "description": "Starting a new policy of regular quarterly releases, today I pushed out new versions of AutoMapper and MediatR: * AutoMapper 15.1.0 Release Notes * MediatR 13.1.0 Release Notes The previous versions restored netstandard2.0 support across the board. In these releases, I'm including first-class support for net462 where",
+          "link": "https://dotnetkicks.com/r/734021?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/",
+          "publishedOn": "2025-11-03T22:06:16.000Z",
+          "wordCount": 664,
+          "title": "AutoMapper 15.1 and MediatR 13.1 Released",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/734090",
+          "author": null,
+          "description": "🎄 It's that magical time of year again! 🎅🏻Christmas is twinkling on the horizon, and that means one thing - it's time for the 12th annual F# Advent in English! It's incredible to think that our tradition began all the way back in 2014. For over a decade, the F# community has gathered during Advent...",
+          "link": "https://dotnetkicks.com/r/734090?url=https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/",
+          "publishedOn": "2025-11-03T21:26:15.000Z",
+          "wordCount": 4695,
+          "title": "F# Advent Calendar in English 2025",
+          "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2025/11/advent2025_2025-large.png?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "stories/733982",
+          "author": null,
+          "description": "As the mental (and possibly physical) hangover begins to wear off, I figured I'd take a moment to reflect on my recent trip to Confluent's 2025 Current conference, conveniently held right here in my home state of Louisiana. It was a week filled with brilliant people, incredible sessions,",
+          "link": "https://dotnetkicks.com/r/733982?url=https://rion.io/2025/11/03/reflections-on-current-2025-streaming-ai-beignets-and-the-buffalo-bills/",
+          "publishedOn": "2025-11-03T10:00:00.000Z",
+          "wordCount": 1509,
+          "title": "Reflections on Current 2025 -Streaming, AI, Beignets, and The Buffalo Bills?",
+          "imageUrl": "https://cdn.getmidnight.com/eaf3f984c453cc67c8ff9d1f57fc3386/2025/11/current-heading.jpg"
+        },
+        {
+          "id": "stories/733972",
+          "author": null,
+          "description": "This post demonstrates how an ASP.NET Core application can connect to a secure MCP server using OpenID Connect and OAuth. Both applications use Duende IdentityServer as the identity provider. The MCP server requires delegated DPoP access tokens. Code: https://github.com/damienbod/McpOidcOAuth Setup The UI application authenticates with the Duende IdentityServer using OpenID Connect.",
+          "link": "https://dotnetkicks.com/r/733972?url=https://damienbod.com/2025/11/03/implement-a-secure-mcp-server-using-oauth-dpop-and-duende-identity-provider/",
+          "publishedOn": "2025-11-03T06:47:09.000Z",
+          "wordCount": 4978,
+          "title": "Implement a secure MCP server using OAuth DPoP and Duende identity provider",
+          "imageUrl": "https://damienbod.com/wp-content/uploads/2025/09/oidc_mcp.drawio.png"
+        },
+        {
+          "id": "stories/733904",
+          "author": null,
+          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 - November 11 ‐ 13 (.NET 10 & VS 2026) Join us at .NET Conf: Dive into the future of development with Visual Studio 2026 - Visual Studio Blog Introducing Custom Agents for .NET Developers: C# Expert &...",
+          "link": "https://dotnetkicks.com/r/733904?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/",
+          "publishedOn": "2025-11-02T07:57:13.000Z",
+          "wordCount": 4260,
+          "title": "F# Weekly #44, 2025 - .NET Conf - Nov 11-13",
+          "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2025/11/bafkreie63vkyszkafdc6wwamhjbdbrydiyd3gazdeardkqgdt27yv7eugi.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "stories/733897",
+          "author": null,
+          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 - November 11 ‐ 13 (.NET 10 & VS 2026) Join us at .NET Conf: Dive into the future of development with Visual Studio 2026 - Visual Studio Blog Introducing Custom Agents for .NET Developers: C# Expert &...",
+          "link": "https://dotnetkicks.com/r/733897?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/",
+          "publishedOn": "2025-11-02T07:57:13.000Z",
+          "wordCount": 4112,
+          "title": "F# Weekly #44, 2025 - .NET Conf - Nov 11-13",
+          "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2025/11/bafkreie63vkyszkafdc6wwamhjbdbrydiyd3gazdeardkqgdt27yv7eugi.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "stories/733805",
+          "author": null,
+          "description": "We're thrilled to invite you to one of the most exciting events in the .NET ecosystem: .NET Conf. It runs from November 11th through the 13th and you're invited! This annual virtual conference is a must-attend for developers, architects, and enthusiasts looking to level up their skills and stay ahead of the curve in .NET [...]",
+          "link": "https://dotnetkicks.com/r/733805?url=https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/",
+          "publishedOn": "2025-10-31T14:00:54.000Z",
+          "wordCount": 7010,
+          "title": "Join us at .NET Conf: Dive into the future of development with Visual Studio 2026 - Visual Studio Blog",
+          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/10/dotnetconf-thumb-1.webp"
+        },
+        {
+          "id": "stories/733591",
+          "author": null,
+          "description": "The October 2025 update for Visual Studio 2022 (v17.14) is now available with model choices, agentic flows, and chat thread management.",
+          "link": "https://dotnetkicks.com/r/733591?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/",
+          "publishedOn": "2025-10-30T12:00:36.000Z",
+          "wordCount": 7005,
+          "title": "Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog",
+          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/10/Oct-2025-Recap-scaled-1.webp"
+        },
+        {
+          "id": "stories/733572",
+          "author": null,
+          "description": "The October 2025 update for Visual Studio 2022 (v17.14) is now available with model choices, agentic flows, and chat thread management.",
+          "link": "https://dotnetkicks.com/r/733572?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/",
+          "publishedOn": "2025-10-30T12:00:36.000Z",
+          "wordCount": 7005,
+          "title": "Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog",
+          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/10/Oct-2025-Recap-scaled-1.webp"
+        },
+        {
+          "id": "stories/733474",
+          "author": null,
+          "description": "Starting at approximately 16:00 UTC on October 29, 2025, Microsoft Azure began experiencing a significant outage affecting the Azure Front Door (AFD) service.",
+          "link": "https://dotnetkicks.com/r/733474?url=https://build5nines.com/major-azure-front-door-outage-causing-widespread-service-disruptions-across-microsoft-365-microsoft-azure-and-the-azure-portal-october-29-2025/",
+          "publishedOn": "2025-10-29T18:37:08.000Z",
+          "wordCount": 8238,
+          "title": "Major Azure Front Door Outage Causing Widespread Service Disruptions Across Microsoft 365, Microsoft Azure, And The Azure Portal (October 29, 2025) | Build5Nines",
+          "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/10/microsoft-azure-outage-20251029-azure-front-door.png"
+        },
+        {
+          "id": "stories/733460",
+          "author": null,
+          "description": "Does your domain model not have dependencies? Injecting behavior into your domain using double dispatch could be the most DDD thing to do.",
+          "link": "https://dotnetkicks.com/r/733460?url=https://codeopinion.com/double-dispatch-in-ddd/",
+          "publishedOn": "2025-10-29T15:25:23.000Z",
+          "wordCount": 1409,
+          "title": "Double Dispatch in DDD",
+          "imageUrl": "https://codeopinion.com/wp-content/uploads/2025/10/Twitter-2.png"
+        },
+        {
+          "id": "stories/733412",
+          "author": null,
+          "description": "Just to set myself up with some pressure to perform, let me hype up a live stream on Wolverine I'm doing later this week! I'm doing a live stream on Thursday afternoon (U.S. friendly this time) entitled Vertical Slices the Critter Stack Way based on a fun, meandering talk I did for Houston DNUG and...",
+          "link": "https://dotnetkicks.com/r/733412?url=https://jeremydmiller.com/2025/10/28/wolverine-does-more-to-simplify-server-side-code/",
+          "publishedOn": "2025-10-29T00:52:56.000Z",
+          "wordCount": 4451,
+          "title": "Wolverine Does More to Simplify Server Side Code",
+          "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/10/wolverine-slicing.png"
+        },
+        {
+          "id": "stories/733409",
+          "author": null,
+          "description": "Introducing C# Expert and WinForms Expert: experimental custom agents that help .NET developers write better code with GitHub Copilot.",
+          "link": "https://dotnetkicks.com/r/733409?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/",
+          "publishedOn": "2025-10-28T22:05:00.000Z",
+          "wordCount": 7129,
+          "title": "Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/10/introducing-custom-agents-for-dotnet.jpg"
+        },
+        {
+          "id": "stories/733405",
+          "author": null,
+          "description": "Introducing C# Expert and WinForms Expert: experimental custom agents that help .NET developers write better code with GitHub Copilot.",
+          "link": "https://dotnetkicks.com/r/733405?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/",
+          "publishedOn": "2025-10-28T22:05:00.000Z",
+          "wordCount": 7129,
+          "title": "Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/10/introducing-custom-agents-for-dotnet.jpg"
+        },
+        {
+          "id": "stories/734289",
+          "author": null,
+          "description": "At Universe 2025, GitHub's next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere.",
+          "link": "https://dotnetkicks.com/r/734289?url=https://github.blog/news-insights/company-news/welcome-home-agents/",
+          "publishedOn": "2025-10-28T16:08:15.000Z",
+          "wordCount": 4224,
+          "title": "Introducing Agent HQ: Any agent, any way you work",
+          "imageUrl": "https://github.blog/wp-content/uploads/2025/10/UniverseBlogHeader_07.jpg"
+        },
+        {
+          "id": "stories/733349",
+          "author": null,
+          "description": "In this post I discuss request smuggling, the recent vulnerability in ASP.NET Core with a severity score of 9.9, and how attackers could exploit it",
+          "link": "https://dotnetkicks.com/r/733349?url=https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/",
+          "publishedOn": "2025-10-28T10:00:00.000Z",
+          "wordCount": 5437,
+          "title": "Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315",
+          "imageUrl": "https://andrewlock.net/content/images/2025/request_smuggling_banner.png"
+        },
+        {
+          "id": "stories/733335",
+          "author": null,
+          "description": "In the announcement for the Wolverine 5.0 release last week, I left out a pretty big set of improvements for modular monolith support, specifically in how Wolverine can now work with multiple databases from one service process. Wolverine works closely with databases for: Transactional middleware, which also includes: A transactional inbox, outbox, and scheduled messaging...",
+          "link": "https://dotnetkicks.com/r/733335?url=https://jeremydmiller.com/2025/10/27/wolverine-5-and-modular-monoliths/",
+          "publishedOn": "2025-10-28T03:08:27.000Z",
+          "wordCount": 4764,
+          "title": "Wolverine 5 and Modular Monoliths",
+          "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2022/12/wolverine_banner.png"
+        },
+        {
+          "id": "stories/733251",
+          "author": null,
+          "description": "This post shows how to authenticate users using Duende IdentityServer and ASP.NET Core Identity which verifies identities (verifiable digital credentials) using the Swiss Digital identity and trust infrastructure (swiyu). The swiyu infrastructure is implemented using the provided generic containers which implement the OpenID for Verifiable Presentations standards as well as many other standards for implementing...",
+          "link": "https://dotnetkicks.com/r/733251?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/",
+          "publishedOn": "2025-10-27T06:31:15.000Z",
+          "wordCount": 5452,
+          "title": "Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire",
+          "imageUrl": "https://damienbod.com/wp-content/uploads/2025/10/overview.drawio.png"
+        },
+        {
+          "id": "stories/733244",
+          "author": null,
+          "description": "This post shows how to authenticate users using Duende IdentityServer and ASP.NET Core Identity which verifies identities (verifiable digital credentials) using the Swiss Digital identity and trust infrastructure (swiyu). The swiyu infrastructure is implemented using the provided generic containers which implement the OpenID for Verifiable Presentations standards as well as many other standards for implementing...",
+          "link": "https://dotnetkicks.com/r/733244?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/",
+          "publishedOn": "2025-10-27T06:31:15.000Z",
+          "wordCount": 5452,
+          "title": "Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire",
+          "imageUrl": "https://damienbod.com/wp-content/uploads/2025/10/overview.drawio.png"
+        },
+        {
+          "id": "stories/733223",
+          "author": null,
+          "description": "The Wolverine 5.0 release earlier last last week (finally) added a long requested SignalR transport. The SignalR library from Microsoft isn't hard to use from Wolverine for simplistic WebSockets or Server Sent Events usage as it was, but what if you want a server side application to exchange any number of different messages between a browser (or...",
+          "link": "https://dotnetkicks.com/r/733223?url=https://jeremydmiller.com/2025/10/26/using-signalr-with-wolverine-5-0/",
+          "publishedOn": "2025-10-27T01:29:27.000Z",
+          "wordCount": 5382,
+          "title": "Using SignalR with Wolverine 5.0",
+          "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/09/image.png"
+        },
+        {
+          "id": "stories/733220",
+          "author": null,
+          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Announcing Sponsorship on NuGet.org - .NET Blog Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog Introducing Planning in Visual Studio (Public Preview) - Visual Studio Blog Expanding Model Choice in VS Code with Bring Your...",
+          "link": "https://dotnetkicks.com/r/733220?url=https://sergeytihon.com/2025/10/25/f-weekly-43-2025-sponsorship-on-nuget-org-tinyhm/",
+          "publishedOn": "2025-10-25T20:26:30.000Z",
+          "wordCount": 4339,
+          "title": "F# Weekly #43, 2025 - Sponsorship on NuGet.org &amp; TinyHM",
+          "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2025/10/manage_sponsorship_links.png?fit=1200%2C1025&ssl=1"
+        },
+        {
+          "id": "stories/733280",
+          "author": null,
+          "description": "Production lessons from years of running Akka.NET clusters at scale",
+          "link": "https://dotnetkicks.com/r/733280?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/",
+          "publishedOn": "2025-10-24T15:00:00.000Z",
+          "wordCount": 4625,
+          "title": "Akka.NET + Kubernetes: Everything You Need to Know",
+          "imageUrl": "https://petabridge.com/images/2025/kubernetes-guide/k8s-akka-slide-3-networking.png"
+        },
+        {
+          "id": "stories/733275",
+          "author": null,
+          "description": "Production lessons from years of running Akka.NET clusters at scale",
+          "link": "https://dotnetkicks.com/r/733275?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/",
+          "publishedOn": "2025-10-24T15:00:00.000Z",
+          "wordCount": 4625,
+          "title": "Akka.NET + Kubernetes: Everything You Need to Know",
+          "imageUrl": "https://petabridge.com/images/2025/kubernetes-guide/k8s-akka-slide-3-networking.png"
+        },
+        {
+          "id": "stories/733166",
+          "author": null,
+          "description": "This post explores how combining Apache Flink's built-in profiler with AI-driven analysis can uncover hidden performance bottlenecks in streaming pipelines-turning routine profiling into a powerful, automated feedback loop for continuous optimization.",
+          "link": "https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/",
+          "publishedOn": "2025-10-24T12:00:00.000Z",
+          "wordCount": 2665,
+          "title": "Incremental Optimization in Apache Flink ... with AI",
+          "imageUrl": "https://cdn.getmidnight.com/eaf3f984c453cc67c8ff9d1f57fc3386/2025/10/flink-squirrel-river.jpg"
+        },
+        {
+          "id": "stories/733122",
+          "author": null,
+          "description": "Announcing Sponsorship on NuGet.org - An easy way to recognize package maintainers and grow the NuGet community stronger!",
+          "link": "https://dotnetkicks.com/r/733122?url=https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/",
+          "publishedOn": "2025-10-23T22:18:00.000Z",
+          "wordCount": 7702,
+          "title": "Announcing Sponsorship on NuGet.org - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/10/cover.png"
+        },
+        {
+          "id": "stories/733104",
+          "author": null,
+          "description": "That's of course supposed to be a 1992 Ford Mustang GT with the 5.0L V8 that high school age me thought was the coolest car I could imagine ever owning (I most certainly never did of course). Queue \"Ice, Ice Baby\" and sing \"rolling, in my 5.0\" in your head because here we go...",
+          "link": "https://dotnetkicks.com/r/733104?url=https://jeremydmiller.com/2025/10/23/wolverine-5-0-is-here/",
+          "publishedOn": "2025-10-23T19:05:23.000Z",
+          "wordCount": 4628,
+          "title": "Wolverine 5.0 is Here!",
+          "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/10/image-3.png"
+        },
+        {
+          "id": "stories/733085",
+          "author": null,
+          "description": "Step-by-step review on how to upgrade your .NET AI chat app to Microsoft Agent Framework for better architecture, tool integration, and intelligent reasoning.",
+          "link": "https://dotnetkicks.com/r/733085?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/",
+          "publishedOn": "2025-10-23T17:00:00.000Z",
+          "wordCount": 9275,
+          "title": "Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/10/00-coverimage.png"
+        },
+        {
+          "id": "stories/733075",
+          "author": null,
+          "description": "Step-by-step review on how to upgrade your .NET AI chat app to Microsoft Agent Framework for better architecture, tool integration, and intelligent reasoning.",
+          "link": "https://dotnetkicks.com/r/733075?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/",
+          "publishedOn": "2025-10-23T17:00:00.000Z",
+          "wordCount": 9275,
+          "title": "Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/10/00-coverimage.png"
+        },
+        {
+          "id": "stories/732943",
+          "author": null,
+          "description": "Unlock a more efficient coding experience with Planning in Chat, now available in Visual Studio 2022 for better task management.",
+          "link": "https://dotnetkicks.com/r/732943?url=https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/",
+          "publishedOn": "2025-10-22T15:54:18.000Z",
+          "wordCount": 9386,
+          "title": "Introducing Planning in Visual Studio (Public Preview) - Visual Studio Blog",
+          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/10/planning-in-chat.png"
+        },
+        {
+          "id": "stories/732935",
+          "author": null,
+          "description": "Authorization, should it go in your Domain or Application Layer? It's a super common question, so here are examples and guidelines.",
+          "link": "https://dotnetkicks.com/r/732935?url=https://codeopinion.com/authorization-domain-or-application-layer/",
+          "publishedOn": "2025-10-22T15:36:47.000Z",
+          "wordCount": 1575,
+          "title": "Authorization: Domain or Application Layer?",
+          "imageUrl": "https://codeopinion.com/wp-content/uploads/2025/10/Twitter-1.png"
+        },
+        {
+          "id": "stories/732914",
+          "author": null,
+          "description": "In this post I discuss fallback endpoints and show how adding metadata to MVC or Razor Page fallback endpoints has some quirks to be aware of",
+          "link": "https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/",
+          "publishedOn": "2025-10-22T10:00:00.000Z",
+          "wordCount": 2593,
+          "title": "Adding metadata to fallback endpoints in ASP.NET Core",
+          "imageUrl": "https://andrewlock.net/content/images/2025/fallbackroutes_banner.png"
+        },
+        {
+          "id": "stories/732859",
+          "author": null,
+          "description": "We have great news for extension users and developers: Visual Studio 2026 is introducing an extension compatibility model designed specifically to make your life easier. Our top priority is to ensure that your extensions continue to work seamlessly across Visual Studio releases - with no extra effort required from you.",
+          "link": "https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/",
+          "publishedOn": "2025-10-21T14:00:36.000Z",
+          "wordCount": 8106,
+          "title": "Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog",
+          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/05/Extensions_purple-1.jpg"
+        },
+        {
+          "id": "stories/732795",
+          "author": null,
+          "description": "Windows users who installed the October 2025 Security Updates may have noticed an unexpected change if they use the Windows Explorer preview pane. When previewing a downloaded PDF file, the preview is now replaced with the following text: While it also occurs when viewing files on remote Internet Zone file shares, the problem doesn't occur...",
+          "link": "https://dotnetkicks.com/r/732795?url=https://textslashplain.com/2025/10/20/windows-shell-previews/",
+          "publishedOn": "2025-10-20T16:06:58.000Z",
+          "wordCount": 3732,
+          "title": "Windows Shell Previews",
+          "imageUrl": "https://textslashplain.com/wp-content/uploads/2025/10/image.png?w=704"
+        },
+        {
+          "id": "stories/732814",
+          "author": null,
+          "description": "Learn how Microsoft Azure SQL Managed Instance helps organizations move from legacy constraints to a scalable and secure AI-ready foundation.",
+          "link": "https://dotnetkicks.com/r/732814?url=https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/",
+          "publishedOn": "2025-10-20T16:00:00.000Z",
+          "wordCount": 3964,
+          "title": "Innovation spotlight: How 3 customers are driving change with migration to Azure SQL - Microsoft SQL Server Blog",
+          "imageUrl": "https://www.microsoft.com/en-us/sql-server/blog/wp-content/uploads/2018/08/cropped-microsoft_logo_element.png"
+        },
+        {
+          "id": "stories/732696",
+          "author": null,
+          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Announcing .NET 10 Release Candidate 2 - .NET Blog Announcing the .NET Security Group - .NET Blog .NET and .NET Framework October 2025 servicing releases updates - .NET Blog Azure DevOps local MCP Server is generally available - Azure DevOps Blog...",
+          "link": "https://dotnetkicks.com/r/732696?url=https://sergeytihon.com/2025/10/18/f-weekly-42-2025-hi-victor-net-10-rc2/",
+          "publishedOn": "2025-10-18T10:10:04.000Z",
+          "wordCount": 4451,
+          "title": "F# Weekly #42, 2025 - Hi, Victor &amp; .NET 10 RC2",
+          "imageUrl": "https://sergeytihon.com/wp-content/uploads/2025/10/victor_cli_banner.webp"
+        },
+        {
+          "id": "stories/732627",
+          "author": null,
+          "description": "I was the guest speaker today on the .NET Data Community Standup doing a talk on how the \"Critter Stack\" (Marten, Wolverine, and Weasel) support a style of database migrations and even configuration for messaging brokers that greatly reduces development time friction for more productive teams. The general theme is \"it should just work\" so...",
+          "link": "https://dotnetkicks.com/r/732627?url=https://jeremydmiller.com/2025/10/16/migrationsthe-critter-stack-way/",
+          "publishedOn": "2025-10-16T23:56:44.000Z",
+          "wordCount": 4057,
+          "title": "Migrations the \"Critter Stack\" Way",
+          "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/10/it-should-just-work.png"
+        },
+        {
+          "id": "stories/732629",
+          "author": null,
+          "description": "The article demonstrates how to implement a secure MCP OAuth desktop client using Microsoft Entra ID. The MCP server is built with ASP.NET Core and secured using Microsoft Entra ID. The MCP client is a .NET console application that must acquire an OAuth access token to interact with the MCP server.",
+          "link": "https://dotnetkicks.com/r/732629?url=https://damienbod.com/2025/10/16/implement-a-secure-mcp-oauth-desktop-client-using-oauth-and-entra-id/",
+          "publishedOn": "2025-10-16T05:48:12.000Z",
+          "wordCount": 4707,
+          "title": "Implement a secure MCP OAuth desktop client using OAuth and Entra ID",
+          "imageUrl": "https://damienbod.com/wp-content/uploads/2025/09/desktop_auth_ui.png"
+        }
+      ]
     },
     {
       "title": "dotNetTips.com",
@@ -509,16 +1136,6 @@
           "publishedOn": "2025-10-19T06:00:00.000Z",
           "wordCount": null,
           "title": "Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing",
-          "imageUrl": null
-        },
-        {
-          "id": "http://dotnettips.wordpress.com/?p=15694",
-          "author": "dotNetDave",
-          "description": "The author reflects on their successful mid-1990s prediction that data ownership would dictate power. They discuss the present reality, where tech giants utilize data for profit and manipulation. Emphasizing personal data protection, they share practical habits for minimizing exposure and invite others to contribute their own safety tips.",
-          "link": "https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/",
-          "publishedOn": "2025-10-15T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Tech Prediction: The Data Kings Will Rule the World",
           "imageUrl": null
         }
       ]
@@ -679,12 +1296,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2025/11/14/dew-drop-november-14-2025-4541/",
+          "author": "Alvin A.",
+          "description": "Top Links Aspire 13 – Aspireify anything (Maddy Montaquila) 🚀 Supercharging .NET Apps with DevUI and the New Microsoft Agent Framework (Bruno Capuano) Blazor TreeGrid Gets Smarter: Real-Time Updates, Sticky Headers & Custom Empty States (Mohammed Farook J.) Azure Keynote: Cloud Innovation with .NET | .NET Conf 2025 (Scott Hunter & Paul Yuknewicz) .NET 10 … Continue reading Dew Drop – November 14, 2025 (#4541)",
+          "link": "https://www.alvinashcraft.com/2025/11/14/dew-drop-november-14-2025-4541/",
+          "publishedOn": "2025-11-14T12:03:45.000Z",
+          "wordCount": 2202,
+          "title": "Dew Drop – November 14, 2025 (#4541)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2025/11/13/dew-drop-november-13-2025-4540/",
           "author": "Alvin A.",
           "description": "Top Links How Copilot helps build the GitHub platform (Matt Nigh) Announcing Flutter 3.38 & Dart 3.10: Building the future of apps (Emma Twersky) Modern Windows Development with .NET | .NET Conf 2025 (Michael Hawker & Roy MacLachlan) NuGet 7.0 Release Notes (Microsoft Learn) .NET MAUI is Coming to Linux and the Browser, Powered by … Continue reading Dew Drop – November 13, 2025 (#4540)",
           "link": "https://www.alvinashcraft.com/2025/11/13/dew-drop-november-13-2025-4540/",
           "publishedOn": "2025-11-13T12:13:50.000Z",
-          "wordCount": 2193,
+          "wordCount": 2202,
           "title": "Dew Drop – November 13, 2025 (#4540)",
           "imageUrl": null
         },
@@ -792,16 +1419,6 @@
           "wordCount": 1898,
           "title": "Dew Drop – October 30, 2025 (#4530)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2025/10/29/dew-drop-october-29-2025-4529/",
-          "author": "Alvin A.",
-          "description": "Top Links TechBash 2025 Kicks Off Next Week in the Poconos (TechBash Team) Announcing Azure MCP Server 1.0.0 Stable Release – A New Era for Agentic Workflows (Sandeep Sen) Copilot on Windows: Vision with text input begins rolling out to Windows Insiders (Microsoft Copilot Team) Introducing Agent HQ: Any agent, any way you work (Kyle … Continue reading Dew Drop – October 29, 2025 (#4529)",
-          "link": "https://www.alvinashcraft.com/2025/10/29/dew-drop-october-29-2025-4529/",
-          "publishedOn": "2025-10-29T11:07:54.000Z",
-          "wordCount": 2109,
-          "title": "Dew Drop – October 29, 2025 (#4529)",
-          "imageUrl": null
         }
       ]
     },
@@ -865,7 +1482,7 @@
           "description": "Recently, I needed to run a set of applications targeting ASP.NET Core 3.1 inside .NET 9 containers. I know, it’s just a couple of days before .NET Conf 2025, and .NET Core 3.1 feels ancient at this point. But unfortunately, upgrading the applications to a newer .NET version wasn’t an option.Had a bit of trouble getting things to run locally as well as in Azure DevOps Pipelines, so thought of",
           "link": "https://jaliyaudagedara.blogspot.com/2025/11/running-aspnet-core-31-application.html",
           "publishedOn": "2025-11-10T07:46:00.000Z",
-          "wordCount": 4484,
+          "wordCount": 4466,
           "title": "Running ASP.NET Core 3.1 Application Inside .NET 9 Container",
           "imageUrl": null
         },
@@ -1019,7 +1636,7 @@
           "publishedOn": "2025-11-11T18:16:50.000Z",
           "wordCount": 4009,
           "title": ".NET 10 Has Arrived: What Developers Need to Know Today",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1763085678"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1762999355"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3658",
@@ -1027,9 +1644,9 @@
           "description": "The transaction log is one of SQL Server’s most misunderstood components. Undersize it and your system chokes on autogrowths; oversize it and your storage team complains about wasted space. Let’s cut through the myths and build a methodical way to size your transaction log properly, based on recovery model, workload, and backup strategy.",
           "link": "https://dotnetstories.wordpress.com/2025/11/04/sizing-your-transaction-log-in-sql-server-how-big-is-big-enough/",
           "publishedOn": "2025-11-04T00:48:06.000Z",
-          "wordCount": 4208,
+          "wordCount": 4205,
           "title": "Sizing Your Transaction Log in SQL Server: How Big Is Big Enough?",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1762394450"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1762999355"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3639",
@@ -1039,7 +1656,7 @@
           "publishedOn": "2025-11-02T19:17:57.000Z",
           "wordCount": 3956,
           "title": "SQL Server Myth: “Checkpoint Only Writes Pages from Committed Transactions”",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1763085678"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1762999355"
         }
       ]
     },
