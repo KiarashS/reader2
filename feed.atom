@@ -2,15 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-11-20T01:59:17.085Z</updated>
+    <updated>2025-11-21T01:59:57.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
     <entry>
+        <title type="html"><![CDATA[.NET 10: The Deathblow to Python’s AI Dominance? 💀]]></title>
+        <id>stories/732018</id>
+        <link href="https://dotnetkicks.com/r/732018?url=https://www.gapvelocity.ai/blog/dotnet10-smacks-down-python-ai"/>
+        <updated>2025-11-21T01:59:53.828Z</updated>
+        <summary type="html"><![CDATA[Python’s AI reign is toast. .NET 10 (LTS) isn't just an update; it's a weapon. Native vectors in EF Core, AI abstraction (IChatClient!), and performance that makes Python look like a tired, old scripting language. Your cloud bill and CIO will finally sleep at night. Ditch the v-envs!]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[James Montemagno on Vibe Coding]]></title>
         <id>stories/732297</id>
         <link href="https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/"/>
-        <updated>2025-11-20T01:59:14.302Z</updated>
+        <updated>2025-11-21T01:59:53.297Z</updated>
         <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
@@ -20,18 +30,8 @@
         <title type="html"><![CDATA[Cake v5.1.0 released]]></title>
         <id>stories/731623</id>
         <link href="https://dotnetkicks.com/r/731623?url=https://cakebuild.net/blog/2025/10/cake-v5.1.0-released"/>
-        <updated>2025-11-20T01:59:12.249Z</updated>
+        <updated>2025-11-21T01:59:49.099Z</updated>
         <summary type="html"><![CDATA[Version 5.1.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to both Cake Scripting and Cake Frosting since the Cake v5.0.0 release!]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET 10: The Deathblow to Python’s AI Dominance? 💀]]></title>
-        <id>stories/732018</id>
-        <link href="https://dotnetkicks.com/r/732018?url=https://www.gapvelocity.ai/blog/dotnet10-smacks-down-python-ai"/>
-        <updated>2025-11-20T01:59:12.147Z</updated>
-        <summary type="html"><![CDATA[Python’s AI reign is toast. .NET 10 (LTS) isn't just an update; it's a weapon. Native vectors in EF Core, AI abstraction (IChatClient!), and performance that makes Python look like a tired, old scripting language. Your cloud bill and CIO will finally sleep at night. Ditch the v-envs!]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -40,7 +40,7 @@
         <title type="html"><![CDATA[Interesting new C# 14 features coming with .NET 10]]></title>
         <id>stories/731858</id>
         <link href="https://dotnetkicks.com/r/731858?url=https://thomaslevesque.com/2025/04/11/interesting-new-csharp-14-features-coming-with-net-10/"/>
-        <updated>2025-11-20T01:59:09.382Z</updated>
+        <updated>2025-11-21T01:59:42.358Z</updated>
         <summary type="html"><![CDATA[With the release of .NET 10 just around the corner (next month!), it's time to take a look at the new features we can expect for C# 14. Note: the goal of this post is not to be an exhaustive list of all new features.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
@@ -50,10 +50,51 @@
         <title type="html"><![CDATA[Cake v6.0.0 released]]></title>
         <id>stories/734797</id>
         <link href="https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released"/>
-        <updated>2025-11-20T01:59:08.398Z</updated>
+        <updated>2025-11-21T01:59:39.504Z</updated>
         <summary type="html"><![CDATA[Version 6.0.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to Cake Scripting, Cake Frosting, and the new Cake.Sdk runner since the Cake v5.1.0 release!]]></summary>
         <author>
             <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinventing how .NET Builds and Ships (Again) - .NET Blog]]></title>
+        <id>stories/735363</id>
+        <link href="https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/"/>
+        <updated>2025-11-20T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[An exploration of how .NET evolved from a distributed build system to Unified Build, dramatically reducing complexity and build times while improving flexibility and predictability for shipping .NET releases.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should We Even Have :closed?]]></title>
+        <id>https://css-tricks.com/?p=390115</id>
+        <link href="https://css-tricks.com/should-we-even-have-closed/"/>
+        <updated>2025-11-20T15:10:26.000Z</updated>
+        <summary type="html"><![CDATA[Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.
+Should We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – November 20, 2025 (#4545)]]></title>
+        <id>https://www.alvinashcraft.com/2025/11/20/dew-drop-november-20-2025-4545/</id>
+        <link href="https://www.alvinashcraft.com/2025/11/20/dew-drop-november-20-2025-4545/"/>
+        <updated>2025-11-20T12:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Top Links Announcing Angular v21 (Jens Kuehlers & Mark “Techson” Thompson) LINQPad 9 is GA! (Joseph Albahari) How we’re making GitHub Copilot smarter with fewer tools (Anisha Agarwal) PowerToys 0.96 is here: endpoints for Advanced Paste, metadata support for PowerRename and more! (Niels Laute) Announcing Uno Platform DEV.To Challenge (Uno Platform Team) Announcing the azd … Continue reading Dew Drop – November 20, 2025 (#4545)]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things That Caught My Attention Last Week - November 16]]></title>
+        <id>http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-november-16</id>
+        <link href="http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-november-16"/>
+        <updated>2025-11-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
+        <author>
+            <name>Peter Ritchie's Blog</name>
         </author>
     </entry>
     <entry>
@@ -121,9 +162,9 @@
         <id>691cf09fea147a95b92d3551</id>
         <link href="https://www.freecodecamp.org/news/how-to-use-to-docker-with-nodejs-handbook/"/>
         <updated>2025-11-18T22:18:07.000Z</updated>
-        <summary type="html"><![CDATA[In this handbook, you’ll learn what Docker is, why it’s become an essential, must-have skill for backend and full-stack developers in 2025, and most importantly, how to use it in real-world projects from start to finish. We will go far beyond the usu...]]></summary>
+        <summary type="html"><![CDATA[In this handbook, you’ll learn what Docker is and why it’s a must-have skill for backend and full-stack developers. And, most importantly, you’ll learn how to use it in real-world projects from start to finish. We will go far beyond the usual “Hello ...]]></summary>
         <author>
-            <name>oghenekparobo Stephen</name>
+            <name>Oghenekparobo Stephen</name>
         </author>
     </entry>
     <entry>
@@ -177,7 +218,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Level Up Your JavaScript – Detect Smells & Write Clean Code]]></title>
+        <title type="html"><![CDATA[JavaScript Clean Code Course – How to Detect Code Smells and Refactor Accordingly]]></title>
         <id>691c87f2e14e4f3c7eeb659e</id>
         <link href="https://www.freecodecamp.org/news/level-up-your-javascript-detect-smells-and-write-clean-code/"/>
         <updated>2025-11-18T14:51:30.000Z</updated>
@@ -261,7 +302,7 @@
         <id>691b3887dbd8303d75f4137c</id>
         <link href="https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/"/>
         <updated>2025-11-17T15:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Backend development involves building the server-side "brain" of a website that manages user data, authentication, and database communication. We just posted a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to construct a ba...]]></summary>
+        <summary type="html"><![CDATA[Backend development involves building the server-side "brain" of a website that manages user data, authentication, and database communication. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to construct a basi...]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -851,16 +892,6 @@ Explaining the Accessible Benefits of Using Semantic HTML Elements originally pu
         <summary type="html"><![CDATA[The biggest .NET event of the year is just one week away! Join us November 11-13 for .NET 10 and Visual Studio 2026, plus a Student Zone on November 14th.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop – November 4, 2025 (#4533)]]></title>
-        <id>https://www.alvinashcraft.com/2025/11/04/dew-drop-november-4-2025-4533/</id>
-        <link href="https://www.alvinashcraft.com/2025/11/04/dew-drop-november-4-2025-4533/"/>
-        <updated>2025-11-04T11:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Top Links On‑Device AI with Windows AI Foundry (Nandhini Elango) Using Copilot Agent Mode and Copilot Profiler Agent | Visual Studio Toolbox (Leslie Richardson & Joseph Finney) GitHub Universe 2025: Where developer innovation took center stage (Jessica Hawk) Microsoft Edge introduces passkey saving and syncing with Microsoft Password Manager (Patrick Brosset) 🧠 Build an Agent … Continue reading Dew Drop – November 4, 2025 (#4533)]]></summary>
-        <author>
-            <name>Alvin A.</name>
         </author>
     </entry>
     <entry>
@@ -1483,47 +1514,6 @@ An Introduction to JavaScript Expressions originally published on CSS-Tricks, wh
         <link href="https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/"/>
         <updated>2025-10-21T14:00:36.000Z</updated>
         <summary type="html"><![CDATA[We have great news for extension users and developers: Visual Studio 2026 is introducing an extension compatibility model designed specifically to make your life easier. Our top priority is to ensure that your extensions continue to work seamlessly across Visual Studio releases - with no extra effort required from you.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things That Caught My Attention Last Week - October 19]]></title>
-        <id>http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-19</id>
-        <link href="http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-19"/>
-        <updated>2025-10-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
-        <author>
-            <name>Peter Ritchie's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Honeypot Field That Works]]></title>
-        <id>https://css-tricks.com/?p=388560</id>
-        <link href="https://css-tricks.com/building-a-honeypot-field-that-works/"/>
-        <updated>2025-10-20T16:11:40.000Z</updated>
-        <summary type="html"><![CDATA[Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spambots can’t detect your honeypot field.
-Building a Honeypot Field That Works originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Shell Previews]]></title>
-        <id>stories/732795</id>
-        <link href="https://dotnetkicks.com/r/732795?url=https://textslashplain.com/2025/10/20/windows-shell-previews/"/>
-        <updated>2025-10-20T16:06:58.000Z</updated>
-        <summary type="html"><![CDATA[Windows users who installed the October 2025 Security Updates may have noticed an unexpected change if they use the Windows Explorer preview pane. When previewing a downloaded PDF file, the preview is now replaced with the following text: While it also occurs when viewing files on remote Internet Zone file shares, the problem doesn't occur...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innovation spotlight: How 3 customers are driving change with migration to Azure SQL - Microsoft SQL Server Blog]]></title>
-        <id>stories/732814</id>
-        <link href="https://dotnetkicks.com/r/732814?url=https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/"/>
-        <updated>2025-10-20T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how Microsoft Azure SQL Managed Instance helps organizations move from legacy constraints to a scalable and secure AI-ready foundation.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
