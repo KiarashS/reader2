@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-12-07T02:20:17.286Z</updated>
+    <updated>2025-12-08T02:06:33.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
@@ -10,7 +10,7 @@
         <title type="html"><![CDATA[James Montemagno on Vibe Coding]]></title>
         <id>stories/732297</id>
         <link href="https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/"/>
-        <updated>2025-12-07T02:20:12.489Z</updated>
+        <updated>2025-12-08T02:06:15.770Z</updated>
         <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
@@ -20,7 +20,7 @@
         <title type="html"><![CDATA[Cake v6.0.0 released]]></title>
         <id>stories/734797</id>
         <link href="https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released"/>
-        <updated>2025-12-07T02:20:11.258Z</updated>
+        <updated>2025-12-08T02:06:14.670Z</updated>
         <summary type="html"><![CDATA[Version 6.0.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to Cake Scripting, Cake Frosting, and the new Cake.Sdk runner since the Cake v5.1.0 release!]]></summary>
         <author>
             <name>dotnetkicks.com</name>
@@ -30,8 +30,70 @@
         <title type="html"><![CDATA[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions]]></title>
         <id>stories/735675</id>
         <link href="https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions"/>
-        <updated>2025-12-07T02:20:09.421Z</updated>
+        <updated>2025-12-08T02:06:11.244Z</updated>
         <summary type="html"><![CDATA[Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Sharding Explained: The Moment a Database Stops Scaling Up and Must Scale Out]]></title>
+        <id>http://dotnetstories.wordpress.com/?p=3795</id>
+        <link href="https://dotnetstories.wordpress.com/2025/12/08/database-sharding-explained-the-moment-a-database-stops-scaling-up-and-must-scale-out/"/>
+        <updated>2025-12-07T22:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Database sharding is regularly described as “splitting large databases into smaller ones.” That definition is technically correct and dangerously shallow. Real implementations involve complex routing logic, distributed coordination, EF Core dynamic context management, operational discipline, and deep knowledge of how SQL Server executes queries versus partitioned tables.]]></summary>
+        <author>
+            <name>fofo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsing Santa&#x27;s workshop with strongly typed data (without the coal)]]></title>
+        <id>69343e063f75eb00016b1c52</id>
+        <link href="https://www.daveabrock.com/2025/12/07/parsing-santas-workshop-with-strongly-typed-data-without-the-coal/"/>
+        <updated>2025-12-07T15:41:24.000Z</updated>
+        <summary type="html"><![CDATA[This is my post for the 2025 C# Advent. Check out all the great posts!
+
+Every year, Santa's workshop runs on data: delivery manifests, elf schedules, chimney dimensions, and naughty/nice scores. And like any other legacy system, it's held together with strings, DateTime comparisons, and]]></summary>
+        <author>
+            <name>Dave Brock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure SQL Explained: SQL on VM, Managed Instance, and Azure SQL Database]]></title>
+        <id>http://dotnetstories.wordpress.com/?p=3760</id>
+        <link href="https://dotnetstories.wordpress.com/2025/12/07/azure-sql-explained-sql-on-vm-managed-instance-and-azure-sql-database/"/>
+        <updated>2025-12-07T12:04:29.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right Azure SQL option isn’t a licensing issue  it’s an architecture decision that can determine reliability, scalability, operational complexity, and long-term cost. In this deep-dive we decode SQL Server on Azure VM, Azure SQL Managed Instance, and Azure SQL Database, explain their real-world differences with brutal honesty, and provide clear guidance for architects modernizing legacy platforms or designing cloud-native systems.]]></summary>
+        <author>
+            <name>fofo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead]]></title>
+        <id>http://dotnettips.wordpress.com/?p=15893</id>
+        <link href="https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/"/>
+        <updated>2025-12-07T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When using immutable collections in .NET, remember that the Add() method creates a new instance rather than mutating the original. Ignoring the return value leads to ineffective loops. Instead, use a builder for efficiency, as it offers faster performance and lower memory allocation while still ensuring immutability in the final result.]]></summary>
+        <author>
+            <name>dotNetDave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting components by their base class name in Lens Studio]]></title>
+        <id>https://localjoost.github.io/Getting-components-by-their-base-class-name-in-Lens-Studio/</id>
+        <link href="https://localjoost.github.io/Getting-components-by-their-base-class-name-in-Lens-Studio/"/>
+        <updated>2025-12-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yet another small thing, this time to solve something that annoyed the heck out of me since day one. I really dislike this construction that you have to use when you have to get a reference to a component from a SceneObject]]></summary>
+        <author>
+            <name>DotNetByExample - The Next Generation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F#]]></title>
+        <id>stories/736168</id>
+        <link href="https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/"/>
+        <updated>2025-12-06T19:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog Introducing Data Ingestion Building Blocks (Preview) - .NET Blog Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog Unlocking the Power of...]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -1362,17 +1424,6 @@ Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CS
         <summary type="html"><![CDATA[SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explaining the Accessible Benefits of Using Semantic HTML Elements]]></title>
-        <id>https://css-tricks.com/?p=385769</id>
-        <link href="https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/"/>
-        <updated>2025-11-06T15:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?
-Explaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
