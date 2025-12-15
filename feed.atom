@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-12-14T02:20:59.404Z</updated>
+    <updated>2025-12-15T02:12:33.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
@@ -10,18 +10,8 @@
         <title type="html"><![CDATA[Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog]]></title>
         <id>stories/735789</id>
         <link href="https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/"/>
-        <updated>2025-12-14T02:20:58.077Z</updated>
+        <updated>2025-12-15T02:12:12.474Z</updated>
         <summary type="html"><![CDATA[Learn how to implement age verification in your .NET MAUI apps with our new cross-platform sample supporting Google Play Age Signals, Apple Declared Age Range, and Windows Age Consent APIs.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions]]></title>
-        <id>stories/735675</id>
-        <link href="https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions"/>
-        <updated>2025-12-14T02:20:55.745Z</updated>
-        <summary type="html"><![CDATA[Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -30,10 +20,30 @@
         <title type="html"><![CDATA[Cake v6.0.0 released]]></title>
         <id>stories/734797</id>
         <link href="https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released"/>
-        <updated>2025-12-14T02:20:55.475Z</updated>
+        <updated>2025-12-15T02:12:10.191Z</updated>
         <summary type="html"><![CDATA[Version 6.0.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to Cake Scripting, Cake Frosting, and the new Cake.Sdk runner since the Cake v5.1.0 release!]]></summary>
         <author>
             <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions]]></title>
+        <id>stories/735675</id>
+        <link href="https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions"/>
+        <updated>2025-12-15T02:12:07.077Z</updated>
+        <summary type="html"><![CDATA[Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UX Chronicles: When OpenAI’s Magic Meets a Messy User Experience]]></title>
+        <id>http://dotnettips.wordpress.com/?p=15905</id>
+        <link href="https://dotnettips.wordpress.com/2025/12/14/ux-chronicles-when-openais-magic-meets-a-messy-user-experience/"/>
+        <updated>2025-12-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The author expresses frustration with Sora's poor user experience and ongoing instability, emphasizing navigation difficulties, session issues, and prolonged outages. Despite Sora's impressive capabilities, the author argues that without prioritizing user experience and reliability, OpenAI risks losing the trust of professional creators. They urge the hiring of experienced UX designers and engineers.]]></summary>
+        <author>
+            <name>dotNetDave</name>
         </author>
     </entry>
     <entry>
@@ -46,6 +56,16 @@
 When looking at the C# 14 updates coming out soon, I discovered a feature and thought, "how did this not already exist?" If you've been using C#'s null-conditional operators (?. and ?[]) for years like]]></summary>
         <author>
             <name>Dave Brock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F# Weekly #50, 2025 - Making of A Programming Language]]></title>
+        <id>stories/736573</id>
+        <link href="https://dotnetkicks.com/r/736573?url=https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/"/>
+        <updated>2025-12-13T23:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News .NET 10 Networking Improvements - .NET Blog Microsoft Learn MCP Server Elevates Development - .NET Blog Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog Making Windows Terminal awesome with GitHub Copilot CLI - Microsoft for Developers Join us...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1392,47 +1412,6 @@ It is the first major release of dotnet-script since version 1.0, which was rele
 Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows - Visual Studio Blog]]></title>
-        <id>stories/735014</id>
-        <link href="https://dotnetkicks.com/r/735014?url=https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/"/>
-        <updated>2025-11-14T14:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Discover how Azure MCP Server integrates with Visual Studio 2026 to revolutionize your Azure development experience and efficiency.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Gamepad API Visual Debugging With CSS Layers]]></title>
-        <id>https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/</id>
-        <link href="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/"/>
-        <updated>2025-11-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A first look at the all‑new UX in Visual Studio 2026 - Visual Studio Blog]]></title>
-        <id>stories/734933</id>
-        <link href="https://dotnetkicks.com/r/734933?url=https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/"/>
-        <updated>2025-11-13T15:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio 2026 introduces a refreshed user experience, thoughtfully crafted for clarity, accessibility, and a clean interface that feels right at home on Windows. This update is the result of extensive collaboration with developers and incorporates valuable feedback from the community. We've improved typography, iconography, and the overall layout to minimize distractions and keep your [...]]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Range Syntax Has Come to Container Style Queries and if()]]></title>
-        <id>https://css-tricks.com/?p=390178</id>
-        <link href="https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/"/>
-        <updated>2025-11-13T15:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.
-The Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
