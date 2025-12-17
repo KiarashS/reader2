@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391134",
+          "author": "Daniel Schwarz",
+          "description": "The best CSS news from around the web from the last two weeks. In this edition: advent calendars, CSS Wrapped 2025, and the latest Web Platform Updates.\nWhat’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-important-1/",
+          "publishedOn": "2025-12-16T17:03:46.000Z",
+          "wordCount": 1663,
+          "title": "What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/css-wrapped.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391095",
           "author": "Geoff Graham",
           "description": "Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon headings.\nToon Title Text Generator originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -42,7 +52,7 @@
           "description": "How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?\nWhat Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/what-else-could-container-queries-query/",
           "publishedOn": "2025-12-12T14:38:18.000Z",
-          "wordCount": 2061,
+          "wordCount": 2130,
           "title": "What Else Could Container Queries… Query?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
         },
@@ -165,16 +175,6 @@
           "wordCount": 1834,
           "title": "Should We Even Have :closed?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390236",
-          "author": "Juan Diego Rodríguez",
-          "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!\nThe “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
-          "publishedOn": "2025-11-17T14:47:54.000Z",
-          "wordCount": 3638,
-          "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
         }
       ]
     },
@@ -204,7 +204,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4596,
+          "wordCount": 4599,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -219,7 +219,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4432,
+          "wordCount": 4433,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -234,7 +234,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6874,
+          "wordCount": 6882,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -249,7 +249,7 @@
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
           "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "publishedOn": "2025-12-02T10:00:00.000Z",
-          "wordCount": 6733,
+          "wordCount": 6737,
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
@@ -264,7 +264,7 @@
           "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
           "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
           "publishedOn": "2025-11-30T09:00:00.000Z",
-          "wordCount": 4972,
+          "wordCount": 4968,
           "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
@@ -279,7 +279,7 @@
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4709,
+          "wordCount": 4720,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -324,7 +324,7 @@
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7593,
+          "wordCount": 7588,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -350,6 +350,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6941a65f3076ac3edd6fdaf0",
+          "author": "Ajay Patel",
+          "description": "We’ve all faced that awkward limitation with AI: it can write code or explain complex topics in seconds, but the moment you ask it to check a local file or run a quick database query, it hits a wall. It’s like having a genius assistant who is locked ...",
+          "link": "https://www.freecodecamp.org/news/how-does-an-mcp-work-under-the-hood/",
+          "publishedOn": "2025-12-16T18:35:11.000Z",
+          "wordCount": 2662,
+          "title": "How Does an MCP Work Under the Hood? MCP Workflow Explained",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765909617721/fa533504-3dab-48c3-9b92-0b89a81af025.png"
+        },
+        {
+          "id": "694190c566a5d5cb99995f9f",
+          "author": "Opaluwa Emidowojo",
+          "description": "Let’s say your Kubernetes pod crashes at 3am and the logs show nothing useful. By the time you SSH into the node, the container is gone, and you're left guessing what happened in those final moments. This is the reality of debugging modern applicatio...",
+          "link": "https://www.freecodecamp.org/news/how-to-debug-kubernetes-apps-when-logs-fail-you-an-ebpf-tracing-handbook/",
+          "publishedOn": "2025-12-16T17:03:01.000Z",
+          "wordCount": 6328,
+          "title": "How to Debug Kubernetes Apps When Logs Fail You – An eBPF Tracing Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765899860869/3eadf316-8539-4624-afba-1d4190b6c62a.png"
+        },
+        {
+          "id": "694189cc7d760e7dd4cabc0a",
+          "author": "Beau Carnes",
+          "description": "Supabase is an open-source Backend-as-a-Service (BaaS) platform that provides developers with a powerful set of tools to build applications quickly. This comprehensive video tutorial introduces you to Supabase by building a real-world React.js Sales ...",
+          "link": "https://www.freecodecamp.org/news/supabase-for-beginners/",
+          "publishedOn": "2025-12-16T16:33:16.000Z",
+          "wordCount": 1056,
+          "title": "Supabase for Beginners",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
+        {
+          "id": "69409201ee1f8b8545e218b8",
+          "author": "Bala Priya C",
+          "description": "Hashing is a fundamental technique in programming that converts data into a fixed-size string of characters. Unlike encryption, hashing is a one-way process: you can't reverse it to get the original data back. This makes hashing perfect for storing p...",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-secure-hashing-using-pythons-hashlib-module/",
+          "publishedOn": "2025-12-15T22:56:01.000Z",
+          "wordCount": 2297,
+          "title": "How to Perform Secure Hashing Using Python's hashlib Module",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765839274048/2110b9d7-00c4-4e85-a69b-7223f21f2ac3.png"
+        },
         {
           "id": "6940200b3e9f58ff90228d6c",
           "author": "Jessica Wilkins",
@@ -409,46 +449,6 @@
           "wordCount": 2116,
           "title": "How to Work with YAML in Python – A Guide with Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765407508788/61769835-bd12-486e-8f8e-ba0f3a7af83c.png"
-        },
-        {
-          "id": "6939b88a5a4b3354fde8c07b",
-          "author": "Sara Jadhav",
-          "description": "In this article, I’ll give you a beginner-friendly introduction to the Polars library in Python. Polars is an open-source library, originally written in Rust, which makes data wrangling easier in Python. The syntax of Polars is very similar to Pandas...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-polars-library-in-python-for-data-analysis/",
-          "publishedOn": "2025-12-10T18:14:34.000Z",
-          "wordCount": 6245,
-          "title": "How to Use the Polars Library in Python for Data Analysis",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765325732081/94ab547b-fdaf-41bb-ae60-ad03be31211a.png"
-        },
-        {
-          "id": "6939b6ee10076c81dd6c3f49",
-          "author": "Arunachalam B",
-          "description": "Web development is always evolving, and sometimes those changes happen a bit under the hood. One such change involved the shift to React Server Components (RSC). If you’re a NextJS or React developer, especially using the App Router, understanding th...",
-          "link": "https://www.freecodecamp.org/news/reacts-critical-react2shell-vulnerability-what-you-should-know-and-how-to-upgrade-your-app/",
-          "publishedOn": "2025-12-10T18:07:42.000Z",
-          "wordCount": 2413,
-          "title": "React’s Critical \"React2Shell\" Vulnerability — What You Should Know, and How to Upgrade Your App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765328805925/a9c016a1-90a9-4123-bbb0-17c7d46da035.png"
-        },
-        {
-          "id": "6939973f5518db00ad552055",
-          "author": "Nielda Karla",
-          "description": "The freeCodeCamp community just published our new A2 English for Developers certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. How Does the A2 English for D...",
-          "link": "https://www.freecodecamp.org/news/freecodecamps-a2-english-for-developers-certification-is-now-live/",
-          "publishedOn": "2025-12-10T15:52:31.000Z",
-          "wordCount": 2480,
-          "title": "freeCodeCamp's A2 English for Developers Certification is Now Live",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764781521906/b24af8b2-4bc2-4e0c-88ae-c121507cebdc.png"
-        },
-        {
-          "id": "6939907d149667a2e0b357dd",
-          "author": "Beau Carnes",
-          "description": "Learn about the complete neural machine translation journey. We just posted a course on the freeCodeCamp.org YouTube channel that is a comprehensive journey through the evolution of sequence models and neural machine translation (NMT). It blends hist...",
-          "link": "https://www.freecodecamp.org/news/building-nmt-from-scratch-pytorch-replications-of-7-landmark-papers/",
-          "publishedOn": "2025-12-10T15:23:41.000Z",
-          "wordCount": 1186,
-          "title": "Building NMT from Scratch – PyTorch Replications of 7 Landmark Papers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765380195051/cafca462-96d6-49a4-b182-24d7a4f438f9.jpeg"
         }
       ]
     },
@@ -457,6 +457,16 @@
       "feedUrl": "https://blog.peterritchie.com/feed.atom",
       "siteUrl": "http://blog.peterritchie.com/",
       "articles": [
+        {
+          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-december-15",
+          "author": null,
+          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
+          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-december-15",
+          "publishedOn": "2025-12-16T00:00:00.000Z",
+          "wordCount": 561,
+          "title": "Things That Caught My Attention Last Week - December 16",
+          "imageUrl": null
+        },
         {
           "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-december-8",
           "author": null,
@@ -510,7 +520,7 @@
           "description": "In the last few months my Markdown Monster Application Insights log has been inundated with a hard failure for lookups of a \\\\.\\nul device error. In my  logs this shows up as an error like this:\n\nFigure 1 - Null device errors in the Application Insight logs\nThis error started creeping up in my logs a few months ago, and since then has gotten more frequent. The error always occurs in the same location in the code and it's related to the File and Folder Browser in MM that displays the files available on the file system.\n\nFigure 2 - The File and Folder Browser in Markdown Monster that is the target of the error\nThis is a generic file browser, so it's very susceptible to all sorts of oddball user configurations and mis-configurations and this particular error likely is of the latter kind. Howe…",
           "link": "https://weblog.west-wind.com/posts/2025/Dec/08/What-the-heck-is-a-nul-path-and-why-is-it-breaking-my-Directory-Files-Lookup",
           "publishedOn": "2025-12-08T23:15:18.000Z",
-          "wordCount": 2207,
+          "wordCount": 2203,
           "title": "What the heck is a `\\\\.\\nul` path and why is it breaking my Directory Files Lookup?",
           "imageUrl": "https://weblog.west-wind.com/images/2025/What-the-heck-is-a-nul-path-and-why-is-it-breaking-my-Directory-Files-Lookup/NullDeviceBanner.jpg"
         }
@@ -527,456 +537,9 @@
           "description": "In the last few months my Markdown Monster Application Insights log has been inundated with a hard failure for lookups of a \\\\.\\nul device error. In my  logs this shows up as an error like this:\n\nFigure 1 - Null device errors in the Application Insight logs\nThis error started creeping up in my logs a few months ago, and since then has gotten more frequent. The error always occurs in the same location in the code and it's related to the File and Folder Browser in MM that displays the files available on the file system.\n\nFigure 2 - The File and Folder Browser in Markdown Monster that is the target of the error\nThis is a generic file browser, so it's very susceptible to all sorts of oddball user configurations and mis-configurations and this particular error likely is of the latter kind. Howe…",
           "link": "https://weblog.west-wind.com/posts/2025/Dec/08/What-the-heck-is-a-nul-path-and-why-is-it-breaking-my-Directory-Files-Lookup",
           "publishedOn": "2025-12-08T23:15:18.000Z",
-          "wordCount": 2203,
+          "wordCount": 2207,
           "title": "What the heck is a `\\\\.\\nul` path and why is it breaking my Directory Files Lookup?",
           "imageUrl": "https://weblog.west-wind.com/images/2025/What-the-heck-is-a-nul-path-and-why-is-it-breaking-my-Directory-Files-Lookup/NullDeviceBanner.jpg"
-        }
-      ]
-    },
-    {
-      "title": "dotnetkicks.com",
-      "feedUrl": "https://dotnetkicks.com/feeds/rss",
-      "siteUrl": "https://dotnetkicks.com/",
-      "articles": [
-        {
-          "id": "stories/735789",
-          "author": null,
-          "description": "Learn how to implement age verification in your .NET MAUI apps with our new cross-platform sample supporting Google Play Age Signals, Apple Declared Age Range, and Windows Age Consent APIs.",
-          "link": "https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/",
-          "publishedOn": "2025-12-16T02:09:17.977Z",
-          "wordCount": null,
-          "title": "Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/734797",
-          "author": null,
-          "description": "Version 6.0.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to Cake Scripting, Cake Frosting, and the new Cake.Sdk runner since the Cake v5.1.0 release!",
-          "link": "https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released",
-          "publishedOn": "2025-12-16T02:09:16.901Z",
-          "wordCount": 1289,
-          "title": "Cake v6.0.0 released",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/735675",
-          "author": null,
-          "description": "Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...",
-          "link": "https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
-          "publishedOn": "2025-12-16T02:09:16.504Z",
-          "wordCount": 4040,
-          "title": "Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions",
-          "imageUrl": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/Automatically-Signing-a-Windows-EXE-with_D0BE/image_thumb%5B1%5D.png"
-        },
-        {
-          "id": "stories/736689",
-          "author": null,
-          "description": "The most common reason an AI system \"hallucinates\" in production isn't that the model is dumb. It's that we're drowning it.",
-          "link": "https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/",
-          "publishedOn": "2025-12-16T01:18:31.000Z",
-          "wordCount": 7550,
-          "title": "Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output | Build5Nines",
-          "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/12/Prompt-noise-is-killing-your-ai-accuracy-optimize-context-for-grounded-output-Featured_Image.jpg"
-        },
-        {
-          "id": "stories/736640",
-          "author": null,
-          "description": "Build professional iOS widgets with .NET MAUI, from static displays to interactive widgets.",
-          "link": "https://dotnetkicks.com/r/736640?url=https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/",
-          "publishedOn": "2025-12-15T18:05:00.000Z",
-          "wordCount": 9106,
-          "title": "How to Build iOS Widgets with .NET MAUI - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/build-ios-widgets-maui.webp"
-        },
-        {
-          "id": "stories/736573",
-          "author": null,
-          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET 10 Networking Improvements - .NET Blog Microsoft Learn MCP Server Elevates Development - .NET Blog Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog Making Windows Terminal awesome with GitHub Copilot CLI - Microsoft for Developers Join us...",
-          "link": "https://dotnetkicks.com/r/736573?url=https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/",
-          "publishedOn": "2025-12-13T23:01:24.000Z",
-          "wordCount": 4541,
-          "title": "F# Weekly #50, 2025 - Making of A Programming Language",
-          "imageUrl": "https://sergeytihon.com/wp-content/uploads/2025/12/bafkreih2zzlqitjyiy3wnsbjnl3mfupxc2jejn6l7kwx3z6foicprdpszy.jpg"
-        },
-        {
-          "id": "stories/736367",
-          "author": null,
-          "description": "You're a .NET developer with a busy morning, and an Azure DevOps ticket drops: \"Login endpoint 500s under load.\" You've got to fix it, review a teammate's feature branch, and keep your repo clean - all before lunch. Visual Studio's Git tools turn this everyday Git workflow of creating topic branches, stashing changes, committing, and [...]",
-          "link": "https://dotnetkicks.com/r/736367?url=https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/",
-          "publishedOn": "2025-12-10T15:00:47.000Z",
-          "wordCount": 8591,
-          "title": "Streamlining your Git workflow with Visual Studio 2026 - Visual Studio Blog",
-          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/12/Picture1.webp"
-        },
-        {
-          "id": "stories/736324",
-          "author": null,
-          "description": "A recap of the latest servicing updates for .NET and .NET Framework for December 2025.",
-          "link": "https://dotnetkicks.com/r/736324?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/",
-          "publishedOn": "2025-12-09T18:48:25.000Z",
-          "wordCount": 6542,
-          "title": ".NET and .NET Framework December 2025 servicing releases updates - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/december2025updates.webp"
-        },
-        {
-          "id": "stories/736298",
-          "author": null,
-          "description": "Learn how to implement in-app purchases in your .NET MAUI apps with our new cross-platform billing sample for Android, iOS, Mac Catalyst, and Windows.",
-          "link": "https://dotnetkicks.com/r/736298?url=https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/",
-          "publishedOn": "2025-12-09T18:05:00.000Z",
-          "wordCount": 7345,
-          "title": "Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/in-app-purchases-maui.webp"
-        },
-        {
-          "id": "stories/736257",
-          "author": null,
-          "description": "In this post I try out Zed on Windows to see if it can replace my VS Code usages for quick edits of .NET projects and writing Markdown documents",
-          "link": "https://dotnetkicks.com/r/736257?url=https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/",
-          "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 2859,
-          "title": "Trying out the Zed editor on Windows for .NET and Markdown",
-          "imageUrl": "https://andrewlock.net/content/images/2025/zed_banner.webp"
-        },
-        {
-          "id": "stories/736233",
-          "author": null,
-          "description": "Explore how the Learn MCP server enhances the developer experience with Copilot, showcase practical examples, and provide straightforward integration instructions for Visual Studio, Visual Studio Code, the Copilot Command Line Interface, and the Copilot Coding Agent",
-          "link": "https://dotnetkicks.com/r/736233?url=https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/",
-          "publishedOn": "2025-12-08T20:00:00.000Z",
-          "wordCount": 7716,
-          "title": "Microsoft Learn MCP Server Elevates Development - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/mslearn-mcp.webp"
-        },
-        {
-          "id": "stories/736231",
-          "author": null,
-          "description": "Aggregates in DDD aren't about loading every related entity. They're about modeling rules, not relationships.",
-          "link": "https://dotnetkicks.com/r/736231?url=https://codeopinion.com/aggregates-in-ddd-model-rules-not-relationships/",
-          "publishedOn": "2025-12-08T19:21:17.000Z",
-          "wordCount": 1629,
-          "title": "Aggregates in DDD: Model Rules, Not Relationships",
-          "imageUrl": "https://codeopinion.com/wp-content/uploads/2025/12/Twitter-1.png"
-        },
-        {
-          "id": "stories/736202",
-          "author": null,
-          "description": "Introducing new networking features in .NET 10 including HTTP space, WebSockets, security and more!",
-          "link": "https://dotnetkicks.com/r/736202?url=https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/",
-          "publishedOn": "2025-12-08T18:05:00.000Z",
-          "wordCount": 8855,
-          "title": ".NET 10 Networking Improvements - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/networkingdotnet10.webp"
-        },
-        {
-          "id": "stories/736168",
-          "author": null,
-          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog Introducing Data Ingestion Building Blocks (Preview) - .NET Blog Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog Unlocking the Power of...",
-          "link": "https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/",
-          "publishedOn": "2025-12-06T19:47:51.000Z",
-          "wordCount": 4680,
-          "title": "F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F#",
-          "imageUrl": "https://sergeytihon.com/wp-content/uploads/2025/12/bafkreiagjmfbzmmfhbcoffczr445gywhse6z6r33abbmjxzek5r2awe6vy.jpg"
-        },
-        {
-          "id": "stories/736132",
-          "author": null,
-          "description": "Explore Microsoft's SQL tooling updates, AI integration, and roadmap for SSMS, VS Code, and DevOps innovations. Learn more.",
-          "link": "https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/",
-          "publishedOn": "2025-12-05T17:00:00.000Z",
-          "wordCount": 3603,
-          "title": "How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog",
-          "imageUrl": "https://www.microsoft.com/en-us/sql-server/blog/wp-content/uploads/2018/08/cropped-microsoft_logo_element.png"
-        },
-        {
-          "id": "stories/736077",
-          "author": null,
-          "description": "I was helping a new JasperFx Software client this week to best integrate a Domain Events strategy into their new Wolverine codebase. This client wanted to use the common model of using an EF Core DbContext to harvest domain events raised by different entities and relay those to Wolverine messaging with proper Wolverine transactional outbox...",
-          "link": "https://dotnetkicks.com/r/736077?url=https://jeremydmiller.com/2025/12/04/classic-net-domain-events-with-wolverine-and-ef-core/",
-          "publishedOn": "2025-12-05T03:30:20.000Z",
-          "wordCount": 7312,
-          "title": "\"Classic\" .NET Domain Events with Wolverine and EF Core",
-          "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/12/image-1.png"
-        },
-        {
-          "id": "stories/736049",
-          "author": null,
-          "description": "NET Conf 2025 is over, but you can catch up with all the announcements and fun with video recordings, slides, demos, and more.",
-          "link": "https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/",
-          "publishedOn": "2025-12-04T18:05:00.000Z",
-          "wordCount": 9058,
-          "title": ".NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/dotnet-conf-2025-recap-scaled.webp"
-        },
-        {
-          "id": "stories/735949",
-          "author": null,
-          "description": "AI-assisted development has rapidly transformed how engineers write code, collaborate, and ship software. GitHub Copilot, powered by OpenAI's Codex and now",
-          "link": "https://dotnetkicks.com/r/735949?url=https://build5nines.com/unlock-github-copilots-full-potential-why-every-repo-needs-an-agents-md-file/",
-          "publishedOn": "2025-12-04T00:02:56.000Z",
-          "wordCount": 4240,
-          "title": "Unlock GitHub Copilot's Full Potential: Why Every Repo Needs An AGENTS.md File | Build5Nines",
-          "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/12/GitHub-Copilot-Every-Repo-Needs-AGENTS-md-file-Featured_Image.jpg"
-        },
-        {
-          "id": "stories/735934",
-          "author": null,
-          "description": "With the release of .NET, we've released updated packages of AutoMapper and MediatR targeting .NET 10 (and all supported versions of .NET and 4.x of .NET Framework). From this release forward, we're aligning to major release cadences of .NET since this also means upping our dependency versions as well.",
-          "link": "https://dotnetkicks.com/r/735934?url=https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/",
-          "publishedOn": "2025-12-03T21:23:28.000Z",
-          "wordCount": 770,
-          "title": "AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/735992",
-          "author": null,
-          "description": "An important concept in Usable Security is whether a given UI represents a \"security surface.\" Formally, a security surface is a User Interface component in which the user is presented with information they rely upon to make a security decision. For example, in the browser, the URL in the address bar is a security surface....",
-          "link": "https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/",
-          "publishedOn": "2025-12-03T21:15:46.000Z",
-          "wordCount": 4120,
-          "title": "Security Surfaces",
-          "imageUrl": "https://textslashplain.com/wp-content/uploads/2025/12/image-2-1.png"
-        },
-        {
-          "id": "stories/735929",
-          "author": null,
-          "description": "Announcing the preview of open, modular data ingestion building blocks in .NET, empowering developers to build scalable AI pipelines with seamless integration, extensibility, and easy getting started experiences across the .NET ecosystem.",
-          "link": "https://dotnetkicks.com/r/735929?url=https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/",
-          "publishedOn": "2025-12-03T18:05:00.000Z",
-          "wordCount": 8632,
-          "title": "Introducing Data Ingestion Building Blocks (Preview) - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/introducing-data-ingestion.webp"
-        },
-        {
-          "id": "stories/735821",
-          "author": null,
-          "description": "In this post I describe some recent changes to the NetEscapades.EnumGenerators source generator, including support for [EnumMember] and new analyzers",
-          "link": "https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/",
-          "publishedOn": "2025-12-02T09:00:00.000Z",
-          "wordCount": 2496,
-          "title": "Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes",
-          "imageUrl": "https://andrewlock.net/content/images/2022/enumgenerators_banner.png"
-        },
-        {
-          "id": "stories/735809",
-          "author": null,
-          "description": "Domain-Driven Design misconceptions often come from treating DDD like a checklist of patterns. It's focusing entirely on the wrong thing.",
-          "link": "https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/",
-          "publishedOn": "2025-12-01T22:51:15.000Z",
-          "wordCount": 1886,
-          "title": "Domain-Driven Design Misconceptions",
-          "imageUrl": "https://codeopinion.com/wp-content/uploads/2025/12/Twitter.png"
-        },
-        {
-          "id": "stories/735734",
-          "author": null,
-          "description": "Starting today, Babu Annamalai is taking a larger role at JasperFx Software (LLC) to help expand our support coverage to just about every time zone on the planet. Babu is a long time member of the Marten and now Critter Stack core team. In addition to some large contributions like the Partial API in Marten...",
-          "link": "https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/",
-          "publishedOn": "2025-12-01T14:27:49.000Z",
-          "wordCount": 4377,
-          "title": "Welcoming Babu Annamalai to JasperFx Software",
-          "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2023/07/cropped-jasperfx-logo-final-orange-bg.jpg"
-        },
-        {
-          "id": "stories/735711",
-          "author": null,
-          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Gazelle (A Fast Engine for Structural Engineering) is written in F# .NET Day on Agentic Modernization Coming Soon - .NET Blog Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog Announcing ASP.NET Core OData 10.0.0 Preview...",
-          "link": "https://dotnetkicks.com/r/735711?url=https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/",
-          "publishedOn": "2025-11-30T12:12:50.000Z",
-          "wordCount": 4505,
-          "title": "F# Weekly #48, 2025 - #FsAdvent starts Dec 1st.",
-          "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2025/11/advent2025_2025-large.png?fit=1200%2C630&ssl=1"
-        },
-        {
-          "id": "stories/735694",
-          "author": null,
-          "description": "Last month, I wrote up a blog post discussing a three-phase cycle (profile, analyze, improve) for leveraging LLMs and other AI tooling to evaluate Apache Flink jobs for potential performance improvements. This post goes through what that process might look like in a more automated fashion to help you track",
-          "link": "https://dotnetkicks.com/r/735694?url=https://rion.io/2025/11/29/exploring-squirrly-apache-flink-performance-issues-through-continual-ai-driven-evaluation/",
-          "publishedOn": "2025-11-29T11:00:00.000Z",
-          "wordCount": 1856,
-          "title": "Exploring Squirrly Apache Flink Performance Issues through Continual AI-Driven Evaluation",
-          "imageUrl": "https://cdn.getmidnight.com/eaf3f984c453cc67c8ff9d1f57fc3386/2025/11/science-squirrly.jpg"
-        },
-        {
-          "id": "stories/735658",
-          "author": null,
-          "description": "Imagine this: your application goes down in a major Azure region outage. DNS traffic shifts to the secondary region as designed. Terraform kicks off to scale",
-          "link": "https://dotnetkicks.com/r/735658?url=https://build5nines.com/terraform-azure-multi-region-naming-convention-across-azure-regions-resources-and-terraform-modules/",
-          "publishedOn": "2025-11-27T05:32:58.000Z",
-          "wordCount": 3964,
-          "title": "Terraform + Azure Multi-Region Naming Convention Across Azure Regions, Resources, And Terraform Modules | Build5Nines",
-          "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/11/hasicorp-terraform-azure-multi-region-naming-convention-across-regions-resources-modules.001.jpeg"
-        },
-        {
-          "id": "stories/735622",
-          "author": null,
-          "description": "Join us live on December 9 to explore the newest, most practical ways to modernize your .NET apps with Azure, AI, and powerful agentic tooling.",
-          "link": "https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/",
-          "publishedOn": "2025-11-26T21:00:00.000Z",
-          "wordCount": 7322,
-          "title": ".NET Day on Agentic Modernization Coming Soon - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/AgMod-banner.webp"
-        },
-        {
-          "id": "stories/735620",
-          "author": null,
-          "description": "The Worst Security Vulnerability in Akka.NET - And How to Fix It",
-          "link": "https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/",
-          "publishedOn": "2025-11-26T18:00:00.000Z",
-          "wordCount": 2106,
-          "title": "The Worst Security Vulnerability in Akka.NET - And How to Fix It",
-          "imageUrl": "https://hcti.io/v1/image/98298f7f1cd4e84db756e8d91dd6e09f7a1f76141c77b4177671f55750014068"
-        },
-        {
-          "id": "stories/735596",
-          "author": null,
-          "description": "In this post we enable host tracing and use that to understand how a .NET app boots up via the dotnet muxer, hostfxr, and hostpolicy.dll",
-          "link": "https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/",
-          "publishedOn": "2025-11-25T10:00:00.000Z",
-          "wordCount": 3463,
-          "title": "Exploring the .NET boot process via host tracing",
-          "imageUrl": "https://andrewlock.net/content/images/2025/hostfxr_banner.png"
-        },
-        {
-          "id": "stories/735555",
-          "author": null,
-          "description": "Controllers are old hat. Or are they? Minimal APIs, CQRS, DDD are all the patterns you should be using, right? Not really.",
-          "link": "https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/",
-          "publishedOn": "2025-11-24T22:14:32.000Z",
-          "wordCount": 1954,
-          "title": "Minimal APIs, CQRS, DDD... Or Just Use Controllers?",
-          "imageUrl": "https://codeopinion.com/wp-content/uploads/2025/11/Twitter-1.png"
-        },
-        {
-          "id": "stories/735523",
-          "author": null,
-          "description": "Visual Studio will adopt the Modern Support Lifecycle as a continuously updated IDE designed to deliver innovation as soon as it is ready, while maintaining the reliability and stability you count on every day with control over your build tools choices.",
-          "link": "https://dotnetkicks.com/r/735523?url=https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/",
-          "publishedOn": "2025-11-24T15:00:06.000Z",
-          "wordCount": 7402,
-          "title": "Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog",
-          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/11/VisualStudioWin_256x256.webp"
-        },
-        {
-          "id": "stories/735468",
-          "author": null,
-          "description": "Naming resources in Azure shouldn't feel like deciphering ancient hieroglyphics. Yet, without a solid standard, names can quickly become inconsistent,",
-          "link": "https://dotnetkicks.com/r/735468?url=https://build5nines.com/how-to-automate-azure-naming-conventions-with-the-build5nines-naming-azure-terraform-module/",
-          "publishedOn": "2025-11-23T03:51:00.000Z",
-          "wordCount": 6567,
-          "title": "How To Automate Azure Naming Conventions With The Build5Nines/naming/azure Terraform Module | Build5Nines",
-          "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/11/hashicorp-terraform-microsoft-azure-naming-convention-module-build5nines-naming-azure.001.jpeg"
-        },
-        {
-          "id": "stories/735486",
-          "author": null,
-          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Introducing F# 10 - .NET Blog Introducing C# 14 - .NET Blog Introducing Major New Agentic Capabilities for GitHub Copilot in JetBrains and Eclipse - Microsoft for Java Developers Introducing the Visual Studio Code Private Marketplace: Your Team's Secure, Curated Extension...",
-          "link": "https://dotnetkicks.com/r/735486?url=https://sergeytihon.com/2025/11/22/f-weekly-47-2025-f-10-last-fsadvent-slots/",
-          "publishedOn": "2025-11-22T21:27:56.000Z",
-          "wordCount": 4664,
-          "title": "F# Weekly #47, 2025 - F# 10 &amp; last #FsAdvent slots",
-          "imageUrl": "https://sergeytihon.com/wp-content/uploads/2025/11/bafkreifkvx2up4qdshn73cjqz36ln2do4yl456cbhbzvf4skvcf7vtjn24.jpg"
-        },
-        {
-          "id": "stories/735453",
-          "author": null,
-          "description": "A case for why you should consider purchasing an Akka.NET Support Plan for your organization.",
-          "link": "https://dotnetkicks.com/r/735453?url=https://petabridge.com/blog/why-buy-akka.net-support-2025/",
-          "publishedOn": "2025-11-21T13:49:21.000Z",
-          "wordCount": 1371,
-          "title": "How Do You Fix 70% Data Loss Across 1 Million Concurrent Connections?",
-          "imageUrl": "https://hcti.io/v1/image/1802022517183434f51a1a272a103424653d4cc5210769efa072307afcffb558"
-        },
-        {
-          "id": "stories/735363",
-          "author": null,
-          "description": "An exploration of how .NET evolved from a distributed build system to Unified Build, dramatically reducing complexity and build times while improving flexibility and predictability for shipping .NET releases.",
-          "link": "https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/",
-          "publishedOn": "2025-11-20T18:05:00.000Z",
-          "wordCount": 17224,
-          "title": "Reinventing how .NET Builds and Ships (Again) - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/11/unified-build.webp"
-        },
-        {
-          "id": "stories/735294",
-          "author": null,
-          "description": "In a prior installment we looked at Controlled Folder Access, a Windows feature designed to hamper ransomware attacks by preventing untrusted processes from modifying files in certain user folders. In today's post, we look at the other feature on the Ransomware protection page of the Windows Security Center App -- Ransomware data recovery.",
-          "link": "https://dotnetkicks.com/r/735294?url=https://textslashplain.com/2025/11/19/defensive-technology-ransomware-data-recovery/",
-          "publishedOn": "2025-11-19T19:13:50.000Z",
-          "wordCount": 3784,
-          "title": "Defensive Technology: Ransomware Data Recovery",
-          "imageUrl": "https://textslashplain.com/wp-content/uploads/2025/11/onedriveransom-1.png"
-        },
-        {
-          "id": "stories/735284",
-          "author": null,
-          "description": "Boost your testing workflow with GitHub Copilot testing for .NET, available now in Visual Studio. Automatically generate, build, and run high-quality unit tests for files, projects, or entire solutions.",
-          "link": "https://dotnetkicks.com/r/735284?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/",
-          "publishedOn": "2025-11-19T18:05:00.000Z",
-          "wordCount": 7408,
-          "title": "Supercharge Your Test Coverage with GitHub Copilot Testing for .NET - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/11/supercharge-your-test-coverage.webp"
-        },
-        {
-          "id": "stories/735216",
-          "author": null,
-          "description": "Learn how Visual Studio 2026 and GitHub Copilot app modernization upgrade .NET versions and frameworks, fix build issues, and migrate apps to Azure with less manual effort",
-          "link": "https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/",
-          "publishedOn": "2025-11-18T18:05:00.000Z",
-          "wordCount": 9579,
-          "title": "A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/modernizing-step-by-step.webp"
-        },
-        {
-          "id": "stories/735202",
-          "author": null,
-          "description": "In the past, moving to the next major version of Visual Studio could take hours, sometimes days, to recreate your dev environment the way you like it. Visual Studio 2026 makes it easier than ever to stay current with the latest productivity features, performance improvements, and security fixes all without disrupting your flow.",
-          "link": "https://dotnetkicks.com/r/735202?url=https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/",
-          "publishedOn": "2025-11-18T17:00:27.000Z",
-          "wordCount": 8221,
-          "title": "Spend Less Time Upgrading, More Time Coding in Visual Studio 2026 - Visual Studio Blog",
-          "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/11/word-image-254942-1.webp"
-        },
-        {
-          "id": "stories/735173",
-          "author": null,
-          "description": "Continuing Windows evolution as a secure open platform for AI and Agents At Build, we",
-          "link": "https://dotnetkicks.com/r/735173?url=https://blogs.windows.com/windowsdeveloper/2025/11/18/ignite-2025-furthering-windows-as-the-premier-platform-for-developers-governed-by-security/",
-          "publishedOn": "2025-11-18T16:03:03.000Z",
-          "wordCount": 5160,
-          "title": "Ignite 2025: Furthering Windows as the premier platform for developers, governed by security",
-          "imageUrl": "https://blogs.windows.com/wp-content/uploads/sites/3/2025/11/FY26_Ignite_Developer_Blog_NEW_V21920.jpg"
-        },
-        {
-          "id": "stories/735188",
-          "author": null,
-          "description": "What we've added for PQC, and how we got there.",
-          "link": "https://dotnetkicks.com/r/735188?url=https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/",
-          "publishedOn": "2025-11-18T16:00:00.000Z",
-          "wordCount": 11795,
-          "title": "Post-Quantum Cryptography in .NET - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/11/post-quantum-cryptography-in-dotnet-scaled.webp"
-        },
-        {
-          "id": "stories/735110",
-          "author": null,
-          "description": "Learn what features are in C# 14, which ships as part of .NET 10.",
-          "link": "https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/",
-          "publishedOn": "2025-11-17T18:05:00.000Z",
-          "wordCount": 9464,
-          "title": "Introducing C# 14 - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/11/230663244-b12e77a9-ffbc-40e9-b360-58a3fb3b4c9d-Copy-2-Copy.webp"
-        },
-        {
-          "id": "stories/735160",
-          "author": null,
-          "description": "This post show to implement a \"Forgot your password\" flow using the Swiss Digital identity and trust infrastructure, (swiyu) in an ASP.NET Core web application using ASP.NET Core Identity and Duende IdentityServer. The generic containers from swiyu are used to integrate the Swiss E-ID and the OpenID for Verifiable Presentations standards.",
-          "link": "https://dotnetkicks.com/r/735160?url=https://damienbod.com/2025/11/17/implement-forgot-your-password-using-swiyu-asp-net-core-identity-and-aspire/",
-          "publishedOn": "2025-11-17T08:11:21.000Z",
-          "wordCount": 5920,
-          "title": "Implement forgot your password using swiyu, ASP.NET Core Identity and Aspire",
-          "imageUrl": "https://damienbod.com/wp-content/uploads/2025/10/overview.drawio.png"
         }
       ]
     },
@@ -991,9 +554,9 @@
           "description": "The author expresses frustration with Sora's poor user experience and ongoing instability, emphasizing navigation difficulties, session issues, and prolonged outages. Despite Sora's impressive capabilities, the author argues that without prioritizing user experience and reliability, OpenAI risks losing the trust of professional creators. They urge the hiring of experienced UX designers and engineers.",
           "link": "https://dotnettips.wordpress.com/2025/12/14/ux-chronicles-when-openais-magic-meets-a-messy-user-experience/",
           "publishedOn": "2025-12-14T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6374,
           "title": "UX Chronicles: When OpenAI’s Magic Meets a Messy User Experience",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/12/20251207_1021_tech-contrasts_simple_compose_01kbwsr15he838knbzj387j52r.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15893",
@@ -1001,9 +564,9 @@
           "description": "When using immutable collections in .NET, remember that the Add() method creates a new instance rather than mutating the original. Ignoring the return value leads to ineffective loops. Instead, use a builder for efficiency, as it offers faster performance and lower memory allocation while still ensuring immutability in the final result.",
           "link": "https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/",
           "publishedOn": "2025-12-07T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5601,
           "title": "Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/11/20251129_1103_immutable-collection-warning_remix_01kb88zvhsf4s9vyqrh6982v0v.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15704",
@@ -1011,9 +574,9 @@
           "description": "The article emphasizes the importance of defensive programming in .NET applications by validating resource availability before access. It outlines guidelines for checking connectivity, setting timeouts, and managing user experiences when resources are unavailable. The author shares personal insights and promotes Spargine, an open-source project designed to enhance defensive programming practices.",
           "link": "https://dotnettips.wordpress.com/2025/11/30/defensive-programming-rule-6-verify-resource-availability-before-you-access-it/",
           "publishedOn": "2025-11-30T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4456,
           "title": "Defensive Programming Rule #6: Verify Resource Availability (Before You Access It)",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/10/20251015_1052_rock-n-roll-drum-code_remix_01k7m91788fs69ms15prw47w7w.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15662",
@@ -1021,19 +584,9 @@
           "description": "The excerpt discusses coding standards highlighted in \"Rock Your Code: Coding Standards for Microsoft .NET,\" emphasizing the pitfalls of using numerous public fields in a class. It advocates for strong typing, proper encapsulation, and input validation to enhance object integrity. The author underscores the importance of self-documenting code for maintainability.",
           "link": "https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/",
           "publishedOn": "2025-11-23T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4458,
           "title": "Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking",
-          "imageUrl": null
-        },
-        {
-          "id": "http://dotnettips.wordpress.com/?p=15645",
-          "author": "dotNetDave",
-          "description": "This article emphasizes defensive programming by highlighting safe type compatibility checks in .NET. It advises using the 'is' keyword to prevent InvalidCastException and warns against unnecessary type casts that clutter code and affect performance. The open-source project Spargine aids developers with tools for better validation and logging, promoting cleaner, more resilient applications.",
-          "link": "https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/",
-          "publishedOn": "2025-11-16T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Defensive Programming Rule #4: Safe and Efficient Type Casting",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/10/20251006_1312_rock-and-code-fusion_remix_01k6xbf2bcfkf9x2344amg4cr4.png?fit=1200%2C800&ssl=1"
         }
       ]
     },
@@ -1150,12 +703,22 @@
       "siteUrl": "https://andrewlock.net/",
       "articles": [
         {
+          "id": "https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/",
+          "author": "Andrew Lock",
+          "description": "In this post I look at how to create a simple .NET profiler. But instead of using C++, the profiler uses C# and NativeAOT with the Silhouette library",
+          "link": "https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/",
+          "publishedOn": "2025-12-16T10:00:00.000Z",
+          "wordCount": 3298,
+          "title": "Creating a .NET CLR profiler using C# and NativeAOT with Silhouette",
+          "imageUrl": "https://andrewlock.net/content/images/2025/SilhouetteProf_banner.png"
+        },
+        {
           "id": "https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/",
           "author": "Andrew Lock",
           "description": "In this post I try out Zed on Windows to see if it can replace my VS Code usages for quick edits of .NET projects and writing Markdown documents",
           "link": "https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 2859,
+          "wordCount": 2871,
           "title": "Trying out the Zed editor on Windows for .NET and Markdown",
           "imageUrl": "https://andrewlock.net/content/images/2025/zed_banner.webp"
         },
@@ -1203,12 +766,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2025/12/16/dew-drop-december-16-2025-4562/",
+          "author": "Alvin A.",
+          "description": "Top Links Behind the scenes of the Visual Studio feedback system (Mads Kristensen) GPT-5.2 in Microsoft 365 Copilot and in Microsoft Foundry (Vesa Nopanen) How to Build iOS Widgets with .NET MAUI (Toine de Boer) Streamlining Your Git Workflow | Visual Studio Toolbox (Leslie Richardson & Leah Tran) Deploy Aspire to Azure Container Apps using … Continue reading Dew Drop – December 16, 2025 (#4562)",
+          "link": "https://www.alvinashcraft.com/2025/12/16/dew-drop-december-16-2025-4562/",
+          "publishedOn": "2025-12-16T12:09:59.000Z",
+          "wordCount": 2340,
+          "title": "Dew Drop – December 16, 2025 (#4562)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2025/12/15/dew-drop-december-15-2025-4561/",
           "author": "Alvin A.",
           "description": "Top Links Modern .NET with Uno Platform & AI (Sam Basu) 2026 Manager Reset Challenge (Kelly Vaughn) GPT-5.2 Prompting Guide | OpenAI Cookbook (Mandeep Singh & Emre Okcular) AI Unprompted Podcast Episode #009 – The Next-Generation of Developers and the Future of Coding (Ryan Lowdermilk & Travis Lowdermilk) Write cleaner code with C#’s null-conditional assignment … Continue reading Dew Drop – December 15, 2025 (#4561)",
           "link": "https://www.alvinashcraft.com/2025/12/15/dew-drop-december-15-2025-4561/",
           "publishedOn": "2025-12-15T12:31:25.000Z",
-          "wordCount": 2478,
+          "wordCount": 2487,
           "title": "Dew Drop – December 15, 2025 (#4561)",
           "imageUrl": null
         },
@@ -1310,16 +883,6 @@
           "publishedOn": "2025-12-01T12:15:06.000Z",
           "wordCount": 2060,
           "title": "Dew Drop – December 1, 2025 (#4551)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2025/11/28/dew-drop-november-28-2025-4550/",
-          "author": "Alvin A.",
-          "description": "Top Links Announcing ASP.NET Core OData 10.0.0 Preview 1 (Samuel Wanjohi) Syncfusion AI Coding Assistant Now Supports WPF, WinUI & WinForms (Jayaleshwari N.) How to automate your desktop layout with PowerToys Workspaces on Windows 11 and create a one-click app layout (Marco Huculak) Overcoming WASDK’s XAML Limitation with Uno Platform’s C# Markup: (Matt Mattei) What’s … Continue reading Dew Drop – November 28, 2025 (#4550)",
-          "link": "https://www.alvinashcraft.com/2025/11/28/dew-drop-november-28-2025-4550/",
-          "publishedOn": "2025-11-28T14:43:33.000Z",
-          "wordCount": 2243,
-          "title": "Dew Drop – November 28, 2025 (#4550)",
           "imageUrl": null
         }
       ]
@@ -1523,6 +1086,12 @@
       "articles": []
     },
     {
+      "title": "Ankit Sharma's Blog",
+      "feedUrl": "https://ankitsharmablogs.com/feed/",
+      "siteUrl": "https://ankitsharmablogs.com/",
+      "articles": []
+    },
+    {
       "title": "The Morning Brew",
       "feedUrl": "https://feeds.feedburner.com/ReflectivePerspective",
       "siteUrl": "https://blog.cwa.me.uk",
@@ -1553,7 +1122,7 @@
           "publishedOn": "2025-12-08T11:03:50.000Z",
           "wordCount": 4571,
           "title": "EF Core 10 on the .NET 10 Runtime, high-Performance Bulk Updates with ExecuteUpdate & ExecuteDelete",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1765591279"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1765678842"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3795",
@@ -1563,7 +1132,7 @@
           "publishedOn": "2025-12-07T22:04:00.000Z",
           "wordCount": 4598,
           "title": "Database Sharding Explained: The Moment a Database Stops Scaling Up and Must Scale Out",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1765591279"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1765678842"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3760",
@@ -1583,7 +1152,7 @@
           "publishedOn": "2025-12-06T13:48:56.000Z",
           "wordCount": 4950,
           "title": "From Data to Decisions: A Deep Practical Introduction to Machine Learning",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1765591279"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1765678842"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3730",
@@ -1593,7 +1162,7 @@
           "publishedOn": "2025-12-05T08:52:10.000Z",
           "wordCount": 4637,
           "title": "Choosing Between Dapper and Entity Framework",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1765591279"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1765678842"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3710",
@@ -1603,7 +1172,7 @@
           "publishedOn": "2025-11-22T13:11:39.000Z",
           "wordCount": 4678,
           "title": "Don’t Drop the Data: Engineering a Robust Soft Delete Pattern in EF Core",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1765591279"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1765678842"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3691",
@@ -1613,7 +1182,7 @@
           "publishedOn": "2025-11-21T22:27:02.000Z",
           "wordCount": 4490,
           "title": "SQL Server 2025 Compression Deep Dive: Internals, Performance Gains & Real-World Benchmarks",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1765591279"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1765678842"
         }
       ]
     },
@@ -1621,6 +1190,12 @@
       "title": "OdeToCode by K. Scott Allen",
       "feedUrl": "https://feeds.feedburner.com/OdeToCode",
       "siteUrl": null,
+      "articles": []
+    },
+    {
+      "title": "DOTNET CATCH – Blogging .NET, C# and DevOps topics.",
+      "feedUrl": "https://www.dotnetcatch.com/feed/",
+      "siteUrl": "https://www.dotnetcatch.com",
       "articles": []
     },
     {
