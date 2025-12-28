@@ -2,936 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2025-12-27T02:06:41.228Z</updated>
+    <updated>2025-12-28T02:27:23.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire]]></title>
-        <id>stories/733251</id>
-        <link href="https://dotnetkicks.com/r/733251?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/"/>
-        <updated>2025-12-27T02:06:41.197Z</updated>
-        <summary type="html"><![CDATA[This post shows how to authenticate users using Duende IdentityServer and ASP.NET Core Identity which verifies identities (verifiable digital credentials) using the Swiss Digital identity and trust infrastructure (swiyu). The swiyu infrastructure is implemented using the provided generic containers which implement the OpenID for Verifiable Presentations standards as well as many other standards for implementing...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire]]></title>
-        <id>stories/733244</id>
-        <link href="https://dotnetkicks.com/r/733244?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/"/>
-        <updated>2025-12-27T02:06:41.197Z</updated>
-        <summary type="html"><![CDATA[This post shows how to authenticate users using Duende IdentityServer and ASP.NET Core Identity which verifies identities (verifiable digital credentials) using the Swiss Digital identity and trust infrastructure (swiyu). The swiyu infrastructure is implemented using the provided generic containers which implement the OpenID for Verifiable Presentations standards as well as many other standards for implementing...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using SignalR with Wolverine 5.0]]></title>
-        <id>stories/733223</id>
-        <link href="https://dotnetkicks.com/r/733223?url=https://jeremydmiller.com/2025/10/26/using-signalr-with-wolverine-5-0/"/>
-        <updated>2025-12-27T02:06:41.197Z</updated>
-        <summary type="html"><![CDATA[The Wolverine 5.0 release earlier last last week (finally) added a long requested SignalR transport. The SignalR library from Microsoft isn't hard to use from Wolverine for simplistic WebSockets or Server Sent Events usage as it was, but what if you want a server side application to exchange any number of different messages between a browser (or...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akka.NET + Kubernetes: Everything You Need to Know]]></title>
-        <id>stories/733275</id>
-        <link href="https://dotnetkicks.com/r/733275?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/"/>
-        <updated>2025-12-27T02:06:41.196Z</updated>
-        <summary type="html"><![CDATA[Production lessons from years of running Akka.NET clusters at scale]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wolverine 5 and Modular Monoliths]]></title>
-        <id>stories/733335</id>
-        <link href="https://dotnetkicks.com/r/733335?url=https://jeremydmiller.com/2025/10/27/wolverine-5-and-modular-monoliths/"/>
-        <updated>2025-12-27T02:06:41.195Z</updated>
-        <summary type="html"><![CDATA[In the announcement for the Wolverine 5.0 release last week, I left out a pretty big set of improvements for modular monolith support, specifically in how Wolverine can now work with multiple databases from one service process. Wolverine works closely with databases for: Transactional middleware, which also includes: A transactional inbox, outbox, and scheduled messaging...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akka.NET + Kubernetes: Everything You Need to Know]]></title>
-        <id>stories/733280</id>
-        <link href="https://dotnetkicks.com/r/733280?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/"/>
-        <updated>2025-12-27T02:06:41.195Z</updated>
-        <summary type="html"><![CDATA[Production lessons from years of running Akka.NET clusters at scale]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315]]></title>
-        <id>stories/733349</id>
-        <link href="https://dotnetkicks.com/r/733349?url=https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/"/>
-        <updated>2025-12-27T02:06:41.194Z</updated>
-        <summary type="html"><![CDATA[In this post I discuss request smuggling, the recent vulnerability in ASP.NET Core with a severity score of 9.9, and how attackers could exploit it]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog]]></title>
-        <id>stories/733405</id>
-        <link href="https://dotnetkicks.com/r/733405?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/"/>
-        <updated>2025-12-27T02:06:41.193Z</updated>
-        <summary type="html"><![CDATA[Introducing C# Expert and WinForms Expert: experimental custom agents that help .NET developers write better code with GitHub Copilot.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wolverine Does More to Simplify Server Side Code]]></title>
-        <id>stories/733412</id>
-        <link href="https://dotnetkicks.com/r/733412?url=https://jeremydmiller.com/2025/10/28/wolverine-does-more-to-simplify-server-side-code/"/>
-        <updated>2025-12-27T02:06:41.192Z</updated>
-        <summary type="html"><![CDATA[Just to set myself up with some pressure to perform, let me hype up a live stream on Wolverine I'm doing later this week! I'm doing a live stream on Thursday afternoon (U.S. friendly this time) entitled Vertical Slices the Critter Stack Way based on a fun, meandering talk I did for Houston DNUG and...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog]]></title>
-        <id>stories/733409</id>
-        <link href="https://dotnetkicks.com/r/733409?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/"/>
-        <updated>2025-12-27T02:06:41.192Z</updated>
-        <summary type="html"><![CDATA[Introducing C# Expert and WinForms Expert: experimental custom agents that help .NET developers write better code with GitHub Copilot.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog]]></title>
-        <id>stories/733572</id>
-        <link href="https://dotnetkicks.com/r/733572?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/"/>
-        <updated>2025-12-27T02:06:41.190Z</updated>
-        <summary type="html"><![CDATA[The October 2025 update for Visual Studio 2022 (v17.14) is now available with model choices, agentic flows, and chat thread management.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major Azure Front Door Outage Causing Widespread Service Disruptions Across Microsoft 365, Microsoft Azure, And The Azure Portal (October 29, 2025) | Build5Nines]]></title>
-        <id>stories/733474</id>
-        <link href="https://dotnetkicks.com/r/733474?url=https://build5nines.com/major-azure-front-door-outage-causing-widespread-service-disruptions-across-microsoft-365-microsoft-azure-and-the-azure-portal-october-29-2025/"/>
-        <updated>2025-12-27T02:06:41.190Z</updated>
-        <summary type="html"><![CDATA[Starting at approximately 16:00 UTC on October 29, 2025, Microsoft Azure began experiencing a significant outage affecting the Azure Front Door (AFD) service.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Double Dispatch in DDD]]></title>
-        <id>stories/733460</id>
-        <link href="https://dotnetkicks.com/r/733460?url=https://codeopinion.com/double-dispatch-in-ddd/"/>
-        <updated>2025-12-27T02:06:41.190Z</updated>
-        <summary type="html"><![CDATA[Does your domain model not have dependencies? Injecting behavior into your domain using double dispatch could be the most DDD thing to do.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog]]></title>
-        <id>stories/733591</id>
-        <link href="https://dotnetkicks.com/r/733591?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/"/>
-        <updated>2025-12-27T02:06:41.189Z</updated>
-        <summary type="html"><![CDATA[The October 2025 update for Visual Studio 2022 (v17.14) is now available with model choices, agentic flows, and chat thread management.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #44, 2025 - .NET Conf - Nov 11-13]]></title>
-        <id>stories/733904</id>
-        <link href="https://dotnetkicks.com/r/733904?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/"/>
-        <updated>2025-12-27T02:06:41.187Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 - November 11 ‐ 13 (.NET 10 & VS 2026) Join us at .NET Conf: Dive into the future of development with Visual Studio 2026 - Visual Studio Blog Introducing Custom Agents for .NET Developers: C# Expert &...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #44, 2025 - .NET Conf - Nov 11-13]]></title>
-        <id>stories/733897</id>
-        <link href="https://dotnetkicks.com/r/733897?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/"/>
-        <updated>2025-12-27T02:06:41.187Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 - November 11 ‐ 13 (.NET 10 & VS 2026) Join us at .NET Conf: Dive into the future of development with Visual Studio 2026 - Visual Studio Blog Introducing Custom Agents for .NET Developers: C# Expert &...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join us at .NET Conf: Dive into the future of development with Visual Studio 2026 - Visual Studio Blog]]></title>
-        <id>stories/733805</id>
-        <link href="https://dotnetkicks.com/r/733805?url=https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/"/>
-        <updated>2025-12-27T02:06:41.187Z</updated>
-        <summary type="html"><![CDATA[We're thrilled to invite you to one of the most exciting events in the .NET ecosystem: .NET Conf. It runs from November 11th through the 13th and you're invited! This annual virtual conference is a must-attend for developers, architects, and enthusiasts looking to level up their skills and stay ahead of the curve in .NET [...]]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interesting new C# 14 features coming with .NET 10]]></title>
-        <id>stories/734015</id>
-        <link href="https://dotnetkicks.com/r/734015?url=https://thomaslevesque.com/2025/10/07/interesting-new-csharp-14-features-coming-with-net-10/"/>
-        <updated>2025-12-27T02:06:41.185Z</updated>
-        <summary type="html"><![CDATA[With the release of .NET 10 just around the corner (next month!), it's time to take a look at the new features we can expect for C# 14. Note: the goal of this post is not to be an exhaustive list of all new features.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflections on Current 2025 -Streaming, AI, Beignets, and The Buffalo Bills?]]></title>
-        <id>stories/733982</id>
-        <link href="https://dotnetkicks.com/r/733982?url=https://rion.io/2025/11/03/reflections-on-current-2025-streaming-ai-beignets-and-the-buffalo-bills/"/>
-        <updated>2025-12-27T02:06:41.185Z</updated>
-        <summary type="html"><![CDATA[As the mental (and possibly physical) hangover begins to wear off, I figured I'd take a moment to reflect on my recent trip to Confluent's 2025 Current conference, conveniently held right here in my home state of Louisiana. It was a week filled with brilliant people, incredible sessions,]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implement a secure MCP server using OAuth DPoP and Duende identity provider]]></title>
-        <id>stories/733972</id>
-        <link href="https://dotnetkicks.com/r/733972?url=https://damienbod.com/2025/11/03/implement-a-secure-mcp-server-using-oauth-dpop-and-duende-identity-provider/"/>
-        <updated>2025-12-27T02:06:41.185Z</updated>
-        <summary type="html"><![CDATA[This post demonstrates how an ASP.NET Core application can connect to a secure MCP server using OpenID Connect and OAuth. Both applications use Duende IdentityServer as the identity provider. The MCP server requires delegated DPoP access tokens. Code: https://github.com/damienbod/McpOidcOAuth Setup The UI application authenticates with the Duende IdentityServer using OpenID Connect.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoMapper 15.1 and MediatR 13.1 Released]]></title>
-        <id>stories/734021</id>
-        <link href="https://dotnetkicks.com/r/734021?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/"/>
-        <updated>2025-12-27T02:06:41.184Z</updated>
-        <summary type="html"><![CDATA[Starting a new policy of regular quarterly releases, today I pushed out new versions of AutoMapper and MediatR: * AutoMapper 15.1.0 Release Notes * MediatR 13.1.0 Release Notes The previous versions restored netstandard2.0 support across the board. In these releases, I'm including first-class support for net462 where]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Ready for .NET Conf 2025! - .NET Blog]]></title>
-        <id>stories/734124</id>
-        <link href="https://dotnetkicks.com/r/734124?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/"/>
-        <updated>2025-12-27T02:06:41.183Z</updated>
-        <summary type="html"><![CDATA[The biggest .NET event of the year is just one week away! Join us November 11-13 for .NET 10 and Visual Studio 2026, plus a Student Zone on November 14th.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Advent Calendar in English 2025]]></title>
-        <id>stories/734090</id>
-        <link href="https://dotnetkicks.com/r/734090?url=https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/"/>
-        <updated>2025-12-27T02:06:41.183Z</updated>
-        <summary type="html"><![CDATA[🎄 It's that magical time of year again! 🎅🏻Christmas is twinkling on the horizon, and that means one thing - it's time for the 12th annual F# Advent in English! It's incredible to think that our tradition began all the way back in 2014. For over a decade, the F# community has gathered during Advent...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoMapper 15.1 and MediatR 13.1 Released]]></title>
-        <id>stories/734032</id>
-        <link href="https://dotnetkicks.com/r/734032?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/"/>
-        <updated>2025-12-27T02:06:41.183Z</updated>
-        <summary type="html"><![CDATA[Starting a new policy of regular quarterly releases, today I pushed out new versions of AutoMapper and MediatR: * AutoMapper 15.1.0 Release Notes * MediatR 13.1.0 Release Notes The previous versions restored netstandard2.0 support across the board. In these releases, I'm including first-class support for net462 where]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Ready for .NET Conf 2025! - .NET Blog]]></title>
-        <id>stories/734139</id>
-        <link href="https://dotnetkicks.com/r/734139?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/"/>
-        <updated>2025-12-27T02:06:41.182Z</updated>
-        <summary type="html"><![CDATA[The biggest .NET event of the year is just one week away! Join us November 11-13 for .NET 10 and Visual Studio 2026, plus a Student Zone on November 14th.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Copilot Studio uses .NET and WebAssembly for performance and innovation - .NET Blog]]></title>
-        <id>stories/734333</id>
-        <link href="https://dotnetkicks.com/r/734333?url=https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/"/>
-        <updated>2025-12-27T02:06:41.180Z</updated>
-        <summary type="html"><![CDATA[Learn how Microsoft Copilot Studio uses .NET to provide a consistent AI agent execution across platforms, including on the web via WebAssembly.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Agent HQ: Any agent, any way you work]]></title>
-        <id>stories/734289</id>
-        <link href="https://dotnetkicks.com/r/734289?url=https://github.blog/news-insights/company-news/welcome-home-agents/"/>
-        <updated>2025-12-27T02:06:41.180Z</updated>
-        <summary type="html"><![CDATA[At Universe 2025, GitHub's next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Dynamic Sink Routing in Apache Flink via DemultiplexingSink]]></title>
-        <id>stories/734253</id>
-        <link href="https://dotnetkicks.com/r/734253?url=https://rion.io/2025/11/05/exploring-dynamic-sink-routing-in-apache-flink-via-demultiplexingsink/"/>
-        <updated>2025-12-27T02:06:41.180Z</updated>
-        <summary type="html"><![CDATA[Last year, I wrote a blog post discussing ideas on how to support use-cases in Apache Flink that required dynamically resolving (and potentially creating) sinks at runtime based on the incoming data. While this solution was fairly practical, it was written against older APIs as opposed leveraging the new Unified]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implement MFA using swiyu, the Swiss E-ID with Duende IdentityServer, ASP.NET Core Identity and .NET Aspire]]></title>
-        <id>stories/734650</id>
-        <link href="https://dotnetkicks.com/r/734650?url=https://damienbod.com/2025/11/10/implement-mfa-using-swiyu-the-swiss-e-id-with-duende-identityserver-asp-net-core-identity-and-net-aspire/"/>
-        <updated>2025-12-27T02:06:41.178Z</updated>
-        <summary type="html"><![CDATA[The post shows how to use the Swiss Digital identity and trust infrastructure, (swiyu) as an MFA method in an ASP.NET Core web application using ASP.NET Core Identity and Duende IdentityServer. The generic containers from swiyu are used to integrate the Swiss E-ID and the OpenID for Verifiable Presentations standards.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Critter Stack Gets Even Better at Testing]]></title>
-        <id>stories/734378</id>
-        <link href="https://dotnetkicks.com/r/734378?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/"/>
-        <updated>2025-12-27T02:06:41.178Z</updated>
-        <summary type="html"><![CDATA[My internal code name for one of the new features I'm describing is "multi-stage tracked sessions" which somehow got me thinking of the ZZ Top song "Stages" and their Afterburner album because the sound track for getting this work done this week. Not ZZ Top's best stuff, but there's still some bangers on it, or...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Critter Stack Gets Even Better at Testing]]></title>
-        <id>stories/734367</id>
-        <link href="https://dotnetkicks.com/r/734367?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/"/>
-        <updated>2025-12-27T02:06:41.178Z</updated>
-        <summary type="html"><![CDATA[My internal code name for one of the new features I'm describing is "multi-stage tracked sessions" which somehow got me thinking of the ZZ Top song "Stages" and their Afterburner album because the sound track for getting this work done this week. Not ZZ Top's best stuff, but there's still some bangers on it, or...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing .NET 10 - .NET Blog]]></title>
-        <id>stories/734719</id>
-        <link href="https://dotnetkicks.com/r/734719?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/"/>
-        <updated>2025-12-27T02:06:41.176Z</updated>
-        <summary type="html"><![CDATA[Announcing the release of .NET 10, the most productive, modern, secure, intelligent, and performant release of .NET yet. With updates across ASP.NET Core, C# 14, .NET MAUI, Aspire, and so much more.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET and .NET Framework November 2025 servicing releases updates - .NET Blog]]></title>
-        <id>stories/734718</id>
-        <link href="https://dotnetkicks.com/r/734718?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/"/>
-        <updated>2025-12-27T02:06:41.176Z</updated>
-        <summary type="html"><![CDATA[A recap of the latest servicing updates for .NET and .NET Framework for November 2025.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET and .NET Framework November 2025 servicing releases updates - .NET Blog]]></title>
-        <id>stories/734707</id>
-        <link href="https://dotnetkicks.com/r/734707?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/"/>
-        <updated>2025-12-27T02:06:41.176Z</updated>
-        <summary type="html"><![CDATA[A recap of the latest servicing updates for .NET and .NET Framework for November 2025.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET and .NET Framework November 2025 servicing releases updates - .NET Blog]]></title>
-        <id>stories/734693</id>
-        <link href="https://dotnetkicks.com/r/734693?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/"/>
-        <updated>2025-12-27T02:06:41.176Z</updated>
-        <summary type="html"><![CDATA[A recap of the latest servicing updates for .NET and .NET Framework for November 2025.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clean Up Bloated CQRS Handlers]]></title>
-        <id>stories/734785</id>
-        <link href="https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/"/>
-        <updated>2025-12-27T02:06:41.174Z</updated>
-        <summary type="html"><![CDATA[CQRS Handlers that bloated mess. It's a nightmare. There is a way out which is using a pipeline of execution to separate concerns.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clean Up Bloated CQRS Handlers]]></title>
-        <id>stories/734772</id>
-        <link href="https://dotnetkicks.com/r/734772?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/"/>
-        <updated>2025-12-27T02:06:41.174Z</updated>
-        <summary type="html"><![CDATA[CQRS Handlers that bloated mess. It's a nightmare. There is a way out which is using a pipeline of execution to separate concerns.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog]]></title>
-        <id>stories/734754</id>
-        <link href="https://dotnetkicks.com/r/734754?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/"/>
-        <updated>2025-12-27T02:06:41.174Z</updated>
-        <summary type="html"><![CDATA[Dear developers, We're thrilled to announce that Visual Studio 2026 is now generally available! This is a moment we've built side by side with you. Your feedback has helped shape this release more than any before. Since the introduction of the Insiders Channel in September, more developers have downloaded and tested this preview than any [...]]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A first look at the all‑new UX in Visual Studio 2026 - Visual Studio Blog]]></title>
-        <id>stories/734933</id>
-        <link href="https://dotnetkicks.com/r/734933?url=https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/"/>
-        <updated>2025-12-27T02:06:41.172Z</updated>
-        <summary type="html"><![CDATA[Visual Studio 2026 introduces a refreshed user experience, thoughtfully crafted for clarity, accessibility, and a clean interface that feels right at home on Windows. This update is the result of extensive collaboration with developers and incorporates valuable feedback from the community. We've improved typography, iconography, and the overall layout to minimize distractions and keep your [...]]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Copilot auto model selection (preview) - Visual Studio Blog]]></title>
-        <id>stories/734911</id>
-        <link href="https://dotnetkicks.com/r/734911?url=https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/"/>
-        <updated>2025-12-27T02:06:41.172Z</updated>
-        <summary type="html"><![CDATA[Learn how auto model selection (preview) streamlines your experience by automatically choosing the best model for each request.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cake v6.0.0 released]]></title>
-        <id>stories/734797</id>
-        <link href="https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released"/>
-        <updated>2025-12-27T02:06:41.172Z</updated>
-        <summary type="html"><![CDATA[Version 6.0.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to Cake Scripting, Cake Frosting, and the new Cake.Sdk runner since the Cake v5.1.0 release!]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest progress update on Microsoft's Secure Future Initiative | Microsoft Security Blog]]></title>
-        <id>stories/734962</id>
-        <link href="https://dotnetkicks.com/r/734962?url=https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/"/>
-        <updated>2025-12-27T02:06:41.171Z</updated>
-        <summary type="html"><![CDATA[Read more about the key updates and milestones of Microsoft's Secure Future Initiative in the November 2025 SFI progress report.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implement forgot your password using swiyu, ASP.NET Core Identity and Aspire]]></title>
-        <id>stories/735160</id>
-        <link href="https://dotnetkicks.com/r/735160?url=https://damienbod.com/2025/11/17/implement-forgot-your-password-using-swiyu-asp-net-core-identity-and-aspire/"/>
-        <updated>2025-12-27T02:06:41.169Z</updated>
-        <summary type="html"><![CDATA[This post show to implement a "Forgot your password" flow using the Swiss Digital identity and trust infrastructure, (swiyu) in an ASP.NET Core web application using ASP.NET Core Identity and Duende IdentityServer. The generic containers from swiyu are used to integrate the Swiss E-ID and the OpenID for Verifiable Presentations standards.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing C# 14 - .NET Blog]]></title>
-        <id>stories/735110</id>
-        <link href="https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/"/>
-        <updated>2025-12-27T02:06:41.169Z</updated>
-        <summary type="html"><![CDATA[Learn what features are in C# 14, which ships as part of .NET 10.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows - Visual Studio Blog]]></title>
-        <id>stories/735014</id>
-        <link href="https://dotnetkicks.com/r/735014?url=https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/"/>
-        <updated>2025-12-27T02:06:41.169Z</updated>
-        <summary type="html"><![CDATA[Discover how Azure MCP Server integrates with Visual Studio 2026 to revolutionize your Azure development experience and efficiency.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog]]></title>
-        <id>stories/735216</id>
-        <link href="https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/"/>
-        <updated>2025-12-27T02:06:41.167Z</updated>
-        <summary type="html"><![CDATA[Learn how Visual Studio 2026 and GitHub Copilot app modernization upgrade .NET versions and frameworks, fix build issues, and migrate apps to Azure with less manual effort]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spend Less Time Upgrading, More Time Coding in Visual Studio 2026 - Visual Studio Blog]]></title>
-        <id>stories/735202</id>
-        <link href="https://dotnetkicks.com/r/735202?url=https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/"/>
-        <updated>2025-12-27T02:06:41.167Z</updated>
-        <summary type="html"><![CDATA[In the past, moving to the next major version of Visual Studio could take hours, sometimes days, to recreate your dev environment the way you like it. Visual Studio 2026 makes it easier than ever to stay current with the latest productivity features, performance improvements, and security fixes all without disrupting your flow.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post-Quantum Cryptography in .NET - .NET Blog]]></title>
-        <id>stories/735188</id>
-        <link href="https://dotnetkicks.com/r/735188?url=https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/"/>
-        <updated>2025-12-27T02:06:41.167Z</updated>
-        <summary type="html"><![CDATA[What we've added for PQC, and how we got there.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ignite 2025: Furthering Windows as the premier platform for developers, governed by security]]></title>
-        <id>stories/735173</id>
-        <link href="https://dotnetkicks.com/r/735173?url=https://blogs.windows.com/windowsdeveloper/2025/11/18/ignite-2025-furthering-windows-as-the-premier-platform-for-developers-governed-by-security/"/>
-        <updated>2025-12-27T02:06:41.167Z</updated>
-        <summary type="html"><![CDATA[Continuing Windows evolution as a secure open platform for AI and Agents At Build, we]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reinventing how .NET Builds and Ships (Again) - .NET Blog]]></title>
-        <id>stories/735363</id>
-        <link href="https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/"/>
-        <updated>2025-12-27T02:06:41.165Z</updated>
-        <summary type="html"><![CDATA[An exploration of how .NET evolved from a distributed build system to Unified Build, dramatically reducing complexity and build times while improving flexibility and predictability for shipping .NET releases.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defensive Technology: Ransomware Data Recovery]]></title>
-        <id>stories/735294</id>
-        <link href="https://dotnetkicks.com/r/735294?url=https://textslashplain.com/2025/11/19/defensive-technology-ransomware-data-recovery/"/>
-        <updated>2025-12-27T02:06:41.165Z</updated>
-        <summary type="html"><![CDATA[In a prior installment we looked at Controlled Folder Access, a Windows feature designed to hamper ransomware attacks by preventing untrusted processes from modifying files in certain user folders. In today's post, we look at the other feature on the Ransomware protection page of the Windows Security Center App -- Ransomware data recovery.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supercharge Your Test Coverage with GitHub Copilot Testing for .NET - .NET Blog]]></title>
-        <id>stories/735284</id>
-        <link href="https://dotnetkicks.com/r/735284?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/"/>
-        <updated>2025-12-27T02:06:41.165Z</updated>
-        <summary type="html"><![CDATA[Boost your testing workflow with GitHub Copilot testing for .NET, available now in Visual Studio. Automatically generate, build, and run high-quality unit tests for files, projects, or entire solutions.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Automate Azure Naming Conventions With The Build5Nines/naming/azure Terraform Module | Build5Nines]]></title>
-        <id>stories/735468</id>
-        <link href="https://dotnetkicks.com/r/735468?url=https://build5nines.com/how-to-automate-azure-naming-conventions-with-the-build5nines-naming-azure-terraform-module/"/>
-        <updated>2025-12-27T02:06:41.163Z</updated>
-        <summary type="html"><![CDATA[Naming resources in Azure shouldn't feel like deciphering ancient hieroglyphics. Yet, without a solid standard, names can quickly become inconsistent,]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infinite scale: The architecture behind the Azure AI superfactory - The Official Microsoft Blog]]></title>
-        <id>stories/735456</id>
-        <link href="https://dotnetkicks.com/r/735456?url=https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/"/>
-        <updated>2025-12-27T02:06:41.163Z</updated>
-        <summary type="html"><![CDATA[Today, we are unveiling the next Fairwater site of Azure AI datacenters in Atlanta, Georgia. This purpose-built datacenter is connected to our first Fairwater site in Wisconsin, prior generations of AI supercomputers and the broader Azure global datacenter footprint to create the world's first planet-scale AI superfactory.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do You Fix 70% Data Loss Across 1 Million Concurrent Connections?]]></title>
-        <id>stories/735453</id>
-        <link href="https://dotnetkicks.com/r/735453?url=https://petabridge.com/blog/why-buy-akka.net-support-2025/"/>
-        <updated>2025-12-27T02:06:41.163Z</updated>
-        <summary type="html"><![CDATA[A case for why you should consider purchasing an Akka.NET Support Plan for your organization.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimal APIs, CQRS, DDD... Or Just Use Controllers?]]></title>
-        <id>stories/735555</id>
-        <link href="https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/"/>
-        <updated>2025-12-27T02:06:41.161Z</updated>
-        <summary type="html"><![CDATA[Controllers are old hat. Or are they? Minimal APIs, CQRS, DDD are all the patterns you should be using, right? Not really.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog]]></title>
-        <id>stories/735523</id>
-        <link href="https://dotnetkicks.com/r/735523?url=https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/"/>
-        <updated>2025-12-27T02:06:41.161Z</updated>
-        <summary type="html"><![CDATA[Visual Studio will adopt the Modern Support Lifecycle as a continuously updated IDE designed to deliver innovation as soon as it is ready, while maintaining the reliability and stability you count on every day with control over your build tools choices.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #47, 2025 - F# 10 &amp; last #FsAdvent slots]]></title>
-        <id>stories/735486</id>
-        <link href="https://dotnetkicks.com/r/735486?url=https://sergeytihon.com/2025/11/22/f-weekly-47-2025-f-10-last-fsadvent-slots/"/>
-        <updated>2025-12-27T02:06:41.161Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News Introducing F# 10 - .NET Blog Introducing C# 14 - .NET Blog Introducing Major New Agentic Capabilities for GitHub Copilot in JetBrains and Eclipse - Microsoft for Java Developers Introducing the Visual Studio Code Private Marketplace: Your Team's Secure, Curated Extension...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the .NET boot process via host tracing]]></title>
-        <id>stories/735596</id>
-        <link href="https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/"/>
-        <updated>2025-12-27T02:06:41.160Z</updated>
-        <summary type="html"><![CDATA[In this post we enable host tracing and use that to understand how a .NET app boots up via the dotnet muxer, hostfxr, and hostpolicy.dll]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terraform + Azure Multi-Region Naming Convention Across Azure Regions, Resources, And Terraform Modules | Build5Nines]]></title>
-        <id>stories/735658</id>
-        <link href="https://dotnetkicks.com/r/735658?url=https://build5nines.com/terraform-azure-multi-region-naming-convention-across-azure-regions-resources-and-terraform-modules/"/>
-        <updated>2025-12-27T02:06:41.158Z</updated>
-        <summary type="html"><![CDATA[Imagine this: your application goes down in a major Azure region outage. DNS traffic shifts to the secondary region as designed. Terraform kicks off to scale]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET Day on Agentic Modernization Coming Soon - .NET Blog]]></title>
-        <id>stories/735622</id>
-        <link href="https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/"/>
-        <updated>2025-12-27T02:06:41.158Z</updated>
-        <summary type="html"><![CDATA[Join us live on December 9 to explore the newest, most practical ways to modernize your .NET apps with Azure, AI, and powerful agentic tooling.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Worst Security Vulnerability in Akka.NET - And How to Fix It]]></title>
-        <id>stories/735620</id>
-        <link href="https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/"/>
-        <updated>2025-12-27T02:06:41.158Z</updated>
-        <summary type="html"><![CDATA[The Worst Security Vulnerability in Akka.NET - And How to Fix It]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #48, 2025 - #FsAdvent starts Dec 1st.]]></title>
-        <id>stories/735711</id>
-        <link href="https://dotnetkicks.com/r/735711?url=https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/"/>
-        <updated>2025-12-27T02:06:41.156Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News Gazelle (A Fast Engine for Structural Engineering) is written in F# .NET Day on Agentic Modernization Coming Soon - .NET Blog Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog Announcing ASP.NET Core OData 10.0.0 Preview...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Squirrly Apache Flink Performance Issues through Continual AI-Driven Evaluation]]></title>
-        <id>stories/735694</id>
-        <link href="https://dotnetkicks.com/r/735694?url=https://rion.io/2025/11/29/exploring-squirrly-apache-flink-performance-issues-through-continual-ai-driven-evaluation/"/>
-        <updated>2025-12-27T02:06:41.156Z</updated>
-        <summary type="html"><![CDATA[Last month, I wrote up a blog post discussing a three-phase cycle (profile, analyze, improve) for leveraging LLMs and other AI tooling to evaluate Apache Flink jobs for potential performance improvements. This post goes through what that process might look like in a more automated fashion to help you track]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions]]></title>
-        <id>stories/735675</id>
-        <link href="https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions"/>
-        <updated>2025-12-27T02:06:41.156Z</updated>
-        <summary type="html"><![CDATA[Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Domain-Driven Design Misconceptions]]></title>
-        <id>stories/735809</id>
-        <link href="https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/"/>
-        <updated>2025-12-27T02:06:41.154Z</updated>
-        <summary type="html"><![CDATA[Domain-Driven Design misconceptions often come from treating DDD like a checklist of patterns. It's focusing entirely on the wrong thing.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog]]></title>
         <id>stories/735789</id>
         <link href="https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/"/>
-        <updated>2025-12-27T02:06:41.154Z</updated>
+        <updated>2025-12-28T02:26:58.259Z</updated>
         <summary type="html"><![CDATA[Learn how to implement age verification in your .NET MAUI apps with our new cross-platform sample supporting Google Play Age Signals, Apple Declared Age Range, and Windows Age Consent APIs.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcoming Babu Annamalai to JasperFx Software]]></title>
-        <id>stories/735734</id>
-        <link href="https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/"/>
-        <updated>2025-12-27T02:06:41.154Z</updated>
-        <summary type="html"><![CDATA[Starting today, Babu Annamalai is taking a larger role at JasperFx Software (LLC) to help expand our support coverage to just about every time zone on the planet. Babu is a long time member of the Marten and now Critter Stack core team. In addition to some large contributions like the Partial API in Marten...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock GitHub Copilot's Full Potential: Why Every Repo Needs An AGENTS.md File | Build5Nines]]></title>
-        <id>stories/735949</id>
-        <link href="https://dotnetkicks.com/r/735949?url=https://build5nines.com/unlock-github-copilots-full-potential-why-every-repo-needs-an-agents-md-file/"/>
-        <updated>2025-12-27T02:06:41.152Z</updated>
-        <summary type="html"><![CDATA[AI-assisted development has rapidly transformed how engineers write code, collaborate, and ship software. GitHub Copilot, powered by OpenAI's Codex and now]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support]]></title>
-        <id>stories/735934</id>
-        <link href="https://dotnetkicks.com/r/735934?url=https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/"/>
-        <updated>2025-12-27T02:06:41.152Z</updated>
-        <summary type="html"><![CDATA[With the release of .NET, we've released updated packages of AutoMapper and MediatR targeting .NET 10 (and all supported versions of .NET and 4.x of .NET Framework). From this release forward, we're aligning to major release cadences of .NET since this also means upping our dependency versions as well.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Data Ingestion Building Blocks (Preview) - .NET Blog]]></title>
-        <id>stories/735929</id>
-        <link href="https://dotnetkicks.com/r/735929?url=https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/"/>
-        <updated>2025-12-27T02:06:41.152Z</updated>
-        <summary type="html"><![CDATA[Announcing the preview of open, modular data ingestion building blocks in .NET, empowering developers to build scalable AI pipelines with seamless integration, extensibility, and easy getting started experiences across the .NET ecosystem.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes]]></title>
-        <id>stories/735821</id>
-        <link href="https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/"/>
-        <updated>2025-12-27T02:06:41.152Z</updated>
-        <summary type="html"><![CDATA[In this post I describe some recent changes to the NetEscapades.EnumGenerators source generator, including support for [EnumMember] and new analyzers]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Classic" .NET Domain Events with Wolverine and EF Core]]></title>
-        <id>stories/736077</id>
-        <link href="https://dotnetkicks.com/r/736077?url=https://jeremydmiller.com/2025/12/04/classic-net-domain-events-with-wolverine-and-ef-core/"/>
-        <updated>2025-12-27T02:06:41.150Z</updated>
-        <summary type="html"><![CDATA[I was helping a new JasperFx Software client this week to best integrate a Domain Events strategy into their new Wolverine codebase. This client wanted to use the common model of using an EF Core DbContext to harvest domain events raised by different entities and relay those to Wolverine messaging with proper Wolverine transactional outbox...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog]]></title>
-        <id>stories/736049</id>
-        <link href="https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/"/>
-        <updated>2025-12-27T02:06:41.150Z</updated>
-        <summary type="html"><![CDATA[NET Conf 2025 is over, but you can catch up with all the announcements and fun with video recordings, slides, demos, and more.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Surfaces]]></title>
-        <id>stories/735992</id>
-        <link href="https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/"/>
-        <updated>2025-12-27T02:06:41.150Z</updated>
-        <summary type="html"><![CDATA[An important concept in Usable Security is whether a given UI represents a "security surface." Formally, a security surface is a User Interface component in which the user is presented with information they rely upon to make a security decision. For example, in the browser, the URL in the address bar is a security surface....]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET 10 Networking Improvements - .NET Blog]]></title>
-        <id>stories/736202</id>
-        <link href="https://dotnetkicks.com/r/736202?url=https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/"/>
-        <updated>2025-12-27T02:06:41.148Z</updated>
-        <summary type="html"><![CDATA[Introducing new networking features in .NET 10 including HTTP space, WebSockets, security and more!]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F#]]></title>
-        <id>stories/736168</id>
-        <link href="https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/"/>
-        <updated>2025-12-27T02:06:41.148Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog Introducing Data Ingestion Building Blocks (Preview) - .NET Blog Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog Unlocking the Power of...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog]]></title>
-        <id>stories/736132</id>
-        <link href="https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/"/>
-        <updated>2025-12-27T02:06:41.148Z</updated>
-        <summary type="html"><![CDATA[Explore Microsoft's SQL tooling updates, AI integration, and roadmap for SSMS, VS Code, and DevOps innovations. Learn more.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aggregates in DDD: Model Rules, Not Relationships]]></title>
-        <id>stories/736231</id>
-        <link href="https://dotnetkicks.com/r/736231?url=https://codeopinion.com/aggregates-in-ddd-model-rules-not-relationships/"/>
-        <updated>2025-12-27T02:06:41.146Z</updated>
-        <summary type="html"><![CDATA[Aggregates in DDD aren't about loading every related entity. They're about modeling rules, not relationships.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trying out the Zed editor on Windows for .NET and Markdown]]></title>
-        <id>stories/736257</id>
-        <link href="https://dotnetkicks.com/r/736257?url=https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/"/>
-        <updated>2025-12-27T02:06:41.145Z</updated>
-        <summary type="html"><![CDATA[In this post I try out Zed on Windows to see if it can replace my VS Code usages for quick edits of .NET projects and writing Markdown documents]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Learn MCP Server Elevates Development - .NET Blog]]></title>
-        <id>stories/736233</id>
-        <link href="https://dotnetkicks.com/r/736233?url=https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/"/>
-        <updated>2025-12-27T02:06:41.145Z</updated>
-        <summary type="html"><![CDATA[Explore how the Learn MCP server enhances the developer experience with Copilot, showcase practical examples, and provide straightforward integration instructions for Visual Studio, Visual Studio Code, the Copilot Command Line Interface, and the Copilot Coding Agent]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog]]></title>
-        <id>stories/736298</id>
-        <link href="https://dotnetkicks.com/r/736298?url=https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/"/>
-        <updated>2025-12-27T02:06:41.143Z</updated>
-        <summary type="html"><![CDATA[Learn how to implement in-app purchases in your .NET MAUI apps with our new cross-platform billing sample for Android, iOS, Mac Catalyst, and Windows.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET and .NET Framework December 2025 servicing releases updates - .NET Blog]]></title>
-        <id>stories/736324</id>
-        <link href="https://dotnetkicks.com/r/736324?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/"/>
-        <updated>2025-12-27T02:06:41.130Z</updated>
-        <summary type="html"><![CDATA[A recap of the latest servicing updates for .NET and .NET Framework for December 2025.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #50, 2025 - Making of A Programming Language]]></title>
-        <id>stories/736573</id>
-        <link href="https://dotnetkicks.com/r/736573?url=https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/"/>
-        <updated>2025-12-27T02:06:41.129Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News .NET 10 Networking Improvements - .NET Blog Microsoft Learn MCP Server Elevates Development - .NET Blog Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog Making Windows Terminal awesome with GitHub Copilot CLI - Microsoft for Developers Join us...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build iOS Widgets with .NET MAUI - .NET Blog]]></title>
-        <id>stories/736640</id>
-        <link href="https://dotnetkicks.com/r/736640?url=https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/"/>
-        <updated>2025-12-27T02:06:41.128Z</updated>
-        <summary type="html"><![CDATA[Build professional iOS widgets with .NET MAUI, from static displays to interactive widgets.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a .NET CLR profiler using C# and NativeAOT with Silhouette]]></title>
-        <id>stories/736711</id>
-        <link href="https://dotnetkicks.com/r/736711?url=https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/"/>
-        <updated>2025-12-27T02:06:41.127Z</updated>
-        <summary type="html"><![CDATA[In this post I look at how to create a simple .NET profiler. But instead of using C++, the profiler uses C# and NativeAOT with the Silhouette library]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output | Build5Nines]]></title>
-        <id>stories/736689</id>
-        <link href="https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/"/>
-        <updated>2025-12-27T02:06:41.127Z</updated>
-        <summary type="html"><![CDATA[The most common reason an AI system "hallucinates" in production isn't that the model is dumb. It's that we're drowning it.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog]]></title>
-        <id>stories/736724</id>
-        <link href="https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/"/>
-        <updated>2025-12-27T02:06:41.126Z</updated>
-        <summary type="html"><![CDATA[Understand how the Visual Studio 2026 Debugger accelerates your workflow, making debugging less frustrating and more effective.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why "Microservices" Debates Miss the Point]]></title>
-        <id>stories/736738</id>
-        <link href="https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/"/>
-        <updated>2025-12-27T02:06:41.125Z</updated>
-        <summary type="html"><![CDATA[Most of the complaints and pain from microservices is because people don't acknowledge the coupling in their system.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog]]></title>
-        <id>stories/736726</id>
-        <link href="https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/"/>
-        <updated>2025-12-27T02:06:41.125Z</updated>
-        <summary type="html"><![CDATA[Azure DevOps enhanced support for Microsoft.Testing.Platform, from running tests to publishing results!]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 in review: How we elevated the Microsoft Store experience]]></title>
-        <id>stories/736902</id>
-        <link href="https://dotnetkicks.com/r/736902?url=https://blogs.windows.com/windowsdeveloper/2025/12/18/2025-in-review-how-we-elevated-the-microsoft-store-experience/"/>
-        <updated>2025-12-27T02:06:41.123Z</updated>
-        <summary type="html"><![CDATA[2025 was a meaningful year for the Microsoft Store on Windows, with more than 250 million monthly users discovering a Microsoft Store that feels more personalized, helpful and delightful to use. We welcomed exciting new arrivals to the st]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure updates for partners: December 2025]]></title>
-        <id>stories/736815</id>
-        <link href="https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025"/>
-        <updated>2025-12-27T02:06:41.123Z</updated>
-        <summary type="html"><![CDATA[Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critter Stack Roadmap for 2026]]></title>
-        <id>stories/736802</id>
-        <link href="https://dotnetkicks.com/r/736802?url=https://jeremydmiller.com/2025/12/17/critter-stack-roadmap-for-2026/"/>
-        <updated>2025-12-27T02:06:41.123Z</updated>
-        <summary type="html"><![CDATA[I normally write this out in January, but I'm feeling like now is a good time to get this out as some of it is in flight. So with plenty of feedback from the other Critter Stack Core team mem...]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -940,48 +20,8 @@
         <title type="html"><![CDATA[Joe Dluzen on Azure Functions & Durable Functions]]></title>
         <id>stories/736946</id>
         <link href="https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/"/>
-        <updated>2025-12-27T02:06:41.121Z</updated>
+        <updated>2025-12-28T02:26:53.713Z</updated>
         <summary type="html"><![CDATA[I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F# Weekly #51, 2025 - WebSharper 10 &amp; Fidelity Framework]]></title>
-        <id>stories/736980</id>
-        <link href="https://dotnetkicks.com/r/736980?url=https://sergeytihon.com/2025/12/20/f-weekly-51-2025-websharper-10-fidelity-framework/"/>
-        <updated>2025-12-27T02:06:41.119Z</updated>
-        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News WebSharper 10.0 Aspire 13.1 - Our holiday gift to you | Aspire Blog Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog How to Build iOS Widgets with .NET MAUI - .NET Blog Build declarative agents for Microsoft 365 Copilot...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Book: Build And Deploy Apps Using Azure Developer CLI By Chris Pietschmann | Build5Nines]]></title>
-        <id>stories/736976</id>
-        <link href="https://dotnetkicks.com/r/736976?url=https://build5nines.com/new-book-build-and-deploy-apps-using-azure-developer-cli-written-by-chris-pietschmann/"/>
-        <updated>2025-12-27T02:06:41.119Z</updated>
-        <summary type="html"><![CDATA[I am excited to announce the release of my new book, Build and Deploy Apps using Azure Developer CLI, a practical, hands-on guide for developers and teams who]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Authentication and Identity validation]]></title>
-        <id>stories/736960</id>
-        <link href="https://dotnetkicks.com/r/736960?url=https://damienbod.com/2025/12/20/digital-authentication-and-identity-validation/"/>
-        <updated>2025-12-27T02:06:41.119Z</updated>
-        <summary type="html"><![CDATA[This post looks at authentication and identity validation and describes what should be validated and some of the concepts. With the increasing push to move processes to a digital world and the new threat models, authentication and identity validation MUST be implemented in a professional way.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing Azure Naming Conventions At Scale With Terraform And Build5Nines/naming/azure (AzureRM + Region Pairs) | Build5Nines]]></title>
-        <id>stories/737130</id>
-        <link href="https://dotnetkicks.com/r/737130?url=https://build5nines.com/implementing-azure-naming-conventions-at-scale-with-terraform-and-build5nines-naming-azure-azurerm-region-pairs/"/>
-        <updated>2025-12-27T02:06:41.118Z</updated>
-        <summary type="html"><![CDATA[Microsoft Azure resource naming conventions are one of those "small" DevOps and cloud infrastructure management disciplines that quietly determine whether]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -990,20 +30,150 @@
         <title type="html"><![CDATA[Azure Functions & Durable Functions Part 1]]></title>
         <id>stories/737117</id>
         <link href="https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/"/>
-        <updated>2025-12-27T02:06:41.118Z</updated>
+        <updated>2025-12-28T02:26:53.705Z</updated>
         <summary type="html"><![CDATA[As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Streamlining your Git workflow with Visual Studio 2026 - Visual Studio Blog]]></title>
-        <id>stories/736367</id>
-        <link href="https://dotnetkicks.com/r/736367?url=https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/"/>
-        <updated>2025-12-27T02:06:32.520Z</updated>
-        <summary type="html"><![CDATA[You're a .NET developer with a busy morning, and an Azure DevOps ticket drops: "Login endpoint 500s under load." You've got to fix it, review a teammate's feature branch, and keep your repo clean - all before lunch. Visual Studio's Git tools turn this everyday Git workflow of creating topic branches, stashing changes, committing, and [...]]]></summary>
+        <title type="html"><![CDATA[Azure updates for partners: December 2025]]></title>
+        <id>stories/736815</id>
+        <link href="https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025"/>
+        <updated>2025-12-28T02:26:52.903Z</updated>
+        <summary type="html"><![CDATA[Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cake v6.0.0 released]]></title>
+        <id>stories/734797</id>
+        <link href="https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released"/>
+        <updated>2025-12-28T02:26:51.550Z</updated>
+        <summary type="html"><![CDATA[Version 6.0.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to Cake Scripting, Cake Frosting, and the new Cake.Sdk runner since the Cake v5.1.0 release!]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions]]></title>
+        <id>stories/735675</id>
+        <link href="https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions"/>
+        <updated>2025-12-28T02:26:51.021Z</updated>
+        <summary type="html"><![CDATA[Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 7]]></title>
+        <id>http://dotnetstories.wordpress.com/?p=3915</id>
+        <link href="https://dotnetstories.wordpress.com/2025/12/27/creating-a-net-10-application-with-clean-architecture-a-practical-multi-part-guide-part-7/"/>
+        <updated>2025-12-27T18:51:49.000Z</updated>
+        <summary type="html"><![CDATA[Part 7 upgrades our Clean Architecture sample with production-grade patterns: FluentValidation for consistent input validation, explicit EF Core transactions for atomic writes, optimistic concurrency using RowVersion, and reliable domain-event publishing via the Outbox pattern. These additions make the system safer under real traffic and failure scenarios, without sacrificing architecture boundaries.]]></summary>
+        <author>
+            <name>fofo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge ( Merging ) GridView Header Columns ( Cells ) by adding Multiple Headers ( Header Row ) in ASP.NET]]></title>
+        <id>https://aspsnippets.com/Articles/Merge--Merging--GridView-Header-Columns--Cells--by-adding-Multiple-Headers--Header-Row--in-ASPNET.aspx</id>
+        <link href="https://aspsnippets.com/Articles/Merge--Merging--GridView-Header-Columns--Cells--by-adding-Multiple-Headers--Header-Row--in-ASPNET.aspx"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to merge GridView Header Column Cells by adding an additional Header Row, thus grouping Multiple GridView Columns under Single Column in ASP.Net.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call Server Side event from Client Side using JavaScript and jQuery in ASP.Net]]></title>
+        <id>https://aspsnippets.com/Articles/Call-Server-Side-event-from-Client-Side-using-JavaScript-and-jQuery-in-ASPNet.aspx</id>
+        <link href="https://aspsnippets.com/Articles/Call-Server-Side-event-from-Client-Side-using-JavaScript-and-jQuery-in-ASPNet.aspx"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to call Server Side event from Client Side using JavaScript and jQuery in ASP.Net using C# and VB.Net.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GridView with Multiple Headers in ASP.Net]]></title>
+        <id>https://aspsnippets.com/Articles/GridView-with-Multiple-Headers-in-ASPNet.aspx</id>
+        <link href="https://aspsnippets.com/Articles/GridView-with-Multiple-Headers-in-ASPNet.aspx"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to add multiple Headers (Header Row) to GridView in ASP.Net using C# and VB.Net.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add dynamic Header Row inside Header Template in ASP.Net]]></title>
+        <id>https://aspsnippets.com/Articles/Add-dynamic-Header-Row-inside-Header-Template-in-ASPNet.aspx</id>
+        <link href="https://aspsnippets.com/Articles/Add-dynamic-Header-Row-inside-Header-Template-in-ASPNet.aspx"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to add dynamic Header Row inside Header Template in ASP.Net using C# and VB.Net.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add dynamic Header Row to GridView programmatically in ASP.Net]]></title>
+        <id>https://aspsnippets.com/Articles/Add-dynamic-Header-Row-to-GridView-programmatically-in-ASPNet.aspx</id>
+        <link href="https://aspsnippets.com/Articles/Add-dynamic-Header-Row-to-GridView-programmatically-in-ASPNet.aspx"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to add dynamic Header Row to GridView programmatically in ASP.Net using C# and VB.Net.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convert Excel to JSON using JavaScript]]></title>
+        <id>https://aspsnippets.com/Articles/Convert-Excel-to-JSON-using-JavaScript.aspx</id>
+        <link href="https://aspsnippets.com/Articles/Convert-Excel-to-JSON-using-JavaScript.aspx"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to convert Excel (XLS and XLSX) file data to JSON using JavaScript.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add Colspan (ColumnSpan) to GridView in ASP.Net]]></title>
+        <id>https://aspsnippets.com/Articles/Add-Colspan-ColumnSpan-to-GridView-in-ASPNet.aspx</id>
+        <link href="https://aspsnippets.com/Articles/Add-Colspan-ColumnSpan-to-GridView-in-ASPNet.aspx"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to add Colspan (ColumnSpan) to GridView in ASP.Net using C# and VB.Net.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using MVC6 Grid in ASP.Net Core MVC]]></title>
+        <id>https://aspsnippets.com/Articles/Using-MVC6-Grid-in-ASPNet-Core-MVC.aspx</id>
+        <link href="https://aspsnippets.com/Articles/Using-MVC6-Grid-in-ASPNet-Core-MVC.aspx"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to use MVC6 Grid in ASP.Net Core MVC.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RDLC Report not showing in Visual Studio 2022]]></title>
+        <id>https://aspsnippets.com/Articles/RDLC-Report-not-showing-in-Visual-Studio-2022.aspx</id>
+        <link href="https://aspsnippets.com/Articles/RDLC-Report-not-showing-in-Visual-Studio-2022.aspx"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained step by step, how to solve the problem RDLC Report not showing in Visual Studio 2022.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASP.Net Core: Get full path of uploaded file]]></title>
+        <id>https://aspsnippets.com/Articles/ASPNet-Core-Get-full-path-of-uploaded-file.aspx</id>
+        <link href="https://aspsnippets.com/Articles/ASPNet-Core-Get-full-path-of-uploaded-file.aspx"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to get full path of uploaded file in ASP.Net Core (.Net Core 8) MVC.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -1034,6 +204,16 @@
         <summary type="html"><![CDATA[Top Links Building a Complete FIRE Calculator App with GitHub Copilot in One Chat Session (James Montemagno) Instagram CLI – An Instagram terminal UI app – The ultimate weapon against brainrot (Jet Chiang) How to Build a .NET MAUI Violin Chart for Airline Delay Analysis (Harsha Midadhala) Creating Your Own MSBuild SDK – It’s Easier … Continue reading Dew Drop – December 26, 2025 (#4569)]]></summary>
         <author>
             <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing Azure Naming Conventions At Scale With Terraform And Build5Nines/naming/azure (AzureRM + Region Pairs) | Build5Nines]]></title>
+        <id>stories/737130</id>
+        <link href="https://dotnetkicks.com/r/737130?url=https://build5nines.com/implementing-azure-naming-conventions-at-scale-with-terraform-and-build5nines-naming-azure-azurerm-region-pairs/"/>
+        <updated>2025-12-26T05:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Azure resource naming conventions are one of those "small" DevOps and cloud infrastructure management disciplines that quietly determine whether]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1128,106 +308,6 @@
   Content]]></summary>
         <author>
             <name>Jaliya's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convert Binary data to PDF file in C# and VB.Net]]></title>
-        <id>https://aspsnippets.com/Articles/Convert-Binary-data-to-PDF-file-in-C-and-VBNet.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Convert-Binary-data-to-PDF-file-in-C-and-VBNet.aspx"/>
-        <updated>2025-12-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to convert binary data to PDF file and display in browser in ASP.Net using C# and VB.Net.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SELECT specific columns from DataTable using LINQ in C# and VB.Net]]></title>
-        <id>https://aspsnippets.com/Articles/SELECT-specific-columns-from-DataTable-using-LINQ-in-C-and-VBNet.aspx</id>
-        <link href="https://aspsnippets.com/Articles/SELECT-specific-columns-from-DataTable-using-LINQ-in-C-and-VBNet.aspx"/>
-        <updated>2025-12-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to use the LINQ to select specific columns from DataTable in C# and VB.Net.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Select multiple rows from DataTable using LINQ in C# and VB.Net]]></title>
-        <id>https://aspsnippets.com/Articles/Select-multiple-rows-from-DataTable-using-LINQ-in-C-and-VBNet.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Select-multiple-rows-from-DataTable-using-LINQ-in-C-and-VBNet.aspx"/>
-        <updated>2025-12-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to use the LINQ to select multiple records from DataTable in C# and VB.Net.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implement Paging and Sorting in ASP.Net MVC]]></title>
-        <id>https://aspsnippets.com/Articles/Implement-Paging-and-Sorting-in-ASPNet-MVC.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Implement-Paging-and-Sorting-in-ASPNet-MVC.aspx"/>
-        <updated>2025-12-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to implement Paging and Sorting in ASP.Net MVC Razor.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add (Insert) rows in DataTable using For Each loop using C# and VB.Net]]></title>
-        <id>https://aspsnippets.com/Articles/Add-Insert-rows-in-DataTable-using-For-Each-loop-using-C-and-VBNet.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Add-Insert-rows-in-DataTable-using-For-Each-loop-using-C-and-VBNet.aspx"/>
-        <updated>2025-12-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to add (insert) rows in DataTable using For Each loop using C# and VB.Net.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save (Insert) Image file in Database using Entity Framework in ASP.Net MVC]]></title>
-        <id>https://aspsnippets.com/Articles/Save-Insert-Image-file-in-Database-using-Entity-Framework-in-ASPNet-MVC.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Save-Insert-Image-file-in-Database-using-Entity-Framework-in-ASPNet-MVC.aspx"/>
-        <updated>2025-12-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to Save (Insert) Image file in Database using Entity Framework in ASP.NetMVC Razor.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Populate (Bind) Crystal Report using Entity Framework DataSource in ASP.Net MVC]]></title>
-        <id>https://aspsnippets.com/Articles/Populate-Bind-Crystal-Report-using-Entity-Framework-DataSource-in-ASPNet-MVC.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Populate-Bind-Crystal-Report-using-Entity-Framework-DataSource-in-ASPNet-MVC.aspx"/>
-        <updated>2025-12-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to populate (bind) Crystal Report using Entity Framework as Data Source in ASP.NetMVC Razor.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Display (Embed) Excel Sheet on Web Page in ASP.Net]]></title>
-        <id>https://aspsnippets.com/Articles/Display-Embed-Excel-Sheet-on-Web-Page-in-ASPNet.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Display-Embed-Excel-Sheet-on-Web-Page-in-ASPNet.aspx"/>
-        <updated>2025-12-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to display (embed) Excel Sheet on Web Page in ASP.Net using C# and VB.Net.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upload Image and Save in Database in ASP.Net MVC]]></title>
-        <id>https://aspsnippets.com/Articles/Upload-Image-and-Save-in-Database-in-ASPNet-MVC.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Upload-Image-and-Save-in-Database-in-ASPNet-MVC.aspx"/>
-        <updated>2025-12-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to upload Image and save in Database in ASP.Net MVC Razor.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save and Retrieve Image from SQL Server Database in ASP.Net MVC]]></title>
-        <id>https://aspsnippets.com/Articles/Save-and-Retrieve-Image-from-SQL-Server-Database-in-ASPNet-MVC.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Save-and-Retrieve-Image-from-SQL-Server-Database-in-ASPNet-MVC.aspx"/>
-        <updated>2025-12-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to save and retrieve Image from SQL Server Database in ASP.Net MVC Razor.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -1363,6 +443,16 @@ text-decoration-inset is Like Padding for Text Decorations originally published 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New Book: Build And Deploy Apps Using Azure Developer CLI By Chris Pietschmann | Build5Nines]]></title>
+        <id>stories/736976</id>
+        <link href="https://dotnetkicks.com/r/736976?url=https://build5nines.com/new-book-build-and-deploy-apps-using-azure-developer-cli-written-by-chris-pietschmann/"/>
+        <updated>2025-12-21T17:51:30.000Z</updated>
+        <summary type="html"><![CDATA[I am excited to announce the release of my new book, Build and Deploy Apps using Azure Developer CLI, a practical, hands-on guide for developers and teams who]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Code It Anyway You Want: Initializing Reference Type Static Fields Inline for Enhanced Code Readability]]></title>
         <id>http://dotnettips.wordpress.com/?p=15924</id>
         <link href="https://dotnettips.wordpress.com/2025/12/21/code-it-anyway-you-want-initializing-reference-type-static-fields-inline-for-enhanced-code-readability/"/>
@@ -1370,6 +460,26 @@ text-decoration-inset is Like Padding for Text Decorations originally published 
         <summary type="html"><![CDATA[Microsoft advises initializing reference type static fields inline to enhance code readability and prevent issues from uninitialized fields. Two patterns are shown: inline initialization and using a static constructor. While both methods do not allocate memory, using a static constructor may slightly improve performance. EditorConfig can check for adherence to this guideline.]]></summary>
         <author>
             <name>dotNetDave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F# Weekly #51, 2025 - WebSharper 10 &amp; Fidelity Framework]]></title>
+        <id>stories/736980</id>
+        <link href="https://dotnetkicks.com/r/736980?url=https://sergeytihon.com/2025/12/20/f-weekly-51-2025-websharper-10-fidelity-framework/"/>
+        <updated>2025-12-20T19:53:43.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News WebSharper 10.0 Aspire 13.1 - Our holiday gift to you | Aspire Blog Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog How to Build iOS Widgets with .NET MAUI - .NET Blog Build declarative agents for Microsoft 365 Copilot...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Authentication and Identity validation]]></title>
+        <id>stories/736960</id>
+        <link href="https://dotnetkicks.com/r/736960?url=https://damienbod.com/2025/12/20/digital-authentication-and-identity-validation/"/>
+        <updated>2025-12-20T11:32:06.000Z</updated>
+        <summary type="html"><![CDATA[This post looks at authentication and identity validation and describes what should be validated and some of the concepts. With the increasing push to move processes to a digital world and the new threat models, authentication and identity validation MUST be implemented in a professional way.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1445,6 +555,16 @@ In this post, we will explore a protocol to generate high-quality random numbers
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2025 in review: How we elevated the Microsoft Store experience]]></title>
+        <id>stories/736902</id>
+        <link href="https://dotnetkicks.com/r/736902?url=https://blogs.windows.com/windowsdeveloper/2025/12/18/2025-in-review-how-we-elevated-the-microsoft-store-experience/"/>
+        <updated>2025-12-18T17:00:10.000Z</updated>
+        <summary type="html"><![CDATA[2025 was a meaningful year for the Microsoft Store on Windows, with more than 250 million monthly users discovering a Microsoft Store that feels more personalized, helpful and delightful to use. We welcomed exciting new arrivals to the st]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Search CSS-Tricks Raycast Extension]]></title>
         <id>https://css-tricks.com/?p=391171</id>
         <link href="https://css-tricks.com/search-css-tricks-raycast-extension/"/>
@@ -1494,6 +614,16 @@ Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Critter Stack Roadmap for 2026]]></title>
+        <id>stories/736802</id>
+        <link href="https://dotnetkicks.com/r/736802?url=https://jeremydmiller.com/2025/12/17/critter-stack-roadmap-for-2026/"/>
+        <updated>2025-12-17T14:01:27.000Z</updated>
+        <summary type="html"><![CDATA[I normally write this out in January, but I'm feeling like now is a good time to get this out as some of it is in flight. So with plenty of feedback from the other Critter Stack Core team mem...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dew Drop – December 17, 2025 (#4563)]]></title>
         <id>https://www.alvinashcraft.com/2025/12/17/dew-drop-december-17-2025-4563/</id>
         <link href="https://www.alvinashcraft.com/2025/12/17/dew-drop-december-17-2025-4563/"/>
@@ -1525,6 +655,26 @@ Today, I would like to shortly talk about a brand new feature in the library - t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why "Microservices" Debates Miss the Point]]></title>
+        <id>stories/736738</id>
+        <link href="https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/"/>
+        <updated>2025-12-16T22:28:29.000Z</updated>
+        <summary type="html"><![CDATA[Most of the complaints and pain from microservices is because people don't acknowledge the coupling in their system.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog]]></title>
+        <id>stories/736726</id>
+        <link href="https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/"/>
+        <updated>2025-12-16T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Azure DevOps enhanced support for Microsoft.Testing.Platform, from running tests to publishing results!]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More]]></title>
         <id>https://css-tricks.com/?p=391134</id>
         <link href="https://css-tricks.com/whats-important-1/"/>
@@ -1533,6 +683,16 @@ Today, I would like to shortly talk about a brand new feature in the library - t
 What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog]]></title>
+        <id>stories/736724</id>
+        <link href="https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/"/>
+        <updated>2025-12-16T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Understand how the Visual Studio 2026 Debugger accelerates your workflow, making debugging less frustrating and more effective.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1547,12 +707,32 @@ What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and
     </entry>
     <entry>
         <title type="html"><![CDATA[Creating a .NET CLR profiler using C# and NativeAOT with Silhouette]]></title>
+        <id>stories/736711</id>
+        <link href="https://dotnetkicks.com/r/736711?url=https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/"/>
+        <updated>2025-12-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I look at how to create a simple .NET profiler. But instead of using C++, the profiler uses C# and NativeAOT with the Silhouette library]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a .NET CLR profiler using C# and NativeAOT with Silhouette]]></title>
         <id>https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/</id>
         <link href="https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/"/>
         <updated>2025-12-16T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[In this post I look at how to create a simple .NET profiler. But instead of using C++, the profiler uses C# and NativeAOT with the Silhouette library]]></summary>
         <author>
             <name>Andrew Lock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output | Build5Nines]]></title>
+        <id>stories/736689</id>
+        <link href="https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/"/>
+        <updated>2025-12-16T01:18:31.000Z</updated>
+        <summary type="html"><![CDATA[The most common reason an AI system "hallucinates" in production isn't that the model is dumb. It's that we're drowning it.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1563,6 +743,16 @@ What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and
         <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
         <author>
             <name>Peter Ritchie's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build iOS Widgets with .NET MAUI - .NET Blog]]></title>
+        <id>stories/736640</id>
+        <link href="https://dotnetkicks.com/r/736640?url=https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/"/>
+        <updated>2025-12-15T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Build professional iOS widgets with .NET MAUI, from static displays to interactive widgets.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1627,6 +817,16 @@ Responsive List of Avatars Using Modern CSS (Part 1) originally published on CSS
 When looking at the C# 14 updates coming out soon, I discovered a feature and thought, "how did this not already exist?" If you've been using C#'s null-conditional operators (?. and ?[]) for years like]]></summary>
         <author>
             <name>Dave Brock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F# Weekly #50, 2025 - Making of A Programming Language]]></title>
+        <id>stories/736573</id>
+        <link href="https://dotnetkicks.com/r/736573?url=https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/"/>
+        <updated>2025-12-13T23:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News .NET 10 Networking Improvements - .NET Blog Microsoft Learn MCP Server Elevates Development - .NET Blog Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog Making Windows Terminal awesome with GitHub Copilot CLI - Microsoft for Developers Join us...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1703,6 +903,16 @@ Creating Scroll-Based Animations in Full view() originally published on CSS-Tri
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Streamlining your Git workflow with Visual Studio 2026 - Visual Studio Blog]]></title>
+        <id>stories/736367</id>
+        <link href="https://dotnetkicks.com/r/736367?url=https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/"/>
+        <updated>2025-12-10T15:00:47.000Z</updated>
+        <summary type="html"><![CDATA[You're a .NET developer with a busy morning, and an Azure DevOps ticket drops: "Login endpoint 500s under load." You've got to fix it, review a teammate's feature branch, and keep your repo clean - all before lunch. Visual Studio's Git tools turn this everyday Git workflow of creating topic branches, stashing changes, committing, and [...]]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dew Drop – December 10, 2025 (#4558)]]></title>
         <id>https://www.alvinashcraft.com/2025/12/10/dew-drop-december-10-2025-4558/</id>
         <link href="https://www.alvinashcraft.com/2025/12/10/dew-drop-december-10-2025-4558/"/>
@@ -1710,6 +920,26 @@ Creating Scroll-Based Animations in Full view() originally published on CSS-Tri
         <summary type="html"><![CDATA[Top Links Announcing Azure DevOps Server General Availability (Gloridel Morales) MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents (Martin Woodward) Implementing Cross-Platform In-App Billing in .NET MAUI Applications (Gerald Versluis) OpenAI co-founds Agentic AI Foundation, donates AGENTS.md (OpenAI Team) Announcing the release of SQL … Continue reading Dew Drop – December 10, 2025 (#4558)]]></summary>
         <author>
             <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET and .NET Framework December 2025 servicing releases updates - .NET Blog]]></title>
+        <id>stories/736324</id>
+        <link href="https://dotnetkicks.com/r/736324?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/"/>
+        <updated>2025-12-09T18:48:25.000Z</updated>
+        <summary type="html"><![CDATA[A recap of the latest servicing updates for .NET and .NET Framework for December 2025.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog]]></title>
+        <id>stories/736298</id>
+        <link href="https://dotnetkicks.com/r/736298?url=https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/"/>
+        <updated>2025-12-09T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to implement in-app purchases in your .NET MAUI apps with our new cross-platform billing sample for Android, iOS, Mac Catalyst, and Windows.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1753,6 +983,16 @@ Fit width text in 1 line of CSS originally published on CSS-Tricks, which is par
         <summary type="html"><![CDATA[CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying out the Zed editor on Windows for .NET and Markdown]]></title>
+        <id>stories/736257</id>
+        <link href="https://dotnetkicks.com/r/736257?url=https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/"/>
+        <updated>2025-12-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I try out Zed on Windows to see if it can replace my VS Code usages for quick edits of .NET projects and writing Markdown documents]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1805,6 +1045,36 @@ This is a generic file browser, so it's very susceptible to all sorts of oddball
         <summary type="html"><![CDATA[If you have played with my Spectacles lens HoloATC you might have noticed the start menu with a scrollable list of buttons, which allows you to choose airports. This is a dynamic menu, that gets its data by downloading it from a service on Microsoft Azure. A list of data is dynamically translated into a scrollable list of buttons. I have turned that into a reusable and extendable component - well, more like a construction kit - that you can plug into your own lens for use.]]></summary>
         <author>
             <name>DotNetByExample - The Next Generation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Learn MCP Server Elevates Development - .NET Blog]]></title>
+        <id>stories/736233</id>
+        <link href="https://dotnetkicks.com/r/736233?url=https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/"/>
+        <updated>2025-12-08T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore how the Learn MCP server enhances the developer experience with Copilot, showcase practical examples, and provide straightforward integration instructions for Visual Studio, Visual Studio Code, the Copilot Command Line Interface, and the Copilot Coding Agent]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aggregates in DDD: Model Rules, Not Relationships]]></title>
+        <id>stories/736231</id>
+        <link href="https://dotnetkicks.com/r/736231?url=https://codeopinion.com/aggregates-in-ddd-model-rules-not-relationships/"/>
+        <updated>2025-12-08T19:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Aggregates in DDD aren't about loading every related entity. They're about modeling rules, not relationships.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 10 Networking Improvements - .NET Blog]]></title>
+        <id>stories/736202</id>
+        <link href="https://dotnetkicks.com/r/736202?url=https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/"/>
+        <updated>2025-12-08T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing new networking features in .NET 10 including HTTP space, WebSockets, security and more!]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1891,6 +1161,16 @@ Every year, Santa's workshop runs on data: delivery manifests, elf schedules, ch
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F#]]></title>
+        <id>stories/736168</id>
+        <link href="https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/"/>
+        <updated>2025-12-06T19:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog Introducing Data Ingestion Building Blocks (Preview) - .NET Blog Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog Unlocking the Power of...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From Data to Decisions: A Deep Practical Introduction to Machine Learning]]></title>
         <id>http://dotnetstories.wordpress.com/?p=3748</id>
         <link href="https://dotnetstories.wordpress.com/2025/12/06/from-data-to-decisions-a-deep-practical-introduction-to-machine-learning/"/>
@@ -1934,6 +1214,16 @@ HTML Web Components Proposal From 1998 originally published on CSS-Tricks, which
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog]]></title>
+        <id>stories/736132</id>
+        <link href="https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/"/>
+        <updated>2025-12-05T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore Microsoft's SQL tooling updates, AI integration, and roadmap for SSMS, VS Code, and DevOps innovations. Learn more.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Beyond The Black Box: Practical XAI For UX Practitioners]]></title>
         <id>https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/</id>
         <link href="https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/"/>
@@ -1965,6 +1255,16 @@ We call this the “SLM-default, LLM-fallback” pattern. The premise is simple:
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA["Classic" .NET Domain Events with Wolverine and EF Core]]></title>
+        <id>stories/736077</id>
+        <link href="https://dotnetkicks.com/r/736077?url=https://jeremydmiller.com/2025/12/04/classic-net-domain-events-with-wolverine-and-ef-core/"/>
+        <updated>2025-12-05T03:30:20.000Z</updated>
+        <summary type="html"><![CDATA[I was helping a new JasperFx Software client this week to best integrate a Domain Events strategy into their new Wolverine codebase. This client wanted to use the common model of using an EF Core DbContext to harvest domain events raised by different entities and relay those to Wolverine messaging with proper Wolverine transactional outbox...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Things That Caught My Attention Last Week - December 1]]></title>
         <id>http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-december-1</id>
         <link href="http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-december-1"/>
@@ -1972,6 +1272,16 @@ We call this the “SLM-default, LLM-fallback” pattern. The premise is simple:
         <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
         <author>
             <name>Peter Ritchie's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog]]></title>
+        <id>stories/736049</id>
+        <link href="https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/"/>
+        <updated>2025-12-04T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[NET Conf 2025 is over, but you can catch up with all the announcements and fun with video recordings, slides, demos, and more.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -1983,6 +1293,46 @@ We call this the “SLM-default, LLM-fallback” pattern. The premise is simple:
 Getting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock GitHub Copilot's Full Potential: Why Every Repo Needs An AGENTS.md File | Build5Nines]]></title>
+        <id>stories/735949</id>
+        <link href="https://dotnetkicks.com/r/735949?url=https://build5nines.com/unlock-github-copilots-full-potential-why-every-repo-needs-an-agents-md-file/"/>
+        <updated>2025-12-04T00:02:56.000Z</updated>
+        <summary type="html"><![CDATA[AI-assisted development has rapidly transformed how engineers write code, collaborate, and ship software. GitHub Copilot, powered by OpenAI's Codex and now]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support]]></title>
+        <id>stories/735934</id>
+        <link href="https://dotnetkicks.com/r/735934?url=https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/"/>
+        <updated>2025-12-03T21:23:28.000Z</updated>
+        <summary type="html"><![CDATA[With the release of .NET, we've released updated packages of AutoMapper and MediatR targeting .NET 10 (and all supported versions of .NET and 4.x of .NET Framework). From this release forward, we're aligning to major release cadences of .NET since this also means upping our dependency versions as well.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Surfaces]]></title>
+        <id>stories/735992</id>
+        <link href="https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/"/>
+        <updated>2025-12-03T21:15:46.000Z</updated>
+        <summary type="html"><![CDATA[An important concept in Usable Security is whether a given UI represents a "security surface." Formally, a security surface is a User Interface component in which the user is presented with information they rely upon to make a security decision. For example, in the browser, the URL in the address bar is a security surface....]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Data Ingestion Building Blocks (Preview) - .NET Blog]]></title>
+        <id>stories/735929</id>
+        <link href="https://dotnetkicks.com/r/735929?url=https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/"/>
+        <updated>2025-12-03T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Announcing the preview of open, modular data ingestion building blocks in .NET, empowering developers to build scalable AI pipelines with seamless integration, extensibility, and easy getting started experiences across the .NET ecosystem.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -2029,12 +1379,32 @@ No account? Create one.
     </entry>
     <entry>
         <title type="html"><![CDATA[Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes]]></title>
+        <id>stories/735821</id>
+        <link href="https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/"/>
+        <updated>2025-12-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I describe some recent changes to the NetEscapades.EnumGenerators source generator, including support for [EnumMember] and new analyzers]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes]]></title>
         <id>https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/</id>
         <link href="https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/"/>
         <updated>2025-12-02T09:00:00.000Z</updated>
         <summary type="html"><![CDATA[In this post I describe some recent changes to the NetEscapades.EnumGenerators source generator, including support for [EnumMember] and new analyzers]]></summary>
         <author>
             <name>Andrew Lock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain-Driven Design Misconceptions]]></title>
+        <id>stories/735809</id>
+        <link href="https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/"/>
+        <updated>2025-12-01T22:51:15.000Z</updated>
+        <summary type="html"><![CDATA[Domain-Driven Design misconceptions often come from treating DDD like a checklist of patterns. It's focusing entirely on the wrong thing.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -2045,6 +1415,26 @@ No account? Create one.
         <summary type="html"><![CDATA[Most AI demos look impressive in a notebook, but they fall apart the moment they touch real data, real users, or real scale. The companies that will win in 2026 aren’t the ones with the flashiest prototypes, they’re the ones who can reliably design, debug, and deploy agent-powered AI applications. That’s exactly why we created […]]]></summary>
         <author>
             <name>Dan Wahlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcoming Babu Annamalai to JasperFx Software]]></title>
+        <id>stories/735734</id>
+        <link href="https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/"/>
+        <updated>2025-12-01T14:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Starting today, Babu Annamalai is taking a larger role at JasperFx Software (LLC) to help expand our support coverage to just about every time zone on the planet. Babu is a long time member of the Marten and now Critter Stack core team. In addition to some large contributions like the Partial API in Marten...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F# Weekly #48, 2025 - #FsAdvent starts Dec 1st.]]></title>
+        <id>stories/735711</id>
+        <link href="https://dotnetkicks.com/r/735711?url=https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/"/>
+        <updated>2025-11-30T12:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: News Gazelle (A Fast Engine for Structural Engineering) is written in F# .NET Day on Agentic Modernization Coming Soon - .NET Blog Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog Announcing ASP.NET Core OData 10.0.0 Preview...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
@@ -2068,6 +1458,16 @@ No account? Create one.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Exploring Squirrly Apache Flink Performance Issues through Continual AI-Driven Evaluation]]></title>
+        <id>stories/735694</id>
+        <link href="https://dotnetkicks.com/r/735694?url=https://rion.io/2025/11/29/exploring-squirrly-apache-flink-performance-issues-through-continual-ai-driven-evaluation/"/>
+        <updated>2025-11-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Last month, I wrote up a blog post discussing a three-phase cycle (profile, analyze, improve) for leveraging LLMs and other AI tooling to evaluate Apache Flink jobs for potential performance improvements. This post goes through what that process might look like in a more automated fashion to help you track]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions]]></title>
         <id>https://www.hanselman.com/blog/post/e6ac5a6a-1d2a-4ad2-b116-71ff0508b5c3</id>
         <link href="http://feeds.hanselman.com/~/930373259/0/scotthanselman~Automatically-Signing-a-Windows-EXE-with-Azure-Trusted-Signing-dotnet-sign-and-GitHub-Actions"/>
@@ -2076,33 +1476,6 @@ No account? Create one.
  However, as is with all suss loose executables on the internet, when you run random stuff you'll often get the Window Defender 'new phone, who dis' warning which is scary. After several downloads and no…]]></summary>
         <author>
             <name>Scott Hanselman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Accessibility Problem With Authentication Methods Like CAPTCHA]]></title>
-        <id>https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/</id>
-        <link href="https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/"/>
-        <updated>2025-11-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating SAS URIs for Azure Storage Blobs using DefaultAzureCredential]]></title>
-        <id>https://jaliyaudagedara.blogspot.com/2025/11/creating-sas-uris-for-azure-storage.html</id>
-        <link href="https://jaliyaudagedara.blogspot.com/2025/11/creating-sas-uris-for-azure-storage.html"/>
-        <updated>2025-11-27T00:38:00.004Z</updated>
-        <summary type="html"><![CDATA[When working with Azure Storage Blobs in .NET, you will often need to
-  generate Shared Access Signature (SAS) URIs to provide temporary, secure
-  access to your blob resources.&nbsp;
-
-
-  However, if you're using
-  DefaultAzureCredential&nbsp;for authentication we cannot simply call&nbsp;GenerateSasUri()&nbsp;on a&nbsp;BlobClient
-  instance.&nbsp;BlobServiceClient&nbsp;blobServiceClient&nbsp;=]]></summary>
-        <author>
-            <name>Jaliya's Blog</name>
         </author>
     </entry>
 </feed>
