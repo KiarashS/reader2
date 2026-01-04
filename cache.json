@@ -214,7 +214,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4650,
+          "wordCount": 4636,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -244,7 +244,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4939,
+          "wordCount": 4944,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -274,7 +274,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4597,
+          "wordCount": 4602,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -289,7 +289,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4436,
+          "wordCount": 4441,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -304,7 +304,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6876,
+          "wordCount": 6877,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -480,7 +480,7 @@
           "description": "In the last few months my Markdown Monster Application Insights log has been inundated with a hard failure for lookups of a \\\\.\\nul device error. In my  logs this shows up as an error like this:\n\nFigure 1 - Null device errors in the Application Insight logs\nThis error started creeping up in my logs a few months ago, and since then has gotten more frequent. The error always occurs in the same location in the code and it's related to the File and Folder Browser in MM that displays the files available on the file system.\n\nFigure 2 - The File and Folder Browser in Markdown Monster that is the target of the error\nThis is a generic file browser, so it's very susceptible to all sorts of oddball user configurations and mis-configurations and this particular error likely is of the latter kind. Howe…",
           "link": "https://weblog.west-wind.com/posts/2025/Dec/08/What-the-heck-is-a-nul-path-and-why-is-it-breaking-my-Directory-Files-Lookup",
           "publishedOn": "2025-12-08T23:15:18.000Z",
-          "wordCount": 2201,
+          "wordCount": 2205,
           "title": "What the heck is a `\\\\.\\nul` path and why is it breaking my Directory Files Lookup?",
           "imageUrl": "https://weblog.west-wind.com/images/2025/What-the-heck-is-a-nul-path-and-why-is-it-breaking-my-Directory-Files-Lookup/NullDeviceBanner.jpg"
         }
@@ -509,31 +509,11 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
-          "id": "stories/735789",
-          "author": null,
-          "description": "Learn how to implement age verification in your .NET MAUI apps with our new cross-platform sample supporting Google Play Age Signals, Apple Declared Age Range, and Windows Age Consent APIs.",
-          "link": "https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/",
-          "publishedOn": "2026-01-03T02:05:31.775Z",
-          "wordCount": null,
-          "title": "Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737305",
-          "author": null,
-          "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
-          "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
-          "publishedOn": "2026-01-03T02:05:29.640Z",
-          "wordCount": null,
-          "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
-          "imageUrl": null
-        },
-        {
           "id": "stories/736815",
           "author": null,
           "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
           "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-          "publishedOn": "2026-01-03T02:05:28.095Z",
+          "publishedOn": "2026-01-04T02:29:10.865Z",
           "wordCount": 3628,
           "title": "Azure updates for partners: December 2025",
           "imageUrl": "https://partner.microsoft.com/-/media/mssc/mpn/partner/saas-solution-guide/saas-solution-guide.jpg"
@@ -543,19 +523,29 @@
           "author": null,
           "description": "Version 6.0.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to Cake Scripting, Cake Frosting, and the new Cake.Sdk runner since the Cake v5.1.0 release!",
           "link": "https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released",
-          "publishedOn": "2026-01-03T02:05:28.073Z",
+          "publishedOn": "2026-01-04T02:29:10.517Z",
           "wordCount": 1289,
           "title": "Cake v6.0.0 released",
           "imageUrl": null
         },
         {
-          "id": "stories/736946",
+          "id": "stories/735789",
           "author": null,
-          "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
-          "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
-          "publishedOn": "2026-01-03T02:05:24.562Z",
-          "wordCount": 2337,
-          "title": "Joe Dluzen on Azure Functions & Durable Functions",
+          "description": "Learn how to implement age verification in your .NET MAUI apps with our new cross-platform sample supporting Google Play Age Signals, Apple Declared Age Range, and Windows Age Consent APIs.",
+          "link": "https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/",
+          "publishedOn": "2026-01-04T02:29:06.627Z",
+          "wordCount": null,
+          "title": "Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737117",
+          "author": null,
+          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
+          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
+          "publishedOn": "2026-01-04T02:29:06.554Z",
+          "wordCount": 3388,
+          "title": "Azure Functions & Durable Functions Part 1",
           "imageUrl": null
         },
         {
@@ -563,30 +553,40 @@
           "author": null,
           "description": "Mark Heath's Development Blog",
           "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
-          "publishedOn": "2026-01-03T02:05:24.542Z",
+          "publishedOn": "2026-01-04T02:29:06.443Z",
           "wordCount": 1500,
           "title": "2025 Year in Review",
           "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+        },
+        {
+          "id": "stories/736946",
+          "author": null,
+          "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
+          "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
+          "publishedOn": "2026-01-04T02:29:06.326Z",
+          "wordCount": 2337,
+          "title": "Joe Dluzen on Azure Functions & Durable Functions",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737305",
+          "author": null,
+          "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
+          "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
+          "publishedOn": "2026-01-04T02:29:06.168Z",
+          "wordCount": null,
+          "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
+          "imageUrl": null
         },
         {
           "id": "stories/735675",
           "author": null,
           "description": "Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...",
           "link": "https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
-          "publishedOn": "2026-01-03T02:05:24.486Z",
+          "publishedOn": "2026-01-04T02:28:54.192Z",
           "wordCount": 4040,
           "title": "Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions",
           "imageUrl": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/Automatically-Signing-a-Windows-EXE-with_D0BE/image_thumb%5B1%5D.png"
-        },
-        {
-          "id": "stories/737117",
-          "author": null,
-          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
-          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
-          "publishedOn": "2026-01-03T02:05:24.059Z",
-          "wordCount": 3388,
-          "title": "Azure Functions & Durable Functions Part 1",
-          "imageUrl": null
         },
         {
           "id": "stories/737376",
@@ -594,7 +594,7 @@
           "description": "Let's take a look back at the amazing .NET videos, events, and live streams from 2025!",
           "link": "https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/",
           "publishedOn": "2025-12-31T18:05:00.000Z",
-          "wordCount": 7480,
+          "wordCount": 7813,
           "title": "Top .NET Videos & Live Streams of 2025 - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/topvideos2025.webp"
         },
@@ -604,7 +604,7 @@
           "description": "Let's look back at the most-read .NET blog posts published in 2025, from .NET 10 to AI, performance, and developer tooling.",
           "link": "https://dotnetkicks.com/r/737287?url=https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/",
           "publishedOn": "2025-12-30T18:05:00.000Z",
-          "wordCount": 7057,
+          "wordCount": 7389,
           "title": "Top .NET Blog Posts of 2025 - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/topblogs2025.webp"
         },
@@ -644,7 +644,7 @@
           "description": "Microsoft Azure resource naming conventions are one of those \"small\" DevOps and cloud infrastructure management disciplines that quietly determine whether",
           "link": "https://dotnetkicks.com/r/737130?url=https://build5nines.com/implementing-azure-naming-conventions-at-scale-with-terraform-and-build5nines-naming-azure-azurerm-region-pairs/",
           "publishedOn": "2025-12-26T05:13:07.000Z",
-          "wordCount": 8006,
+          "wordCount": 4907,
           "title": "Implementing Azure Naming Conventions At Scale With Terraform And Build5Nines/naming/azure (AzureRM + Region Pairs) | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/12/Implementing-Azure-Naming-Conventions-at-Scale-hashiCorp-Terraform-build5nines-naming-azure-module-at-scale-Featured_Image.jpg"
         },
@@ -664,7 +664,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News WebSharper 10.0 Aspire 13.1 - Our holiday gift to you | Aspire Blog Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog How to Build iOS Widgets with .NET MAUI - .NET Blog Build declarative agents for Microsoft 365 Copilot...",
           "link": "https://dotnetkicks.com/r/736980?url=https://sergeytihon.com/2025/12/20/f-weekly-51-2025-websharper-10-fidelity-framework/",
           "publishedOn": "2025-12-20T19:53:43.000Z",
-          "wordCount": 4566,
+          "wordCount": 4567,
           "title": "F# Weekly #51, 2025 - WebSharper 10 &amp; Fidelity Framework",
           "imageUrl": "https://sergeytihon.com/wp-content/uploads/2025/12/bafkreiazgk3ace4cutw7ltn4oqsnagrhi7nybn277rkemruc4xjl4zw4ji.jpg"
         },
@@ -714,7 +714,7 @@
           "description": "Azure DevOps enhanced support for Microsoft.Testing.Platform, from running tests to publishing results!",
           "link": "https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/",
           "publishedOn": "2025-12-16T18:05:00.000Z",
-          "wordCount": 8458,
+          "wordCount": 8792,
           "title": "Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/microsoft-testing-platform-azure-retry.webp"
         },
@@ -744,7 +744,7 @@
           "description": "The most common reason an AI system \"hallucinates\" in production isn't that the model is dumb. It's that we're drowning it.",
           "link": "https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/",
           "publishedOn": "2025-12-16T01:18:31.000Z",
-          "wordCount": 4653,
+          "wordCount": 4663,
           "title": "Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output | Build5Nines",
           "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/12/Prompt-noise-is-killing-your-ai-accuracy-optimize-context-for-grounded-output-Featured_Image.jpg"
         },
@@ -754,7 +754,7 @@
           "description": "Build professional iOS widgets with .NET MAUI, from static displays to interactive widgets.",
           "link": "https://dotnetkicks.com/r/736640?url=https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/",
           "publishedOn": "2025-12-15T18:05:00.000Z",
-          "wordCount": 9430,
+          "wordCount": 9763,
           "title": "How to Build iOS Widgets with .NET MAUI - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/build-ios-widgets-maui.webp"
         },
@@ -844,7 +844,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog Introducing Data Ingestion Building Blocks (Preview) - .NET Blog Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog Unlocking the Power of...",
           "link": "https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/",
           "publishedOn": "2025-12-06T19:47:51.000Z",
-          "wordCount": 4499,
+          "wordCount": 4680,
           "title": "F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F#",
           "imageUrl": "https://sergeytihon.com/wp-content/uploads/2025/12/bafkreiagjmfbzmmfhbcoffczr445gywhse6z6r33abbmjxzek5r2awe6vy.jpg"
         },
@@ -877,46 +877,6 @@
           "wordCount": 9174,
           "title": ".NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/dotnet-conf-2025-recap-scaled.webp"
-        },
-        {
-          "id": "stories/735949",
-          "author": null,
-          "description": "AI-assisted development has rapidly transformed how engineers write code, collaborate, and ship software. GitHub Copilot, powered by OpenAI's Codex and now",
-          "link": "https://dotnetkicks.com/r/735949?url=https://build5nines.com/unlock-github-copilots-full-potential-why-every-repo-needs-an-agents-md-file/",
-          "publishedOn": "2025-12-04T00:02:56.000Z",
-          "wordCount": 4460,
-          "title": "Unlock GitHub Copilot's Full Potential: Why Every Repo Needs An AGENTS.md File | Build5Nines",
-          "imageUrl": "https://i0.wp.com/build5nines.com/wp-content/uploads/2025/12/GitHub-Copilot-Every-Repo-Needs-AGENTS-md-file-Featured_Image.jpg"
-        },
-        {
-          "id": "stories/735934",
-          "author": null,
-          "description": "With the release of .NET, we've released updated packages of AutoMapper and MediatR targeting .NET 10 (and all supported versions of .NET and 4.x of .NET Framework). From this release forward, we're aligning to major release cadences of .NET since this also means upping our dependency versions as well.",
-          "link": "https://dotnetkicks.com/r/735934?url=https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/",
-          "publishedOn": "2025-12-03T21:23:28.000Z",
-          "wordCount": 770,
-          "title": "AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/735992",
-          "author": null,
-          "description": "An important concept in Usable Security is whether a given UI represents a \"security surface.\" Formally, a security surface is a User Interface component in which the user is presented with information they rely upon to make a security decision. For example, in the browser, the URL in the address bar is a security surface....",
-          "link": "https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/",
-          "publishedOn": "2025-12-03T21:15:46.000Z",
-          "wordCount": 4120,
-          "title": "Security Surfaces",
-          "imageUrl": "https://textslashplain.com/wp-content/uploads/2025/12/image-2-1.png"
-        },
-        {
-          "id": "stories/735929",
-          "author": null,
-          "description": "Announcing the preview of open, modular data ingestion building blocks in .NET, empowering developers to build scalable AI pipelines with seamless integration, extensibility, and easy getting started experiences across the .NET ecosystem.",
-          "link": "https://dotnetkicks.com/r/735929?url=https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/",
-          "publishedOn": "2025-12-03T18:05:00.000Z",
-          "wordCount": 8748,
-          "title": "Introducing Data Ingestion Building Blocks (Preview) - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/introducing-data-ingestion.webp"
         }
       ]
     },
@@ -931,9 +891,9 @@
           "description": "Visual Studio 2026 has regressed by removing or disabling key code-quality features, making development more difficult. The Analyze tool suffers from inconsistencies and lack of reliability, while various testing functionalities are also flawed. AI tools like Copilot cannot replace essential code-quality features. Greater MVP involvement and thoughtful updates are needed to enhance the IDE.",
           "link": "https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/",
           "publishedOn": "2026-01-01T07:30:00.000Z",
-          "wordCount": 8299,
+          "wordCount": null,
           "title": "Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/12/20251225_1441_frustrated-developers-desk_simple_compose_01kdbkwt1sf8ka0070m4d307bt.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16002",
@@ -951,9 +911,9 @@
           "description": "This excerpt discusses enhancing Microsoft .NET application performance by minimizing network calls. The author emphasizes client-side caching with Spargine’s InMemoryCache, which drastically improves responsiveness and scalability for costly operations like reflection. While significant speed gains are noted, developers are advised to benchmark changes, as caching may not always be beneficial.",
           "link": "https://dotnettips.wordpress.com/2025/12/28/supercharging-application-performance-with-intelligent-client-side-caching/",
           "publishedOn": "2025-12-28T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5765,
           "title": "Supercharging Application Performance with Intelligent Client-Side Caching",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/12/20251211_1036_whimsical-rocket-ascent_simple_compose_01kc7461t6fthvn4try9qq7mde.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15924",
@@ -961,9 +921,9 @@
           "description": "Microsoft advises initializing reference type static fields inline to enhance code readability and prevent issues from uninitialized fields. Two patterns are shown: inline initialization and using a static constructor. While both methods do not allocate memory, using a static constructor may slightly improve performance. EditorConfig can check for adherence to this guideline.",
           "link": "https://dotnettips.wordpress.com/2025/12/21/code-it-anyway-you-want-initializing-reference-type-static-fields-inline-for-enhanced-code-readability/",
           "publishedOn": "2025-12-21T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4453,
           "title": "Code It Anyway You Want: Initializing Reference Type Static Fields Inline for Enhanced Code Readability",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/12/20251209_1344_code-readability-enhancement_remix_01kc2a425wfrjsvjs7bhw1t86a.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15905",
@@ -971,9 +931,9 @@
           "description": "The author expresses frustration with Sora's poor user experience and ongoing instability, emphasizing navigation difficulties, session issues, and prolonged outages. Despite Sora's impressive capabilities, the author argues that without prioritizing user experience and reliability, OpenAI risks losing the trust of professional creators. They urge the hiring of experienced UX designers and engineers.",
           "link": "https://dotnettips.wordpress.com/2025/12/14/ux-chronicles-when-openais-magic-meets-a-messy-user-experience/",
           "publishedOn": "2025-12-14T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6457,
           "title": "UX Chronicles: When OpenAI’s Magic Meets a Messy User Experience",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/12/20251207_1021_tech-contrasts_simple_compose_01kbwsr15he838knbzj387j52r.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15893",
@@ -981,9 +941,9 @@
           "description": "When using immutable collections in .NET, remember that the Add() method creates a new instance rather than mutating the original. Ignoring the return value leads to ineffective loops. Instead, use a builder for efficiency, as it offers faster performance and lower memory allocation while still ensuring immutability in the final result.",
           "link": "https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/",
           "publishedOn": "2025-12-07T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5603,
           "title": "Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/11/20251129_1103_immutable-collection-warning_remix_01kb88zvhsf4s9vyqrh6982v0v.png?fit=1200%2C800&ssl=1"
         }
       ]
     },
@@ -992,6 +952,76 @@
       "feedUrl": "https://www.aspsnippets.com/RSS.ashx",
       "siteUrl": "https://www.aspsnippets.com/RSS.ashx",
       "articles": [
+        {
+          "id": "https://aspsnippets.com/Articles/Net-Core-6-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "author": null,
+          "description": "",
+          "link": "https://aspsnippets.com/Articles/Net-Core-6-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "publishedOn": "2026-01-03T06:29:56.000Z",
+          "wordCount": null,
+          "title": ".Net Core 6: Change JSON Serialization from camelCase to PascalCase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Net-Core-8-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "author": null,
+          "description": "",
+          "link": "https://aspsnippets.com/Articles/Net-Core-8-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "publishedOn": "2026-01-03T06:23:41.000Z",
+          "wordCount": null,
+          "title": ".Net Core 8: Change JSON Serialization from camelCase to PascalCase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Net-Core-7-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "author": null,
+          "description": "",
+          "link": "https://aspsnippets.com/Articles/Net-Core-7-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "publishedOn": "2026-01-03T06:22:53.000Z",
+          "wordCount": null,
+          "title": ".Net Core 7: Change JSON Serialization from camelCase to PascalCase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Net-Core-5-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "author": null,
+          "description": "",
+          "link": "https://aspsnippets.com/Articles/Net-Core-5-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "publishedOn": "2026-01-03T06:18:34.000Z",
+          "wordCount": null,
+          "title": ".Net Core 5: Change JSON Serialization from camelCase to PascalCase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Net-Core-3-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "author": null,
+          "description": "",
+          "link": "https://aspsnippets.com/Articles/Net-Core-3-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "publishedOn": "2026-01-03T06:17:39.000Z",
+          "wordCount": null,
+          "title": ".Net Core 3: Change JSON Serialization from camelCase to PascalCase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/EntityFramework-Data-is-Null-This-method-or-property-cannot-be-called-on-Null-values.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained",
+          "link": "https://aspsnippets.com/Articles/EntityFramework-Data-is-Null-This-method-or-property-cannot-be-called-on-Null-values.aspx",
+          "publishedOn": "2026-01-03T00:00:00.000Z",
+          "wordCount": null,
+          "title": "EntityFramework: Data is Null. This method or property cannot be called on Null values",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Net-Core-2-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained",
+          "link": "https://aspsnippets.com/Articles/Net-Core-2-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "publishedOn": "2026-01-03T00:00:00.000Z",
+          "wordCount": null,
+          "title": ".Net Core 2: Change JSON Serialization from camelCase to PascalCase",
+          "imageUrl": null
+        },
         {
           "id": "https://aspsnippets.com/Articles/Get-Full-Path-from-FileUpload-control-in-ASPNet.aspx",
           "author": null,
@@ -1020,76 +1050,6 @@
           "publishedOn": "2026-01-02T00:00:00.000Z",
           "wordCount": 1177,
           "title": "Bind and display data in GridView in ASP.Net MVC",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Bind-Display-data-in-GridView-in-ASPNet-MVC-Razor.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to bind and display data in GridView in ASP.Net MVC Razor.",
-          "link": "https://aspsnippets.com/Articles/Bind-Display-data-in-GridView-in-ASPNet-MVC-Razor.aspx",
-          "publishedOn": "2026-01-02T00:00:00.000Z",
-          "wordCount": 1171,
-          "title": "Bind (Display) data in GridView in ASP.Net MVC Razor",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Send-Email-using-Web-API.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to send Email using Web API and jQuery AJAX in ASP.Net Core.",
-          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Send-Email-using-Web-API.aspx",
-          "publishedOn": "2026-01-02T00:00:00.000Z",
-          "wordCount": 1746,
-          "title": "ASP.Net Core: Send Email using Web API",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Using-jQuery-DataTables-in-ASPNet-Core-Razor-Pages.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained",
-          "link": "https://aspsnippets.com/Articles/Using-jQuery-DataTables-in-ASPNet-Core-Razor-Pages.aspx",
-          "publishedOn": "2026-01-02T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Using jQuery DataTables in ASP.Net Core Razor Pages",
-          "imageUrl": null
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-MVC-Print-value-from-Controller-in-View.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to print value from controller in view in ASP.Net MVC.",
-          "link": "https://aspsnippets.com/Articles/ASPNet-MVC-Print-value-from-Controller-in-View.aspx",
-          "publishedOn": "2026-01-02T00:00:00.000Z",
-          "wordCount": 941,
-          "title": "ASP.Net MVC: Print value from Controller in View",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Print-value-from-Controller-in-View.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to print value from controller in view in ASP.Net Core (.Net Core 8) MVC.",
-          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Print-value-from-Controller-in-View.aspx",
-          "publishedOn": "2026-01-02T00:00:00.000Z",
-          "wordCount": 955,
-          "title": "ASP.Net Core: Print value from Controller in View",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Gridview-inside-Gridview-in-ASPNet-using-C-and-VBNet.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how implement GridView inside GridView in ASP.Net using C# and VB.Net.",
-          "link": "https://aspsnippets.com/Articles/Gridview-inside-Gridview-in-ASPNet-using-C-and-VBNet.aspx",
-          "publishedOn": "2025-12-31T00:00:00.000Z",
-          "wordCount": 1386,
-          "title": "Gridview inside Gridview in ASP.Net using C# and VB.Net",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-GridView-Group-Header-Row-Columns-and-display-Multiple-Columns-under-Single-Column.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to group GridView Header Row Column Cells and display Multiple Columns under Single Column in ASP.Net.",
-          "link": "https://aspsnippets.com/Articles/ASPNet-GridView-Group-Header-Row-Columns-and-display-Multiple-Columns-under-Single-Column.aspx",
-          "publishedOn": "2025-12-31T00:00:00.000Z",
-          "wordCount": 1288,
-          "title": "ASP.Net GridView: Group Header Row Columns and display Multiple Columns under Single Column",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         }
       ]
@@ -1508,7 +1468,7 @@
           "publishedOn": "2026-01-03T01:04:25.000Z",
           "wordCount": 6684,
           "title": "Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 8",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767405909"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3915",
@@ -1518,7 +1478,7 @@
           "publishedOn": "2025-12-27T18:51:49.000Z",
           "wordCount": 6896,
           "title": "Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 7",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767405909"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3903",
@@ -1538,7 +1498,7 @@
           "publishedOn": "2025-12-26T13:21:28.000Z",
           "wordCount": 4828,
           "title": "Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 5",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767405909"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3867",
@@ -1548,7 +1508,7 @@
           "publishedOn": "2025-12-25T22:52:50.000Z",
           "wordCount": 4710,
           "title": "Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 4",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767405909"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3859",
@@ -1558,7 +1518,7 @@
           "publishedOn": "2025-12-25T21:46:31.000Z",
           "wordCount": 4534,
           "title": "Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 3",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767405909"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3841",
@@ -1568,7 +1528,7 @@
           "publishedOn": "2025-12-25T21:06:38.000Z",
           "wordCount": 4482,
           "title": "Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 2",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767405909"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3832",
@@ -1578,7 +1538,7 @@
           "publishedOn": "2025-12-25T19:12:00.000Z",
           "wordCount": 4364,
           "title": "Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 1",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767405909"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3819",
@@ -1588,7 +1548,7 @@
           "publishedOn": "2025-12-08T11:03:50.000Z",
           "wordCount": 4571,
           "title": "EF Core 10 on the .NET 10 Runtime, high-Performance Bulk Updates with ExecuteUpdate & ExecuteDelete",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767405909"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3795",
@@ -1598,7 +1558,7 @@
           "publishedOn": "2025-12-07T22:04:00.000Z",
           "wordCount": 4598,
           "title": "Database Sharding Explained: The Moment a Database Stops Scaling Up and Must Scale Out",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767405909"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3760",
@@ -1618,7 +1578,7 @@
           "publishedOn": "2025-12-06T13:48:56.000Z",
           "wordCount": 4950,
           "title": "From Data to Decisions: A Deep Practical Introduction to Machine Learning",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767405909"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3730",
@@ -1628,7 +1588,7 @@
           "publishedOn": "2025-12-05T08:52:10.000Z",
           "wordCount": 4637,
           "title": "Choosing Between Dapper and Entity Framework",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767405909"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767489987"
         }
       ]
     },
@@ -1636,12 +1596,6 @@
       "title": "OdeToCode by K. Scott Allen",
       "feedUrl": "https://feeds.feedburner.com/OdeToCode",
       "siteUrl": null,
-      "articles": []
-    },
-    {
-      "title": "DOTNET CATCH – Blogging .NET, C# and DevOps topics.",
-      "feedUrl": "https://www.dotnetcatch.com/feed/",
-      "siteUrl": "https://www.dotnetcatch.com",
       "articles": []
     },
     {
