@@ -27,7 +27,7 @@
           "description": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.\nThank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/thank-you-2025-edition/",
           "publishedOn": "2025-12-23T15:52:53.000Z",
-          "wordCount": 3084,
+          "wordCount": 3164,
           "title": "Thank You (2025 Edition)",
           "enclosure": {
             "url": "http://css-tricks.com/wp-content/uploads/2025/12/almanac-scroll-animation.mov",
@@ -214,7 +214,7 @@
           "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
           "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
           "publishedOn": "2025-12-23T10:00:00.000Z",
-          "wordCount": 4636,
+          "wordCount": 4640,
           "title": "Giving Users A Voice Through Virtual Personas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
@@ -244,7 +244,7 @@
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
           "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "publishedOn": "2025-12-17T10:00:00.000Z",
-          "wordCount": 4944,
+          "wordCount": 4943,
           "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
@@ -274,7 +274,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4602,
+          "wordCount": 4597,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -289,7 +289,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4441,
+          "wordCount": 4438,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -304,7 +304,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6877,
+          "wordCount": 6882,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -456,16 +456,6 @@
           "wordCount": 458,
           "title": "Things That Caught My Attention Last Week - December 8",
           "imageUrl": null
-        },
-        {
-          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-december-1",
-          "author": null,
-          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
-          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-december-1",
-          "publishedOn": "2025-12-05T00:00:00.000Z",
-          "wordCount": 523,
-          "title": "Things That Caught My Attention Last Week - December 1",
-          "imageUrl": null
         }
       ]
     },
@@ -497,7 +487,7 @@
           "description": "In the last few months my Markdown Monster Application Insights log has been inundated with a hard failure for lookups of a \\\\.\\nul device error. In my  logs this shows up as an error like this:\n\nFigure 1 - Null device errors in the Application Insight logs\nThis error started creeping up in my logs a few months ago, and since then has gotten more frequent. The error always occurs in the same location in the code and it's related to the File and Folder Browser in MM that displays the files available on the file system.\n\nFigure 2 - The File and Folder Browser in Markdown Monster that is the target of the error\nThis is a generic file browser, so it's very susceptible to all sorts of oddball user configurations and mis-configurations and this particular error likely is of the latter kind. Howe…",
           "link": "https://weblog.west-wind.com/posts/2025/Dec/08/What-the-heck-is-a-nul-path-and-why-is-it-breaking-my-Directory-Files-Lookup",
           "publishedOn": "2025-12-08T23:15:18.000Z",
-          "wordCount": 2205,
+          "wordCount": 2201,
           "title": "What the heck is a `\\\\.\\nul` path and why is it breaking my Directory Files Lookup?",
           "imageUrl": "https://weblog.west-wind.com/images/2025/What-the-heck-is-a-nul-path-and-why-is-it-breaking-my-Directory-Files-Lookup/NullDeviceBanner.jpg"
         }
@@ -509,21 +499,11 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
-          "id": "stories/736815",
-          "author": null,
-          "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
-          "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-          "publishedOn": "2026-01-04T02:29:10.865Z",
-          "wordCount": 3628,
-          "title": "Azure updates for partners: December 2025",
-          "imageUrl": "https://partner.microsoft.com/-/media/mssc/mpn/partner/saas-solution-guide/saas-solution-guide.jpg"
-        },
-        {
           "id": "stories/734797",
           "author": null,
           "description": "Version 6.0.0 of Cake has been released. Take it for a spin and give us feedback on our discussion board. This release includes new features, improvements and bug fixes to Cake Scripting, Cake Frosting, and the new Cake.Sdk runner since the Cake v5.1.0 release!",
           "link": "https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released",
-          "publishedOn": "2026-01-04T02:29:10.517Z",
+          "publishedOn": "2026-01-05T02:28:40.292Z",
           "wordCount": 1289,
           "title": "Cake v6.0.0 released",
           "imageUrl": null
@@ -533,18 +513,38 @@
           "author": null,
           "description": "Learn how to implement age verification in your .NET MAUI apps with our new cross-platform sample supporting Google Play Age Signals, Apple Declared Age Range, and Windows Age Consent APIs.",
           "link": "https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/",
-          "publishedOn": "2026-01-04T02:29:06.627Z",
+          "publishedOn": "2026-01-05T02:28:38.498Z",
           "wordCount": null,
           "title": "Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog",
           "imageUrl": null
+        },
+        {
+          "id": "stories/736946",
+          "author": null,
+          "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
+          "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
+          "publishedOn": "2026-01-05T02:28:38.436Z",
+          "wordCount": 2340,
+          "title": "Joe Dluzen on Azure Functions & Durable Functions",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/735675",
+          "author": null,
+          "description": "Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...",
+          "link": "https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
+          "publishedOn": "2026-01-05T02:28:38.080Z",
+          "wordCount": 4040,
+          "title": "Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions",
+          "imageUrl": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/Automatically-Signing-a-Windows-EXE-with_D0BE/image_thumb%5B1%5D.png"
         },
         {
           "id": "stories/737117",
           "author": null,
           "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
           "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
-          "publishedOn": "2026-01-04T02:29:06.554Z",
-          "wordCount": 3388,
+          "publishedOn": "2026-01-05T02:28:37.884Z",
+          "wordCount": 3397,
           "title": "Azure Functions & Durable Functions Part 1",
           "imageUrl": null
         },
@@ -553,19 +553,29 @@
           "author": null,
           "description": "Mark Heath's Development Blog",
           "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
-          "publishedOn": "2026-01-04T02:29:06.443Z",
+          "publishedOn": "2026-01-05T02:28:37.631Z",
           "wordCount": 1500,
           "title": "2025 Year in Review",
           "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
         },
         {
-          "id": "stories/736946",
+          "id": "stories/736815",
           "author": null,
-          "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
-          "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
-          "publishedOn": "2026-01-04T02:29:06.326Z",
-          "wordCount": 2337,
-          "title": "Joe Dluzen on Azure Functions & Durable Functions",
+          "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
+          "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
+          "publishedOn": "2026-01-05T02:28:37.340Z",
+          "wordCount": 3628,
+          "title": "Azure updates for partners: December 2025",
+          "imageUrl": "https://partner.microsoft.com/-/media/mssc/mpn/partner/saas-solution-guide/saas-solution-guide.jpg"
+        },
+        {
+          "id": "stories/737522",
+          "author": null,
+          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
+          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
+          "publishedOn": "2026-01-05T02:28:37.124Z",
+          "wordCount": 2253,
+          "title": "Learning AI",
           "imageUrl": null
         },
         {
@@ -573,20 +583,30 @@
           "author": null,
           "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
           "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
-          "publishedOn": "2026-01-04T02:29:06.168Z",
+          "publishedOn": "2026-01-05T02:28:37.013Z",
           "wordCount": null,
           "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
           "imageUrl": null
         },
         {
-          "id": "stories/735675",
+          "id": "stories/737559",
           "author": null,
-          "description": "Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...",
-          "link": "https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
-          "publishedOn": "2026-01-04T02:28:54.192Z",
-          "wordCount": 4040,
-          "title": "Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions",
-          "imageUrl": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/Automatically-Signing-a-Windows-EXE-with_D0BE/image_thumb%5B1%5D.png"
+          "description": "At least professionally, I tend to be mostly focused on what's next on the road map or upcoming client work or long planned strategic improvements to the Critter Stack (Marten and Wolverine). One of the things I do every year is to write out a blog post stating the technical goals for the OSS projects...",
+          "link": "https://dotnetkicks.com/r/737559?url=https://jeremydmiller.com/2026/01/04/critter-stack-and-jasperfx-retrospective-for-2025/",
+          "publishedOn": "2026-01-05T02:03:56.000Z",
+          "wordCount": 5450,
+          "title": "Critter Stack and JasperFx Retrospective for 2025",
+          "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2021/09/cropped-banner.png"
+        },
+        {
+          "id": "stories/737508",
+          "author": null,
+          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Top .NET Videos & Live Streams of 2025 - .NET Blog Top .NET Blog Posts of 2025 - .NET Blog Java at Microsoft: 2025 Year in Review - Microsoft for Java Developers https://bsky.app/profile/tunaxor.me/post/3mbdl6vsbs222 Videos C# Source Generators - Why and How...",
+          "link": "https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/",
+          "publishedOn": "2026-01-03T21:36:19.000Z",
+          "wordCount": 4440,
+          "title": "F# Weekly #1, 2026 - Kipo &amp; future of MonoGame",
+          "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2026/01/thumbnail.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "stories/737376",
@@ -634,7 +654,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News F# Advent Calendar in English 2025 - Sergey Tihon's Blog How AI fixed my procrastination - Visual Studio Blog Videos Electrifying Norway with F# and DDD - Almir Mesic | Lambda Days 2025 Going functional and immutable: Refactoring solution (...)",
           "link": "https://dotnetkicks.com/r/737174?url=https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/",
           "publishedOn": "2025-12-28T08:50:20.000Z",
-          "wordCount": 4532,
+          "wordCount": 4544,
           "title": "F# Weekly #52, 2025 - Happy New Year",
           "imageUrl": "https://sergeytihon.com/wp-content/uploads/2025/11/bafkreibajrsugxixsxkenxcbnr6bd2ottlebdq53jpxoubgf72omchnzyq.jpg"
         },
@@ -764,7 +784,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET 10 Networking Improvements - .NET Blog Microsoft Learn MCP Server Elevates Development - .NET Blog Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog Making Windows Terminal awesome with GitHub Copilot CLI - Microsoft for Developers Join us...",
           "link": "https://dotnetkicks.com/r/736573?url=https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/",
           "publishedOn": "2025-12-13T23:01:24.000Z",
-          "wordCount": 4733,
+          "wordCount": 4734,
           "title": "F# Weekly #50, 2025 - Making of A Programming Language",
           "imageUrl": "https://sergeytihon.com/wp-content/uploads/2025/12/bafkreih2zzlqitjyiy3wnsbjnl3mfupxc2jejn6l7kwx3z6foicprdpszy.jpg"
         },
@@ -844,7 +864,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog Introducing Data Ingestion Building Blocks (Preview) - .NET Blog Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog Unlocking the Power of...",
           "link": "https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/",
           "publishedOn": "2025-12-06T19:47:51.000Z",
-          "wordCount": 4680,
+          "wordCount": 4681,
           "title": "F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F#",
           "imageUrl": "https://sergeytihon.com/wp-content/uploads/2025/12/bafkreiagjmfbzmmfhbcoffczr445gywhse6z6r33abbmjxzek5r2awe6vy.jpg"
         },
@@ -857,26 +877,6 @@
           "wordCount": 3603,
           "title": "How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog",
           "imageUrl": "https://www.microsoft.com/en-us/sql-server/blog/wp-content/uploads/2018/08/cropped-microsoft_logo_element.png"
-        },
-        {
-          "id": "stories/736077",
-          "author": null,
-          "description": "I was helping a new JasperFx Software client this week to best integrate a Domain Events strategy into their new Wolverine codebase. This client wanted to use the common model of using an EF Core DbContext to harvest domain events raised by different entities and relay those to Wolverine messaging with proper Wolverine transactional outbox...",
-          "link": "https://dotnetkicks.com/r/736077?url=https://jeremydmiller.com/2025/12/04/classic-net-domain-events-with-wolverine-and-ef-core/",
-          "publishedOn": "2025-12-05T03:30:20.000Z",
-          "wordCount": 7318,
-          "title": "\"Classic\" .NET Domain Events with Wolverine and EF Core",
-          "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2025/12/image-1.png"
-        },
-        {
-          "id": "stories/736049",
-          "author": null,
-          "description": "NET Conf 2025 is over, but you can catch up with all the announcements and fun with video recordings, slides, demos, and more.",
-          "link": "https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/",
-          "publishedOn": "2025-12-04T18:05:00.000Z",
-          "wordCount": 9174,
-          "title": ".NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/dotnet-conf-2025-recap-scaled.webp"
         }
       ]
     },
@@ -886,14 +886,24 @@
       "siteUrl": "https://dotnettips.wordpress.com",
       "articles": [
         {
+          "id": "http://dotnettips.wordpress.com/?p=16008",
+          "author": "dotNetDave",
+          "description": "The excerpt from \"Rock Your Code\" emphasizes the importance of efficient string concatenation in .NET. It highlights the advantages of using the Span type over traditional methods, demonstrating that replacing Substring with AsSpan and leveraging the Concat function significantly enhances performance by 43 times while minimizing memory allocations.",
+          "link": "https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/",
+          "publishedOn": "2026-01-04T07:00:00.000Z",
+          "wordCount": 4426,
+          "title": "Leveraging Span-Based String Concatenation for Improved Performance",
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/12/20251214_1451_futuristic-car-design_remix_01kcf9zfxxfgz80mjq5ja1f4hz.png?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "http://dotnettips.wordpress.com/?p=16090",
           "author": "dotNetDave",
           "description": "Visual Studio 2026 has regressed by removing or disabling key code-quality features, making development more difficult. The Analyze tool suffers from inconsistencies and lack of reliability, while various testing functionalities are also flawed. AI tools like Copilot cannot replace essential code-quality features. Greater MVP involvement and thoughtful updates are needed to enhance the IDE.",
           "link": "https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/",
           "publishedOn": "2026-01-01T07:30:00.000Z",
-          "wordCount": null,
+          "wordCount": 8326,
           "title": "Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/12/20251225_1441_frustrated-developers-desk_simple_compose_01kdbkwt1sf8ka0070m4d307bt.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16002",
@@ -921,9 +931,9 @@
           "description": "Microsoft advises initializing reference type static fields inline to enhance code readability and prevent issues from uninitialized fields. Two patterns are shown: inline initialization and using a static constructor. While both methods do not allocate memory, using a static constructor may slightly improve performance. EditorConfig can check for adherence to this guideline.",
           "link": "https://dotnettips.wordpress.com/2025/12/21/code-it-anyway-you-want-initializing-reference-type-static-fields-inline-for-enhanced-code-readability/",
           "publishedOn": "2025-12-21T07:00:00.000Z",
-          "wordCount": 4453,
+          "wordCount": null,
           "title": "Code It Anyway You Want: Initializing Reference Type Static Fields Inline for Enhanced Code Readability",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/12/20251209_1344_code-readability-enhancement_remix_01kc2a425wfrjsvjs7bhw1t86a.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=15905",
@@ -941,9 +951,9 @@
           "description": "When using immutable collections in .NET, remember that the Add() method creates a new instance rather than mutating the original. Ignoring the return value leads to ineffective loops. Instead, use a builder for efficiency, as it offers faster performance and lower memory allocation while still ensuring immutability in the final result.",
           "link": "https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/",
           "publishedOn": "2025-12-07T07:00:00.000Z",
-          "wordCount": 5603,
+          "wordCount": null,
           "title": "Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2025/11/20251129_1103_immutable-collection-warning_remix_01kb88zvhsf4s9vyqrh6982v0v.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         }
       ]
     },
@@ -1236,12 +1246,22 @@
       "siteUrl": "https://localjoost.github.io/",
       "articles": [
         {
+          "id": "https://localjoost.github.io/MRTK3-apps-on-Apple-Vision-Pro-fixing-the-stuck-to-your-head-issue-(and-more)/",
+          "author": null,
+          "description": "Ah, Unity. The company that was instrumental in me being able to venture into Mixed Reality, the very embodiment of the Silicon Valley motto “move fast and break things”… with unfortunately, emphasis on the second part.",
+          "link": "https://localjoost.github.io/MRTK3-apps-on-Apple-Vision-Pro-fixing-the-stuck-to-your-head-issue-(and-more)/",
+          "publishedOn": "2026-01-03T23:00:00.000Z",
+          "wordCount": 1999,
+          "title": "MRTK3 apps on Apple Vision Pro - fixing the stuck to your head issue (and more)",
+          "imageUrl": null
+        },
+        {
           "id": "https://localjoost.github.io/Controlling-a-Lens-Studio-UIKit-button's-Interactable-behavior/",
           "author": null,
           "description": "In ye olden days - in Lens Studio time units, this is about 8 weeks ago - we used a PinchButton from the Spectacles Interaction Kit to create a button on some kind of menu. This was - and still is - a pretty full-featured component, but all those options made it sometimes a bit hard to use. Enter UIKit, which makes it a lot simpler. You just, for instance, add a UIKit RectangleButton, RoundButton, or CapsuleButton script to a SceneObject, add a text or an icon to it, and you’re done. One button, ready to run.",
           "link": "https://localjoost.github.io/Controlling-a-Lens-Studio-UIKit-button's-Interactable-behavior/",
           "publishedOn": "2025-12-21T23:00:00.000Z",
-          "wordCount": 1201,
+          "wordCount": 1202,
           "title": "Controlling a Lens Studio UIKit button’s Interactable behavior",
           "imageUrl": null
         },
@@ -1251,7 +1271,7 @@
           "description": "In part 1 I described how this component can be used, and I promised to go deeper into the details about how it worked in a follow-up post. This is that post.",
           "link": "https://localjoost.github.io/Dynamic-data-driven-scrollable-button-menu-construction-kit-for-Snap-Spectacles-part-2-how-it-works/",
           "publishedOn": "2025-12-12T23:00:00.000Z",
-          "wordCount": 2290,
+          "wordCount": 2291,
           "title": "Dynamic data-driven scrollable button menu construction kit for Snap Spectacles part 2 - how it works",
           "imageUrl": null
         },
@@ -1261,7 +1281,7 @@
           "description": "If you have played with my Spectacles lens HoloATC you might have noticed the start menu with a scrollable list of buttons, which allows you to choose airports. This is a dynamic menu, that gets its data by downloading it from a service on Microsoft Azure. A list of data is dynamically translated into a scrollable list of buttons. I have turned that into a reusable and extendable component - well, more like a construction kit - that you can plug into your own lens for use.",
           "link": "https://localjoost.github.io/Dynamic-data-driven-scrollable-button-menu-construction-kit-for-Snap-Spectacles-part-1-usage/",
           "publishedOn": "2025-12-08T23:00:00.000Z",
-          "wordCount": 1703,
+          "wordCount": 1704,
           "title": "Dynamic data-driven scrollable button menu construction kit for Snap Spectacles part 1 - usage",
           "imageUrl": null
         },
@@ -1271,7 +1291,7 @@
           "description": "Yet another small thing, this time to solve something that annoyed the heck out of me since day one. I really dislike this construction that you have to use when you have to get a reference to a component from a SceneObject",
           "link": "https://localjoost.github.io/Getting-components-by-their-base-class-name-in-Lens-Studio/",
           "publishedOn": "2025-12-06T23:00:00.000Z",
-          "wordCount": 1079,
+          "wordCount": 1080,
           "title": "Getting components by their base class name in Lens Studio",
           "imageUrl": null
         },
@@ -1281,7 +1301,7 @@
           "description": "A short and small one, but one that is very useful for quick proof of concepts and/orhackatons - and Snap likes to organize those at the moment. If you are working with multiple people at a such high paced short interations project, scene stucture tends to change a lot, breaking references to objects in the scene, and sending your project into havoc at every commit or pull - not to mention your nerves and the team spirit. There are, however, in the Spectacles Interaction Kit, a few functions that allow you to quickly find objects in the scene from code by name or type rather than referencing by @input fields, and obtains references that way: findSceneObjectByName findComponentInChildren findAllComponentsInChildren findScriptComponentInChildren findAllScriptComponentsInChildren findComponentInParents findAllComponentsInParents findScriptComponentInParents findComponentInSelfOrParents findAllScriptComponentsInSelfOrParents",
           "link": "https://localjoost.github.io/Finding-all-script-components-of-a-type-in-a-Lens-Studio-scene/",
           "publishedOn": "2025-12-05T23:00:00.000Z",
-          "wordCount": 1216,
+          "wordCount": 1220,
           "title": "Finding all script components of a type in a Lens Studio scene",
           "imageUrl": null
         }
@@ -1299,12 +1319,22 @@
       "siteUrl": "https://jaliyaudagedara.blogspot.com/",
       "articles": [
         {
+          "id": "https://jaliyaudagedara.blogspot.com/2026/01/sending-emails-using-azure.html",
+          "author": null,
+          "description": "In this post, let's see how to send emails using\n  Azure Communication Services (ACS) in a .NET application. With\n  SendGrid's free tier being discontinued, ACS has become an attractive\n  alternative for sending transactional emails from Azure-hosted applications.\n\n\n  First, you need to create two resources in Azure:\n  \n    \n      \n        \n          Email Communication Services&nbsp;- This",
+          "link": "https://jaliyaudagedara.blogspot.com/2026/01/sending-emails-using-azure.html",
+          "publishedOn": "2026-01-04T10:01:00.000Z",
+          "wordCount": 4552,
+          "title": "Sending Emails using Azure Communication Services in .NET",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjCptZCla9oxiw9QsRu3by4-b5ErvmAvDqAALyJwWM08VvWIq4lGe0kSHgFxKlEnguCIxF8K0dJbzcugLM2vguJMPHXAwwTY9HpjyRvnpXIelC_mBumgcIuHePNRvvNxQFITsdI_Yz6cFdi3pc-pgBzRgTfAKd6IIUk5sS32nXKEop-J91VzNmtgI2R4Jw=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://jaliyaudagedara.blogspot.com/2025/12/content-understanding-studio-adding.html",
           "author": null,
           "description": "I had a fresh Microsoft Foundry resource created and when attempting to add\n    the resource into Content Understanding Studio, I made sure to check \"Enable auto-deployment for required models if no defaults are\n      available.\"\n  \n  \n    Content Understanding Studio: Add new connected resource\n      \n    \n  \n  \n    But I was still getting the following error.\n  \n\n\n  Content",
           "link": "https://jaliyaudagedara.blogspot.com/2025/12/content-understanding-studio-adding.html",
           "publishedOn": "2025-12-24T11:55:00.001Z",
-          "wordCount": 4245,
+          "wordCount": 4253,
           "title": "Content Understanding Studio: Adding Microsoft Foundry Resource: Defaults have not yet been set Error",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg3ZCAbMfYgGq3RnBFWR4MMhQxUHLrbn5mRB8o4ZZkqZDYeaUAHejVXOE87l3hMbMwOPl1SQqyb0HQOJfYaJQo-5-wyFHMhdgWLkqRhxb7Ll7t67otbJy7IJfdDCirjI2ooHL-P_NlISHZqkbWrnr4N3-D9r5uKIBPjhhOjqGY_TE83Vjw8mHXj3j1ABOY=w1200-h630-p-k-no-nu"
         },
@@ -1314,7 +1344,7 @@
           "description": "When working with MongoDB, having a reliable GUI tool makes all the difference. Studio 3T has been my go-to tool for years, and it obviously works seamlessly with MongoDB. And most importantly, it works very well with Azure Cosmos DB for MongoDB.There are several MongoDB GUI tools available, but Studio 3T stands out for a few reasons:Visual Query Builder: Build queries visually if you prefer not",
           "link": "https://jaliyaudagedara.blogspot.com/2025/12/studio-3t-and-azure-cosmos-db-for.html",
           "publishedOn": "2025-12-22T11:13:00.000Z",
-          "wordCount": 4239,
+          "wordCount": 4245,
           "title": "Studio 3T and Azure Cosmos DB for MongoDB",
           "imageUrl": null
         },
@@ -1324,7 +1354,7 @@
           "description": "DefaultAzureCredential&nbsp;is the recommended approach for authenticating with Azure services,\n    and in most cases, we rarely rely on access keys anymore, authentication is\n    typically handled through managed identities.\n  \n  \n  \n    However, during local development, when authentication falls back to the\n    developer’s user account, this can occasionally introduce unexpected",
           "link": "https://jaliyaudagedara.blogspot.com/2025/12/defaultazurecredential-troubleshooting.html",
           "publishedOn": "2025-12-18T10:08:00.002Z",
-          "wordCount": 4239,
+          "wordCount": 4245,
           "title": "DefaultAzureCredential: Troubleshooting Local Development Issues",
           "imageUrl": null
         },
@@ -1334,7 +1364,7 @@
           "description": "In this post, let's have a look at how to run Azure Functions locally with Production app settings and why some explicit configuration is required compared to ASP.NET Core applications.When developing Azure Functions, you might want to test your function app locally using Production configuration. This is a common requirement when you want to verify settings before deployment or troubleshoot",
           "link": "https://jaliyaudagedara.blogspot.com/2025/12/azure-functions-running-with-production.html",
           "publishedOn": "2025-12-15T10:29:00.000Z",
-          "wordCount": 4315,
+          "wordCount": 4321,
           "title": "Azure Functions: Running with Production App Settings Locally",
           "imageUrl": null
         }
@@ -1461,14 +1491,24 @@
       "siteUrl": "https://dotnetstories.wordpress.com",
       "articles": [
         {
+          "id": "http://dotnetstories.wordpress.com/?p=4015",
+          "author": "fofo",
+          "description": "Pagination is not a UI trick, it’s an application-level concern. In Part 9, we implement real pagination in a .NET 10 Clean Architecture application using EF Core, reusable paging contracts, and a paginated Orders API consumed consistently across layers.",
+          "link": "https://dotnetstories.wordpress.com/2026/01/04/creating-a-net-10-application-with-clean-architecture-a-practical-multi-part-guide-part-9/",
+          "publishedOn": "2026-01-04T15:31:55.000Z",
+          "wordCount": 4847,
+          "title": "Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 9",
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767580086"
+        },
+        {
           "id": "http://dotnetstories.wordpress.com/?p=3952",
           "author": "fofo",
           "description": "In Part 8 we add a dedicated ASP.NET Core MVC WebApp that consumes our Clean Architecture API. We introduce typed HttpClients, Razor Views, pagination UI, and optimistic concurrency handling, demonstrating how a real client interacts with the API without violating architectural boundaries or leaking persistence concerns.",
           "link": "https://dotnetstories.wordpress.com/2026/01/03/creating-a-net-10-application-with-clean-architecture-a-practical-multi-part-guide-part-8/",
           "publishedOn": "2026-01-03T01:04:25.000Z",
-          "wordCount": 6684,
+          "wordCount": 6691,
           "title": "Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 8",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767580086"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3915",
@@ -1476,9 +1516,9 @@
           "description": "Part 7 upgrades our Clean Architecture sample with production-grade patterns: FluentValidation for consistent input validation, explicit EF Core transactions for atomic writes, optimistic concurrency using RowVersion, and reliable domain-event publishing via the Outbox pattern. These additions make the system safer under real traffic and failure scenarios, without sacrificing architecture boundaries.",
           "link": "https://dotnetstories.wordpress.com/2025/12/27/creating-a-net-10-application-with-clean-architecture-a-practical-multi-part-guide-part-7/",
           "publishedOn": "2025-12-27T18:51:49.000Z",
-          "wordCount": 6896,
+          "wordCount": 6917,
           "title": "Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 7",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767580086"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3903",
@@ -1579,16 +1619,6 @@
           "wordCount": 4950,
           "title": "From Data to Decisions: A Deep Practical Introduction to Machine Learning",
           "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767493718"
-        },
-        {
-          "id": "http://dotnetstories.wordpress.com/?p=3730",
-          "author": "fofo",
-          "description": "Choosing between Dapper and Entity Framework isn’t about speed alone, it’s about architectural fit. This deep technical analysis breaks down performance, memory usage, productivity trade-offs, and real-world enterprise patterns to help .NET developers make the right data-access choice for their systems.",
-          "link": "https://dotnetstories.wordpress.com/2025/12/05/choosing-between-dapper-and-entity-framework/",
-          "publishedOn": "2025-12-05T08:52:10.000Z",
-          "wordCount": 4637,
-          "title": "Choosing Between Dapper and Entity Framework",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1767489987"
         }
       ]
     },
@@ -1596,6 +1626,12 @@
       "title": "OdeToCode by K. Scott Allen",
       "feedUrl": "https://feeds.feedburner.com/OdeToCode",
       "siteUrl": null,
+      "articles": []
+    },
+    {
+      "title": "DOTNET CATCH – Blogging .NET, C# and DevOps topics.",
+      "feedUrl": "https://www.dotnetcatch.com/feed/",
+      "siteUrl": "https://www.dotnetcatch.com",
       "articles": []
     },
     {
@@ -1660,16 +1696,6 @@
           "publishedOn": "2025-12-11T08:00:00.000Z",
           "wordCount": 987,
           "title": "Introducing the MLX Integration Library for Agent Framework",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.strathweb.com/2025/12/slm-default-llm-fallback-pattern-with-agent-framework-and-azure-ai-foundry/",
-          "author": null,
-          "description": "When building AI workflows, we often face a choice: do we use a massive, expensive cloud model for everything (to ensure best reasoning capabilities), or do we cut costs with a smaller local model (and risk hallucinations)? In this post, we’ll explore a “best of both worlds” architecture, as described in the recent survey “Small Language Models for Agentic Systems” Sharma & Mehta, 2025.\nWe call this the “SLM-default, LLM-fallback” pattern. The premise is simple: route all queries to a fast, private, on-device Small Language Model (SLM) first. Only if that model cannot confidently answer the query, do we escalate the request to a paid cloud model (LLM).",
-          "link": "https://www.strathweb.com/2025/12/slm-default-llm-fallback-pattern-with-agent-framework-and-azure-ai-foundry/",
-          "publishedOn": "2025-12-05T08:00:00.000Z",
-          "wordCount": 2366,
-          "title": "SLM-default, LLM-fallback pattern with Agent Framework and Azure AI Foundry",
           "imageUrl": null
         }
       ]
