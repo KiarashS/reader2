@@ -14,11 +14,11 @@
         {
           "id": "https://css-tricks.com/?p=391705",
           "author": "Daniel Schwarz",
-          "description": "Chrome 144 recently shipped ::search-text, which is now one of several highlight-related pseudo-elements. This one selects find-in-page text, which is the text that gets highlighted when you do a Ctrl/Command + F-type search for something on a page and matches are found.\nHow to Style the New ::search-text and Other Highlight-y Pseudo-Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "The new ::search-text pseudo (Chrome 144) matches are yellow while the current target (::search-text:current) is orange, but ::search-text enables us to change that.\nStyling ::search-text and Other Highlight-y Pseudo-Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/",
           "publishedOn": "2026-01-28T15:08:04.000Z",
-          "wordCount": 2137,
-          "title": "How to Style the New ::search-text and Other Highlight-y Pseudo-Elements",
+          "wordCount": 2103,
+          "title": "Styling ::search-text and Other Highlight-y Pseudo-Elements",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-21-at-10.28.07-AM.mov",
             "length": "6902193",
@@ -32,7 +32,7 @@
           "description": "Stu Robson's ReliCSS (clever name!) tool can excavate outdated CSS in your codebase that have modern CSS solutions.\nReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/relicss/",
           "publishedOn": "2026-01-28T13:25:00.000Z",
-          "wordCount": 1277,
+          "wordCount": 1308,
           "title": "ReliCSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/relicss-audit.webp"
         },
@@ -42,7 +42,7 @@
           "description": "Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).\nThere is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
           "publishedOn": "2026-01-26T15:02:27.000Z",
-          "wordCount": 1880,
+          "wordCount": 2449,
           "title": "There is No Need to Trap Focus on a Dialog Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/04/tab-key.png"
         },
@@ -52,7 +52,7 @@
           "description": "A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!\nResponsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/responsive-hexagon-grid-using-modern-css/",
           "publishedOn": "2026-01-23T14:39:56.000Z",
-          "wordCount": 3090,
+          "wordCount": 3108,
           "title": "Responsive Hexagon Grid Using Modern CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/hexagon-grid.png"
         },
@@ -164,7 +164,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5818,
+          "wordCount": 5826,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -179,7 +179,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6453,
+          "wordCount": 6449,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -194,7 +194,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5114,
+          "wordCount": 5108,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -209,7 +209,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5357,
+          "wordCount": 5363,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -254,7 +254,7 @@
           "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.",
           "link": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
           "publishedOn": "2026-01-07T10:00:00.000Z",
-          "wordCount": 5452,
+          "wordCount": 5445,
           "title": "Pivoting Your Career Without Starting From Scratch",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pivoting-career-without-starting-from-scratch/pivoting-career-without-starting-from-scratch.jpg",
@@ -269,7 +269,7 @@
           "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get your desktop ready for the new year? We’ve got you covered.",
           "link": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
           "publishedOn": "2025-12-31T09:00:00.000Z",
-          "wordCount": 4766,
+          "wordCount": 4756,
           "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -277,21 +277,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Practical UX guidelines to keep in mind for 466 million people who experience hearing loss. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/",
-          "publishedOn": "2025-12-30T10:00:00.000Z",
-          "wordCount": 4103,
-          "title": "How To Design For (And With) Deaf People",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-design-for-with-deaf-people/how-design-for-with-deaf-people.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-design-for-with-deaf-people/how-design-for-with-deaf-people.jpg"
         }
       ]
     },
@@ -487,21 +472,11 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
-          "id": "stories/736815",
-          "author": null,
-          "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
-          "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-          "publishedOn": "2026-01-29T02:38:53.158Z",
-          "wordCount": 2389,
-          "title": "Azure updates for partners: December 2025",
-          "imageUrl": "https://partner.microsoft.com/-/media/mssc/mpn/partner/saas-solution-guide/saas-solution-guide.jpg"
-        },
-        {
           "id": "stories/735789",
           "author": null,
           "description": "Learn how to implement age verification in your .NET MAUI apps with our new cross-platform sample supporting Google Play Age Signals, Apple Declared Age Range, and Windows Age Consent APIs.",
           "link": "https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/",
-          "publishedOn": "2026-01-29T02:38:52.423Z",
+          "publishedOn": "2026-01-30T02:39:02.376Z",
           "wordCount": null,
           "title": "Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog",
           "imageUrl": null
@@ -511,7 +486,7 @@
           "author": null,
           "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
           "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
-          "publishedOn": "2026-01-29T02:38:51.928Z",
+          "publishedOn": "2026-01-30T02:39:02.353Z",
           "wordCount": null,
           "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
           "imageUrl": null
@@ -521,7 +496,7 @@
           "author": null,
           "description": "I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.",
           "link": "https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/",
-          "publishedOn": "2026-01-29T02:38:51.911Z",
+          "publishedOn": "2026-01-30T02:39:02.299Z",
           "wordCount": null,
           "title": "Fundamentals of AI",
           "imageUrl": null
@@ -531,99 +506,9 @@
           "author": null,
           "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
           "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
-          "publishedOn": "2026-01-29T02:38:51.798Z",
+          "publishedOn": "2026-01-30T02:39:02.298Z",
           "wordCount": null,
           "title": "Logo?",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/735675",
-          "author": null,
-          "description": "Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...",
-          "link": "https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
-          "publishedOn": "2026-01-29T02:38:51.413Z",
-          "wordCount": 4040,
-          "title": "Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions",
-          "imageUrl": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/Automatically-Signing-a-Windows-EXE-with_D0BE/image_thumb%5B1%5D.png"
-        },
-        {
-          "id": "stories/737522",
-          "author": null,
-          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
-          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
-          "publishedOn": "2026-01-29T02:38:48.671Z",
-          "wordCount": 2369,
-          "title": "Learning AI",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737816",
-          "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
-          "publishedOn": "2026-01-29T02:38:48.616Z",
-          "wordCount": 945,
-          "title": "EF Core Lazy Loading Performance Gotcha",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
-        },
-        {
-          "id": "stories/737117",
-          "author": null,
-          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
-          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
-          "publishedOn": "2026-01-29T02:38:48.535Z",
-          "wordCount": 3505,
-          "title": "Azure Functions & Durable Functions Part 1",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737343",
-          "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
-          "publishedOn": "2026-01-29T02:38:48.310Z",
-          "wordCount": 1500,
-          "title": "2025 Year in Review",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
-        },
-        {
-          "id": "stories/736946",
-          "author": null,
-          "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
-          "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
-          "publishedOn": "2026-01-29T02:38:47.518Z",
-          "wordCount": 2897,
-          "title": "Joe Dluzen on Azure Functions & Durable Functions",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738621",
-          "author": null,
-          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
-          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
-          "publishedOn": "2026-01-29T02:38:47.017Z",
-          "wordCount": 2376,
-          "title": "Essential Programmer Utilities",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738475",
-          "author": null,
-          "description": "As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).",
-          "link": "https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/",
-          "publishedOn": "2026-01-29T02:38:46.988Z",
-          "wordCount": 2025,
-          "title": "An AI Project",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738494",
-          "author": null,
-          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
-          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
-          "publishedOn": "2026-01-29T02:38:46.744Z",
-          "wordCount": 2082,
-          "title": "CoPilot Gets Us Started",
           "imageUrl": null
         },
         {
@@ -631,9 +516,109 @@
           "author": null,
           "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
           "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
-          "publishedOn": "2026-01-29T02:38:46.036Z",
+          "publishedOn": "2026-01-30T02:39:00.943Z",
           "wordCount": 1955,
           "title": "HyperVideo Features",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737522",
+          "author": null,
+          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
+          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
+          "publishedOn": "2026-01-30T02:39:00.735Z",
+          "wordCount": 2369,
+          "title": "Learning AI",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/736815",
+          "author": null,
+          "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
+          "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
+          "publishedOn": "2026-01-30T02:39:00.698Z",
+          "wordCount": 3572,
+          "title": "Azure updates for partners: December 2025",
+          "imageUrl": "https://partner.microsoft.com/-/media/mssc/mpn/partner/saas-solution-guide/saas-solution-guide.jpg"
+        },
+        {
+          "id": "stories/735675",
+          "author": null,
+          "description": "Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...",
+          "link": "https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
+          "publishedOn": "2026-01-30T02:38:59.928Z",
+          "wordCount": 4040,
+          "title": "Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions",
+          "imageUrl": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/Automatically-Signing-a-Windows-EXE-with_D0BE/image_thumb%5B1%5D.png"
+        },
+        {
+          "id": "stories/738475",
+          "author": null,
+          "description": "As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).",
+          "link": "https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/",
+          "publishedOn": "2026-01-30T02:38:59.687Z",
+          "wordCount": 2025,
+          "title": "An AI Project",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737816",
+          "author": null,
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
+          "publishedOn": "2026-01-30T02:38:59.654Z",
+          "wordCount": 945,
+          "title": "EF Core Lazy Loading Performance Gotcha",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+        },
+        {
+          "id": "stories/737343",
+          "author": null,
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
+          "publishedOn": "2026-01-30T02:38:59.645Z",
+          "wordCount": 1500,
+          "title": "2025 Year in Review",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+        },
+        {
+          "id": "stories/738621",
+          "author": null,
+          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
+          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
+          "publishedOn": "2026-01-30T02:38:59.628Z",
+          "wordCount": 2376,
+          "title": "Essential Programmer Utilities",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/738494",
+          "author": null,
+          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
+          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
+          "publishedOn": "2026-01-30T02:38:59.102Z",
+          "wordCount": 2082,
+          "title": "CoPilot Gets Us Started",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737117",
+          "author": null,
+          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
+          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
+          "publishedOn": "2026-01-30T02:38:58.908Z",
+          "wordCount": 3505,
+          "title": "Azure Functions & Durable Functions Part 1",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/736946",
+          "author": null,
+          "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
+          "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
+          "publishedOn": "2026-01-30T02:38:58.323Z",
+          "wordCount": 2897,
+          "title": "Joe Dluzen on Azure Functions & Durable Functions",
           "imageUrl": null
         },
         {
@@ -642,7 +627,7 @@
           "description": "Learn how Microsoft.Extensions.AI provides a unified API for building intelligent .NET applications with any LLM provider - one interface, endless possibilities, with built-in middleware, telemetry, structured outputs and more.",
           "link": "https://dotnetkicks.com/r/739065?url=https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/",
           "publishedOn": "2026-01-28T17:30:00.000Z",
-          "wordCount": 8400,
+          "wordCount": 8735,
           "title": ".NET AI Essentials - The Core Building Blocks Explained - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/01/dotnet-essentials-scaled.webp"
         },
@@ -672,7 +657,7 @@
           "description": "Explore Visual Studio January update for new features that enhance your editor experience and boost your productivity.",
           "link": "https://dotnetkicks.com/r/738956?url=https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/",
           "publishedOn": "2026-01-27T18:30:12.000Z",
-          "wordCount": 7923,
+          "wordCount": 8005,
           "title": "Visual Studio January Update - Enhanced Editor Experience - Visual Studio Blog",
           "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2026/01/VS-Jan-update-scaled.webp"
         },
@@ -742,7 +727,7 @@
           "description": "Marten has very rich support for projecting events into read, write, or query models. While there are other capabilities as well, the most common usage is probably to aggregate related events into a singular view. Marten projections can be executed Live, meaning that Marten does the creation of the view by loading the target events...",
           "link": "https://dotnetkicks.com/r/738612?url=https://jeremydmiller.com/2026/01/22/martens-aggregation-projection-subsystem/",
           "publishedOn": "2026-01-22T11:53:40.000Z",
-          "wordCount": 5756,
+          "wordCount": 5750,
           "title": "Marten's Aggregation Projection Subsystem",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2020/12/banner.png"
         },
@@ -792,7 +777,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Which programming languages are most token-efficient? - Martin Alderson How to Build Android Widgets with .NET MAUI - .NET Blog How We Synchronize .NET's Virtual Monorepo - .NET Blog .NET and .NET Framework January 2026 servicing releases updates - .NET Blog...",
           "link": "https://dotnetkicks.com/r/738375?url=https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/",
           "publishedOn": "2026-01-17T16:12:51.000Z",
-          "wordCount": 4603,
+          "wordCount": 4422,
           "title": "F# Weekly #3, 2026 - Most token-efficient static language?",
           "imageUrl": "https://sergeytihon.com/wp-content/uploads/2026/01/token-efficiency-chart.png"
         },
@@ -812,7 +797,7 @@
           "description": "Microsoft is honored to be named a Leader in the 2025-2026 IDC MarketScape for Unified AI Governance Platforms.",
           "link": "https://dotnetkicks.com/r/738338?url=https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
           "publishedOn": "2026-01-14T17:00:00.000Z",
-          "wordCount": 6416,
+          "wordCount": 6430,
           "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms | Microsoft Security Blog",
           "imageUrl": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/01/Picture2.jpg"
         },
@@ -872,7 +857,7 @@
           "description": "Discover how .NET's Virtual Monolithic Repository synchronizes code across multiple repos, unifying builds with an efficient two‑way flow.",
           "link": "https://dotnetkicks.com/r/737933?url=https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/",
           "publishedOn": "2026-01-12T17:00:00.000Z",
-          "wordCount": 15539,
+          "wordCount": 15874,
           "title": "How We Synchronize .NET's Virtual Monorepo - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/01/how-we-synchronize-dotnets-virtual-monorepo.webp"
         },
@@ -962,7 +947,7 @@
           "description": "At least professionally, I tend to be mostly focused on what's next on the road map or upcoming client work or long planned strategic improvements to the Critter Stack (Marten and Wolverine). One of the things I do every year is to write out a blog post stating the technical goals for the OSS projects...",
           "link": "https://dotnetkicks.com/r/737559?url=https://jeremydmiller.com/2026/01/04/critter-stack-and-jasperfx-retrospective-for-2025/",
           "publishedOn": "2026-01-05T02:03:56.000Z",
-          "wordCount": 5457,
+          "wordCount": 5505,
           "title": "Critter Stack and JasperFx Retrospective for 2025",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2021/09/cropped-banner.png"
         },
@@ -972,7 +957,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Top .NET Videos & Live Streams of 2025 - .NET Blog Top .NET Blog Posts of 2025 - .NET Blog Java at Microsoft: 2025 Year in Review - Microsoft for Java Developers https://bsky.app/profile/tunaxor.me/post/3mbdl6vsbs222 Videos C# Source Generators - Why and How...",
           "link": "https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/",
           "publishedOn": "2026-01-03T21:36:19.000Z",
-          "wordCount": 4446,
+          "wordCount": 4494,
           "title": "F# Weekly #1, 2026 - Kipo &amp; future of MonoGame",
           "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2026/01/thumbnail.jpg?fit=1200%2C675&ssl=1"
         },
@@ -1002,7 +987,7 @@
           "description": "Let's look back at the most-read .NET blog posts published in 2025, from .NET 10 to AI, performance, and developer tooling.",
           "link": "https://dotnetkicks.com/r/737287?url=https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/",
           "publishedOn": "2025-12-30T18:05:00.000Z",
-          "wordCount": 7832,
+          "wordCount": 7497,
           "title": "Top .NET Blog Posts of 2025 - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2025/12/topblogs2025.webp"
         },
@@ -1015,16 +1000,6 @@
           "wordCount": 2313,
           "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
           "imageUrl": "https://hcti.io/v1/image/7be81c8b5d0bf9b99da143ef46f7e3a4bee0428b115460641b424f9e09062eff"
-        },
-        {
-          "id": "stories/737327",
-          "author": null,
-          "description": "Recently, I was chatting with an engineer who was transitioning into a fully remote role for the first time in their career. They were excited, but also had a touch of anxiety about it.",
-          "link": "https://dotnetkicks.com/r/737327?url=https://rion.io/2025/12/30/striking-a-balance-working-fully-remote-for-nearly-a-decade/",
-          "publishedOn": "2025-12-30T10:00:00.000Z",
-          "wordCount": 1730,
-          "title": "Striking a Balance: Working Fully Remote for Nearly a Decade",
-          "imageUrl": "https://cdn.getmidnight.com/eaf3f984c453cc67c8ff9d1f57fc3386/2025/12/IMG_8609.jpeg"
         }
       ]
     },
@@ -1121,103 +1096,103 @@
       "siteUrl": "https://www.aspsnippets.com/RSS.ashx",
       "articles": [
         {
-          "id": "https://aspsnippets.com/Articles/Show-Alert-Message-in-ASPNet-from-Server-Side-using-C-and-VBNet.aspx",
+          "id": "https://aspsnippets.com/Articles/Find-and-get-value-of-TextBox-and-DropDownList-inside-GridView-using-JavaScript-in-ASPNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to display Message Boxes in ASP.Net using JavaScript. With the use of JavaScript alert we can display messages on different types of events in an ASP.Net Web Application.",
-          "link": "https://aspsnippets.com/Articles/Show-Alert-Message-in-ASPNet-from-Server-Side-using-C-and-VBNet.aspx",
-          "publishedOn": "2026-01-24T00:00:00.000Z",
-          "wordCount": 1457,
-          "title": "Show Alert Message in ASP.Net from Server Side using C# and VB.Net",
+          "description": "Here Mudassar Khan has explained how to find, access, get value and validate TextBox and DropDownList controls in GridView row using JavaScript in ASP.Net.",
+          "link": "https://aspsnippets.com/Articles/Find-and-get-value-of-TextBox-and-DropDownList-inside-GridView-using-JavaScript-in-ASPNet.aspx",
+          "publishedOn": "2026-01-29T00:00:00.000Z",
+          "wordCount": 1367,
+          "title": "Find and get value of TextBox and DropDownList inside GridView using JavaScript in ASP.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Display-GridView-Row-details-in-JavaScript-Alert-message-box.aspx",
+          "id": "https://aspsnippets.com/Articles/Display-Bind-data-from-DataTable-in-GridView-in-ASPNet-using-C-and-VBNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to display the details of the GridView Row in JavaScript alert message box when the Button inside the GridView Row is clicked in ASP.Net using C# and VB.Net.",
-          "link": "https://aspsnippets.com/Articles/Display-GridView-Row-details-in-JavaScript-Alert-message-box.aspx",
-          "publishedOn": "2026-01-24T00:00:00.000Z",
-          "wordCount": 1333,
-          "title": "Display GridView Row details in JavaScript Alert message box",
+          "description": "Here Mudassar Khan has explained with an example, how to display (bind) data from DataTable in GridView in ASP.Net using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Display-Bind-data-from-DataTable-in-GridView-in-ASPNet-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-01-29T00:00:00.000Z",
+          "wordCount": 1183,
+          "title": "Display (Bind) data from DataTable in GridView in ASP.Net using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/MessageBoxShow-not-working-in-ASPNet.aspx",
+          "id": "https://aspsnippets.com/Articles/Implement-Free-HTML5-Canvas-charts-using-Chartjs-in-ASPNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, why MessageBox.Show does not work i.e. does not display messages in ASP.Net.",
-          "link": "https://aspsnippets.com/Articles/MessageBoxShow-not-working-in-ASPNet.aspx",
-          "publishedOn": "2026-01-24T00:00:00.000Z",
-          "wordCount": 1442,
-          "title": "MessageBox.Show not working in ASP.Net",
+          "description": "Here Mudassar Khan has explained with an example, how to Implement Free HTML5 Canvas charts using Chart.js in ASP.Net.",
+          "link": "https://aspsnippets.com/Articles/Implement-Free-HTML5-Canvas-charts-using-Chartjs-in-ASPNet.aspx",
+          "publishedOn": "2026-01-29T00:00:00.000Z",
+          "wordCount": 1462,
+          "title": "Implement Free HTML5 Canvas charts using Chart.js in ASP.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Dynamically-add-rows-to-HTML-Table-in-ASPNet-MVC.aspx",
+          "id": "https://aspsnippets.com/Articles/C-Interview-Questions-and-Answers-with-PDF-Download.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to dynamically add rows to HTML Table on Button click using jQuery AJAX in ASP.Net MVC Razor.",
-          "link": "https://aspsnippets.com/Articles/Dynamically-add-rows-to-HTML-Table-in-ASPNet-MVC.aspx",
-          "publishedOn": "2026-01-24T00:00:00.000Z",
-          "wordCount": 1773,
-          "title": "Dynamically add rows to HTML Table in ASP.Net MVC",
+          "description": "In this article I will cover the list of best possible C# Interview Questions and Answers of the C# programming language and explain in as simple language as possible so it becomes understandable by every fellow programmer.",
+          "link": "https://aspsnippets.com/Articles/C-Interview-Questions-and-Answers-with-PDF-Download.aspx",
+          "publishedOn": "2026-01-29T00:00:00.000Z",
+          "wordCount": 2450,
+          "title": "C# Interview Questions and Answers with PDF Download",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Get-WebRootPath-and-ContentRootPath-in-ASPNet-Core.aspx",
+          "id": "https://aspsnippets.com/Articles/Get-Selected-Text-and-Value-inside-DropDownList-SelectedIndexChanged-event-in-ASPNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to get WebRootPath and ContentRootPath in ASP.Net Core (.Net Core 8).",
-          "link": "https://aspsnippets.com/Articles/Get-WebRootPath-and-ContentRootPath-in-ASPNet-Core.aspx",
-          "publishedOn": "2026-01-24T00:00:00.000Z",
-          "wordCount": 1012,
-          "title": "Get WebRootPath and ContentRootPath in ASP.Net Core",
+          "description": "Here Mudassar Khan has explained with an example, how to get the selected Text and Value of DropDownList inside SelectedIndexChanged event in ASP.Net using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Get-Selected-Text-and-Value-inside-DropDownList-SelectedIndexChanged-event-in-ASPNet.aspx",
+          "publishedOn": "2026-01-29T00:00:00.000Z",
+          "wordCount": 995,
+          "title": "Get Selected Text and Value inside DropDownList SelectedIndexChanged event in ASP.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Implement-HttpHandler-in-ASPNet-MVC.aspx",
+          "id": "https://aspsnippets.com/Articles/Convert-Base64-string-to-Byte-Array-using-C-and-VBNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to implement HttpHandler (ASHX) in ASP.Net MVC Razor.",
-          "link": "https://aspsnippets.com/Articles/Implement-HttpHandler-in-ASPNet-MVC.aspx",
-          "publishedOn": "2026-01-24T00:00:00.000Z",
-          "wordCount": 1381,
-          "title": "Implement HttpHandler in ASP.Net MVC",
+          "description": "Here Mudassar Khan has explained with an example, how to convert Base64 string to Byte Array using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Convert-Base64-string-to-Byte-Array-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-01-29T00:00:00.000Z",
+          "wordCount": 1095,
+          "title": "Convert Base64 string to Byte Array using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Create-Searchable-DropDownList-in-ASPNet-using-C-and-VBNet.aspx",
+          "id": "https://aspsnippets.com/Articles/Paging-and-Sorting-in-GridView-without-DataSource-SqlDataSource-in-ASPNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to create Searchable DropDownList in ASP.Net using C# and VB.Net.",
-          "link": "https://aspsnippets.com/Articles/Create-Searchable-DropDownList-in-ASPNet-using-C-and-VBNet.aspx",
-          "publishedOn": "2026-01-24T00:00:00.000Z",
-          "wordCount": 1504,
-          "title": "Create Searchable DropDownList in ASP.Net using C# and VB.Net",
+          "description": "Here Mudassar Khan has explained with an example, how to implement Paging and Sorting in GridView without DataSource (SqlDataSource control) in ASP.Net using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Paging-and-Sorting-in-GridView-without-DataSource-SqlDataSource-in-ASPNet.aspx",
+          "publishedOn": "2026-01-29T00:00:00.000Z",
+          "wordCount": 1470,
+          "title": "Paging and Sorting in GridView without DataSource (SqlDataSource) in ASP.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Server-Side-validation-in-ASPNet-Core.aspx",
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-Display-Current-Date-and-Time-in-Razor-Page-cshtml.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to implement Server Side validation in ASP.Net Core.",
-          "link": "https://aspsnippets.com/Articles/Server-Side-validation-in-ASPNet-Core.aspx",
-          "publishedOn": "2026-01-24T00:00:00.000Z",
-          "wordCount": 1369,
-          "title": "Server Side validation in ASP.Net Core",
+          "description": "Here Mudassar Khan has explained with an example, how to display Current Date and Time in Razor Page (cshtml) in ASP.Net Core Razor Pages.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-Display-Current-Date-and-Time-in-Razor-Page-cshtml.aspx",
+          "publishedOn": "2026-01-29T00:00:00.000Z",
+          "wordCount": 1506,
+          "title": "ASP.Net Core Razor Pages: Display Current Date and Time in Razor Page (cshtml)",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/ASPNet-MVC-jQuery-DataTables-using-Web-API-and-AJAX.aspx",
+          "id": "https://aspsnippets.com/Articles/ASPNet-MVC-VOID-ActionResult-Controller-Action-method-without-return-View.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to use jQuery DataTables plugin using Web API and AJAX in ASP.Net MVC.",
-          "link": "https://aspsnippets.com/Articles/ASPNet-MVC-jQuery-DataTables-using-Web-API-and-AJAX.aspx",
-          "publishedOn": "2026-01-24T00:00:00.000Z",
-          "wordCount": 1471,
-          "title": "ASP.Net MVC: jQuery DataTables using Web API and AJAX",
+          "description": "Here Mudassar Khan has explained with an example, how to create a VOID ActionResult (Action Method) i.e. an ActionResult (Action Method) inside Controller that does not return View in ASP.Net MVC Razor.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-MVC-VOID-ActionResult-Controller-Action-method-without-return-View.aspx",
+          "publishedOn": "2026-01-29T00:00:00.000Z",
+          "wordCount": 1222,
+          "title": "ASP.Net MVC VOID ActionResult: Controller Action method without return View",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Display-Word-document-in-Web-Page-View.aspx",
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-MVC-Display-data-from-Database-using-ADONet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to display Word document (DOC and DOCX) files in Web Page (View) in ASP.Net Core (.Net Core 8) MVC.",
-          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Display-Word-document-in-Web-Page-View.aspx",
-          "publishedOn": "2026-01-24T00:00:00.000Z",
-          "wordCount": 1152,
-          "title": "ASP.Net Core: Display Word document in Web Page (View)",
+          "description": "Here Mudassar Khan has explained with an example, how to display data from Database using ADO.Net in ASP.Net Core (.Net Core 8) MVC.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-MVC-Display-data-from-Database-using-ADONet.aspx",
+          "publishedOn": "2026-01-29T00:00:00.000Z",
+          "wordCount": 1073,
+          "title": "ASP.Net Core MVC: Display data from Database using ADO.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         }
       ]
@@ -1281,12 +1256,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/01/29/dew-drop-january-29-2026-4593/",
+          "author": "Alvin A.",
+          "description": "Top Links .NET AI Essentials – The Core Building Blocks Explained (Jeremy Likness) Build a Student Analytics Dashboard in WPF with Interactive Charts (Surya Elayaperumal) From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner (Aaron Winston) .NET MAUI Embedding with Uno Platform (Sam Basu) Getting Started with SQL Database Project Power … Continue reading Dew Drop – January 29, 2026 (#4593)",
+          "link": "https://www.alvinashcraft.com/2026/01/29/dew-drop-january-29-2026-4593/",
+          "publishedOn": "2026-01-29T12:08:00.000Z",
+          "wordCount": 2122,
+          "title": "Dew Drop – January 29, 2026 (#4593)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/01/28/dew-drop-january-28-2026-4592/",
           "author": "Alvin A.",
           "description": "Top Links Microsoft Agent Framework (Preview): Build AI Agents in .NET (Arulraj Aboorvasamy) Visual Studio January Update — Enhanced Editor Experience (Simona Liao) 7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript (Aaron Winston) Introduction to Contextual AI: MCP Tools vs Skills (Sam Basu) GitHub Copilot app modernization for C++ is now in … Continue reading Dew Drop – January 28, 2026 (#4592)",
           "link": "https://www.alvinashcraft.com/2026/01/28/dew-drop-january-28-2026-4592/",
           "publishedOn": "2026-01-28T11:58:15.000Z",
-          "wordCount": 2318,
+          "wordCount": 2327,
           "title": "Dew Drop – January 28, 2026 (#4592)",
           "imageUrl": null
         },
@@ -1388,16 +1373,6 @@
           "publishedOn": "2026-01-14T12:12:44.000Z",
           "wordCount": 2050,
           "title": "Dew Drop – January 14, 2026 (#4582)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/01/13/dew-drop-january-13-2026-4581/",
-          "author": "Alvin A.",
-          "description": "Top Links Aspire for JavaScript developers (David Pine) How We Synchronize .NET’s Virtual Monorepo (Přemek Vysoký) Want better AI outputs? Try context engineering. (Christina Warren) Announcing DotnetPsCmds – PowerShell CmdLets for .NET (Peter Ritchie) 🚀 AI Toolkit for VS Code: January 2026 Update (Junjie Li) VS Code January 2026 Insiders Release (version 1.109) (Visual Studio … Continue reading Dew Drop – January 13, 2026 (#4581)",
-          "link": "https://www.alvinashcraft.com/2026/01/13/dew-drop-january-13-2026-4581/",
-          "publishedOn": "2026-01-13T12:03:29.000Z",
-          "wordCount": 1989,
-          "title": "Dew Drop – January 13, 2026 (#4581)",
           "imageUrl": null
         }
       ]
@@ -1596,7 +1571,7 @@
           "publishedOn": "2026-01-18T12:58:44.000Z",
           "wordCount": 5417,
           "title": "SQL Server Database Mail: Complete Setup, SMTP Configuration, and Troubleshooting Guide",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1769430119"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1769308243"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=4015",
@@ -1604,9 +1579,9 @@
           "description": "Pagination is not a UI trick, it’s an application-level concern. In Part 9, we implement real pagination in a .NET 10 Clean Architecture application using EF Core, reusable paging contracts, and a paginated Orders API consumed consistently across layers.",
           "link": "https://dotnetstories.wordpress.com/2026/01/04/creating-a-net-10-application-with-clean-architecture-a-practical-multi-part-guide-part-9/",
           "publishedOn": "2026-01-04T15:31:55.000Z",
-          "wordCount": 4835,
+          "wordCount": 4834,
           "title": "Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 9",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1769048628"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1769308243"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=3952",
@@ -1614,9 +1589,9 @@
           "description": "In Part 8 we add a dedicated ASP.NET Core MVC WebApp that consumes our Clean Architecture API. We introduce typed HttpClients, Razor Views, pagination UI, and optimistic concurrency handling, demonstrating how a real client interacts with the API without violating architectural boundaries or leaking persistence concerns.",
           "link": "https://dotnetstories.wordpress.com/2026/01/03/creating-a-net-10-application-with-clean-architecture-a-practical-multi-part-guide-part-8/",
           "publishedOn": "2026-01-03T01:04:25.000Z",
-          "wordCount": 6679,
+          "wordCount": 6678,
           "title": "Creating a .NET 10 Application with Clean Architecture: A Practical Multi-Part Guide – Part 8",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1769048622"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1769308243"
         }
       ]
     },
@@ -1646,16 +1621,6 @@
           "wordCount": 1255,
           "title": "So, you want to work for Anthropic?",
           "imageUrl": "https://natemcmaster.com/assets/images/og/2026-01-27-so-you-want-to-join-anthropic.png"
-        },
-        {
-          "id": "https://natemcmaster.com/blog/2025/12/30/farewell-amazon/",
-          "author": null,
-          "description": "This month, I announced I have resigned my position as a Principal Software Engineer for Amazon Web Services (AWS) and accepted a new role as a Member of Technical Staff with Anthropic. After announcing my transition out, 34 people at AWS scheduled office hours for 1:1 interviews with me, and I got asked a lot of questions. I’m sharing some of the common questions and answers here. Whether my thoughts are actually worth sharing is a question I try not to think about too hard. (Plus, two people specifically asked if I could blog more after I leave. I’m choosing to believe they weren’t being sarcastic.)",
-          "link": "https://natemcmaster.com/blog/2025/12/30/farewell-amazon/",
-          "publishedOn": "2025-12-30T08:00:00.000Z",
-          "wordCount": 1804,
-          "title": "Thoughts on leaving AWS and joining Anthropic",
-          "imageUrl": "https://natemcmaster.com/assets/images/og/2025-12-30-farewell-amazon.png"
         }
       ]
     },
