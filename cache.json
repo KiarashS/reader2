@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391781",
+          "author": "Preethi",
+          "description": "CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?\nCSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-bar-charts-using-modern-functions/",
+          "publishedOn": "2026-02-05T15:13:14.000Z",
+          "wordCount": 1627,
+          "title": "CSS Bar Charts Using Modern Functions",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/bar-chart-horizontal.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=390379",
           "author": "Zell Liew",
           "description": "You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.\nNo Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -77,7 +87,7 @@
           "description": "Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).\nThere is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
           "publishedOn": "2026-01-26T15:02:27.000Z",
-          "wordCount": 2524,
+          "wordCount": 2626,
           "title": "There is No Need to Trap Focus on a Dialog Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/04/tab-key.png"
         },
@@ -165,16 +175,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/lee-web-directions.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390960",
-          "author": "Sunkanmi Fafowora",
-          "description": "Have you ever struggled to style an element while it's being dragged? Sunkanmi explains some ways it could become easier in the future.\nFuture CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/future-css-drag-and-maybe-dragged-image/",
-          "publishedOn": "2026-01-07T15:16:47.000Z",
-          "wordCount": 1935,
-          "title": "Future CSS: :drag (and Maybe ::dragged-image?)",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-12-at-10.03.09-AM-scaled-e1765559057362.png"
         }
       ]
     },
@@ -183,6 +183,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
+          "author": "hello@smashingmagazine.com (Blake Lundquist)",
+          "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
+          "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
+          "publishedOn": "2026-02-05T08:00:00.000Z",
+          "wordCount": 4505,
+          "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -204,7 +219,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4605,
+          "wordCount": null,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -219,7 +234,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4663,
+          "wordCount": 4671,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -234,7 +249,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5819,
+          "wordCount": null,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -249,7 +264,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6447,
+          "wordCount": 6455,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -264,7 +279,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5120,
+          "wordCount": null,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -279,7 +294,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5359,
+          "wordCount": 5375,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -340,6 +355,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6984d41160b1e5f9aeccaa9e",
+          "author": "Oluwadamisi Samuel",
+          "description": "Your UI doesn’t “randomly” refuse to update. In most cases, it’s rendering cached data, which is data that was saved somewhere so the app doesn’t have to do the same work again. Caching is great for performance, but it becomes a pain when you don’t r...",
+          "link": "https://www.freecodecamp.org/news/why-your-ui-wont-update-debugging-stale-data-and-caching-in-react-apps/",
+          "publishedOn": "2026-02-05T17:32:01.000Z",
+          "wordCount": 3192,
+          "title": "Why Your UI Won’t Update: Debugging Stale Data and Caching in React Apps",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770312709391/8442f6df-1133-47f7-a035-02c958145811.png"
+        },
+        {
+          "id": "6984cf23a3b8d53c075bbaa5",
+          "author": "Beau Carnes",
+          "description": "Harvard University's CS50 is one of the most popular beginner computer science courses in the world. We just released the entire 25-hour CS50 course on the freeCodeCamp.org YouTube channel. This is the most recent version updated for 2026, with an al...",
+          "link": "https://www.freecodecamp.org/news/harvard-cs50-2026-free-computer-science-university-course/",
+          "publishedOn": "2026-02-05T17:10:59.000Z",
+          "wordCount": 1087,
+          "title": "Harvard CS50 2026 – Free Computer Science University Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770311427284/e63d5d11-e815-41e2-88c5-50c9ac969098.jpeg"
+        },
+        {
+          "id": "6984ca1c0d3cc85f508db81e",
+          "author": "Beau Carnes",
+          "description": "The AI landscape has shifted in 2026 from passive chatbots to proactive autonomous agents, with OpenClaw leading the charge as the most viral open-source project of the year. We just posted a comprehensive introduction to OpenClaw on the freeCodeCamp...",
+          "link": "https://www.freecodecamp.org/news/openclaw-full-tutorial-for-beginners/",
+          "publishedOn": "2026-02-05T16:49:32.000Z",
+          "wordCount": 1092,
+          "title": "OpenClaw Full Tutorial for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770310153117/f090efe2-ee69-44b6-890d-9158c914c389.jpeg"
+        },
         {
           "id": "6983ae630a7fef9ac2d90313",
           "author": "Nikheel Vishwas Savant",
@@ -406,39 +451,9 @@
           "description": "Many developers start learning programming by building simple projects like todo apps, calculators, and basic CRUD applications. These projects are useful at the beginning, as they help you understand how a programming language works and give you the...",
           "link": "https://www.freecodecamp.org/news/how-to-go-from-hello-world-to-building-real-world-applications/",
           "publishedOn": "2026-01-30T19:41:58.000Z",
-          "wordCount": 5771,
-          "title": "How to Go From Hello World to Building Real World Applications",
+          "wordCount": 5768,
+          "title": "How to Go From Hello World to Building Real-World Applications",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769802056548/2b1b2ede-5f7f-423f-b6ee-19e0c0ac7b43.png"
-        },
-        {
-          "id": "697cebbfa59b6f85b8ca1c5f",
-          "author": "David Asaolu",
-          "description": "Social media has become a vital tool for people and businesses to share ideas, promote products, and connect with their target audience. But creating posts regularly and managing schedules across multiple platforms can be time-consuming and repetitiv...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-social-media-post-scheduler-using-gemini-and-late-api-in-nextjs/",
-          "publishedOn": "2026-01-30T17:34:55.000Z",
-          "wordCount": 3369,
-          "title": "How to Build an AI Social Media Post Scheduler Using Gemini and Late API in Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769794478505/be596e27-4c88-45b3-8547-f715c82e0eda.png"
-        },
-        {
-          "id": "697cc782ebd78e3e9ac5ac3d",
-          "author": "Beau Carnes",
-          "description": "Today Quincy Larson interviews Tapas Adhikari. He's a software engineer who runs a firm of 20 developers who build projects for companies around the world. He's also a prolific teacher, having written 300 programming tutorials - including 47 for free...",
-          "link": "https://www.freecodecamp.org/news/tips-from-a-20-year-developer-veteran-turned-consultancy-founder-tapas-adhikary-interview-podcast-206/",
-          "publishedOn": "2026-01-30T15:00:18.000Z",
-          "wordCount": 1321,
-          "title": "Tips from a 20-year developer veteran turned consultancy founder – Tapas Adhikary interview [Podcast #206]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769737467587/d91cb9c7-9eb3-4a42-ae3c-ba334ad028a4.jpeg"
-        },
-        {
-          "id": "697bf73e79322b4a93ac0fb8",
-          "author": "Onyinyechi Nwaucha",
-          "description": "Prioritization in product management is hardly about what metric takes precedence over the other. Of all the roles a product manager plays, one of the most difficult is deciding what to work on next. Why? Because everything feels urgent. Engineers wa...",
-          "link": "https://www.freecodecamp.org/news/how-to-prioritize-as-a-product-manager/",
-          "publishedOn": "2026-01-30T00:11:42.000Z",
-          "wordCount": 3874,
-          "title": "How to Prioritize as a Product Manager – Product Prioritization Frameworks Explained",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769731875495/c2d3feca-a09e-454c-93de-bc00607ac517.png"
         }
       ]
     },
@@ -523,13 +538,35 @@
       "title": "Rick Strahl's Web Log",
       "feedUrl": "https://feeds.feedburner.com/rickstrahl",
       "siteUrl": "https://weblog.west-wind.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "5204283_202602050753",
+          "author": "Rick Strahl",
+          "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
+          "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
+          "publishedOn": "2026-02-05T07:53:22.000Z",
+          "wordCount": 2224,
+          "title": "Reliably Refreshing the WebView2 Control",
+          "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
+        }
+      ]
     },
     {
       "title": "Rick Strahl's Web Log",
       "feedUrl": "https://feeds.feedburner.com/RickStrahl",
       "siteUrl": "https://weblog.west-wind.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "5204283_202602050753",
+          "author": "Rick Strahl",
+          "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
+          "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
+          "publishedOn": "2026-02-05T07:53:22.000Z",
+          "wordCount": 2220,
+          "title": "Reliably Refreshing the WebView2 Control",
+          "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
+        }
+      ]
     },
     {
       "title": "dotnetkicks.com",
@@ -537,13 +574,13 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
-          "id": "stories/738416",
+          "id": "stories/737117",
           "author": null,
-          "description": "I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.",
-          "link": "https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/",
-          "publishedOn": "2026-02-05T02:42:12.983Z",
-          "wordCount": null,
-          "title": "Fundamentals of AI",
+          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
+          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
+          "publishedOn": "2026-02-06T02:42:40.572Z",
+          "wordCount": 3735,
+          "title": "Azure Functions & Durable Functions Part 1",
           "imageUrl": null
         },
         {
@@ -551,7 +588,7 @@
           "author": null,
           "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
           "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
-          "publishedOn": "2026-02-05T02:42:12.554Z",
+          "publishedOn": "2026-02-06T02:42:40.481Z",
           "wordCount": null,
           "title": "Logo?",
           "imageUrl": null
@@ -561,29 +598,19 @@
           "author": null,
           "description": "Learn how to implement age verification in your .NET MAUI apps with our new cross-platform sample supporting Google Play Age Signals, Apple Declared Age Range, and Windows Age Consent APIs.",
           "link": "https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/",
-          "publishedOn": "2026-02-05T02:42:12.541Z",
+          "publishedOn": "2026-02-06T02:42:40.391Z",
           "wordCount": null,
           "title": "Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog",
           "imageUrl": null
         },
         {
-          "id": "stories/737305",
+          "id": "stories/738416",
           "author": null,
-          "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
-          "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
-          "publishedOn": "2026-02-05T02:42:12.382Z",
+          "description": "I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.",
+          "link": "https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/",
+          "publishedOn": "2026-02-06T02:42:40.347Z",
           "wordCount": null,
-          "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/739299",
-          "author": null,
-          "description": "Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.",
-          "link": "https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx",
-          "publishedOn": "2026-02-05T02:42:12.182Z",
-          "wordCount": null,
-          "title": "Linear Regression with Pseudo-Inverse Training Using JavaScript",
+          "title": "Fundamentals of AI",
           "imageUrl": null
         },
         {
@@ -591,68 +618,48 @@
           "author": null,
           "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
           "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
-          "publishedOn": "2026-02-05T02:42:11.630Z",
-          "wordCount": 2897,
+          "publishedOn": "2026-02-06T02:42:40.264Z",
+          "wordCount": 2948,
           "title": "Joe Dluzen on Azure Functions & Durable Functions",
           "imageUrl": null
         },
         {
-          "id": "stories/735675",
+          "id": "stories/737305",
           "author": null,
-          "description": "Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...",
-          "link": "https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
-          "publishedOn": "2026-02-05T02:42:11.417Z",
-          "wordCount": 4040,
-          "title": "Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions",
-          "imageUrl": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/Automatically-Signing-a-Windows-EXE-with_D0BE/image_thumb%5B1%5D.png"
+          "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
+          "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
+          "publishedOn": "2026-02-06T02:42:40.165Z",
+          "wordCount": null,
+          "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
+          "imageUrl": null
         },
         {
           "id": "stories/736815",
           "author": null,
           "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
           "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-          "publishedOn": "2026-02-05T02:42:11.366Z",
+          "publishedOn": "2026-02-06T02:42:40.154Z",
           "wordCount": 3584,
           "title": "Azure updates for partners: December 2025",
           "imageUrl": "https://partner.microsoft.com/-/media/mssc/mpn/partner/saas-solution-guide/saas-solution-guide.jpg"
         },
         {
-          "id": "stories/737117",
+          "id": "stories/739299",
           "author": null,
-          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
-          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
-          "publishedOn": "2026-02-05T02:42:11.330Z",
-          "wordCount": 3505,
-          "title": "Azure Functions & Durable Functions Part 1",
+          "description": "Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.",
+          "link": "https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx",
+          "publishedOn": "2026-02-06T02:42:40.077Z",
+          "wordCount": null,
+          "title": "Linear Regression with Pseudo-Inverse Training Using JavaScript",
           "imageUrl": null
-        },
-        {
-          "id": "stories/738494",
-          "author": null,
-          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
-          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
-          "publishedOn": "2026-02-05T02:42:10.863Z",
-          "wordCount": 2082,
-          "title": "CoPilot Gets Us Started",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737816",
-          "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
-          "publishedOn": "2026-02-05T02:42:10.849Z",
-          "wordCount": 945,
-          "title": "EF Core Lazy Loading Performance Gotcha",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
         },
         {
           "id": "stories/738686",
           "author": null,
           "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
           "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
-          "publishedOn": "2026-02-05T02:42:10.810Z",
-          "wordCount": 1955,
+          "publishedOn": "2026-02-06T02:42:39.890Z",
+          "wordCount": 2005,
           "title": "HyperVideo Features",
           "imageUrl": null
         },
@@ -661,19 +668,49 @@
           "author": null,
           "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
           "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
-          "publishedOn": "2026-02-05T02:42:10.647Z",
-          "wordCount": 2369,
+          "publishedOn": "2026-02-06T02:42:39.643Z",
+          "wordCount": 2437,
           "title": "Learning AI",
           "imageUrl": null
+        },
+        {
+          "id": "stories/735675",
+          "author": null,
+          "description": "Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...",
+          "link": "https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
+          "publishedOn": "2026-02-06T02:42:39.626Z",
+          "wordCount": 4040,
+          "title": "Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions",
+          "imageUrl": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/Automatically-Signing-a-Windows-EXE-with_D0BE/image_thumb%5B1%5D.png"
         },
         {
           "id": "stories/738475",
           "author": null,
           "description": "As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).",
           "link": "https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/",
-          "publishedOn": "2026-02-05T02:42:10.080Z",
-          "wordCount": 2025,
+          "publishedOn": "2026-02-06T02:42:39.148Z",
+          "wordCount": 2069,
           "title": "An AI Project",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737816",
+          "author": null,
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
+          "publishedOn": "2026-02-06T02:42:39.142Z",
+          "wordCount": 945,
+          "title": "EF Core Lazy Loading Performance Gotcha",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+        },
+        {
+          "id": "stories/738494",
+          "author": null,
+          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
+          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
+          "publishedOn": "2026-02-06T02:42:39.134Z",
+          "wordCount": 2300,
+          "title": "CoPilot Gets Us Started",
           "imageUrl": null
         },
         {
@@ -681,7 +718,7 @@
           "author": null,
           "description": "Mark Heath's Development Blog",
           "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
-          "publishedOn": "2026-02-05T02:42:10.045Z",
+          "publishedOn": "2026-02-06T02:42:39.031Z",
           "wordCount": 1500,
           "title": "2025 Year in Review",
           "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
@@ -691,10 +728,20 @@
           "author": null,
           "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
           "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
-          "publishedOn": "2026-02-05T02:42:09.592Z",
-          "wordCount": 2376,
+          "publishedOn": "2026-02-06T02:42:39.026Z",
+          "wordCount": 2426,
           "title": "Essential Programmer Utilities",
           "imageUrl": null
+        },
+        {
+          "id": "stories/739519",
+          "author": null,
+          "description": "An announcement of .NET Framework 3.5 servicing updates on new versions of Windows.",
+          "link": "https://dotnetkicks.com/r/739519?url=https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/",
+          "publishedOn": "2026-02-05T18:00:00.000Z",
+          "wordCount": 7328,
+          "title": ".NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows - .NET Blog",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/02/dotnet-framework-35-standalone-featured.webp"
         },
         {
           "id": "stories/739413",
@@ -702,7 +749,7 @@
           "description": "Discover the February roadmap for AI in Visual Studio, with improvements in reliability and integrations for better performance.",
           "link": "https://dotnetkicks.com/r/739413?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/",
           "publishedOn": "2026-02-04T20:42:53.000Z",
-          "wordCount": 7375,
+          "wordCount": 7558,
           "title": "Roadmap for AI in Visual Studio (February) - Visual Studio Blog",
           "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2026/02/Screenshot-2026-02-04-103620.webp"
         },
@@ -722,7 +769,7 @@
           "description": "I did a reasonably good job running on my treadmill throughout the fall of 2025, in preparation for my second summit of Mount Kilimanjaro over New Years (blog post to come). Run for the Water 10 Miler On November 9th, 2025, I ran the ten mile Run for the Water.",
           "link": "https://dotnetkicks.com/r/739374?url=https://textslashplain.com/2026/02/03/winter-2026-runs/",
           "publishedOn": "2026-02-03T23:59:04.000Z",
-          "wordCount": 4373,
+          "wordCount": 4374,
           "title": "Winter 2026 Runs",
           "imageUrl": "https://textslashplain.com/wp-content/uploads/2026/02/image-8.png"
         },
@@ -742,7 +789,7 @@
           "description": "JasperFx Software works hand in hand with our clients to improve our client's outcomes on software projects using the \"Critter Stack\" (Marten and Wolverine). Based on our engagements with client projects as well as the greater Critter Stack user base, we've built up quite a few optional usages and settings in the two frameworks to...",
           "link": "https://dotnetkicks.com/r/739200?url=https://jeremydmiller.com/2026/02/02/building-a-greenfield-system-with-the-critter-stack/",
           "publishedOn": "2026-02-02T16:26:12.000Z",
-          "wordCount": 5419,
+          "wordCount": 5438,
           "title": "Building a Greenfield System with the Critter Stack",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2026/01/image.png"
         },
@@ -772,7 +819,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET AI Essentials - The Core Building Blocks Explained - .NET Blog Join Microsoft at NDC London 2026 - Let's Build the Future of .NET Together Build AI Agents with GitHub Copilot SDK and Microsoft Agent Framework | Semantic Kernel Build...",
           "link": "https://dotnetkicks.com/r/739289?url=https://sergeytihon.com/2026/02/01/f-weekly-5-2026-leveling-up-with-lattice/",
           "publishedOn": "2026-02-01T20:20:30.000Z",
-          "wordCount": 4446,
+          "wordCount": 4627,
           "title": "F# Weekly #5, 2026 - Leveling Up With Lattice",
           "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2026/02/lattice_banner.png?fit=1200%2C675&ssl=1"
         },
@@ -802,7 +849,7 @@
           "description": "Software developers and end-users are often interested in understanding how to resolve incorrect detections from their antivirus/security software, including Microsoft Defender. Such False Positives (FPs) can disrupt your use of your device by incorrectly blocking innocuous files or processes. However, you should take extreme care before concluding that a given detection is a false positive...",
           "link": "https://dotnetkicks.com/r/739027?url=https://textslashplain.com/2026/01/27/microsoft-defender-false-positives/",
           "publishedOn": "2026-01-27T19:22:47.000Z",
-          "wordCount": 4069,
+          "wordCount": 4076,
           "title": "Security Software False Positives",
           "imageUrl": "https://textslashplain.com/wp-content/uploads/2026/01/image-2.png"
         },
@@ -812,7 +859,7 @@
           "description": "Explore Visual Studio January update for new features that enhance your editor experience and boost your productivity.",
           "link": "https://dotnetkicks.com/r/738956?url=https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/",
           "publishedOn": "2026-01-27T18:30:12.000Z",
-          "wordCount": 8326,
+          "wordCount": 8360,
           "title": "Visual Studio January Update - Enhanced Editor Experience - Visual Studio Blog",
           "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2026/01/VS-Jan-update-scaled.webp"
         },
@@ -872,7 +919,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Bringing work context to your code in GitHub Copilot - Microsoft for Developers Context-Driven Development: Agent Skills for Microsoft Foundry and Azure | All things Azure PowerToys 0.97 is here: a big Command Palette update and a new mouse utility -...",
           "link": "https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/",
           "publishedOn": "2026-01-24T10:56:28.000Z",
-          "wordCount": 4586,
+          "wordCount": 4405,
           "title": "F# Weekly #4, 2026 - F# event / (un)conference in 2026?",
           "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2026/01/xnapper-2026-01-24-11.53.47.png?fit=1200%2C635&ssl=1"
         },
@@ -902,7 +949,7 @@
           "description": "Wolverine has had a very frequent release cadence the past couple months as community contributions, requests from JasperFx Software clients, and yes, sigh, bug reports have flowed in. Right now I think I can justifiably claim that Wolverine is innovating much faster than any of the other comparable tools in the .NET ecosystem.",
           "link": "https://dotnetkicks.com/r/738518?url=https://jeremydmiller.com/2026/01/21/catching-up-with-recent-wolverine-releases/",
           "publishedOn": "2026-01-21T14:49:42.000Z",
-          "wordCount": 5234,
+          "wordCount": 5229,
           "title": "Catching Up with Recent Wolverine Releases",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2026/01/image-3.png"
         },
@@ -922,7 +969,7 @@
           "description": "The Marten community made our first big release of the new year with 8.18 this morning. I'm particularly happy with a couple significant things in this release: We had 8 different contributors in just the last month of work this release represents Anne Erdtsieck did a lot to improve our documentation for using our multi-stream...",
           "link": "https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/",
           "publishedOn": "2026-01-20T15:30:56.000Z",
-          "wordCount": 6989,
+          "wordCount": 6984,
           "title": "Easier Query Models with Marten",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2026/01/image-1.png"
         },
@@ -942,7 +989,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Which programming languages are most token-efficient? - Martin Alderson How to Build Android Widgets with .NET MAUI - .NET Blog How We Synchronize .NET's Virtual Monorepo - .NET Blog .NET and .NET Framework January 2026 servicing releases updates - .NET Blog...",
           "link": "https://dotnetkicks.com/r/738375?url=https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/",
           "publishedOn": "2026-01-17T16:12:51.000Z",
-          "wordCount": 4422,
+          "wordCount": 4603,
           "title": "F# Weekly #3, 2026 - Most token-efficient static language?",
           "imageUrl": "https://sergeytihon.com/wp-content/uploads/2026/01/token-efficiency-chart.png"
         },
@@ -962,7 +1009,7 @@
           "description": "Microsoft is honored to be named a Leader in the 2025-2026 IDC MarketScape for Unified AI Governance Platforms.",
           "link": "https://dotnetkicks.com/r/738338?url=https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
           "publishedOn": "2026-01-14T17:00:00.000Z",
-          "wordCount": 6431,
+          "wordCount": 6425,
           "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms | Microsoft Security Blog",
           "imageUrl": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/01/Picture2.jpg"
         },
@@ -982,7 +1029,7 @@
           "description": "Reach out anytime to sales@jasperfx.net to ask us about how we could potentially help your shop with software development using the Critter Stack. It's a New Year and hopefully we all get to start on some great new software initiatives. If you happen to be starting something this year that's going to get you into...",
           "link": "https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/",
           "publishedOn": "2026-01-13T23:59:05.000Z",
-          "wordCount": 4813,
+          "wordCount": 4808,
           "title": "How JasperFx Supports our Customers",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2023/07/cropped-cropped-jasperfx-logo-final-orange-bg.jpg"
         },
@@ -1075,26 +1122,6 @@
           "wordCount": 8007,
           "title": "Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/01/vectorsearchmongo.webp"
-        },
-        {
-          "id": "stories/737632",
-          "author": null,
-          "description": "Software development context matters more than ever. AI can write code, but it can't guess intent, tradeoffs, or boundaries.",
-          "link": "https://dotnetkicks.com/r/737632?url=https://codeopinion.com/context-is-the-bottleneck-in-software-development/",
-          "publishedOn": "2026-01-05T21:44:22.000Z",
-          "wordCount": 2037,
-          "title": "Context Is the Bottleneck in Software Development",
-          "imageUrl": "https://codeopinion.com/wp-content/uploads/2026/01/Twitter.png"
-        },
-        {
-          "id": "stories/737611",
-          "author": null,
-          "description": "A practical introduction to modern AI for .NET developers.",
-          "link": "https://dotnetkicks.com/r/737611?url=https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/",
-          "publishedOn": "2026-01-05T18:05:00.000Z",
-          "wordCount": 9431,
-          "title": "Generative AI with Large Language Models in C# in 2026 - .NET Blog",
-          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/01/llmsincsharp.webp"
         }
       ]
     },
@@ -1152,16 +1179,6 @@
           "wordCount": null,
           "title": "File I/O Performance: Picking the Fastest Weapon in Your Arsenal",
           "imageUrl": null
-        },
-        {
-          "id": "http://dotnettips.wordpress.com/?p=16124",
-          "author": "dotNetDave",
-          "description": "Spargine 10 (v2026.10.1.5) launches on January 5th, 2026, featuring enhancements for .NET 10, including new types, methods, benchmarks, and significant performance upgrades. There are breaking changes that may affect existing code. Community contributions are encouraged, and feedback is welcomed to improve the project further.",
-          "link": "https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/",
-          "publishedOn": "2026-01-06T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Coding Faster with dotNetTips.com Spargine 10: January 2026 Release",
-          "imageUrl": null
         }
       ]
     },
@@ -1171,103 +1188,103 @@
       "siteUrl": "https://www.aspsnippets.com/RSS.ashx",
       "articles": [
         {
-          "id": "https://aspsnippets.com/Articles/Download-Files-from-GridView-using-LinkButton-Click-Event-in-ASPNet-using-C-and-VBNet.aspx",
+          "id": "https://aspsnippets.com/Articles/Export-GridView-to-Excel-in-ASPNet-with-Formatting-using-C-and-VBNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to download files from GridView using LinkButton Click event in ASP.Net using C# and VB.Net.",
-          "link": "https://aspsnippets.com/Articles/Download-Files-from-GridView-using-LinkButton-Click-Event-in-ASPNet-using-C-and-VBNet.aspx",
-          "publishedOn": "2026-02-04T00:00:00.000Z",
-          "wordCount": 1704,
-          "title": "Download Files from GridView using LinkButton Click Event in ASP.Net using C# and VB.Net",
+          "description": "Here Mudassar Khan has explained with an example, how to export GridView to Excel file in ASP.Net with formatting and styles using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Export-GridView-to-Excel-in-ASPNet-with-Formatting-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
+          "wordCount": 1765,
+          "title": "Export GridView to Excel in ASP.Net with Formatting using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Pass-Send-DataSet-DataTable-from-Controller-to-View-in-ASPNet-MVC.aspx",
+          "id": "https://aspsnippets.com/Articles/Display-contents-of-DataTable-in-DataGridView-in-Windows-Forms-Application-using-C-and-VBNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to pass (send) DataSet or DataTable from Controller to View in ASP.Net MVC Razor.",
-          "link": "https://aspsnippets.com/Articles/Pass-Send-DataSet-DataTable-from-Controller-to-View-in-ASPNet-MVC.aspx",
-          "publishedOn": "2026-02-04T00:00:00.000Z",
-          "wordCount": 1124,
-          "title": "Pass (Send) DataSet (DataTable) from Controller to View in ASP.Net MVC",
+          "description": "Here Mudassar Khan has explained with an example, how to display contents of DataTable in DataGridView in Windows Forms (WinForms) Application using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Display-contents-of-DataTable-in-DataGridView-in-Windows-Forms-Application-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
+          "wordCount": 1577,
+          "title": "Display contents of DataTable in DataGridView in Windows Forms Application using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Working-with-DataSets-and-DataTables-in-ASPNet-MVC-Razor.aspx",
+          "id": "https://aspsnippets.com/Articles/Upload-and-Download-files-from-Folder-Directory-in-ASPNet-using-C-and-VBNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to use DataSets and DataTables in ASP.Net MVC Razor.",
-          "link": "https://aspsnippets.com/Articles/Working-with-DataSets-and-DataTables-in-ASPNet-MVC-Razor.aspx",
-          "publishedOn": "2026-02-04T00:00:00.000Z",
-          "wordCount": 1108,
-          "title": "Working with DataSets and DataTables in ASP.Net MVC Razor",
+          "description": "Here Mudassar Khan has explained with an example, how to upload and download files from Folder (Directory) in ASP.Net using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Upload-and-Download-files-from-Folder-Directory-in-ASPNet-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
+          "wordCount": 1728,
+          "title": "Upload and Download files from Folder (Directory) in ASP.Net using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Display-Show-DataSets-and-DataTables-in-View-in-ASPNet-MVC-Razor.aspx",
+          "id": "https://aspsnippets.com/Articles/Net-Core-2-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to display (show) DataSets and DataTables in Grid format in View in ASP.Net MVC Razor.",
-          "link": "https://aspsnippets.com/Articles/Display-Show-DataSets-and-DataTables-in-View-in-ASPNet-MVC-Razor.aspx",
-          "publishedOn": "2026-02-04T00:00:00.000Z",
+          "description": "Here Mudassar Khan has explained with an example, how to change JSON Serialization from camelCase to PascalCase in ASP.Net Core (.Net Core 2).",
+          "link": "https://aspsnippets.com/Articles/Net-Core-2-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
+          "wordCount": 987,
+          "title": ".Net Core 2: Change JSON Serialization from camelCase to PascalCase",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Net-Core-3-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to change JSON Serialization from camelCase to PascalCase in ASP.Net Core (.Net Core 3).",
+          "link": "https://aspsnippets.com/Articles/Net-Core-3-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
+          "wordCount": 973,
+          "title": ".Net Core 3: Change JSON Serialization from camelCase to PascalCase",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Net-Core-5-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to change JSON Serialization from camelCase to PascalCase in ASP.NetCore (.Net Core 5).",
+          "link": "https://aspsnippets.com/Articles/Net-Core-5-Change-JSON-Serialization-from-camelCase-to-PascalCase.aspx",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
+          "wordCount": 971,
+          "title": ".Net Core 5: Change JSON Serialization from camelCase to PascalCase",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Working-with-DataSets-and-DataTables.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to work with DataSets and DataTables in ASP.Net Core (.Net Core 8) MVC.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Working-with-DataSets-and-DataTables.aspx",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
+          "wordCount": 1120,
+          "title": "ASP.Net Core: Working with DataSets and DataTables",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Display-Show-DataSets-and-DataTables-in-View.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to display (show) DataSets and DataTables in ASP.Net Core (.Net Core 8) MVC.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Display-Show-DataSets-and-DataTables-in-View.aspx",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
           "wordCount": 1126,
-          "title": "Display (Show) DataSets and DataTables in View in ASP.Net MVC Razor",
+          "title": "ASP.Net Core: Display (Show) DataSets and DataTables in View",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Load-Render-Partial-View-in-DIV-using-AJAX-in-ASPNet-MVC.aspx",
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-Display-Show-DataSets-and-DataTables-in-View.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained an example, how to Load (Render) Partial View in DIV using AJAX in ASP.Net MVC.",
-          "link": "https://aspsnippets.com/Articles/Load-Render-Partial-View-in-DIV-using-AJAX-in-ASPNet-MVC.aspx",
-          "publishedOn": "2026-02-04T00:00:00.000Z",
-          "wordCount": 1495,
-          "title": "Load (Render) Partial View in DIV using AJAX in ASP.Net MVC",
+          "description": "Here Mudassar Khan has explained with an example, how to display (show) DataSets and DataTables in ASP.Net Core (.Net Core 8) Razor Pages.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-Display-Show-DataSets-and-DataTables-in-View.aspx",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
+          "wordCount": 1159,
+          "title": "ASP.Net Core Razor Pages: Display (Show) DataSets and DataTables in View",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/MVC-View-DataTable-example-Bind-DataTable-to-View-in-ASPNet-MVC.aspx",
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-Working-with-DataSets-and-DataTables.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to bind DataTable to View in ASP.Net MVC Razor.",
-          "link": "https://aspsnippets.com/Articles/MVC-View-DataTable-example-Bind-DataTable-to-View-in-ASPNet-MVC.aspx",
-          "publishedOn": "2026-02-04T00:00:00.000Z",
-          "wordCount": 1114,
-          "title": "MVC View DataTable example: Bind DataTable to View in ASP.Net MVC",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Pass-send-HTML-Table-rows-from-View-to-Controller-in-ASPNet-MVC.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to pass (send) HTML Table rows (data) from View to Controller’s Action method using jQuery AJAX in ASP.Net MVC Razor.",
-          "link": "https://aspsnippets.com/Articles/Pass-send-HTML-Table-rows-from-View-to-Controller-in-ASPNet-MVC.aspx",
-          "publishedOn": "2026-02-04T00:00:00.000Z",
-          "wordCount": 1788,
-          "title": "Pass (send) HTML Table rows from View to Controller in ASP.Net MVC",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Display-data-from-Database-using-ADONet-in-ASPNet-MVC.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to display data from Database using ADO.Net in ASP.Net MVC.",
-          "link": "https://aspsnippets.com/Articles/Display-data-from-Database-using-ADONet-in-ASPNet-MVC.aspx",
-          "publishedOn": "2026-02-04T00:00:00.000Z",
-          "wordCount": 1062,
-          "title": "Display data from Database using ADO.Net in ASP.Net MVC",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Implementing-SqlDataAdapter-in-ASPNet-MVC.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to implement SqlDataAdapter in ASP.Net MVC.",
-          "link": "https://aspsnippets.com/Articles/Implementing-SqlDataAdapter-in-ASPNet-MVC.aspx",
-          "publishedOn": "2026-02-04T00:00:00.000Z",
-          "wordCount": 1123,
-          "title": "Implementing SqlDataAdapter in ASP.Net MVC",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Insert-Save-Multiple-rows-records-to-database-using-Entity-Framework.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to insert (save) multiple rows (records) to database using Entity Framework in ASP.Net Core (.Net Core 8) MVC.",
-          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Insert-Save-Multiple-rows-records-to-database-using-Entity-Framework.aspx",
-          "publishedOn": "2026-02-04T00:00:00.000Z",
-          "wordCount": 1858,
-          "title": "ASP.Net Core: Insert (Save) Multiple rows (records) to database using Entity Framework",
+          "description": "Here Mudassar Khan has explained with an example, how to work with DataSets and DataTables in ASP.Net Core (.Net Core 8) Razor Pages",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-Working-with-DataSets-and-DataTables.aspx",
+          "publishedOn": "2026-02-05T00:00:00.000Z",
+          "wordCount": 1153,
+          "title": "ASP.Net Core Razor Pages: Working with DataSets and DataTables",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         }
       ]
@@ -1331,12 +1348,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/02/05/dew-drop-february-5-2026-4598/",
+          "author": "Alvin A.",
+          "description": "Top Links Roadmap for AI in Visual Studio (February) (Rhea Patel) WinGet Configuration: Set up your dev machine in one command (Kayla Cinnamon) Pick your agent: Use Claude and Codex on Agent HQ (Mario Rodriguez) Azure Boards integration with GitHub Copilot includes custom agent support (Dan Hellem) .NET Rocks! – .NET Source Generators with Jason Bock (Carl … Continue reading Dew Drop – February 5, 2026 (#4598)",
+          "link": "https://www.alvinashcraft.com/2026/02/05/dew-drop-february-5-2026-4598/",
+          "publishedOn": "2026-02-05T12:08:00.000Z",
+          "wordCount": 1983,
+          "title": "Dew Drop – February 5, 2026 (#4598)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/02/04/dew-drop-february-4-2026-4597/",
           "author": "Alvin A.",
           "description": "Top Links Performance improvements to MEF-based editor productivity extensions in Visual Studio (Tina Schrepfer & Amadeus Wieczorek) Part 2: Building a Python CRUD API with Azure Functions and Azure Cosmos DB (Richa Gaur) Announcing our new Dart and Flutter Getting Started experience (Eric Windmill) Introducing Deno Sandbox (Ryan Dahl) Inside CodeMash 2026: A Geek Family … Continue reading Dew Drop – February 4, 2026 (#4597)",
           "link": "https://www.alvinashcraft.com/2026/02/04/dew-drop-february-4-2026-4597/",
           "publishedOn": "2026-02-04T12:06:27.000Z",
-          "wordCount": 1943,
+          "wordCount": 1952,
           "title": "Dew Drop – February 4, 2026 (#4597)",
           "imageUrl": null
         },
@@ -1439,16 +1466,6 @@
           "wordCount": 2137,
           "title": "Dew Drop – January 21, 2026 (#4587)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/01/20/dew-drop-january-20-2026-4586/",
-          "author": "Alvin A.",
-          "description": "Top Links Microsoft Foundry for VS Code: January 2026 Update (leoyao) The Undersea Cable Network – NDC Copenhagen 2025 (Richard Campbell) The State of WebAssembly – 2025 and 2026 (Gerard Gallant) Improving Code Quality using Code Clone Analysis | Visual Studio Toolbox (Robert Green & Phil Japikse) 31 Days of Vibe Coding – Day 20: … Continue reading Dew Drop – January 20, 2026 (#4586)",
-          "link": "https://www.alvinashcraft.com/2026/01/20/dew-drop-january-20-2026-4586/",
-          "publishedOn": "2026-01-20T11:41:15.000Z",
-          "wordCount": 1865,
-          "title": "Dew Drop – January 20, 2026 (#4586)",
-          "imageUrl": null
         }
       ]
     },
@@ -1504,16 +1521,6 @@
           "wordCount": 4643,
           "title": ".NET Isolated Azure Functions: Multiple Output Bindings with HTTP Functions",
           "imageUrl": null
-        },
-        {
-          "id": "https://jaliyaudagedara.blogspot.com/2026/01/copying-azure-cosmos-db-nosql.html",
-          "author": null,
-          "description": "In this post, let's see how to copy Azure Cosmos DB NoSQL containers from one database to another database in a different Azure Cosmos DB NoSQL account.\n\n\n  Currently within the Azure Portal itself, only Container Copy within the same\n  account is supported.\n\n\n  \n    \n      \n        \n      \n    \n    \n      Container Copy\n    \n  \n\n\n\n  There are other options like Azure Data Factory etc, but",
-          "link": "https://jaliyaudagedara.blogspot.com/2026/01/copying-azure-cosmos-db-nosql.html",
-          "publishedOn": "2026-01-06T08:54:00.003Z",
-          "wordCount": 4743,
-          "title": "Copying Azure Cosmos DB NoSQL Containers to a Database in another Account",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhbTe_v5NfM1cQdXCyOioUX-Q-6UskKGLHASEg3e5NcwFlPWOcSScy3EtxRTxUfAIZkQcdEyPes8u1r1crzQgNP65of_KErFrP2QmlwNwnSpyBQKs4XeSxoMFwRe5gqNxmkbk5xPL8BIvISyRXOoThjqkQA8dX4cLd6rbK_4Weoy_XjQKt5YEF1JoIKSB4=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -1645,7 +1652,7 @@
           "publishedOn": "2026-01-18T12:58:44.000Z",
           "wordCount": 5417,
           "title": "SQL Server Database Mail: Complete Setup, SMTP Configuration, and Troubleshooting Guide",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1770086718"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1770345750"
         }
       ]
     },
@@ -1728,7 +1735,7 @@
           "description": "Have you ever tried to describe a UI bug to someone? “See that button… no, the OTHER button… the one with the blue border… well, it’s kind of blue… anyway, make it bigger.” It’s painful. Screenshots help, but then you’re copying and pasting them into chat windows and hoping your AI assistant understands which pixel […]",
           "link": "https://blog.codewithdan.com/point-click-ai-fixes-it-how-i-built-zingit-using-the-github-copilot-sdk/?utm_source=rss&utm_medium=rss&utm_campaign=point-click-ai-fixes-it-how-i-built-zingit-using-the-github-copilot-sdk",
           "publishedOn": "2026-02-02T08:23:27.000Z",
-          "wordCount": 3477,
+          "wordCount": 3584,
           "title": "Point, Click, Let AI Fix It: How I Built ZingIt Using the GitHub Copilot SDK",
           "imageUrl": null
         }
