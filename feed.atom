@@ -2,35 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-02-07T02:38:14.414Z</updated>
+    <updated>2026-02-08T03:22:04.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Essential Programmer Utilities]]></title>
-        <id>stories/738621</id>
-        <link href="https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/"/>
-        <updated>2026-02-07T02:37:57.806Z</updated>
-        <summary type="html"><![CDATA[Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logo?]]></title>
-        <id>stories/737626</id>
-        <link href="https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/"/>
-        <updated>2026-02-07T02:37:57.371Z</updated>
-        <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog]]></title>
         <id>stories/735789</id>
         <link href="https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/"/>
-        <updated>2026-02-07T02:37:57.309Z</updated>
+        <updated>2026-02-08T03:21:40.506Z</updated>
         <summary type="html"><![CDATA[Learn how to implement age verification in your .NET MAUI apps with our new cross-platform sample supporting Google Play Age Signals, Apple Declared Age Range, and Windows Age Consent APIs.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
@@ -40,58 +20,18 @@
         <title type="html"><![CDATA[Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence]]></title>
         <id>stories/737305</id>
         <link href="https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/"/>
-        <updated>2026-02-07T02:37:55.677Z</updated>
+        <updated>2026-02-08T03:21:40.496Z</updated>
         <summary type="html"><![CDATA[How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fundamentals of AI]]></title>
-        <id>stories/738416</id>
-        <link href="https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/"/>
-        <updated>2026-02-07T02:37:55.676Z</updated>
-        <summary type="html"><![CDATA[I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linear Regression with Pseudo-Inverse Training Using JavaScript]]></title>
-        <id>stories/739299</id>
-        <link href="https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx"/>
-        <updated>2026-02-07T02:37:54.836Z</updated>
-        <summary type="html"><![CDATA[Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joe Dluzen on Azure Functions & Durable Functions]]></title>
-        <id>stories/736946</id>
-        <link href="https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/"/>
-        <updated>2026-02-07T02:37:54.677Z</updated>
-        <summary type="html"><![CDATA[I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions]]></title>
-        <id>stories/735675</id>
-        <link href="https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions"/>
-        <updated>2026-02-07T02:37:54.648Z</updated>
-        <summary type="html"><![CDATA[Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure updates for partners: December 2025]]></title>
-        <id>stories/736815</id>
-        <link href="https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025"/>
-        <updated>2026-02-07T02:37:54.639Z</updated>
-        <summary type="html"><![CDATA[Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.]]></summary>
+        <title type="html"><![CDATA[Logo?]]></title>
+        <id>stories/737626</id>
+        <link href="https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/"/>
+        <updated>2026-02-08T03:21:40.309Z</updated>
+        <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -100,18 +40,48 @@
         <title type="html"><![CDATA[Azure Functions & Durable Functions Part 1]]></title>
         <id>stories/737117</id>
         <link href="https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/"/>
-        <updated>2026-02-07T02:37:54.249Z</updated>
+        <updated>2026-02-08T03:21:40.297Z</updated>
         <summary type="html"><![CDATA[As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EF Core Lazy Loading Performance Gotcha]]></title>
-        <id>stories/737816</id>
-        <link href="https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha"/>
-        <updated>2026-02-07T02:37:53.376Z</updated>
-        <summary type="html"><![CDATA[Mark Heath's Development Blog]]></summary>
+        <title type="html"><![CDATA[Azure updates for partners: December 2025]]></title>
+        <id>stories/736815</id>
+        <link href="https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025"/>
+        <updated>2026-02-08T03:21:40.258Z</updated>
+        <summary type="html"><![CDATA[Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linear Regression with Pseudo-Inverse Training Using JavaScript]]></title>
+        <id>stories/739299</id>
+        <link href="https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx"/>
+        <updated>2026-02-08T03:21:40.145Z</updated>
+        <summary type="html"><![CDATA[Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fundamentals of AI]]></title>
+        <id>stories/738416</id>
+        <link href="https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/"/>
+        <updated>2026-02-08T03:21:39.828Z</updated>
+        <summary type="html"><![CDATA[I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions]]></title>
+        <id>stories/735675</id>
+        <link href="https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions"/>
+        <updated>2026-02-08T03:21:38.698Z</updated>
+        <summary type="html"><![CDATA[Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -120,18 +90,8 @@
         <title type="html"><![CDATA[Learning AI]]></title>
         <id>stories/737522</id>
         <link href="https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/"/>
-        <updated>2026-02-07T02:37:52.985Z</updated>
+        <updated>2026-02-08T03:21:37.739Z</updated>
         <summary type="html"><![CDATA[Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Year in Review]]></title>
-        <id>stories/737343</id>
-        <link href="https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review"/>
-        <updated>2026-02-07T02:37:52.677Z</updated>
-        <summary type="html"><![CDATA[Mark Heath's Development Blog]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -140,7 +100,7 @@
         <title type="html"><![CDATA[An AI Project]]></title>
         <id>stories/738475</id>
         <link href="https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/"/>
-        <updated>2026-02-07T02:37:52.462Z</updated>
+        <updated>2026-02-08T03:21:37.474Z</updated>
         <summary type="html"><![CDATA[As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).]]></summary>
         <author>
             <name>dotnetkicks.com</name>
@@ -150,8 +110,18 @@
         <title type="html"><![CDATA[HyperVideo Features]]></title>
         <id>stories/738686</id>
         <link href="https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/"/>
-        <updated>2026-02-07T02:37:51.249Z</updated>
+        <updated>2026-02-08T03:21:37.198Z</updated>
         <summary type="html"><![CDATA[In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial "release," and some are simply aspirational.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Dluzen on Azure Functions & Durable Functions]]></title>
+        <id>stories/736946</id>
+        <link href="https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/"/>
+        <updated>2026-02-08T03:21:37.071Z</updated>
+        <summary type="html"><![CDATA[I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -160,8 +130,48 @@
         <title type="html"><![CDATA[CoPilot Gets Us Started]]></title>
         <id>stories/738494</id>
         <link href="https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/"/>
-        <updated>2026-02-07T02:37:51.057Z</updated>
+        <updated>2026-02-08T03:21:36.858Z</updated>
         <summary type="html"><![CDATA[In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EF Core Lazy Loading Performance Gotcha]]></title>
+        <id>stories/737816</id>
+        <link href="https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha"/>
+        <updated>2026-02-08T03:21:36.612Z</updated>
+        <summary type="html"><![CDATA[Mark Heath's Development Blog]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Year in Review]]></title>
+        <id>stories/737343</id>
+        <link href="https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review"/>
+        <updated>2026-02-08T03:21:36.538Z</updated>
+        <summary type="html"><![CDATA[Mark Heath's Development Blog]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Essential Programmer Utilities]]></title>
+        <id>stories/738621</id>
+        <link href="https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/"/>
+        <updated>2026-02-08T03:21:36.493Z</updated>
+        <summary type="html"><![CDATA[Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F# Weekly #6, 2026 - FScript &amp; An ode to "Slowly" handcrafted code]]></title>
+        <id>stories/739580</id>
+        <link href="https://dotnetkicks.com/r/739580?url=https://sergeytihon.com/2026/02/07/f-weekly-6-2026-fscript-an-ode-to-slowly-handcrafted-code/"/>
+        <updated>2026-02-07T17:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to F# Weekly, A roundup of F# content from this past week: Microsoft News .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows - .NET Blog Build AI Agents with Claude Agent SDK and Microsoft Agent Framework | Semantic Kernel Building an AI Skills Executor in .NET with Azure OpenAI Securing...]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -1434,43 +1444,6 @@ Postcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks
         <link href="https://dotnetkicks.com/r/737834?url=https://petabridge.com/blog/ai-wont-kill-open-source/"/>
         <updated>2026-01-08T19:31:22.000Z</updated>
         <summary type="html"><![CDATA[Why the doomsayers are wrong: npm, PyPI, and NuGet downloads are exploding]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET Isolated Azure Functions: Multiple Output Bindings with HTTP Functions]]></title>
-        <id>https://jaliyaudagedara.blogspot.com/2026/01/isolated-azure-functions-multiple.html</id>
-        <link href="https://jaliyaudagedara.blogspot.com/2026/01/isolated-azure-functions-multiple.html"/>
-        <updated>2026-01-08T11:06:00.001Z</updated>
-        <summary type="html"><![CDATA[In this post, let's look at how we can use multiple output bindings with
-  HTTP-triggered Azure Functions running on the isolated worker model.
-
-
-  When working with HTTP-triggered functions, you often need to return an HTTP
-  response to the caller while also sending data to other services like Azure
-  Service Bus, Azure Queue Storage, etc. This is where multiple output bindings
-  come in]]></summary>
-        <author>
-            <name>Jaliya's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penpot Is Experimenting With MCP Servers For AI-Powered Design Workflows]]></title>
-        <id>https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/</id>
-        <link href="https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/"/>
-        <updated>2026-01-08T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol) servers, which could lead to designers and developers being able to perform tasks in Penpot using AI that’s able to understand and interact with Penpot design files. Daniel Schwarz explains how [Penpot MCP](https://github.com/penpot/penpot-mcp) servers work, what they could mean for creating and managing designs in Penpot, and what you can do to help shape their development.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Daniel Schwarz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog]]></title>
-        <id>stories/737771</id>
-        <link href="https://dotnetkicks.com/r/737771?url=https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/"/>
-        <updated>2026-01-07T18:05:00.000Z</updated>
-        <summary type="html"><![CDATA[The MongoDB EF Core provider now supports Queryable Encryption and Vector Search. Learn how to encrypt sensitive data while querying it and build AI-powered semantic search applications directly with EF Core.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
