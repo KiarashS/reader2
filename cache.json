@@ -189,7 +189,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4512,
+          "wordCount": 4507,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -219,7 +219,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4604,
+          "wordCount": 4597,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -234,7 +234,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4670,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -249,7 +249,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5816,
+          "wordCount": 5812,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -264,7 +264,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6453,
+          "wordCount": 6456,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -294,7 +294,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5370,
+          "wordCount": 5363,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -505,7 +505,7 @@
           "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
           "publishedOn": "2026-02-05T07:53:22.000Z",
-          "wordCount": 2220,
+          "wordCount": 2229,
           "title": "Reliably Refreshing the WebView2 Control",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
         }
@@ -522,7 +522,7 @@
           "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
           "publishedOn": "2026-02-05T07:53:22.000Z",
-          "wordCount": 2220,
+          "wordCount": 2233,
           "title": "Reliably Refreshing the WebView2 Control",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
         }
@@ -538,19 +538,9 @@
           "author": null,
           "description": "Learn how to implement age verification in your .NET MAUI apps with our new cross-platform sample supporting Google Play Age Signals, Apple Declared Age Range, and Windows Age Consent APIs.",
           "link": "https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/",
-          "publishedOn": "2026-02-08T03:21:40.506Z",
+          "publishedOn": "2026-02-09T02:50:13.119Z",
           "wordCount": null,
           "title": "Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737305",
-          "author": null,
-          "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
-          "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
-          "publishedOn": "2026-02-08T03:21:40.496Z",
-          "wordCount": null,
-          "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
           "imageUrl": null
         },
         {
@@ -558,19 +548,19 @@
           "author": null,
           "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
           "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
-          "publishedOn": "2026-02-08T03:21:40.309Z",
+          "publishedOn": "2026-02-09T02:50:13.098Z",
           "wordCount": null,
           "title": "Logo?",
           "imageUrl": null
         },
         {
-          "id": "stories/737117",
+          "id": "stories/739299",
           "author": null,
-          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
-          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
-          "publishedOn": "2026-02-08T03:21:40.297Z",
-          "wordCount": 3735,
-          "title": "Azure Functions & Durable Functions Part 1",
+          "description": "Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.",
+          "link": "https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx",
+          "publishedOn": "2026-02-09T02:50:12.187Z",
+          "wordCount": null,
+          "title": "Linear Regression with Pseudo-Inverse Training Using JavaScript",
           "imageUrl": null
         },
         {
@@ -578,19 +568,19 @@
           "author": null,
           "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
           "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-          "publishedOn": "2026-02-08T03:21:40.258Z",
+          "publishedOn": "2026-02-09T02:50:11.759Z",
           "wordCount": 3584,
           "title": "Azure updates for partners: December 2025",
           "imageUrl": "https://partner.microsoft.com/-/media/mssc/mpn/partner/saas-solution-guide/saas-solution-guide.jpg"
         },
         {
-          "id": "stories/739299",
+          "id": "stories/737305",
           "author": null,
-          "description": "Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.",
-          "link": "https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx",
-          "publishedOn": "2026-02-08T03:21:40.145Z",
+          "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
+          "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
+          "publishedOn": "2026-02-09T02:50:11.179Z",
           "wordCount": null,
-          "title": "Linear Regression with Pseudo-Inverse Training Using JavaScript",
+          "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
           "imageUrl": null
         },
         {
@@ -598,49 +588,9 @@
           "author": null,
           "description": "I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.",
           "link": "https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/",
-          "publishedOn": "2026-02-08T03:21:39.828Z",
+          "publishedOn": "2026-02-09T02:50:11.151Z",
           "wordCount": null,
           "title": "Fundamentals of AI",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/735675",
-          "author": null,
-          "description": "Mac Tahoe (in Beta as of the time of this writing) has this new feature called ...",
-          "link": "https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
-          "publishedOn": "2026-02-08T03:21:38.698Z",
-          "wordCount": 4040,
-          "title": "Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions",
-          "imageUrl": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/Automatically-Signing-a-Windows-EXE-with_D0BE/image_thumb%5B1%5D.png"
-        },
-        {
-          "id": "stories/737522",
-          "author": null,
-          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
-          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
-          "publishedOn": "2026-02-08T03:21:37.739Z",
-          "wordCount": 2437,
-          "title": "Learning AI",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738475",
-          "author": null,
-          "description": "As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).",
-          "link": "https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/",
-          "publishedOn": "2026-02-08T03:21:37.474Z",
-          "wordCount": 2069,
-          "title": "An AI Project",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738686",
-          "author": null,
-          "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
-          "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
-          "publishedOn": "2026-02-08T03:21:37.198Z",
-          "wordCount": 2005,
-          "title": "HyperVideo Features",
           "imageUrl": null
         },
         {
@@ -648,19 +598,79 @@
           "author": null,
           "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
           "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
-          "publishedOn": "2026-02-08T03:21:37.071Z",
+          "publishedOn": "2026-02-09T02:50:10.681Z",
           "wordCount": 2948,
           "title": "Joe Dluzen on Azure Functions & Durable Functions",
           "imageUrl": null
+        },
+        {
+          "id": "stories/737343",
+          "author": null,
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
+          "publishedOn": "2026-02-09T02:50:10.506Z",
+          "wordCount": 1500,
+          "title": "2025 Year in Review",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
         },
         {
           "id": "stories/738494",
           "author": null,
           "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
           "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
-          "publishedOn": "2026-02-08T03:21:36.858Z",
+          "publishedOn": "2026-02-09T02:50:10.417Z",
           "wordCount": 2300,
           "title": "CoPilot Gets Us Started",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/738686",
+          "author": null,
+          "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
+          "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
+          "publishedOn": "2026-02-09T02:50:10.263Z",
+          "wordCount": 2005,
+          "title": "HyperVideo Features",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737117",
+          "author": null,
+          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
+          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
+          "publishedOn": "2026-02-09T02:50:10.097Z",
+          "wordCount": 3735,
+          "title": "Azure Functions & Durable Functions Part 1",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737522",
+          "author": null,
+          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
+          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
+          "publishedOn": "2026-02-09T02:50:09.523Z",
+          "wordCount": 2437,
+          "title": "Learning AI",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/739584",
+          "author": null,
+          "description": "People should not be judging AI-augmented coding by '1 shots.' If someone told ...",
+          "link": "https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
+          "publishedOn": "2026-02-09T02:50:09.343Z",
+          "wordCount": 777,
+          "title": "The danger of glamourizing one shots",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
+        },
+        {
+          "id": "stories/738621",
+          "author": null,
+          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
+          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
+          "publishedOn": "2026-02-09T02:50:09.238Z",
+          "wordCount": 2426,
+          "title": "Essential Programmer Utilities",
           "imageUrl": null
         },
         {
@@ -668,29 +678,19 @@
           "author": null,
           "description": "Mark Heath's Development Blog",
           "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
-          "publishedOn": "2026-02-08T03:21:36.612Z",
+          "publishedOn": "2026-02-09T02:50:09.095Z",
           "wordCount": 945,
           "title": "EF Core Lazy Loading Performance Gotcha",
           "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
         },
         {
-          "id": "stories/737343",
+          "id": "stories/738475",
           "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
-          "publishedOn": "2026-02-08T03:21:36.538Z",
-          "wordCount": 1500,
-          "title": "2025 Year in Review",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
-        },
-        {
-          "id": "stories/738621",
-          "author": null,
-          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
-          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
-          "publishedOn": "2026-02-08T03:21:36.493Z",
-          "wordCount": 2426,
-          "title": "Essential Programmer Utilities",
+          "description": "As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).",
+          "link": "https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/",
+          "publishedOn": "2026-02-09T02:50:09.041Z",
+          "wordCount": 2069,
+          "title": "An AI Project",
           "imageUrl": null
         },
         {
@@ -709,7 +709,7 @@
           "description": "An announcement of .NET Framework 3.5 servicing updates on new versions of Windows.",
           "link": "https://dotnetkicks.com/r/739519?url=https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/",
           "publishedOn": "2026-02-05T18:00:00.000Z",
-          "wordCount": 7439,
+          "wordCount": 7104,
           "title": ".NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/02/dotnet-framework-35-standalone-featured.webp"
         },
@@ -849,7 +849,7 @@
           "description": "The Wolverine community fields a lot of questions from people who are moving to Wolverine from their previous MediatR usage. A quite natural response is to try to use Wolverine as a pure drop in replacement for MediatR and even try to use the existing MediatR idioms they're already used to.",
           "link": "https://dotnetkicks.com/r/738794?url=https://jeremydmiller.com/2026/01/26/wolverine-idioms-for-mediatr-users/",
           "publishedOn": "2026-01-26T18:10:47.000Z",
-          "wordCount": 5731,
+          "wordCount": 5726,
           "title": "Wolverine Idioms for MediatR Users",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2022/10/logo.png"
         },
@@ -889,7 +889,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Bringing work context to your code in GitHub Copilot - Microsoft for Developers Context-Driven Development: Agent Skills for Microsoft Foundry and Azure | All things Azure PowerToys 0.97 is here: a big Command Palette update and a new mouse utility -...",
           "link": "https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/",
           "publishedOn": "2026-01-24T10:56:28.000Z",
-          "wordCount": 4405,
+          "wordCount": 4586,
           "title": "F# Weekly #4, 2026 - F# event / (un)conference in 2026?",
           "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2026/01/xnapper-2026-01-24-11.53.47.png?fit=1200%2C635&ssl=1"
         },
@@ -919,7 +919,7 @@
           "description": "Wolverine has had a very frequent release cadence the past couple months as community contributions, requests from JasperFx Software clients, and yes, sigh, bug reports have flowed in. Right now I think I can justifiably claim that Wolverine is innovating much faster than any of the other comparable tools in the .NET ecosystem.",
           "link": "https://dotnetkicks.com/r/738518?url=https://jeremydmiller.com/2026/01/21/catching-up-with-recent-wolverine-releases/",
           "publishedOn": "2026-01-21T14:49:42.000Z",
-          "wordCount": 5229,
+          "wordCount": 5234,
           "title": "Catching Up with Recent Wolverine Releases",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2026/01/image-3.png"
         },
@@ -939,7 +939,7 @@
           "description": "The Marten community made our first big release of the new year with 8.18 this morning. I'm particularly happy with a couple significant things in this release: We had 8 different contributors in just the last month of work this release represents Anne Erdtsieck did a lot to improve our documentation for using our multi-stream...",
           "link": "https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/",
           "publishedOn": "2026-01-20T15:30:56.000Z",
-          "wordCount": 6984,
+          "wordCount": 6989,
           "title": "Easier Query Models with Marten",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2026/01/image-1.png"
         },
@@ -999,7 +999,7 @@
           "description": "Reach out anytime to sales@jasperfx.net to ask us about how we could potentially help your shop with software development using the Critter Stack. It's a New Year and hopefully we all get to start on some great new software initiatives. If you happen to be starting something this year that's going to get you into...",
           "link": "https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/",
           "publishedOn": "2026-01-13T23:59:05.000Z",
-          "wordCount": 4813,
+          "wordCount": 4808,
           "title": "How JasperFx Supports our Customers",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2023/07/cropped-cropped-jasperfx-logo-final-orange-bg.jpg"
         },
@@ -1069,19 +1069,9 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Mibo: A Functional Game Framework for F# Generative AI: The Future of Consumer Technology - .NET Blog XAML Studio is now Open Sourced - #ifdef Windows EF Core MongoDB Queryable Encryption and Vector Search Explained - .NET Blog Scaling AI Agents...",
           "link": "https://dotnetkicks.com/r/737839?url=https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/",
           "publishedOn": "2026-01-10T21:18:39.000Z",
-          "wordCount": 4385,
+          "wordCount": 4566,
           "title": "F# Weekly #2, 2026 - Mibo and WREN Stack",
           "imageUrl": "https://sergeytihon.com/wp-content/uploads/2026/01/bafkreidzlsgodwkwdg6f3vafjfhpgpyfk7tmfrk23k4rdgheoigdurbhfu.jpg"
-        },
-        {
-          "id": "stories/737834",
-          "author": null,
-          "description": "Why the doomsayers are wrong: npm, PyPI, and NuGet downloads are exploding",
-          "link": "https://dotnetkicks.com/r/737834?url=https://petabridge.com/blog/ai-wont-kill-open-source/",
-          "publishedOn": "2026-01-08T19:31:22.000Z",
-          "wordCount": 3133,
-          "title": "AI Won't Kill Open Source - It Will Amplify It",
-          "imageUrl": "https://hcti.io/v1/image/133ae5fdb357269cefb4ca0c4b35583207c3cbba0985e4351cd559e6c1a1f3d8"
         }
       ]
     },
@@ -1090,6 +1080,16 @@
       "feedUrl": "https://dotnettips.wordpress.com/feed/",
       "siteUrl": "https://dotnettips.wordpress.com",
       "articles": [
+        {
+          "id": "http://dotnettips.wordpress.com/?p=16373",
+          "author": "dotNetDave",
+          "description": "The CountryPhonePostalInfoRepository provides an efficient solution for validating phone numbers and postal codes globally, addressing the complexities of varying formats and rules. It offers a centralized API for reliable country-specific validation, enhancing data integrity in applications while simplifying maintenance and development. This tool ensures accurate, consistent validation logic.",
+          "link": "https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/",
+          "publishedOn": "2026-02-08T07:00:00.000Z",
+          "wordCount": 5855,
+          "title": "Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy",
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20260110_1001_image-generation_simple_compose_01kema6amqftkt7ayjs5tz672h.png?fit=1200%2C800&ssl=1"
+        },
         {
           "id": "http://dotnettips.wordpress.com/?p=16230",
           "author": "dotNetDave",
@@ -1527,7 +1527,28 @@
       "title": "Scott Hanselman's Blog",
       "feedUrl": "http://feeds.hanselman.com/ScottHanselman",
       "siteUrl": "https://www.hanselman.com/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.hanselman.com/blog/post/449e1a01-a1f1-49c3-96eb-4695a08ecef1",
+          "author": "Scott Hanselman",
+          "description": "The Japanese are really good at woodworking. And I love watching the Yankee workshop, my dad makes Native American bows and arrows completely from scratch in his workshop with trees that he finds. \nThis is all different from the stuff you get at IKEA, but I’ve been coding now for money for 35 years and systems are still complicated, computers still do dumb stuff, humans still do dumb stuff, this is just like the move from assembler to C, like the introduction of syntax highlighting, the introduction of intellisense, and the copy paste directly into production shift when stack overflow happened.\n\r\nThere is value in good taste, there is value in craftsmanship, and there is value in human judgment. The furniture might be differently designed, but we’re still interior designers and putting together a cohesive system is non-trivial. \n\r\nDon’t let them gaslight you with one shot Minecraft clones and one shot C compilers. Software is still hard, it’s just that you’re no longer I/O bound with the speed of your fingertips.\n\r\nI think that there will be lots of work for us cleaning up after the slop, but if you know what you’re doing AI augmented development is going to get you some amazing results and I am enjoying learning a ton during this momentous era shift - but the craft still exists.\n\n© 2025 Scott Hanselman. All rights reserved.",
+          "link": "http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead",
+          "publishedOn": "2026-02-09T05:50:59.000Z",
+          "wordCount": 768,
+          "title": "Is the craft dead?",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
+        },
+        {
+          "id": "https://www.hanselman.com/blog/post/18a2f0d8-2090-4b71-ac9c-c0d592583e22",
+          "author": "Scott Hanselman",
+          "description": "People should not be judging AI-augmented coding by “1 shots.” \nIf someone told you that their model did a “one shot of Minecraft” and they’re impressed by that, you need to consider how much semantic heavy lifting the word “Minecraft” is doing in that prompt. \nAsk them to one shot Minecraft without using the word Minecraft. \nIt’s not trivial to one shot something unique, because programming is the art of making the ambiguous incredibly specific through sculpting. AI sculpting is less about vibes and more about finding the specificity you want and keeping the system stable through changes. Good SDLC practices still matter, historical context still matters, and knowing how things work matters, shout out to Grady Booch.\nIt’s a cool party trick to one shot Mario Brothers or space invaders, but then you’ll end up with the most mid version of both. Literally mid. You’ll get the statistical fat part of the Bell curve version of these mythical games. You’re telling the model to close its eyes and draw the face of these games from memory. \nAs high-level programming cedes way to the prose compiler, making your goals and specs well understood to the ambiguity loop and showing good judgment is going to matter more than ever. Consider all of your words and make sure that certain words aren’t carrying all the semantic load, hidden or otherwise.\n\n© 2025 Scott Hanselman. All rights reserved.",
+          "link": "http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
+          "publishedOn": "2026-02-04T05:53:00.000Z",
+          "wordCount": 777,
+          "title": "The danger of glamourizing one shots",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
+        }
+      ]
     },
     {
       "title": "Thomas Levesque's .NET Blog",
@@ -1602,7 +1623,7 @@
           "publishedOn": "2026-01-18T12:58:44.000Z",
           "wordCount": 5417,
           "title": "SQL Server Database Mail: Complete Setup, SMTP Configuration, and Troubleshooting Guide",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1770345750"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1770520883"
         }
       ]
     },
