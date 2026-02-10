@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391766",
+          "author": "Juan Diego Rodríguez",
+          "description": "Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.\nTrying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/",
+          "publishedOn": "2026-02-09T17:34:56.000Z",
+          "wordCount": 3717,
+          "title": "Trying to Make the Perfect Pie Chart in CSS",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/ddzynrhrx/video/upload/v1769282762/audio_nvda_tejgbi.mp4",
+            "length": "162076",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=391781",
           "author": "Preethi",
           "description": "CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?\nCSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,21 +175,6 @@
           "wordCount": 1521,
           "title": "Playing With CodePen slideVars",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/codepen-slidevars.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391345",
-          "author": "Lee Meyer",
-          "description": "Lee Meyer recently spoke at Web Directions Summit 2025. This is his experience, not only speaking at the event, but experiencing the event through the lens of anxiety and imposter syndrome.\nPostcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/postcard-from-web-directions-dev-summit-2025/",
-          "publishedOn": "2026-01-12T14:54:32.000Z",
-          "wordCount": 4451,
-          "title": "Postcard From Web Directions Dev Summit, 2025",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/01/lee-meyer-web-directions-demo.mp4",
-            "length": "779557",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/lee-web-directions.jpg"
         }
       ]
     },
@@ -189,7 +189,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4507,
+          "wordCount": 4506,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -219,7 +219,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4597,
+          "wordCount": 4704,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -234,7 +234,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4670,
+          "wordCount": 4660,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -249,7 +249,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5812,
+          "wordCount": 5816,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -264,7 +264,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6456,
+          "wordCount": 6451,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -279,7 +279,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5111,
+          "wordCount": 5115,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -294,7 +294,7 @@
           "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
           "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
           "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5363,
+          "wordCount": 5368,
           "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
@@ -309,7 +309,7 @@
           "description": "How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the doubts we have today. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
           "link": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
           "publishedOn": "2026-01-12T10:00:00.000Z",
-          "wordCount": 4382,
+          "wordCount": null,
           "title": "UX And Product Designer’s Career Paths In 2026",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-designer-career-paths/ux-product-designer-career-paths.jpg",
@@ -325,6 +325,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6989f75b7982b0d48a3c2c48",
+          "author": "Bala Priya C",
+          "description": "Design patterns are proven solutions to common problems in software development. If you've ever found yourself writing repetitive object creation code or struggling to manage different types of objects, the factory pattern might be exactly what you n...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-factory-pattern-in-python-a-practical-guide/",
+          "publishedOn": "2026-02-09T15:03:55.000Z",
+          "wordCount": 2479,
+          "title": "How to Use the Factory Pattern in Python - A Practical Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770649418899/f26d3d70-a909-4d8f-92f5-7f263c64f9fe.png"
+        },
+        {
+          "id": "6989f72cfec80c4e91c007a4",
+          "author": "Chidiadi Anyanwu",
+          "description": "Writing code can be similar to writing tutorials. In both cases, you’ll typically need to create and work on multiple drafts before reaching the final version. In an ideal setting, you would write code for a feature, add that code to the staging area...",
+          "link": "https://www.freecodecamp.org/news/how-to-save-multiple-drafts-in-git-a-guide-to-using-stash/",
+          "publishedOn": "2026-02-09T15:03:08.000Z",
+          "wordCount": 1936,
+          "title": "How to Save Multiple Drafts in Git: A Guide to Using Stash",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770649372924/7c949e9d-627a-4b06-99fe-40ce0e7c8507.png"
+        },
         {
           "id": "698614754058fffacf721cc8",
           "author": "Abdul Talha",
@@ -404,26 +424,6 @@
           "wordCount": 13955,
           "title": "How AOSP 16 Bluetooth Scanner Works: The Ultimate Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770234863523/44a1690e-ab8a-4f6b-a12b-2c2636947d8c.png"
-        },
-        {
-          "id": "6983a70b543e15ed3c801f63",
-          "author": "Atuoha Anthony",
-          "description": "As Flutter applications grow beyond a single mobile app, teams quickly encounter a new class of problems. Shared business logic begins to be copied across projects. UI components drift out of sync. Fixes in one app don’t propagate cleanly to others. ...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-monorepos-in-flutter/",
-          "publishedOn": "2026-02-04T20:07:39.000Z",
-          "wordCount": 4302,
-          "title": "How to Use Monorepos in Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770234857032/469b96ec-07d5-4ca3-9662-d890790a6a75.png"
-        },
-        {
-          "id": "69837cd8f119ce39fb6041f1",
-          "author": "Manish Shivanandhan",
-          "description": "Modern systems generate huge volumes of logs. Application logs, server logs, and infrastructure logs often contain the first clues when something breaks. The problem is not a lack of data, but the effort required to read and understand it. Engineers ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-and-deploy-a-loganalyzer-agent-using-langchain/",
-          "publishedOn": "2026-02-04T17:07:36.000Z",
-          "wordCount": 2494,
-          "title": "How to Build and Deploy a LogAnalyzer Agent using LangChain",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770224778776/7d5c3a27-adc2-4cde-94d5-4ac7db892673.png"
         }
       ]
     },
@@ -432,6 +432,16 @@
       "feedUrl": "https://blog.peterritchie.com/feed.atom",
       "siteUrl": "http://blog.peterritchie.com/",
       "articles": [
+        {
+          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-february-8",
+          "author": null,
+          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
+          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-february-8",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 552,
+          "title": "Things That Caught My Attention Last Week - February 8",
+          "imageUrl": null
+        },
         {
           "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-february-1",
           "author": null,
@@ -505,7 +515,7 @@
           "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
           "publishedOn": "2026-02-05T07:53:22.000Z",
-          "wordCount": 2229,
+          "wordCount": 2233,
           "title": "Reliably Refreshing the WebView2 Control",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
         }
@@ -522,7 +532,7 @@
           "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
           "publishedOn": "2026-02-05T07:53:22.000Z",
-          "wordCount": 2233,
+          "wordCount": 2229,
           "title": "Reliably Refreshing the WebView2 Control",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
         }
@@ -538,29 +548,9 @@
           "author": null,
           "description": "Learn how to implement age verification in your .NET MAUI apps with our new cross-platform sample supporting Google Play Age Signals, Apple Declared Age Range, and Windows Age Consent APIs.",
           "link": "https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/",
-          "publishedOn": "2026-02-09T02:50:13.119Z",
+          "publishedOn": "2026-02-10T03:14:45.496Z",
           "wordCount": null,
           "title": "Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737626",
-          "author": null,
-          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
-          "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
-          "publishedOn": "2026-02-09T02:50:13.098Z",
-          "wordCount": null,
-          "title": "Logo?",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/739299",
-          "author": null,
-          "description": "Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.",
-          "link": "https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx",
-          "publishedOn": "2026-02-09T02:50:12.187Z",
-          "wordCount": null,
-          "title": "Linear Regression with Pseudo-Inverse Training Using JavaScript",
           "imageUrl": null
         },
         {
@@ -568,7 +558,7 @@
           "author": null,
           "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
           "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-          "publishedOn": "2026-02-09T02:50:11.759Z",
+          "publishedOn": "2026-02-10T03:14:45.211Z",
           "wordCount": 3584,
           "title": "Azure updates for partners: December 2025",
           "imageUrl": "https://partner.microsoft.com/-/media/mssc/mpn/partner/saas-solution-guide/saas-solution-guide.jpg"
@@ -578,9 +568,29 @@
           "author": null,
           "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
           "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
-          "publishedOn": "2026-02-09T02:50:11.179Z",
+          "publishedOn": "2026-02-10T03:14:44.919Z",
           "wordCount": null,
           "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/739584",
+          "author": null,
+          "description": "People should not be judging AI-augmented coding by '1 shots.' If someone told ...",
+          "link": "https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
+          "publishedOn": "2026-02-10T03:14:44.873Z",
+          "wordCount": 793,
+          "title": "The danger of glamourizing one shots",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
+        },
+        {
+          "id": "stories/737626",
+          "author": null,
+          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
+          "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
+          "publishedOn": "2026-02-10T03:14:44.836Z",
+          "wordCount": null,
+          "title": "Logo?",
           "imageUrl": null
         },
         {
@@ -588,7 +598,7 @@
           "author": null,
           "description": "I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.",
           "link": "https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/",
-          "publishedOn": "2026-02-09T02:50:11.151Z",
+          "publishedOn": "2026-02-10T03:14:44.833Z",
           "wordCount": null,
           "title": "Fundamentals of AI",
           "imageUrl": null
@@ -598,39 +608,19 @@
           "author": null,
           "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
           "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
-          "publishedOn": "2026-02-09T02:50:10.681Z",
+          "publishedOn": "2026-02-10T03:14:44.805Z",
           "wordCount": 2948,
           "title": "Joe Dluzen on Azure Functions & Durable Functions",
           "imageUrl": null
         },
         {
-          "id": "stories/737343",
+          "id": "stories/739299",
           "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
-          "publishedOn": "2026-02-09T02:50:10.506Z",
-          "wordCount": 1500,
-          "title": "2025 Year in Review",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
-        },
-        {
-          "id": "stories/738494",
-          "author": null,
-          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
-          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
-          "publishedOn": "2026-02-09T02:50:10.417Z",
-          "wordCount": 2300,
-          "title": "CoPilot Gets Us Started",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738686",
-          "author": null,
-          "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
-          "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
-          "publishedOn": "2026-02-09T02:50:10.263Z",
-          "wordCount": 2005,
-          "title": "HyperVideo Features",
+          "description": "Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.",
+          "link": "https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx",
+          "publishedOn": "2026-02-10T03:14:44.797Z",
+          "wordCount": null,
+          "title": "Linear Regression with Pseudo-Inverse Training Using JavaScript",
           "imageUrl": null
         },
         {
@@ -638,60 +628,90 @@
           "author": null,
           "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
           "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
-          "publishedOn": "2026-02-09T02:50:10.097Z",
+          "publishedOn": "2026-02-10T03:14:44.769Z",
           "wordCount": 3735,
           "title": "Azure Functions & Durable Functions Part 1",
           "imageUrl": null
         },
         {
-          "id": "stories/737522",
+          "id": "stories/737343",
           "author": null,
-          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
-          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
-          "publishedOn": "2026-02-09T02:50:09.523Z",
-          "wordCount": 2437,
-          "title": "Learning AI",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/739584",
-          "author": null,
-          "description": "People should not be judging AI-augmented coding by '1 shots.' If someone told ...",
-          "link": "https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
-          "publishedOn": "2026-02-09T02:50:09.343Z",
-          "wordCount": 777,
-          "title": "The danger of glamourizing one shots",
-          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
-        },
-        {
-          "id": "stories/738621",
-          "author": null,
-          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
-          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
-          "publishedOn": "2026-02-09T02:50:09.238Z",
-          "wordCount": 2426,
-          "title": "Essential Programmer Utilities",
-          "imageUrl": null
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
+          "publishedOn": "2026-02-10T03:14:44.605Z",
+          "wordCount": 1500,
+          "title": "2025 Year in Review",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
         },
         {
           "id": "stories/737816",
           "author": null,
           "description": "Mark Heath's Development Blog",
           "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
-          "publishedOn": "2026-02-09T02:50:09.095Z",
+          "publishedOn": "2026-02-10T03:14:44.597Z",
           "wordCount": 945,
           "title": "EF Core Lazy Loading Performance Gotcha",
           "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+        },
+        {
+          "id": "stories/737522",
+          "author": null,
+          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
+          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
+          "publishedOn": "2026-02-10T03:14:44.593Z",
+          "wordCount": 2437,
+          "title": "Learning AI",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/738686",
+          "author": null,
+          "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
+          "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
+          "publishedOn": "2026-02-10T03:14:44.270Z",
+          "wordCount": 2005,
+          "title": "HyperVideo Features",
+          "imageUrl": null
         },
         {
           "id": "stories/738475",
           "author": null,
           "description": "As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).",
           "link": "https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/",
-          "publishedOn": "2026-02-09T02:50:09.041Z",
+          "publishedOn": "2026-02-10T03:14:43.201Z",
           "wordCount": 2069,
           "title": "An AI Project",
           "imageUrl": null
+        },
+        {
+          "id": "stories/738621",
+          "author": null,
+          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
+          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
+          "publishedOn": "2026-02-10T03:14:42.819Z",
+          "wordCount": 2426,
+          "title": "Essential Programmer Utilities",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/738494",
+          "author": null,
+          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
+          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
+          "publishedOn": "2026-02-10T03:14:42.704Z",
+          "wordCount": 2300,
+          "title": "CoPilot Gets Us Started",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/739624",
+          "author": null,
+          "description": "This post looks at hardening the security for the swiyu public beta infrastructure. The generic containers provide both management APIs and wallet APIs which support the OpenID for Verifiable Presentations 1.0 specification. The management APIs require both network protection and application security. This post looks at implementing the network isolation.",
+          "link": "https://dotnetkicks.com/r/739624?url=https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/",
+          "publishedOn": "2026-02-09T06:45:22.000Z",
+          "wordCount": 5456,
+          "title": "Isolate the swiyu Public Beta management APIs using YARP",
+          "imageUrl": "https://damienbod.com/wp-content/uploads/2026/01/oidc_loi_loa.drawio.png"
         },
         {
           "id": "stories/739580",
@@ -699,7 +719,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: Microsoft News .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows - .NET Blog Build AI Agents with Claude Agent SDK and Microsoft Agent Framework | Semantic Kernel Building an AI Skills Executor in .NET with Azure OpenAI Securing...",
           "link": "https://dotnetkicks.com/r/739580?url=https://sergeytihon.com/2026/02/07/f-weekly-6-2026-fscript-an-ode-to-slowly-handcrafted-code/",
           "publishedOn": "2026-02-07T17:58:50.000Z",
-          "wordCount": 4598,
+          "wordCount": 4627,
           "title": "F# Weekly #6, 2026 - FScript &amp; An ode to \"Slowly\" handcrafted code",
           "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2026/02/screenshot-2026-02-07_18-55-48.png?fit=1200%2C630&ssl=1"
         },
@@ -709,7 +729,7 @@
           "description": "An announcement of .NET Framework 3.5 servicing updates on new versions of Windows.",
           "link": "https://dotnetkicks.com/r/739519?url=https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/",
           "publishedOn": "2026-02-05T18:00:00.000Z",
-          "wordCount": 7104,
+          "wordCount": 7143,
           "title": ".NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/02/dotnet-framework-35-standalone-featured.webp"
         },
@@ -719,7 +739,7 @@
           "description": "Discover the February roadmap for AI in Visual Studio, with improvements in reliability and integrations for better performance.",
           "link": "https://dotnetkicks.com/r/739413?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/",
           "publishedOn": "2026-02-04T20:42:53.000Z",
-          "wordCount": 7843,
+          "wordCount": 7872,
           "title": "Roadmap for AI in Visual Studio (February) - Visual Studio Blog",
           "imageUrl": "https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2026/02/Screenshot-2026-02-04-103620.webp"
         },
@@ -779,7 +799,7 @@
           "description": "This post looks at implement client assertions in an ASP.NET Core application OpenID Connect client using OAuth Demonstrating Proof of Possession (DPoP) and OAuth Pushed Authorization Requests (PAR). Code: https://github.com/swiss-ssi-group/swiyu-passkeys-idp-loi-loa Blogs in this series: Digital authentication and identity validation Set the amr claim when using passkeys authentication in ASP.NET Core Implementing Level of Authentication (LoA)...",
           "link": "https://dotnetkicks.com/r/739158?url=https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/",
           "publishedOn": "2026-02-02T06:31:34.000Z",
-          "wordCount": 5594,
+          "wordCount": 5649,
           "title": "Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR",
           "imageUrl": "https://damienbod.com/wp-content/uploads/2025/12/oidc-confidential-pkce-par-flow-drawio.png"
         },
@@ -789,7 +809,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News .NET AI Essentials - The Core Building Blocks Explained - .NET Blog Join Microsoft at NDC London 2026 - Let's Build the Future of .NET Together Build AI Agents with GitHub Copilot SDK and Microsoft Agent Framework | Semantic Kernel Build...",
           "link": "https://dotnetkicks.com/r/739289?url=https://sergeytihon.com/2026/02/01/f-weekly-5-2026-leveling-up-with-lattice/",
           "publishedOn": "2026-02-01T20:20:30.000Z",
-          "wordCount": 4493,
+          "wordCount": 4674,
           "title": "F# Weekly #5, 2026 - Leveling Up With Lattice",
           "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2026/02/lattice_banner.png?fit=1200%2C675&ssl=1"
         },
@@ -799,7 +819,7 @@
           "description": "Learn how Microsoft.Extensions.AI provides a unified API for building intelligent .NET applications with any LLM provider - one interface, endless possibilities, with built-in middleware, telemetry, structured outputs and more.",
           "link": "https://dotnetkicks.com/r/739065?url=https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/",
           "publishedOn": "2026-01-28T17:30:00.000Z",
-          "wordCount": 8793,
+          "wordCount": 8796,
           "title": ".NET AI Essentials - The Core Building Blocks Explained - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/01/dotnet-essentials-scaled.webp"
         },
@@ -879,7 +899,7 @@
           "description": "The post shows how to implement a step up authorization using the OAuth 2.0 Step Up Authentication Challenge Protocol RFC 9470. The application uses ASP.NET Core to implement the API, the web application and the identity provider. Duende IdentityServer is used to implement the OpenID Connect server standard and also OAuth DPoP token binding as...",
           "link": "https://dotnetkicks.com/r/738839?url=https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/",
           "publishedOn": "2026-01-26T07:02:14.000Z",
-          "wordCount": 6616,
+          "wordCount": 6654,
           "title": "Force step up authentication in web applications",
           "imageUrl": "https://damienbod.com/wp-content/uploads/2025/12/oidc_loi_loa.drawio-1.png"
         },
@@ -889,7 +909,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Bringing work context to your code in GitHub Copilot - Microsoft for Developers Context-Driven Development: Agent Skills for Microsoft Foundry and Azure | All things Azure PowerToys 0.97 is here: a big Command Palette update and a new mouse utility -...",
           "link": "https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/",
           "publishedOn": "2026-01-24T10:56:28.000Z",
-          "wordCount": 4586,
+          "wordCount": 4405,
           "title": "F# Weekly #4, 2026 - F# event / (un)conference in 2026?",
           "imageUrl": "https://i0.wp.com/sergeytihon.com/wp-content/uploads/2026/01/xnapper-2026-01-24-11.53.47.png?fit=1200%2C635&ssl=1"
         },
@@ -909,7 +929,7 @@
           "description": "Marten has very rich support for projecting events into read, write, or query models. While there are other capabilities as well, the most common usage is probably to aggregate related events into a singular view. Marten projections can be executed Live, meaning that Marten does the creation of the view by loading the target events...",
           "link": "https://dotnetkicks.com/r/738612?url=https://jeremydmiller.com/2026/01/22/martens-aggregation-projection-subsystem/",
           "publishedOn": "2026-01-22T11:53:40.000Z",
-          "wordCount": 5756,
+          "wordCount": 5761,
           "title": "Marten's Aggregation Projection Subsystem",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2020/12/banner.png"
         },
@@ -939,7 +959,7 @@
           "description": "The Marten community made our first big release of the new year with 8.18 this morning. I'm particularly happy with a couple significant things in this release: We had 8 different contributors in just the last month of work this release represents Anne Erdtsieck did a lot to improve our documentation for using our multi-stream...",
           "link": "https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/",
           "publishedOn": "2026-01-20T15:30:56.000Z",
-          "wordCount": 6989,
+          "wordCount": 6984,
           "title": "Easier Query Models with Marten",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2026/01/image-1.png"
         },
@@ -949,7 +969,7 @@
           "description": "This article explores how to implement Level of Identification (LOI) in an ASP.NET Core application. The solution uses Duende IdentityServer as the OpenID Connect provider and ASP.NET Core Identity for user management. Identity verification is performed using the Swiyu Public Beta infrastructure. Any OpenID Connect client can consume the loi claim together with the loa...",
           "link": "https://dotnetkicks.com/r/738401?url=https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/",
           "publishedOn": "2026-01-18T21:43:13.000Z",
-          "wordCount": 7863,
+          "wordCount": 7905,
           "title": "Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende",
           "imageUrl": "https://damienbod.com/wp-content/uploads/2025/12/oidc_loi_loa.drawio-1.png"
         },
@@ -999,7 +1019,7 @@
           "description": "Reach out anytime to sales@jasperfx.net to ask us about how we could potentially help your shop with software development using the Critter Stack. It's a New Year and hopefully we all get to start on some great new software initiatives. If you happen to be starting something this year that's going to get you into...",
           "link": "https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/",
           "publishedOn": "2026-01-13T23:59:05.000Z",
-          "wordCount": 4808,
+          "wordCount": 4813,
           "title": "How JasperFx Supports our Customers",
           "imageUrl": "https://jeremydmiller.com/wp-content/uploads/2023/07/cropped-cropped-jasperfx-logo-final-orange-bg.jpg"
         },
@@ -1009,7 +1029,7 @@
           "description": "A recap of the latest servicing updates for .NET and .NET Framework for January 2026.",
           "link": "https://dotnetkicks.com/r/738074?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/",
           "publishedOn": "2026-01-13T21:24:09.000Z",
-          "wordCount": 7585,
+          "wordCount": 7250,
           "title": ".NET and .NET Framework January 2026 servicing releases updates - .NET Blog",
           "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/01/january2026updates.webp"
         },
@@ -1049,7 +1069,7 @@
           "description": "This post shows how to implement an application which requires a user to authenticate using passkeys. The identity provider returns three claims to prove the authentication level (loa), the identity level, (loi) and the amr claim showing the used authentication method. Code: https://github.com/swiss-ssi-group/swiyu-passkeys-idp-loi-loa Blogs in this series: Digital authentication and identity validation Set the amr...",
           "link": "https://dotnetkicks.com/r/737876?url=https://damienbod.com/2026/01/12/implementing-level-of-authentication-loa-with-asp-net-core-identity-and-duende/",
           "publishedOn": "2026-01-12T06:29:40.000Z",
-          "wordCount": 6159,
+          "wordCount": 6201,
           "title": "Implementing Level of Authentication (LoA) with ASP.NET Core Identity and Duende",
           "imageUrl": "https://damienbod.com/wp-content/uploads/2025/12/oidc_loi_loa.drawio.png"
         },
@@ -1069,7 +1089,7 @@
           "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Mibo: A Functional Game Framework for F# Generative AI: The Future of Consumer Technology - .NET Blog XAML Studio is now Open Sourced - #ifdef Windows EF Core MongoDB Queryable Encryption and Vector Search Explained - .NET Blog Scaling AI Agents...",
           "link": "https://dotnetkicks.com/r/737839?url=https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/",
           "publishedOn": "2026-01-10T21:18:39.000Z",
-          "wordCount": 4566,
+          "wordCount": 4385,
           "title": "F# Weekly #2, 2026 - Mibo and WREN Stack",
           "imageUrl": "https://sergeytihon.com/wp-content/uploads/2026/01/bafkreidzlsgodwkwdg6f3vafjfhpgpyfk7tmfrk23k4rdgheoigdurbhfu.jpg"
         }
@@ -1086,9 +1106,9 @@
           "description": "The CountryPhonePostalInfoRepository provides an efficient solution for validating phone numbers and postal codes globally, addressing the complexities of varying formats and rules. It offers a centralized API for reliable country-specific validation, enhancing data integrity in applications while simplifying maintenance and development. This tool ensures accurate, consistent validation logic.",
           "link": "https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/",
           "publishedOn": "2026-02-08T07:00:00.000Z",
-          "wordCount": 5855,
+          "wordCount": null,
           "title": "Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20260110_1001_image-generation_simple_compose_01kema6amqftkt7ayjs5tz672h.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16230",
@@ -1148,103 +1168,103 @@
       "siteUrl": "https://www.aspsnippets.com/RSS.ashx",
       "articles": [
         {
-          "id": "https://aspsnippets.com/Articles/Create-HTML-Table-in-CodeBehind-in-ASPNet-using-C-and-VBNet.aspx",
+          "id": "https://aspsnippets.com/Articles/Implement-Open-Source-charts-in-ASPNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to create HTML Table in Code-Behind in ASP.Net using C# and VB.Net.",
-          "link": "https://aspsnippets.com/Articles/Create-HTML-Table-in-CodeBehind-in-ASPNet-using-C-and-VBNet.aspx",
-          "publishedOn": "2026-02-06T00:00:00.000Z",
-          "wordCount": 1220,
-          "title": "Create HTML Table in Code-Behind in ASP.Net using C# and VB.Net",
+          "description": "Here Mudassar Khan has explained with an example, how to Open Source charts using Chart.js library in ASP.Net.",
+          "link": "https://aspsnippets.com/Articles/Implement-Open-Source-charts-in-ASPNet.aspx",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 1451,
+          "title": "Implement Open Source charts in ASP.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Create-HTML-Table-dynamically-in-ASPNet-using-C-and-VBNet.aspx",
+          "id": "https://aspsnippets.com/Articles/Set-Default-value-for-ComboBox-in-DataGridView-using-C-and-VBNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to create HTML Table dynamically in ASP.Net using C# and VB.Net.",
-          "link": "https://aspsnippets.com/Articles/Create-HTML-Table-dynamically-in-ASPNet-using-C-and-VBNet.aspx",
-          "publishedOn": "2026-02-06T00:00:00.000Z",
-          "wordCount": 1213,
-          "title": "Create HTML Table dynamically in ASP.Net using C# and VB.Net",
+          "description": "Here Mudassar Khan has explained with an example, how to set Default value for ComboBox in DataGridView in Windows Forms (WinForms) Application using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Set-Default-value-for-ComboBox-in-DataGridView-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 1534,
+          "title": "Set Default value for ComboBox in DataGridView using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Display-HTML-Formatted-Text-using-Literal-control-in-ASPNet.aspx",
+          "id": "https://aspsnippets.com/Articles/Set-Default-value-for-DataGridViewComboBoxColumn-in-DataGridView-using-C-and-VBNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to display HTML Formatted Text using Literal control in ASP.Net using C# and VB.Net.",
-          "link": "https://aspsnippets.com/Articles/Display-HTML-Formatted-Text-using-Literal-control-in-ASPNet.aspx",
-          "publishedOn": "2026-02-06T00:00:00.000Z",
-          "wordCount": 1211,
-          "title": "Display HTML Formatted Text using Literal control in ASP.Net",
+          "description": "Here Mudassar Khan has explained with an example, how to set Default value for DataGridViewComboBoxColumn in DataGridView in Windows Forms (WinForms) Application using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Set-Default-value-for-DataGridViewComboBoxColumn-in-DataGridView-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 1534,
+          "title": "Set Default value for DataGridViewComboBoxColumn in DataGridView using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Pass-TEMP-Table-as-Parameter-to-Stored-Procedure.aspx",
+          "id": "https://aspsnippets.com/Articles/Set-selected-value-of-ComboBox-in-DataGridViewComboBoxColumn-using-C-and-VBNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to pass TEMP Table as Parameter to Stored Procedure in SQL Server.",
-          "link": "https://aspsnippets.com/Articles/Pass-TEMP-Table-as-Parameter-to-Stored-Procedure.aspx",
-          "publishedOn": "2026-02-06T00:00:00.000Z",
-          "wordCount": 1049,
-          "title": "Pass TEMP Table as Parameter to Stored Procedure",
+          "description": "Here Mudassar Khan has explained with an example, how to set selected value of DataGridViewComboBoxColumn in DataGridView in Windows Forms (WinForms) Application using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Set-selected-value-of-ComboBox-in-DataGridViewComboBoxColumn-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 1532,
+          "title": "Set selected value of ComboBox in DataGridViewComboBoxColumn using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Pass-Table-Variable-as-Parameter-to-Stored-Procedure.aspx",
+          "id": "https://aspsnippets.com/Articles/Set-selected-value-of-ComboBox-in-DataGridView-using-C-and-VBNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to pass Table Variable as Parameter to Stored Procedure in SQL Server.",
-          "link": "https://aspsnippets.com/Articles/Pass-Table-Variable-as-Parameter-to-Stored-Procedure.aspx",
-          "publishedOn": "2026-02-06T00:00:00.000Z",
-          "wordCount": 1049,
-          "title": "Pass Table Variable as Parameter to Stored Procedure",
+          "description": "Here Mudassar Khan has explained with an example, how to set selected value of ComboBox in DataGridView in Windows Forms (WinForms) Application using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Set-selected-value-of-ComboBox-in-DataGridView-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 1532,
+          "title": "Set selected value of ComboBox in DataGridView using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Pass-User-Defined-Table-as-Parameter-to-Stored-Procedure.aspx",
+          "id": "https://aspsnippets.com/Articles/Set-cell-value-of-ComboBox-in-DataGridView-programmatically-from-Database-using-C-and-VBNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to pass Table Variable as Parameter to Stored Procedure in SQL Server.",
-          "link": "https://aspsnippets.com/Articles/Pass-User-Defined-Table-as-Parameter-to-Stored-Procedure.aspx",
-          "publishedOn": "2026-02-06T00:00:00.000Z",
-          "wordCount": 1051,
-          "title": "Pass User Defined Table as Parameter to Stored Procedure",
+          "description": "Here Mudassar Khan has explained with an example, how to set cell value of ComboBox in DataGridView programmatically from Database in Windows Forms (WinForms) Application using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Set-cell-value-of-ComboBox-in-DataGridView-programmatically-from-Database-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 1549,
+          "title": "Set cell value of ComboBox in DataGridView programmatically from Database using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Execute-Stored-Procedure-with-Table-Valued-Parameters-in-SQL-Server.aspx",
+          "id": "https://aspsnippets.com/Articles/DataGridViewComboBoxColumn-example-in-Windows-Application-using-C-and-VBNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to execute Stored Procedure with Table Valued Parameters in SQL Server.",
-          "link": "https://aspsnippets.com/Articles/Execute-Stored-Procedure-with-Table-Valued-Parameters-in-SQL-Server.aspx",
-          "publishedOn": "2026-02-06T00:00:00.000Z",
-          "wordCount": 1063,
-          "title": "Execute Stored Procedure with Table Valued Parameters in SQL Server",
+          "description": "Here Mudassar Khan has explained with an example, how to implement DataGridViewComboBoxColumn inside DataGridView in Windows Forms (WinForms) Application using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/DataGridViewComboBoxColumn-example-in-Windows-Application-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 1512,
+          "title": "DataGridViewComboBoxColumn example in Windows Application using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Solved-ASPNet-MVC-This-request-has-been-blocked-because-sensitive-information.aspx",
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Insert-Data-into-Database-using-Entity-Framework.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained how to solve the problem: This request has been blocked because sensitive information could be disclosed to third party web sites when this is used in a GET request. To allow GET requests, set JsonRequestBehavior to AllowGet in ASP.Net MVC Razor.",
-          "link": "https://aspsnippets.com/Articles/Solved-ASPNet-MVC-This-request-has-been-blocked-because-sensitive-information.aspx",
-          "publishedOn": "2026-02-06T00:00:00.000Z",
-          "wordCount": 1293,
-          "title": "[Solved] ASP.Net MVC: This request has been blocked because sensitive information",
+          "description": "Here Mudassar Khan has explained with an example, how to insert data into Database using Entity Framework in ASP.Net Core (.Net Core 8) MVC.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Insert-Data-into-Database-using-Entity-Framework.aspx",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 1518,
+          "title": "ASP.Net Core: Insert Data into Database using Entity Framework",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/jQuery-AJAX-GET-Call-example-with-Success-Error-and-Failure-event-handlers.aspx",
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Insert-DropDownList-selected-value-in-Database.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to perform a jQuery AJAX GET call with Success, Error and Failure event handlers.",
-          "link": "https://aspsnippets.com/Articles/jQuery-AJAX-GET-Call-example-with-Success-Error-and-Failure-event-handlers.aspx",
-          "publishedOn": "2026-02-06T00:00:00.000Z",
-          "wordCount": 1261,
-          "title": "jQuery AJAX GET Call example with Success, Error and Failure event handlers",
+          "description": "Here Mudassar Khan has explained with an example, how to insert DropDownList selected value in SQL Server Database in ASP.Net Core (.Net Core 8) MVC.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Insert-DropDownList-selected-value-in-Database.aspx",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 1497,
+          "title": "ASP.Net Core: Insert DropDownList selected value in Database",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
-          "id": "https://aspsnippets.com/Articles/Export-GridView-to-Excel-in-ASPNet-with-Formatting-using-C-and-VBNet.aspx",
+          "id": "https://aspsnippets.com/Articles/ASPNet-Call-JSON-API-using-C-and-VBNet.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to export GridView to Excel file in ASP.Net with formatting and styles using C# and VB.Net.",
-          "link": "https://aspsnippets.com/Articles/Export-GridView-to-Excel-in-ASPNet-with-Formatting-using-C-and-VBNet.aspx",
-          "publishedOn": "2026-02-05T00:00:00.000Z",
-          "wordCount": 1765,
-          "title": "Export GridView to Excel in ASP.Net with Formatting using C# and VB.Net",
+          "description": "Here Mudassar Khan has explained with an example, how to call a JSON API in ASP.Net using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Call-JSON-API-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 1079,
+          "title": "ASP.Net: Call JSON API using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         }
       ]
@@ -1308,12 +1328,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/02/09/dew-drop-february-9-2026-4600/",
+          "author": "Alvin A.",
+          "description": "Top Links Building an AI Skills Executor in .NET: Bringing Anthropic’s Agent Pattern to the Microsoft Ecosystem (Matt Kruczek) 5 amazing open-source apps that everyone should use on Windows 11 — but not the ones you might be thinking of (Mauro Huculak) Summary Row Styling in WPF DataGrid: Customization Guide (Piruthiviraj Malaimelraj) VS Code Insiders … Continue reading Dew Drop – February 9, 2026 (#4600)",
+          "link": "https://www.alvinashcraft.com/2026/02/09/dew-drop-february-9-2026-4600/",
+          "publishedOn": "2026-02-09T12:44:27.000Z",
+          "wordCount": 2544,
+          "title": "Dew Drop – February 9, 2026 (#4600)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/02/06/dew-drop-february-6-2026-4599/",
           "author": "Alvin A.",
           "description": "Top Links Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry on Azure (Steve Sweetman) Securing Aspire Apps with Microsoft Entra ID (Jean-Marc Prieur) OpenClaw Full Tutorial for Beginners (Beau Carnes) Keynote: The dangers of probably-working software – NDC London 2026 (Damian Brady) Visual Studio Code … Continue reading Dew Drop – February 6, 2026 (#4599)",
           "link": "https://www.alvinashcraft.com/2026/02/06/dew-drop-february-6-2026-4599/",
           "publishedOn": "2026-02-06T11:49:36.000Z",
-          "wordCount": 1906,
+          "wordCount": 1915,
           "title": "Dew Drop – February 6, 2026 (#4599)",
           "imageUrl": null
         },
@@ -1415,16 +1445,6 @@
           "publishedOn": "2026-01-23T12:03:45.000Z",
           "wordCount": 2200,
           "title": "Dew Drop – January 23, 2026 (#4589)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/01/22/dew-drop-january-22-2026-4588/",
-          "author": "Alvin A.",
-          "description": "Top Links .NET Rocks! – MAUI in 2026 with Gerald Versluis (Carl Franklin & Richard Campbell) Now in Public Preview: GitHub Copilot build performance for Windows (David Li) Introducing Flexible Pricing for Avalonia Accelerate (Mike James) Announcing GitHub Copilot code completions in SQL Server Management 22.2.1 (Erin Stellato) Visual Studio 2026 Version 18.2.1 Release Notes … Continue reading Dew Drop – January 22, 2026 (#4588)",
-          "link": "https://www.alvinashcraft.com/2026/01/22/dew-drop-january-22-2026-4588/",
-          "publishedOn": "2026-01-22T11:49:53.000Z",
-          "wordCount": 1948,
-          "title": "Dew Drop – January 22, 2026 (#4588)",
           "imageUrl": null
         }
       ]
@@ -1534,7 +1554,7 @@
           "description": "The Japanese are really good at woodworking. And I love watching the Yankee workshop, my dad makes Native American bows and arrows completely from scratch in his workshop with trees that he finds. \nThis is all different from the stuff you get at IKEA, but I’ve been coding now for money for 35 years and systems are still complicated, computers still do dumb stuff, humans still do dumb stuff, this is just like the move from assembler to C, like the introduction of syntax highlighting, the introduction of intellisense, and the copy paste directly into production shift when stack overflow happened.\n\r\nThere is value in good taste, there is value in craftsmanship, and there is value in human judgment. The furniture might be differently designed, but we’re still interior designers and putting together a cohesive system is non-trivial. \n\r\nDon’t let them gaslight you with one shot Minecraft clones and one shot C compilers. Software is still hard, it’s just that you’re no longer I/O bound with the speed of your fingertips.\n\r\nI think that there will be lots of work for us cleaning up after the slop, but if you know what you’re doing AI augmented development is going to get you some amazing results and I am enjoying learning a ton during this momentous era shift - but the craft still exists.\n\n© 2025 Scott Hanselman. All rights reserved.",
           "link": "http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead",
           "publishedOn": "2026-02-09T05:50:59.000Z",
-          "wordCount": 768,
+          "wordCount": 998,
           "title": "Is the craft dead?",
           "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
         },
@@ -1544,7 +1564,7 @@
           "description": "People should not be judging AI-augmented coding by “1 shots.” \nIf someone told you that their model did a “one shot of Minecraft” and they’re impressed by that, you need to consider how much semantic heavy lifting the word “Minecraft” is doing in that prompt. \nAsk them to one shot Minecraft without using the word Minecraft. \nIt’s not trivial to one shot something unique, because programming is the art of making the ambiguous incredibly specific through sculpting. AI sculpting is less about vibes and more about finding the specificity you want and keeping the system stable through changes. Good SDLC practices still matter, historical context still matters, and knowing how things work matters, shout out to Grady Booch.\nIt’s a cool party trick to one shot Mario Brothers or space invaders, but then you’ll end up with the most mid version of both. Literally mid. You’ll get the statistical fat part of the Bell curve version of these mythical games. You’re telling the model to close its eyes and draw the face of these games from memory. \nAs high-level programming cedes way to the prose compiler, making your goals and specs well understood to the ambiguity loop and showing good judgment is going to matter more than ever. Consider all of your words and make sure that certain words aren’t carrying all the semantic load, hidden or otherwise.\n\n© 2025 Scott Hanselman. All rights reserved.",
           "link": "http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
           "publishedOn": "2026-02-04T05:53:00.000Z",
-          "wordCount": 777,
+          "wordCount": 793,
           "title": "The danger of glamourizing one shots",
           "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
         }
@@ -1623,7 +1643,7 @@
           "publishedOn": "2026-01-18T12:58:44.000Z",
           "wordCount": 5417,
           "title": "SQL Server Database Mail: Complete Setup, SMTP Configuration, and Troubleshooting Guide",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1770520883"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1770693275"
         }
       ]
     },
