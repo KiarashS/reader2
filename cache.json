@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392302",
+          "author": "Daniel Schwarz",
+          "description": "This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.\nWhat’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-important-5/",
+          "publishedOn": "2026-02-13T15:19:57.000Z",
+          "wordCount": 1584,
+          "title": "What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/time-layout.mp4",
+            "length": "7627313",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/wi5.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=391879",
           "author": "Temani Afif",
           "description": "This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.\nMaking a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -170,16 +185,6 @@
           "wordCount": 1410,
           "title": "HTTP Archive 2025 Web Almanac",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/http-archive-2025.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391529",
-          "author": "Geoff Graham",
-          "description": "If you’re reading this, chances are you already have some sort of way that you’re following when we publish new content, whether that’s RSS, Bluesky, Mastodon, or what have you. But I know a lot of folks …\n“I Heart CSS” DailyDev Squad originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/i-heart-css-dailydev-squad/",
-          "publishedOn": "2026-01-16T14:46:24.000Z",
-          "wordCount": 1007,
-          "title": "“I Heart CSS” DailyDev Squad",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/i-heart-css.webp"
         }
       ]
     },
@@ -189,12 +194,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
+          "author": "hello@smashingmagazine.com (Kat Homan)",
+          "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
+          "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
+          "publishedOn": "2026-02-13T15:00:00.000Z",
+          "wordCount": 6342,
+          "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6492,
+          "wordCount": 6506,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -239,7 +259,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4604,
+          "wordCount": 4603,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -269,7 +289,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5816,
+          "wordCount": 5812,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -284,7 +304,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6452,
+          "wordCount": 6451,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -299,7 +319,7 @@
           "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
           "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
           "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5119,
+          "wordCount": 5110,
           "title": "Rethinking “Pixel Perfect” Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
@@ -307,21 +327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
-          "author": "hello@smashingmagazine.com (Andy Clarke)",
-          "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.",
-          "link": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
-          "publishedOn": "2026-01-14T10:00:00.000Z",
-          "wordCount": 5366,
-          "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-8-css-relative-colour/smashing-animations-part-8-css-relative-colour.jpg"
         }
       ]
     },
@@ -330,6 +335,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "698f4ea5c4c4900d2483651c",
+          "author": "Destiny Erhabor",
+          "description": "If you've ever wondered how chat applications like Slack, Discord, or WhatsApp work behind the scenes, this tutorial will show you. You'll build a real-time chat server from scratch using Go, learning the fundamental concepts that power modern commun...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-grade-distributed-chatroom-in-go-full-handbook/",
+          "publishedOn": "2026-02-13T16:17:41.000Z",
+          "wordCount": 10687,
+          "title": "How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770999686180/3bccee22-e7e9-477f-8a5f-50800896e972.png"
+        },
+        {
+          "id": "698f1256be3738fa1ac06e20",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Robby Russell. Robby created the open-source project Oh My ZSH. Oh My Zsh is a framework for managing your Zsh configuration for your command line terminal. It's been extremely popular among developers for more than a d...",
+          "link": "https://www.freecodecamp.org/news/why-maintaining-a-codebase-is-so-damn-hard-with-ohmyzsh-creator-robby-russell-podcast-207/",
+          "publishedOn": "2026-02-13T12:00:22.000Z",
+          "wordCount": 2018,
+          "title": "Why maintaining a codebase is so damn hard – with OhMyZSH creator Robby Russell [Podcast #207]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771010278267/efe92009-506e-4150-8d98-2027b6a58a27.jpeg"
+        },
         {
           "id": "698e1c7090ca92017618cb24",
           "author": "Eti Ijeoma",
@@ -409,26 +434,6 @@
           "wordCount": 1110,
           "title": "Learn Cybersecurity and Ethical Hacking using Kali Linux",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770825132682/2e29f195-76dc-4def-8931-fc86f409e131.jpeg"
-        },
-        {
-          "id": "698bb499f3de8b702a26aec1",
-          "author": "Aiyedogbon Abraham",
-          "description": "Testing is one of those things that every developer knows they should do, but many put off until problems start appearing in production. If you’re building React applications with Vite, there's a testing framework that fits so naturally into your wor...",
-          "link": "https://www.freecodecamp.org/news/how-to-test-react-applications-with-vitest/",
-          "publishedOn": "2026-02-10T22:43:37.000Z",
-          "wordCount": 4102,
-          "title": "How to Test React Applications with Vitest",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770763375195/82544dec-aec2-4de9-b7f8-f90349394e81.png"
-        },
-        {
-          "id": "698b4fff1eac20c7da3bd7ba",
-          "author": "Beau Carnes",
-          "description": "We just posted a course on the freeCodeCamp.org YouTube channel to help prepare you for the Certified Kubernetes Administrator Certification. This course is designed to provide a deep, practical understanding of Kubernetes administration, from founda...",
-          "link": "https://www.freecodecamp.org/news/prepare-for-the-kubernetes-administrator-certification-and-pass-2026-update/",
-          "publishedOn": "2026-02-10T15:34:23.000Z",
-          "wordCount": 3353,
-          "title": "Prepare for the Kubernetes Administrator Certification and Pass [2026 update]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770737611970/40c85fc5-30e0-450c-8473-b05124831718.jpeg"
         }
       ]
     },
@@ -510,7 +515,7 @@
           "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
           "publishedOn": "2026-02-05T07:53:22.000Z",
-          "wordCount": 2394,
+          "wordCount": 2390,
           "title": "Reliably Refreshing the WebView2 Control",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
         }
@@ -527,7 +532,7 @@
           "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
           "publishedOn": "2026-02-05T07:53:22.000Z",
-          "wordCount": 2390,
+          "wordCount": 2394,
           "title": "Reliably Refreshing the WebView2 Control",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
         }
@@ -616,6 +621,36 @@
       "siteUrl": "https://www.aspsnippets.com/RSS.ashx",
       "articles": [
         {
+          "id": "https://aspsnippets.com/Articles/Implement-Paging-in-ASPNet-GridView-in-Code-Behind-using-C-and-VBNet.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to implement Paging in ASP.Net GridView using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Implement-Paging-in-ASPNet-GridView-in-Code-Behind-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-02-13T00:00:00.000Z",
+          "wordCount": 1183,
+          "title": "Implement Paging in ASP.Net GridView in Code Behind using C# and VB.Net",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Display-Grid-with-Footer-Row.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to display Grid with Footer Row in ASP.Net Core (.Net Core 8) MVC.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Display-Grid-with-Footer-Row.aspx",
+          "publishedOn": "2026-02-13T00:00:00.000Z",
+          "wordCount": 766,
+          "title": "ASP.Net Core: Display Grid with Footer Row",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-WebGrid-Format-Decimal-Number-in-Column.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to format Decimal Number in Column using WebGrid in ASP.Net Core (.Net Core 8) MVC.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-WebGrid-Format-Decimal-Number-in-Column.aspx",
+          "publishedOn": "2026-02-13T00:00:00.000Z",
+          "wordCount": 1294,
+          "title": "ASP.Net Core: WebGrid Format Decimal Number in Column",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
           "id": "https://aspsnippets.com/Articles/ASPNet-MVC-Add-Footer-Row-in-WebGrid.aspx",
           "author": null,
           "description": "Here Mudassar Khan has explained with an example, how to add Footer Row in WebGrid in ASP.Net MVC.",
@@ -666,26 +701,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://aspsnippets.com/Articles/ASPNet-Core-WebGrid-Format-Decimal-Number-in-Column.aspx",
-          "author": null,
-          "description": "",
-          "link": "https://aspsnippets.com/Articles/ASPNet-Core-WebGrid-Format-Decimal-Number-in-Column.aspx",
-          "publishedOn": "2026-02-10T23:26:55.000Z",
-          "wordCount": null,
-          "title": "ASP.Net Core: WebGrid Format Decimal Number in Column",
-          "imageUrl": null
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Display-Grid-with-Footer-Row.aspx",
-          "author": null,
-          "description": "",
-          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Display-Grid-with-Footer-Row.aspx",
-          "publishedOn": "2026-02-10T23:11:45.000Z",
-          "wordCount": null,
-          "title": "ASP.Net Core: Display Grid with Footer Row",
-          "imageUrl": null
-        },
-        {
           "id": "https://aspsnippets.com/Articles/ASPNet-Core-Calculate-Sum-of-Column-Values.aspx",
           "author": null,
           "description": "",
@@ -704,16 +719,6 @@
           "wordCount": null,
           "title": "ASP.Net Core: Format Decimal Number in Grid",
           "imageUrl": null
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Highlight-Gridview-selected-row-in-ASPNet.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained how to set or change the Background Color of the Selected Row of ASP.Net GridView programmatically. When the Select Command Button is clicked, on the OnSelectedIndexChanged event of the GridView, the Background Color of the Selected Row is changed.",
-          "link": "https://aspsnippets.com/Articles/Highlight-Gridview-selected-row-in-ASPNet.aspx",
-          "publishedOn": "2026-02-10T00:00:00.000Z",
-          "wordCount": 1255,
-          "title": "Highlight Gridview selected row in ASP.Net",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         }
       ]
     },
@@ -766,12 +771,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/02/13/dew-drop-february-13-2026-4604/",
+          "author": "Alvin A.",
+          "description": "Top Links Why Your .NET MAUI Layout Breaks Across Devices and How to Fix It (Anandh Ganesan) AI Toolkit for VS Code — February 2026 Update (Junjie Li) Introducing GPT-5.3-Codex-Spark (OpenAI Team) Welcome to the Eternal September of open source. Here’s what we plan to do for maintainers. (Ashley Wolf) Microsoft Edge and Interop 2026 (Patrick Brosset) Azure … Continue reading Dew Drop – February 13, 2026 (#4604)",
+          "link": "https://www.alvinashcraft.com/2026/02/13/dew-drop-february-13-2026-4604/",
+          "publishedOn": "2026-02-13T12:00:26.000Z",
+          "wordCount": 2020,
+          "title": "Dew Drop – February 13, 2026 (#4604)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/02/12/dew-drop-february-12-2026-4603/",
           "author": "Alvin A.",
           "description": "Top Links Visual Studio: Unlock language-specific rich symbol context using new find_symbol tool (Sinem Akinci & Hannah Hong) Announcing TypeScript 6.0 Beta (Daniel Rosenwasser) Let Go, Let Claude (Rob Conery) Uno Platform February Release: Studio Productivity and Platform Improvements (Uno Platform Team) What’s new in Flutter 3.41 (Kevin Chisholm) GitHub Copilot Testing for .NET Brings … Continue reading Dew Drop – February 12, 2026 (#4603)",
           "link": "https://www.alvinashcraft.com/2026/02/12/dew-drop-february-12-2026-4603/",
           "publishedOn": "2026-02-12T12:02:53.000Z",
-          "wordCount": 2200,
+          "wordCount": 2209,
           "title": "Dew Drop – February 12, 2026 (#4603)",
           "imageUrl": null
         },
@@ -878,16 +893,6 @@
           "publishedOn": "2026-01-29T12:08:00.000Z",
           "wordCount": 2133,
           "title": "Dew Drop – January 29, 2026 (#4593)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/01/28/dew-drop-january-28-2026-4592/",
-          "author": "Alvin A.",
-          "description": "Top Links Microsoft Agent Framework (Preview): Build AI Agents in .NET (Arulraj Aboorvasamy) Visual Studio January Update — Enhanced Editor Experience (Simona Liao) 7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript (Aaron Winston) Introduction to Contextual AI: MCP Tools vs Skills (Sam Basu) GitHub Copilot app modernization for C++ is now in … Continue reading Dew Drop – January 28, 2026 (#4592)",
-          "link": "https://www.alvinashcraft.com/2026/01/28/dew-drop-january-28-2026-4592/",
-          "publishedOn": "2026-01-28T11:58:15.000Z",
-          "wordCount": 2329,
-          "title": "Dew Drop – January 28, 2026 (#4592)",
           "imageUrl": null
         }
       ]
@@ -1007,7 +1012,7 @@
           "description": "People should not be judging AI-augmented coding by “1 shots.” \nIf someone told you that their model did a “one shot of Minecraft” and they’re impressed by that, you need to consider how much semantic heavy lifting the word “Minecraft” is doing in that prompt. \nAsk them to one shot Minecraft without using the word Minecraft. \nIt’s not trivial to one shot something unique, because programming is the art of making the ambiguous incredibly specific through sculpting. AI sculpting is less about vibes and more about finding the specificity you want and keeping the system stable through changes. Good SDLC practices still matter, historical context still matters, and knowing how things work matters, shout out to Grady Booch.\nIt’s a cool party trick to one shot Mario Brothers or space invaders, but then you’ll end up with the most mid version of both. Literally mid. You’ll get the statistical fat part of the Bell curve version of these mythical games. You’re telling the model to close its eyes and draw the face of these games from memory. \nAs high-level programming cedes way to the prose compiler, making your goals and specs well understood to the ambiguity loop and showing good judgment is going to matter more than ever. Consider all of your words and make sure that certain words aren’t carrying all the semantic load, hidden or otherwise.\n\n© 2025 Scott Hanselman. All rights reserved.",
           "link": "http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
           "publishedOn": "2026-02-04T05:53:00.000Z",
-          "wordCount": 793,
+          "wordCount": 730,
           "title": "The danger of glamourizing one shots",
           "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
         }
@@ -1086,7 +1091,7 @@
           "publishedOn": "2026-01-18T12:58:44.000Z",
           "wordCount": 5417,
           "title": "SQL Server Database Mail: Complete Setup, SMTP Configuration, and Troubleshooting Guide",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1770864708"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1770951139"
         }
       ]
     },
@@ -1154,23 +1159,6 @@
           "publishedOn": "2026-01-23T07:30:00.000Z",
           "wordCount": 1248,
           "title": "(Maybe) LibOQS.NET 0.3.0: with liboqs 0.15.0, full suite of algorithms and other new features",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Code with Dan Blog",
-      "feedUrl": "https://blog.codewithdan.com/feed/",
-      "siteUrl": "https://blog.codewithdan.com",
-      "articles": [
-        {
-          "id": "https://blog.codewithdan.com/?p=3394",
-          "author": "Dan Wahlin",
-          "description": "Have you ever tried to describe a UI bug to someone? “See that button… no, the OTHER button… the one with the blue border… well, it’s kind of blue… anyway, make it bigger.” It’s painful. Screenshots help, but then you’re copying and pasting them into chat windows and hoping your AI assistant understands which pixel […]",
-          "link": "https://blog.codewithdan.com/point-click-ai-fixes-it-how-i-built-zingit-using-the-github-copilot-sdk/?utm_source=rss&utm_medium=rss&utm_campaign=point-click-ai-fixes-it-how-i-built-zingit-using-the-github-copilot-sdk",
-          "publishedOn": "2026-02-02T08:23:27.000Z",
-          "wordCount": 3584,
-          "title": "Point, Click, Let AI Fix It: How I Built ZingIt Using the GitHub Copilot SDK",
           "imageUrl": null
         }
       ]
