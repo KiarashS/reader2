@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-02-15T02:53:58.946Z</updated>
+    <updated>2026-02-16T02:49:31.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Features in SQL Server 2025]]></title>
+        <id>http://dotnetstories.wordpress.com/?p=4047</id>
+        <link href="https://dotnetstories.wordpress.com/2026/02/15/ai-features-in-sql-server-2025/"/>
+        <updated>2026-02-15T12:34:13.000Z</updated>
+        <summary type="html"><![CDATA[SQL Server 2025 brings practical AI building blocks directly into the database engine: the VECTOR data type, vector indexing, ANN-powered similarity search, and T-SQL functions for embeddings and chunking.]]></summary>
+        <author>
+            <name>fofo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From SSMS to Azure OpenAI: How Copilot Actually Works]]></title>
+        <id>http://dotnetstories.wordpress.com/?p=4060</id>
+        <link href="https://dotnetstories.wordpress.com/2026/02/15/from-ssms-to-azure-openai-how-copilot-actually-works/"/>
+        <updated>2026-02-15T12:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Copilot inside SSMS is a client feature, not a hosted brain. To function, it must connect to an Azure OpenAI resource in your Azure subscription, using two mandatory pieces of configuration: the resource endpoint and a model deployment name.]]></summary>
+        <author>
+            <name>fofo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost Your .NET Projects with Spargine: Centralized Time Handling with the Clock Type]]></title>
+        <id>http://dotnettips.wordpress.com/?p=16393</id>
+        <link href="https://dotnettips.wordpress.com/2026/02/15/boost-your-net-projects-with-spargine-centralized-time-handling-with-the-clock-type/"/>
+        <updated>2026-02-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Clock type in the DotNetTips.Spargine.Core assembly and NuGet package centralizes time-related functions to enhance application consistency and reduce fragmentation. It provides a comprehensive and reliable abstraction for developers, ensuring efficient time handling while minimizing bugs. By streamlining time operations, Clock fosters cleaner, more predictable code across applications.]]></summary>
+        <author>
+            <name>dotNetDave</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ASP.Net Core Razor Pages: Format Decimal Number in Grid]]></title>
         <id>https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-Format-Decimal-Number-in-Grid.aspx</id>
