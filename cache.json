@@ -12,179 +12,184 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=382144",
-          "author": "Geoff Graham",
-          "description": "The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.\nState of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/state-of-css-2024-results/",
-          "publishedOn": "2024-10-30T16:43:55.000Z",
-          "wordCount": 2964,
-          "title": "State of CSS 2024 Results",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382144"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382082",
+          "id": "https://css-tricks.com/?p=390460",
           "author": "Zell Liew",
-          "description": "What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices.\nTooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/tooltip-best-practices/",
-          "publishedOn": "2024-10-29T14:01:18.000Z",
-          "wordCount": 2171,
-          "title": "Tooltip Best Practices",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382082"
+          "description": "The distinction between \"components\" and \"utilities\" seems clear at first glance, but gets a little blurred when working with them in Tailwind.\nDistinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/",
+          "publishedOn": "2026-02-18T16:21:41.000Z",
+          "wordCount": 1774,
+          "title": "Distinguishing “Components” and “Utilities” in Tailwind",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=382039",
-          "author": "Sara Joy",
-          "description": "You’d be forgiven for thinking coding up both a dark and a light mode at once is a lot of work. You have to remember @media queries based on prefers-color-scheme as well as extra complications that arise when letting visitors …\nCome to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/come-to-the-light-dark-side/",
-          "publishedOn": "2024-10-25T14:08:20.000Z",
-          "wordCount": 5418,
-          "title": "Come to the light-dark() Side",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382039"
-        },
-        {
-          "id": "http://css-tricks.com/?p=198099",
-          "author": "Geoff Graham",
-          "description": "A whole bunch of years ago, we posted on this idea here on CSS-Tricks. We figured it was time to update that and do the subject justice.\nImagine a scenario where you need to split a layout in half. Content …\nLeft Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/left-and-right/",
-          "publishedOn": "2024-10-25T11:51:02.000Z",
-          "wordCount": 3318,
-          "title": "Left Half and Right Half Layout – Many Different Ways",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/198099"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382065",
-          "author": "Geoff Graham",
-          "description": "Terence Eden on using text-wrap: balance for more than headings:\nBut the name is, I think, slightly misleading. It doesn’t only work on text. It will work on any content. For example – I have a row of icons at \n…\nYou can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/",
-          "publishedOn": "2024-10-24T14:05:56.000Z",
-          "wordCount": 1480,
-          "title": "You can use text-wrap: balance; on icons",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382065"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382008",
-          "author": "Zell Liew",
-          "description": "The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …\nClarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/",
-          "publishedOn": "2024-10-23T13:20:46.000Z",
-          "wordCount": 2480,
-          "title": "Clarifying the Relationship Between Popovers and Dialogs",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382008"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381992",
-          "author": "Geoff Graham",
-          "description": "There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …\nClamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/clamp-it-vs-code-extension/",
-          "publishedOn": "2024-10-23T13:15:20.000Z",
-          "wordCount": 1459,
-          "title": "Clamp it! VS Code extension",
+          "id": "https://css-tricks.com/?p=391909",
+          "author": "Lee Meyer",
+          "description": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.\nSpiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
+          "publishedOn": "2026-02-17T15:17:25.000Z",
+          "wordCount": 1929,
+          "title": "Spiral Scrollytelling in CSS With sibling-index()",
           "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/10/clamp-it_fng4a5.mp4",
-            "length": "549889",
+            "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-9.37.52-AM.mov",
+            "length": "21544518",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/spiral-scroll-animation.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=392321",
+          "author": "Geoff Graham",
+          "description": "Interop 2026 is officially a thing and there's plenty of new (and even old) CSS features that we can look forward to being cross-browser compatible and consistent!\nInterop 2026 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/interop-2026/",
+          "publishedOn": "2026-02-17T14:17:30.000Z",
+          "wordCount": 2909,
+          "title": "Interop 2026",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/interop-2026.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=392302",
+          "author": "Daniel Schwarz",
+          "description": "This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.\nWhat’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-important-5/",
+          "publishedOn": "2026-02-13T15:19:57.000Z",
+          "wordCount": 1584,
+          "title": "What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/time-layout.mp4",
+            "length": "7627313",
             "type": "video/mp4"
           },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381992"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/wi5.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=381613",
-          "author": "Geoff Graham",
-          "description": "I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …\nUnleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/",
-          "publishedOn": "2024-10-21T13:50:53.000Z",
-          "wordCount": 5808,
-          "title": "Unleash the Power of Scroll-Driven Animations",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381613"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381832",
-          "author": "Ryan Trimble",
-          "description": "Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.\nIf you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …\nCombining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/combining-forces-gsap-webflow/",
-          "publishedOn": "2024-10-18T13:09:22.000Z",
-          "wordCount": 1667,
-          "title": "Combining forces, GSAP & Webflow!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381832"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381882",
-          "author": "Geoff Graham",
-          "description": "I totally get the goal here: make CSS more modular and scalable in WordPress. Put all your global WordPress theme styles in a single file, including variations. JSON offers a nicely structured syntax that’s easily consumable by JavaScript, thereby allowing …\nMastering theme.json: You might not need CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/mastering-theme-json-you-might-not-need-css/",
-          "publishedOn": "2024-10-18T11:36:04.000Z",
-          "wordCount": 1658,
-          "title": "Mastering theme.json: You might not need CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381882"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381763",
-          "author": "Zell Liew",
-          "description": "One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …\nSolving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/",
-          "publishedOn": "2024-10-17T15:24:02.000Z",
-          "wordCount": 1873,
-          "title": "Solving Background Overflow With Inherited Border Radii",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381817",
-          "author": "Preethi",
-          "description": "What’s in a word? Actions. In the realm of user interfaces, a word is construed as the telltale of a control’s action. Sometimes it points us in the correct direction, and sometimes it leads us astray. We talk a lot …\nClose, Exit, Cancel: How to End User Interactions Well originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/close-exit-cancel-how-to-end-user-interactions-well/",
-          "publishedOn": "2024-10-16T14:12:57.000Z",
-          "wordCount": 3648,
-          "title": "Close, Exit, Cancel: How to End User Interactions Well",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381817"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381773",
+          "id": "https://css-tricks.com/?p=391879",
           "author": "Temani Afif",
-          "description": "CSS gradients have been so long that there’s no need to rehash what they are and how to use them. You have surely encountered them at some point in your front-end journey, and if you follow me, you also …\nCSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-tricks-that-use-only-one-gradient/",
-          "publishedOn": "2024-10-11T21:48:01.000Z",
-          "wordCount": 3461,
-          "title": "CSS Tricks That Use Only One Gradient",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381773"
+          "description": "This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.\nMaking a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/",
+          "publishedOn": "2026-02-12T14:57:36.000Z",
+          "wordCount": 3663,
+          "title": "Making a Responsive Pyramidal Grid With Modern CSS",
+          "enclosure": {
+            "url": "http://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-8.44.39-AM.mov",
+            "length": "0",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/Artboard.webp"
         },
         {
-          "id": "https://css-tricks.com/?p=381752",
-          "author": "Geoff Graham",
-          "description": "It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.\nI’m …\nWPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic/",
-          "publishedOn": "2024-10-10T14:00:32.000Z",
-          "wordCount": 1465,
-          "title": "WPGraphQL Becomes a Canonical Plugin: My Move to Automattic",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381752"
+          "id": "https://css-tricks.com/?p=391853",
+          "author": "Kevin Hamer",
+          "description": "The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS features?\nApproximating contrast-color() With Other CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/approximating-contrast-color-with-other-css-features/",
+          "publishedOn": "2026-02-11T15:01:09.000Z",
+          "wordCount": 2500,
+          "title": "Approximating contrast-color() With Other CSS Features",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/apca-wcg-color-contrast.png"
         },
         {
-          "id": "https://css-tricks.com/?p=381678",
+          "id": "https://css-tricks.com/?p=391766",
           "author": "Juan Diego Rodríguez",
-          "description": "More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …\n2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/",
-          "publishedOn": "2024-10-09T14:10:33.000Z",
-          "wordCount": 2132,
-          "title": "2024: More CSS At-Rules Than the Past Decade Combined",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381678"
+          "description": "Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.\nTrying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/",
+          "publishedOn": "2026-02-09T17:34:56.000Z",
+          "wordCount": 4440,
+          "title": "Trying to Make the Perfect Pie Chart in CSS",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/ddzynrhrx/video/upload/v1769282762/audio_nvda_tejgbi.mp4",
+            "length": "162076",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
         },
         {
-          "id": "https://css-tricks.com/?p=381729",
+          "id": "https://css-tricks.com/?p=391781",
+          "author": "Preethi",
+          "description": "CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?\nCSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-bar-charts-using-modern-functions/",
+          "publishedOn": "2026-02-05T15:13:14.000Z",
+          "wordCount": 1708,
+          "title": "CSS Bar Charts Using Modern Functions",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/bar-chart-horizontal.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390379",
+          "author": "Zell Liew",
+          "description": "You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.\nNo Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/",
+          "publishedOn": "2026-02-03T15:54:59.000Z",
+          "wordCount": 2193,
+          "title": "No Hassle Visual Code Theming: Publishing an Extension",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/vs-code-highlight.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390341",
+          "author": "Zell Liew",
+          "description": "I've always thought that creating a VS Code theme was a lot of work. But lo and behold, it took less than six hours to get it working, then a day or two to polish up my final tweaks.\nNo-Hassle Visual Studio Code Theming: Building an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/no-hassle-visual-studio-code-theming-building-an-extension/",
+          "publishedOn": "2026-02-02T14:51:01.000Z",
+          "wordCount": 3014,
+          "title": "No-Hassle Visual Studio Code Theming: Building an Extension",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/11/quick-test.mp4",
+            "length": "6094355",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/vs-code-highlight.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391967",
+          "author": "Daniel Schwarz",
+          "description": "Neither Chrome, Safari, nor Firefox have shipped new features in the last couple of weeks, but fear not because leading this issue of What’s !important is some of the web development industry’s best educators with, frankly, some killer content.\nWhat’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-important-4/",
+          "publishedOn": "2026-01-30T15:00:26.000Z",
+          "wordCount": 1944,
+          "title": "What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/wi4.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391705",
+          "author": "Daniel Schwarz",
+          "description": "The new ::search-text pseudo (Chrome 144) matches are yellow while the current target (::search-text:current) is orange, but ::search-text enables us to change that.\nStyling ::search-text and Other Highlight-y Pseudo-Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/",
+          "publishedOn": "2026-01-28T15:08:04.000Z",
+          "wordCount": 2103,
+          "title": "Styling ::search-text and Other Highlight-y Pseudo-Elements",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-21-at-10.28.07-AM.mov",
+            "length": "6902193",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/search-text-pseudo-example.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391920",
           "author": "Geoff Graham",
-          "description": "I sat down with Heydon Pickering in the most recent episode of the Smashing Hour. Full transparency: I was nervous as heck. I’ve admired Heydon’s work for years, and even though we run in similar circles, this was our first …\nSmashing Hour With Heydon Pickering originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/smashing-hour-with-heydon-pickering/",
-          "publishedOn": "2024-10-08T15:22:02.000Z",
-          "wordCount": 1562,
-          "title": "Smashing Hour With Heydon Pickering",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381729"
+          "description": "Stu Robson's ReliCSS (clever name!) tool can excavate outdated CSS in your codebase that have modern CSS solutions.\nReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/relicss/",
+          "publishedOn": "2026-01-28T13:25:00.000Z",
+          "wordCount": 1308,
+          "title": "ReliCSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/relicss-audit.webp"
         },
         {
-          "id": "https://css-tricks.com/?p=381674",
-          "author": "Juan Diego Rodríguez",
-          "description": "The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …\nRecipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/",
-          "publishedOn": "2024-10-07T19:46:07.000Z",
-          "wordCount": 2702,
-          "title": "Recipes for Detecting Support for CSS At-Rules",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381674"
+          "id": "https://css-tricks.com/?p=388430",
+          "author": "Zell Liew",
+          "description": "Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).\nThere is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
+          "publishedOn": "2026-01-26T15:02:27.000Z",
+          "wordCount": 2626,
+          "title": "There is No Need to Trap Focus on a Dialog Element",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/04/tab-key.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=391573",
+          "author": "Temani Afif",
+          "description": "A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!\nResponsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/responsive-hexagon-grid-using-modern-css/",
+          "publishedOn": "2026-01-23T14:39:56.000Z",
+          "wordCount": 3159,
+          "title": "Responsive Hexagon Grid Using Modern CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/hexagon-grid.png"
         }
       ]
     },
@@ -199,7 +204,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6726,
+          "wordCount": 6725,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -214,7 +219,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6340,
+          "wordCount": 6338,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -229,7 +234,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6497,
+          "wordCount": 6496,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -244,7 +249,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4505,
+          "wordCount": 4513,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -274,7 +279,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4604,
+          "wordCount": 4707,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -304,7 +309,7 @@
           "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
           "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
           "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5812,
+          "wordCount": 5817,
           "title": "Unstacking CSS Stacking Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
@@ -319,7 +324,7 @@
           "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.",
           "link": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
           "publishedOn": "2026-01-22T13:00:00.000Z",
-          "wordCount": 6451,
+          "wordCount": 6460,
           "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg",
@@ -327,21 +332,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/beyond-generative-rise-agentic-ai-user-centric-design/beyond-generative-rise-agentic-ai-user-centric-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
-          "author": "hello@smashingmagazine.com (Amit Sheen)",
-          "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
-          "link": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
-          "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 5118,
-          "title": "Rethinking “Pixel Perfect” Web Design",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/rethinking-pixel-perfect-web-design/rethinking-pixel-perfect-web-design.jpg"
         }
       ]
     },
@@ -350,6 +340,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69965d1013f3e8d4dfe2a929",
+          "author": "Manoj Aggarwal",
+          "description": "AI agents are all the rage these days. They’re like traditional chatbots, but they have the ability to utilize a plethora of tools in the background. They can also decide which tool to use and when to use it to answer your questions. In this tutorial...",
+          "link": "https://www.freecodecamp.org/news/how-to-develop-ai-agents-using-langgraph-a-practical-guide/",
+          "publishedOn": "2026-02-19T00:45:04.000Z",
+          "wordCount": 4280,
+          "title": "How to Develop AI Agents Using LangGraph: A Practical Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771461883355/00e4ae2d-048d-461c-93f9-184a67280770.png"
+        },
+        {
+          "id": "69963f99d35b661838993be2",
+          "author": "Omer Rosenbaum",
+          "description": "Your team needs to solve a problem, and there's no clear solution path. Multiple approaches might work, but you're not sure which. Success isn't guaranteed. This is Research, not Development. And if you manage it like Development, things aren't going...",
+          "link": "https://www.freecodecamp.org/news/product-led-research-a-practical-guide-for-randd-leaders-full-book/",
+          "publishedOn": "2026-02-18T22:39:21.000Z",
+          "wordCount": 16698,
+          "title": "Product-Led Research: A Practical Guide for R&D Leaders [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1769115610494/37ca44ed-763d-42a3-969a-8430f000701e.png"
+        },
+        {
+          "id": "69963f00d35b661838993bd0",
+          "author": "Hamdaan Ali",
+          "description": "Foreign data wrappers (FDWs) make remote Postgres tables feel local. That convenience is exactly why FDW performance surprises are so common. A query that looks like a normal join can execute like a distributed system: rows move across the network, r...",
+          "link": "https://www.freecodecamp.org/news/fdw-pushdown/",
+          "publishedOn": "2026-02-18T22:36:48.000Z",
+          "wordCount": 11926,
+          "title": "How to Elevate Your Database Game: Supercharging Query Performance with Postgres FDW",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771357398917/8db8c3fd-9f16-4631-aa48-2537e8a4cb45.png"
+        },
         {
           "id": "6995e32376926e7d4ed2c700",
           "author": "Beau Carnes",
@@ -419,36 +439,6 @@
           "wordCount": 5069,
           "title": "How to Build Your Own Circuit Breaker in Spring Boot – and Really Understand Resilience4j",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771276149217/e55b0a5c-53e2-4d2c-a004-1467a7c2b17a.png"
-        },
-        {
-          "id": "69932b89881a983a8060252f",
-          "author": "Ihechikara Abba",
-          "description": "A chess game is usually divided into three phases: the opening, middlegame, and endgame. In the opening phase, each player develops and sets up their pieces. In the middlegame, they plan attacks, execute different tactics and strategies to gain an ad...",
-          "link": "https://www.freecodecamp.org/news/the-chess-italian-game-handbook-traps-for-white/",
-          "publishedOn": "2026-02-16T14:36:57.000Z",
-          "wordCount": 4961,
-          "title": "The Chess \"Italian Game\" Handbook: Traps for White",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771252596669/88710fa6-d7b3-4914-ae0c-cafa7ea244a6.jpeg"
-        },
-        {
-          "id": "698f4ea5c4c4900d2483651c",
-          "author": "Destiny Erhabor",
-          "description": "If you've ever wondered how chat applications like Slack, Discord, or WhatsApp work behind the scenes, this tutorial will show you. You'll build a real-time chat server from scratch using Go, learning the fundamental concepts that power modern commun...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-grade-distributed-chatroom-in-go-full-handbook/",
-          "publishedOn": "2026-02-13T16:17:41.000Z",
-          "wordCount": 10687,
-          "title": "How to Build a Production-Grade Distributed Chatroom in Go [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770999686180/3bccee22-e7e9-477f-8a5f-50800896e972.png"
-        },
-        {
-          "id": "698f1256be3738fa1ac06e20",
-          "author": "Beau Carnes",
-          "description": "Today Quincy Larson interviews Robby Russell. Robby created the open-source project Oh My ZSH. Oh My Zsh is a framework for managing your Zsh configuration for your command line terminal. It's been extremely popular among developers for more than a d...",
-          "link": "https://www.freecodecamp.org/news/why-maintaining-a-codebase-is-so-damn-hard-with-ohmyzsh-creator-robby-russell-podcast-207/",
-          "publishedOn": "2026-02-13T12:00:22.000Z",
-          "wordCount": 2018,
-          "title": "Why maintaining a codebase is so damn hard – with OhMyZSH creator Robby Russell [Podcast #207]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1771010278267/efe92009-506e-4150-8d98-2027b6a58a27.jpeg"
         }
       ]
     },
@@ -506,16 +496,6 @@
           "wordCount": 1200,
           "title": "Introducing Pri.ProductivityExtensions.Source - A .NET Standard Package to Enable Modern C# Language Features",
           "imageUrl": null
-        },
-        {
-          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-january-19",
-          "author": null,
-          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
-          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-january-19",
-          "publishedOn": "2026-01-20T00:00:00.000Z",
-          "wordCount": 473,
-          "title": "Things That Caught My Attention Last Week - January 19",
-          "imageUrl": null
         }
       ]
     },
@@ -530,7 +510,7 @@
           "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
           "publishedOn": "2026-02-05T07:53:22.000Z",
-          "wordCount": 2427,
+          "wordCount": 2429,
           "title": "Reliably Refreshing the WebView2 Control",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
         }
@@ -547,7 +527,7 @@
           "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
           "publishedOn": "2026-02-05T07:53:22.000Z",
-          "wordCount": 2427,
+          "wordCount": 2425,
           "title": "Reliably Refreshing the WebView2 Control",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
         }
@@ -564,9 +544,9 @@
           "description": "The Clock type in the DotNetTips.Spargine.Core assembly and NuGet package centralizes time-related functions to enhance application consistency and reduce fragmentation. It provides a comprehensive and reliable abstraction for developers, ensuring efficient time handling while minimizing bugs. By streamlining time operations, Clock fosters cleaner, more predictable code across applications.",
           "link": "https://dotnettips.wordpress.com/2026/02/15/boost-your-net-projects-with-spargine-centralized-time-handling-with-the-clock-type/",
           "publishedOn": "2026-02-15T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5709,
           "title": "Boost Your .NET Projects with Spargine: Centralized Time Handling with the Clock Type",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20260112_1028_image-generation_simple_compose_01kesggt93edys7wvb58b961zy.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16813",
@@ -584,9 +564,9 @@
           "description": "Secure password hashing is vital for application security. The PasswordHasher class in Spargine for .NET 10 consolidates previous hashing implementations into a single solution that supports various modern algorithms. This enhances flexibility and ensures robust security while simplifying usage, making it essential for developers aiming to protect user credentials effectively.",
           "link": "https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/",
           "publishedOn": "2026-02-11T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6217,
           "title": "Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/02/20260203_0920_startup-satire-poster_simple_compose_01kgj1bc56fyerz4d30xb71wf2.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16373",
@@ -771,16 +751,6 @@
           "wordCount": 2364,
           "title": "Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1",
           "imageUrl": "https://andrewlock.net/content/images/2026/metrics_banner.png"
-        },
-        {
-          "id": "https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/",
-          "author": "Andrew Lock",
-          "description": "In this post I describe why foreach sometimes allocates, and show how you can use DynamicMethod and Reflection.Emit to go allocation-free",
-          "link": "https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/",
-          "publishedOn": "2026-01-20T10:00:00.000Z",
-          "wordCount": 3783,
-          "title": "Making foreach on an IEnumerable allocation-free using reflection and dynamic methods",
-          "imageUrl": "https://andrewlock.net/content/images/2026/enumeration_banner.png"
         }
       ]
     },
@@ -796,12 +766,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/02/19/dew-drop-february-19-2026-4608/",
+          "author": "Alvin A.",
+          "description": "Top Links .NET Rocks! – Making Reliable Software in 2026 with Damien Brady (Carl Franklin & Richard Campbell) What to expect for open source in 2026 (Dylan Birtolo) Agentic Code Fixing with GitHub Copilot SDK and Foundry Local (Lee Stott) Azure reliability, resiliency, and recoverability: Build continuity by design (Mark Russinovich & Molina Sharma) Becoming … Continue reading Dew Drop – February 19, 2026 (#4608)",
+          "link": "https://www.alvinashcraft.com/2026/02/19/dew-drop-february-19-2026-4608/",
+          "publishedOn": "2026-02-19T11:54:14.000Z",
+          "wordCount": 1938,
+          "title": "Dew Drop – February 19, 2026 (#4608)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/02/18/dew-drop-february-18-2026-4607/",
           "author": "Alvin A.",
           "description": "Top Links Uno MCP vs App MCP: When to Use Each (Matt Mattei) Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale (Amar Badal) Making music with MIDI just got a real boost in Windows 11 (Pete Brown) XAML Source-Generation in .NET MAUI makes your app so much better (Daniel Hindrikes) JetBrains Editor Improvements: Smooth … Continue reading Dew Drop – February 18, 2026 (#4607)",
           "link": "https://www.alvinashcraft.com/2026/02/18/dew-drop-february-18-2026-4607/",
           "publishedOn": "2026-02-18T12:04:53.000Z",
-          "wordCount": 1987,
+          "wordCount": 1996,
           "title": "Dew Drop – February 18, 2026 (#4607)",
           "imageUrl": null
         },
@@ -909,16 +889,6 @@
           "wordCount": 1952,
           "title": "Dew Drop – February 4, 2026 (#4597)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/02/03/dew-drop-february-3-2026-4596/",
-          "author": "Alvin A.",
-          "description": "Top Links Introducing the Codex app (OpenAI Team) The PowerShell Podcast – Owning Your Career and Your Time with Don Jones (James Petty) How to maximize GitHub Copilot’s agentic capabilities (Ari LiVigni) AI-Powered Smart TextArea for ASP.NET Core: Smarter Typing with Intelligent Autocompletion (Arun Kumar Chandrakesan) AI Unprompted Podcast #014 – OpenClaw: The Viral Personal … Continue reading Dew Drop – February 3, 2026 (#4596)",
-          "link": "https://www.alvinashcraft.com/2026/02/03/dew-drop-february-3-2026-4596/",
-          "publishedOn": "2026-02-03T11:55:37.000Z",
-          "wordCount": 2193,
-          "title": "Dew Drop – February 3, 2026 (#4596)",
-          "imageUrl": null
         }
       ]
     },
@@ -972,6 +942,43 @@
       "feedUrl": "https://www.manuelmeyer.net/feed/?x=1",
       "siteUrl": "https://www.manuelmeyer.net",
       "articles": []
+    },
+    {
+      "title": "Michał Jankowski",
+      "feedUrl": "https://www.jankowskimichal.pl/en/feed/",
+      "siteUrl": "https://www.jankowskimichal.pl/en/",
+      "articles": [
+        {
+          "id": "https://www.jankowskimichal.pl/?p=4347",
+          "author": "Michał Jankowski",
+          "description": "The last month brought several AI announcements that look unrelated on the surface. Music, smartphones, chatbots, and video. Together, they point to a deeper shift: AI is no longer experimental. It is becoming infrastructure. First, The Eleven Album marked a turning point for generative creativity. A full, studio-quality album was released using AI as a  [...]\nArtykuł Four signals that quietly changed the AI landscape this month pochodzi z serwisu Michał Jankowski.",
+          "link": "https://www.jankowskimichal.pl/en/2026/02/four-signals-that-quietly-changed-the-ai-landscape-this-month/",
+          "publishedOn": "2026-02-03T22:18:05.000Z",
+          "wordCount": 1942,
+          "title": "Four signals that quietly changed the AI landscape this month",
+          "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/02/ChatGPT-Image-Feb-3-2026-11_17_09-PM.png"
+        },
+        {
+          "id": "https://www.jankowskimichal.pl/?p=4343",
+          "author": "Michał Jankowski",
+          "description": "Better AI models have changed how I use software. The interesting part is not the tools themselves, but the decision logic behind them. Features I used to pay for are now solved by general-purpose models. Grammar fixes, image editing, research, and simple analytics can often be done faster and cheaper without dedicated SaaS tools. This  [...]\nArtykuł AI Is forcing a new Buy vs Build decision in enterprise software pochodzi z serwisu Michał Jankowski.",
+          "link": "https://www.jankowskimichal.pl/en/2026/01/ai-is-forcing-a-new-buy-vs-build-decision-in-enterprise-software/",
+          "publishedOn": "2026-01-27T11:45:23.000Z",
+          "wordCount": 1881,
+          "title": "AI Is forcing a new Buy vs Build decision in enterprise software",
+          "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/01/Build-vs-Buy.png"
+        },
+        {
+          "id": "https://www.jankowskimichal.pl/?p=4340",
+          "author": "Michał Jankowski",
+          "description": "Most leaders track Anthropic’s MCP and OpenAI’s AGENTS.md. Very few have noticed Block’s goose framework. I hadn’t either. And I’ve been working with AI systems for years. Goose was released in early 2025. It is an open-source, local-first agent framework. At first glance, it looks like “just another agent framework.” It isn’t. Goose combines language  [...]\nArtykuł Goose, MCP, and AGENTS.md: The emerging foundation of Agentic AI pochodzi z serwisu Michał Jankowski.",
+          "link": "https://www.jankowskimichal.pl/en/2026/01/goose-mcp-and-agents-md-the-emerging-foundation-of-agentic-ai/",
+          "publishedOn": "2026-01-21T12:40:19.000Z",
+          "wordCount": 1846,
+          "title": "Goose, MCP, and AGENTS.md: The emerging foundation of Agentic AI",
+          "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/01/goose-logo-black.png"
+        }
+      ]
     },
     {
       "title": "Allen Conway",
@@ -1079,7 +1086,7 @@
           "publishedOn": "2026-02-15T12:34:13.000Z",
           "wordCount": 4663,
           "title": "AI Features in SQL Server 2025",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1771296306"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1771210128"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=4060",
