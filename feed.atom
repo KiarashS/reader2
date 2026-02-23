@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-02-22T02:49:09.735Z</updated>
+    <updated>2026-02-23T02:49:21.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel]]></title>
+        <id>http://dotnettips.wordpress.com/?p=16397</id>
+        <link href="https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/"/>
+        <updated>2026-02-22T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The article highlights the disappointing state of user experience in air travel, focusing on unreliable software, poor connectivity, and frustrating airline apps. Despite expectations for improvement, airline systems remain outdated and inefficient, causing significant discomfort and dissatisfaction for travelers. The author urges airlines to prioritize user experience as essential.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries]]></title>
+        <id>https://www.sahansera.dev/introducing-gh-weekly-updates/</id>
+        <link href="https://www.sahansera.dev/introducing-gh-weekly-updates/"/>
+        <updated>2026-02-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re anything like me, you’ve probably spent a Friday afternoon trying to remember everything you did that week. Maybe it’s for a…]]></summary>
+        <author>
+            <name>sahansera.dev RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Reusable Modular Unity Packages to Speed Up Development]]></title>
         <id>6998ee96a20b74e093d7e671</id>
@@ -894,17 +914,6 @@ There is No Need to Trap Focus on a Dialog Element originally published on CSS-T
         <summary type="html"><![CDATA[Retrieving the character count of a string in .NET has various methods: using Span with Length, Length, or Enumerable.Count().  This article will prove which is the fastest method.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Maybe) LibOQS.NET 0.3.0: with liboqs 0.15.0, full suite of algorithms and other new features]]></title>
-        <id>https://www.strathweb.com/2026/01/liboqs-net-0-3-0-liboqs-0-15-0-full-suite-of-algorithms-and-other-new-features/</id>
-        <link href="https://www.strathweb.com/2026/01/liboqs-net-0-3-0-liboqs-0-15-0-full-suite-of-algorithms-and-other-new-features/"/>
-        <updated>2026-01-23T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Following the initial introduction of (Maybe) LibOQS.NET a few months ago, the post-quantum cryptography landscape has continued to move rapidly. To keep pace with these developments, the library has undergone significant updates to provide broader algorithm support and deeper integration with the underlying native tooling.
-Today marks the release of version 0.3.0, a major milestone that brings the wrapper up to date with liboqs 0.15.0. This release is more than just a version bump; it exposes pretty much all of the liboqs algorithms to .NET developers and adds support for signature context strings, as well as the ability to perform deterministic (derandomized) KEM operations.]]></summary>
-        <author>
-            <name>Archive on Strathweb. A free flowing tech monologue.</name>
         </author>
     </entry>
 </feed>
