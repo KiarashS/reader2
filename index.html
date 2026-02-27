@@ -22,11 +22,270 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-02-26 datetime="2026-02-25T21:31:39.000Z">2026-02-26</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-02-26 datetime="2026-02-25T21:31:39.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-02-27 datetime="2026-02-26T22:41:03.000Z">2026-02-27</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-02-27 datetime="2026-02-26T22:41:03.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Rick Strahl&#x27;s Web Log</button>
+                  <a class="source-heading__link" href="https://weblog.west-wind.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="5239628_202602262241"
+                        open
+                      >
+                        <summary class="article-expander__title">Don&#x27;t use the Microsoft Timestamp Server for Signing</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>If you&#x27;re using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:
+$timeServer &#x3D; &quot;http://timestamp.acs.microsoft.com&quot;
+
+For signing code with trusted signing like this:
+$timeServer &#x3D; &quot;http://timestamp.acs.microsoft.com&quot;
+
+$args &#x3D; @(
+    &quot;sign&quot;, &quot;/v&quot;, &quot;/debug&quot;, &quot;/fd&quot;, &quot;SHA256&quot;,
+    &quot;/tr&quot;, &quot;$timeServer&quot;,
+    &quot;/td&quot;, &quot;SHA256&quot;,
+    &quot;/dlib&quot;, &quot;$env:LOCALAPPDATA\Microsoft\MicrosoftTrustedSigningClientTools\Azure.CodeSigning.Dlib.dll&quot;,
+    &quot;/dmdf&quot;, &quot;.\SignfileMetadata.json&quot;
+)
+# Add non-empty file arguments
+foreach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {
+    if (![string]::IsNullOrWhiteSpace($f)) {
+        $args +&#x3D; $f
+    }
+…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Rick Strahl&#x27;s Web Log</button>
+                  <a class="source-heading__link" href="https://weblog.west-wind.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="5239628_202602262241"
+                        open
+                      >
+                        <summary class="article-expander__title">Don&#x27;t use the Microsoft Timestamp Server for Signing</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>If you&#x27;re using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:
+$timeServer &#x3D; &quot;http://timestamp.acs.microsoft.com&quot;
+
+For signing code with trusted signing like this:
+$timeServer &#x3D; &quot;http://timestamp.acs.microsoft.com&quot;
+
+$args &#x3D; @(
+    &quot;sign&quot;, &quot;/v&quot;, &quot;/debug&quot;, &quot;/fd&quot;, &quot;SHA256&quot;,
+    &quot;/tr&quot;, &quot;$timeServer&quot;,
+    &quot;/td&quot;, &quot;SHA256&quot;,
+    &quot;/dlib&quot;, &quot;$env:LOCALAPPDATA\Microsoft\MicrosoftTrustedSigningClientTools\Azure.CodeSigning.Dlib.dll&quot;,
+    &quot;/dmdf&quot;, &quot;.\SignfileMetadata.json&quot;
+)
+# Add non-empty file arguments
+foreach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {
+    if (![string]::IsNullOrWhiteSpace($f)) {
+        $args +&#x3D; $f
+    }
+…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-02-26 datetime="2026-02-26T15:12:15.000Z">2026-02-26</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-02-26 datetime="2026-02-26T15:12:15.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >freeCodeCamp Programming Tutorials: Python, JavaScript, Git &amp; More</button>
+                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="69a062cfab6baac8ff1a081d"
+                        open
+                      >
+                        <summary class="article-expander__title">Learn Python and Build Autonomous Agents</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/3883540d-6097-459f-a4c5-83587aa33c8c.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The future of software is code that reasons. We just posted a new course on the freeCodeCamp.org YouTube channel designed to take you from Python fundamentals to AI Agent development. This course is a</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="69a06148ab6baac8ff198f13"
+                        open
+                      >
+                        <summary class="article-expander__title">Master Kubernetes Through Production-Ready Practice</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/b1d63be6-f5d9-4ddc-8afc-4455c2ed95ee.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Stop memorizing isolated commands and start building like a platform engineer. We just posted comprehensive Kubernetes course on the freeCodeCamp.org YouTube channel. This hands-on course is designed</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="699f5dc4c9015c37f6bc8f92"
+                        open
+                      >
+                        <summary class="article-expander__title">The Ultimate Web Developer Job Search Handbook</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/the-ultimate-web-developer-job-search-handbook/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2362ab0d-419d-4add-8228-9788e5a58d0f.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Getting a web developer job today is hard. In 2021, I got my first developer job by sending one direct email and then doing a single live call. That was enough. Later the same year, I found my second</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Morning Dew by Alvin Ashcraft</button>
+                  <a class="source-heading__link" href="https://www.alvinashcraft.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.alvinashcraft.com/2026/02/26/dew-drop-february-26-2026-4613/"
+                        open
+                      >
+                        <summary class="article-expander__title">Dew Drop – February 26, 2026 (#4613)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.alvinashcraft.com/2026/02/26/dew-drop-february-26-2026-4613/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Top Links Azure Developer CLI (azd) – February 2026: JMESPath Queries &amp; Deployment Slots (PuiChee (PC) Chan) The Rise of The Claw with OpenClaw’s Peter Steinberger | Hanselminutes (Scott Hanselman) Codex 5.3 vs 5.2 for .NET Developers (Sam Basu) GitHub Copilot CLI is now generally available (GitHub Team) Microsoft Agent Framework for .NET 1.0.0 RC2 … Continue reading Dew Drop – February 26, 2026 (#4613)</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/"
+                        open
+                      >
+                        <summary class="article-expander__title">Say Cheese! Meet SmashingConf Amsterdam 🇳🇱</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -52,41 +311,7 @@
                             <span class="media-object__text">
                               <span>Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a &quot;CSS exploit&quot; that &quot;allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.&quot;
 An Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp Programming Tutorials: Python, JavaScript, Git &amp; More</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="699f5dc4c9015c37f6bc8f92"
-                        open
-                      >
-                        <summary class="article-expander__title">The Ultimate Web Developer Job Search Handbook</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/the-ultimate-web-developer-job-search-handbook/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2362ab0d-419d-4add-8228-9788e5a58d0f.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Getting a web developer job today is hard. In 2021, I got my first developer job by sending one direct email and then doing a single live call. That was enough. Later the same year, I found my second</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                &ensp;<span class="article-reading-time">(&hairsp;8
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -154,26 +379,6 @@ An Exploit … in CSS?! originally published on CSS-Tricks, which is part of the
                               <img src="https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/ec5d63f1-d65f-4852-a297-9c517fc76e2f.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>A REST API documentation is a guide that explains how clients can make use of the REST APIs in an application. It details the available endpoints, how to send requests and what responses to expect. It</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;14
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="699f0d7c6049477bf66fb933"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Build a Serverless RAG Pipeline on AWS That Scales to Zero</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/serverless-rag-pipeline-on-aws/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/c9a4a8b7-4dea-41a0-b0d2-7c57e2e94578.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Most RAG tutorials end the same way: you&#x27;ve got a working prototype and a bill for a vector database that runs whether anyone&#x27;s querying it or not. Add an always-on embedding service, a hosted LLM end</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;14
                                   min&hairsp;)</span>
                             </span>
@@ -955,11 +1160,8 @@ We are going to do LoRA fine-tuning of a Phi-4 model, and then deploy it to a ma
                         <summary class="article-expander__title">UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel</summary>
                         <a class="article-summary-link article-summary-box-outer" href="https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20250425_1043_giant-bug-warning_simple_compose_01jspstqrsf0088b6mgvd6xdcn-222100.png?fit&#x3D;1200%2C800&amp;ssl&#x3D;1" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>The article highlights the disappointing state of user experience in air travel, focusing on unreliable software, poor connectivity, and frustrating airline apps. Despite expectations for improvement, airline systems remain outdated and inefficient, causing significant discomfort and dissatisfaction for travelers. The author urges airlines to prioritize user experience as essential.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;20
-                                  min&hairsp;)</span>
                             </span>
                           </div>
                         </a>
@@ -1059,45 +1261,11 @@ We are going to do LoRA fine-tuning of a Phi-4 model, and then deploy it to a ma
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-02-20 datetime="2026-02-20T17:54:24.000Z">2026-02-20</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-02-20 datetime="2026-02-20T17:54:24.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-02-20 datetime="2026-02-20T15:36:55.000Z">2026-02-20</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-02-20 datetime="2026-02-20T15:36:55.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >freeCodeCamp Programming Tutorials: Python, JavaScript, Git &amp; More</button>
-                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="69989fd0a20b74e093ce4fcb"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Use Documentation as a Marketing Tool</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-use-documentation-as-a-marketing-tool/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2af093b1-f1aa-42cc-b33a-b842911affcd.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>I was recently moved to the marketing team at my company, and that shift has made me reflect more deeply on the role documentation plays in our go-to-market strategy. Before this move, we&#x27;ve had sever</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;11
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -1612,7 +1780,7 @@ Interop 2026 originally published on CSS-Tricks, which is part of the DigitalOce
                         <summary class="article-expander__title">AI Features in SQL Server 2025</summary>
                         <a class="article-summary-link article-summary-box-outer" href="https://dotnetstories.wordpress.com/2026/02/15/ai-features-in-sql-server-2025/">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s&#x3D;200&amp;ts&#x3D;1771728511" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s&#x3D;200&amp;ts&#x3D;1772160021" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>SQL Server 2025 brings practical AI building blocks directly into the database engine: the VECTOR data type, vector indexing, ANN-powered similarity search, and T-SQL functions for embeddings and chunking.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;16
@@ -2030,53 +2198,6 @@ Approximating contrast-color() With Other CSS Features originally published on C
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
                               <span>Secure password hashing is vital for application security. The PasswordHasher class in Spargine for .NET 10 consolidates previous hashing implementations into a single solution that supports various modern algorithms. This enhances flexibility and ensures robust security while simplifying usage, making it essential for developers aiming to protect user credentials effectively.</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-02-10 datetime="2026-02-10T12:05:18.000Z">2026-02-10</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-02-10 datetime="2026-02-10T12:05:18.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Morning Dew by Alvin Ashcraft</button>
-                  <a class="source-heading__link" href="https://www.alvinashcraft.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.alvinashcraft.com/2026/02/10/dew-drop-february-10-2026-4601/"
-                        open
-                      >
-                        <summary class="article-expander__title">Dew Drop – February 10, 2026 (#4601)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.alvinashcraft.com/2026/02/10/dew-drop-february-10-2026-4601/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Top Links Ralph Wiggum Explained: Stop Telling AI What You Want — Tell It What Blocks You (Matt Mattei) Testing ads in ChatGPT (OpenAI Team) – And it begins… Strengthening Windows trust and security through User Transparency and Consent (Logan Iyer) AI Doesn’t Reduce Work—It Intensifies It (Simon Willison) How to Set Up Claude Code … Continue reading Dew Drop – February 10, 2026 (#4601)</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
                             </span>
                           </div>
                         </a>
@@ -2886,7 +3007,7 @@ And in Program.cs</span>
                               <img src="http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                &ensp;<span class="article-reading-time">(&hairsp;16
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -3060,161 +3181,10 @@ What’s !important #4: Videos &amp; View Transitions, Named Media Queries, How 
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-01-27 datetime="2026-01-27T11:45:23.000Z">2026-01-27</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-01-27 datetime="2026-01-27T11:45:23.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Michał Jankowski</button>
-                  <a class="source-heading__link" href="https://www.jankowskimichal.pl/en/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.jankowskimichal.pl/?p&#x3D;4343"
-                        open
-                      >
-                        <summary class="article-expander__title">AI Is forcing a new Buy vs Build decision in enterprise software</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.jankowskimichal.pl/en/2026/01/ai-is-forcing-a-new-buy-vs-build-decision-in-enterprise-software/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.jankowskimichal.pl/wp-content/uploads/2026/01/Build-vs-Buy.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Better AI models have changed how I use software. The interesting part is not the tools themselves, but the decision logic behind them. Features I used to pay for are now solved by general-purpose models. Grammar fixes, image editing, research, and simple analytics can often be done faster and cheaper without dedicated SaaS tools. This  [...]
-Artykuł AI Is forcing a new Buy vs Build decision in enterprise software pochodzi z serwisu Michał Jankowski.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
-                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/"
-                        open
-                      >
-                        <summary class="article-expander__title">Unstacking CSS Stacking Contexts</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Andrew Lock | .NET Escapades</button>
-                  <a class="source-heading__link" href="https://andrewlock.net/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/"
-                        open
-                      >
-                        <summary class="article-expander__title">Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://andrewlock.net/content/images/2026/metrics_banner.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>In this post I provide an introduction to the System.Diagnostics.Metrics API, and show how to create a custom metric and read it with dotnet-counters</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Nate McMaster</button>
-                  <a class="source-heading__link" href="https://natemcmaster.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://natemcmaster.com/blog/2026/01/27/so-you-want-to-join-anthropic/"
-                        open
-                      >
-                        <summary class="article-expander__title">So, you want to work for Anthropic?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://natemcmaster.com/blog/2026/01/27/so-you-want-to-join-anthropic/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://natemcmaster.com/assets/images/og/2026-01-27-so-you-want-to-join-anthropic.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>I recently joined Anthropic as a Member of Technical Staff, building software to support Anthropic’s network. It sparked a flurry of people asking if they could join, too. Whether you’re considering a job change or specifically curious about Anthropic, I’ll share how I got the job, then walk through what I weighed: income, uncertainty, values, and the allure of hype.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/KiarashS/reader2/actions/runs/22425509062">
-        <time id="build-timestamp" datetime="2026-02-26T02:42:44.445Z">2026-02-26T02:42:44.445Z</time>
+      <a class="footer-link" href="https://github.com/KiarashS/reader2/actions/runs/22470441466">
+        <time id="build-timestamp" datetime="2026-02-27T02:40:55.455Z">2026-02-27T02:40:55.455Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

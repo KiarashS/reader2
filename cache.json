@@ -17,7 +17,7 @@
           "description": "Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a \"CSS exploit\" that \"allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.\"\nAn Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/an-exploit-in-css/",
           "publishedOn": "2026-02-25T21:31:39.000Z",
-          "wordCount": 2235,
+          "wordCount": 2510,
           "title": "An Exploit … in CSS?!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/code-magnify.png"
         },
@@ -72,7 +72,7 @@
           "description": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.\nSpiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
           "publishedOn": "2026-02-17T15:17:25.000Z",
-          "wordCount": 2035,
+          "wordCount": 2056,
           "title": "Spiral Scrollytelling in CSS With sibling-index()",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-9.37.52-AM.mov",
@@ -199,12 +199,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
+          "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
+          "publishedOn": "2026-02-26T11:00:00.000Z",
+          "wordCount": 4065,
+          "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "author": "hello@smashingmagazine.com (Carrie Webster)",
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4405,
+          "wordCount": 4400,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -219,7 +234,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6727,
+          "wordCount": 6731,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -234,7 +249,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6339,
+          "wordCount": 6348,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -249,7 +264,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6508,
+          "wordCount": 6507,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -264,7 +279,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4500,
+          "wordCount": 4502,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -294,7 +309,7 @@
           "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
           "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
           "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4602,
+          "wordCount": 4702,
           "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
@@ -309,7 +324,7 @@
           "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.",
           "link": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
           "publishedOn": "2026-01-30T13:00:00.000Z",
-          "wordCount": 4665,
+          "wordCount": 4657,
           "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg",
@@ -317,21 +332,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/practical-use-ai-coding-tools-responsible-developer/practical-use-ai-coding-tools-responsible-developer.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
-          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
-          "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perception of depth. Stacking contexts are incredibly useful, but they’re also widely misunderstood and often mistakenly created, leading to a slew of layout issues that can be tricky to solve.",
-          "link": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
-          "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 5819,
-          "title": "Unstacking CSS Stacking Contexts",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/unstacking-css-stacking-contexts/unstacking-css-stacking-contexts.jpg"
         }
       ]
     },
@@ -340,6 +340,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69a062cfab6baac8ff1a081d",
+          "author": "Beau Carnes",
+          "description": "The future of software is code that reasons. We just posted a new course on the freeCodeCamp.org YouTube channel designed to take you from Python fundamentals to AI Agent development. This course is a",
+          "link": "https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/",
+          "publishedOn": "2026-02-26T15:12:15.000Z",
+          "wordCount": 1048,
+          "title": "Learn Python and Build Autonomous Agents",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/3883540d-6097-459f-a4c5-83587aa33c8c.jpg"
+        },
+        {
+          "id": "69a06148ab6baac8ff198f13",
+          "author": "Beau Carnes",
+          "description": "Stop memorizing isolated commands and start building like a platform engineer. We just posted comprehensive Kubernetes course on the freeCodeCamp.org YouTube channel. This hands-on course is designed",
+          "link": "https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/",
+          "publishedOn": "2026-02-26T15:05:44.000Z",
+          "wordCount": 1001,
+          "title": "Master Kubernetes Through Production-Ready Practice",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/b1d63be6-f5d9-4ddc-8afc-4455c2ed95ee.jpg"
+        },
         {
           "id": "699f5dc4c9015c37f6bc8f92",
           "author": "Ilyas Seisov",
@@ -369,16 +389,6 @@
           "wordCount": 4331,
           "title": "How to Create REST API Documentation in Node.js Using Scalar",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/ec5d63f1-d65f-4852-a297-9c517fc76e2f.png"
-        },
-        {
-          "id": "699f0d7c6049477bf66fb933",
-          "author": "Christopher Galliart",
-          "description": "Most RAG tutorials end the same way: you've got a working prototype and a bill for a vector database that runs whether anyone's querying it or not. Add an always-on embedding service, a hosted LLM end",
-          "link": "https://www.freecodecamp.org/news/serverless-rag-pipeline-on-aws/",
-          "publishedOn": "2026-02-25T14:55:56.000Z",
-          "wordCount": 4135,
-          "title": "How to Build a Serverless RAG Pipeline on AWS That Scales to Zero",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/c9a4a8b7-4dea-41a0-b0d2-7c57e2e94578.png"
         },
         {
           "id": "699e41d20daf99859e60d319",
@@ -429,16 +439,6 @@
           "wordCount": 4590,
           "title": "How to Build Reusable Modular Unity Packages to Speed Up Development",
           "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7a3eeaef-4bab-403c-b9ef-3ebc785efb2f.png"
-        },
-        {
-          "id": "69989fd0a20b74e093ce4fcb",
-          "author": "Onyeanuna Prince",
-          "description": "I was recently moved to the marketing team at my company, and that shift has made me reflect more deeply on the role documentation plays in our go-to-market strategy. Before this move, we've had sever",
-          "link": "https://www.freecodecamp.org/news/how-to-use-documentation-as-a-marketing-tool/",
-          "publishedOn": "2026-02-20T17:54:24.000Z",
-          "wordCount": 3261,
-          "title": "How to Use Documentation as a Marketing Tool",
-          "imageUrl": "https://cloudmate-test.s3.us-east-1.amazonaws.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2af093b1-f1aa-42cc-b33a-b842911affcd.png"
         }
       ]
     },
@@ -495,6 +495,16 @@
       "siteUrl": "https://weblog.west-wind.com/",
       "articles": [
         {
+          "id": "5239628_202602262241",
+          "author": "Rick Strahl",
+          "description": "If you're using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\nFor signing code with trusted signing like this:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\n$args = @(\n    \"sign\", \"/v\", \"/debug\", \"/fd\", \"SHA256\",\n    \"/tr\", \"$timeServer\",\n    \"/td\", \"SHA256\",\n    \"/dlib\", \"$env:LOCALAPPDATA\\Microsoft\\MicrosoftTrustedSigningClientTools\\Azure.CodeSigning.Dlib.dll\",\n    \"/dmdf\", \".\\SignfileMetadata.json\"\n)\n# Add non-empty file arguments\nforeach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {\n    if (![string]::IsNullOrWhiteSpace($f)) {\n        $args += $f\n    }\n…",
+          "link": "https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing",
+          "publishedOn": "2026-02-26T22:41:03.000Z",
+          "wordCount": 776,
+          "title": "Don't use the Microsoft Timestamp Server for Signing",
+          "imageUrl": "https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png"
+        },
+        {
           "id": "5204283_202602050753",
           "author": "Rick Strahl",
           "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
@@ -512,12 +522,22 @@
       "siteUrl": "https://weblog.west-wind.com/",
       "articles": [
         {
+          "id": "5239628_202602262241",
+          "author": "Rick Strahl",
+          "description": "If you're using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\nFor signing code with trusted signing like this:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\n$args = @(\n    \"sign\", \"/v\", \"/debug\", \"/fd\", \"SHA256\",\n    \"/tr\", \"$timeServer\",\n    \"/td\", \"SHA256\",\n    \"/dlib\", \"$env:LOCALAPPDATA\\Microsoft\\MicrosoftTrustedSigningClientTools\\Azure.CodeSigning.Dlib.dll\",\n    \"/dmdf\", \".\\SignfileMetadata.json\"\n)\n# Add non-empty file arguments\nforeach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {\n    if (![string]::IsNullOrWhiteSpace($f)) {\n        $args += $f\n    }\n…",
+          "link": "https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing",
+          "publishedOn": "2026-02-26T22:41:03.000Z",
+          "wordCount": 776,
+          "title": "Don't use the Microsoft Timestamp Server for Signing",
+          "imageUrl": "https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png"
+        },
+        {
           "id": "5204283_202602050753",
           "author": "Rick Strahl",
           "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
           "publishedOn": "2026-02-05T07:53:22.000Z",
-          "wordCount": 2425,
+          "wordCount": 2429,
           "title": "Reliably Refreshing the WebView2 Control",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
         }
@@ -544,9 +564,9 @@
           "description": "The article highlights the disappointing state of user experience in air travel, focusing on unreliable software, poor connectivity, and frustrating airline apps. Despite expectations for improvement, airline systems remain outdated and inefficient, causing significant discomfort and dissatisfaction for travelers. The author urges airlines to prioritize user experience as essential.",
           "link": "https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/",
           "publishedOn": "2026-02-22T07:00:00.000Z",
-          "wordCount": 5977,
+          "wordCount": null,
           "title": "UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20250425_1043_giant-bug-warning_simple_compose_01jspstqrsf0088b6mgvd6xdcn-222100.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16981",
@@ -761,16 +781,6 @@
           "wordCount": 3215,
           "title": "Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2",
           "imageUrl": "https://andrewlock.net/content/images/2026/metrics_banner_2.png"
-        },
-        {
-          "id": "https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/",
-          "author": "Andrew Lock",
-          "description": "In this post I provide an introduction to the System.Diagnostics.Metrics API, and show how to create a custom metric and read it with dotnet-counters",
-          "link": "https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/",
-          "publishedOn": "2026-01-27T10:00:00.000Z",
-          "wordCount": 2371,
-          "title": "Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1",
-          "imageUrl": "https://andrewlock.net/content/images/2026/metrics_banner.png"
         }
       ]
     },
@@ -797,12 +807,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/02/26/dew-drop-february-26-2026-4613/",
+          "author": "Alvin A.",
+          "description": "Top Links Azure Developer CLI (azd) – February 2026: JMESPath Queries & Deployment Slots (PuiChee (PC) Chan) The Rise of The Claw with OpenClaw’s Peter Steinberger | Hanselminutes (Scott Hanselman) Codex 5.3 vs 5.2 for .NET Developers (Sam Basu) GitHub Copilot CLI is now generally available (GitHub Team) Microsoft Agent Framework for .NET 1.0.0 RC2 … Continue reading Dew Drop – February 26, 2026 (#4613)",
+          "link": "https://www.alvinashcraft.com/2026/02/26/dew-drop-february-26-2026-4613/",
+          "publishedOn": "2026-02-26T12:06:36.000Z",
+          "wordCount": 2104,
+          "title": "Dew Drop – February 26, 2026 (#4613)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/02/25/dew-drop-february-25-2026-4612/",
           "author": "Alvin A.",
           "description": "Top Links Visual Studio February Update (Mark Downie) New Azure Open AI models bring fast, expressive, and real‑time AI experiences in Microsoft Foundry (Naomi Moneypenny) Guardrails, Hard Cases, and Daily Habits for MCP Adoption (Matt Mattei) Flutter & Dart’s 2026 roadmap (Emma Twersky) The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s … Continue reading Dew Drop – February 25, 2026 (#4612)",
           "link": "https://www.alvinashcraft.com/2026/02/25/dew-drop-february-25-2026-4612/",
           "publishedOn": "2026-02-25T12:13:21.000Z",
-          "wordCount": 2231,
+          "wordCount": 2240,
           "title": "Dew Drop – February 25, 2026 (#4612)",
           "imageUrl": null
         },
@@ -910,16 +930,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/02/10/dew-drop-february-10-2026-4601/",
-          "author": "Alvin A.",
-          "description": "Top Links Ralph Wiggum Explained: Stop Telling AI What You Want — Tell It What Blocks You (Matt Mattei) Testing ads in ChatGPT (OpenAI Team) – And it begins… Strengthening Windows trust and security through User Transparency and Consent (Logan Iyer) AI Doesn’t Reduce Work—It Intensifies It (Simon Willison) How to Set Up Claude Code … Continue reading Dew Drop – February 10, 2026 (#4601)",
-          "link": "https://www.alvinashcraft.com/2026/02/10/dew-drop-february-10-2026-4601/",
-          "publishedOn": "2026-02-10T12:05:18.000Z",
-          "wordCount": 2196,
-          "title": "Dew Drop – February 10, 2026 (#4601)",
-          "imageUrl": null
         }
       ]
     },
@@ -998,16 +1008,6 @@
           "wordCount": 1942,
           "title": "Four signals that quietly changed the AI landscape this month",
           "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/02/ChatGPT-Image-Feb-3-2026-11_17_09-PM.png"
-        },
-        {
-          "id": "https://www.jankowskimichal.pl/?p=4343",
-          "author": "Michał Jankowski",
-          "description": "Better AI models have changed how I use software. The interesting part is not the tools themselves, but the decision logic behind them. Features I used to pay for are now solved by general-purpose models. Grammar fixes, image editing, research, and simple analytics can often be done faster and cheaper without dedicated SaaS tools. This  [...]\nArtykuł AI Is forcing a new Buy vs Build decision in enterprise software pochodzi z serwisu Michał Jankowski.",
-          "link": "https://www.jankowskimichal.pl/en/2026/01/ai-is-forcing-a-new-buy-vs-build-decision-in-enterprise-software/",
-          "publishedOn": "2026-01-27T11:45:23.000Z",
-          "wordCount": 1881,
-          "title": "AI Is forcing a new Buy vs Build decision in enterprise software",
-          "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/01/Build-vs-Buy.png"
         }
       ]
     },
@@ -1117,7 +1117,7 @@
           "publishedOn": "2026-02-15T12:34:13.000Z",
           "wordCount": 4663,
           "title": "AI Features in SQL Server 2025",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1771728511"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1772160021"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=4060",
@@ -1157,16 +1157,6 @@
           "wordCount": 723,
           "title": "1Password is still worth it in 2026",
           "imageUrl": "https://natemcmaster.com/assets/images/og/2026-01-31-1password-is-still-worth-it.png"
-        },
-        {
-          "id": "https://natemcmaster.com/blog/2026/01/27/so-you-want-to-join-anthropic/",
-          "author": null,
-          "description": "I recently joined Anthropic as a Member of Technical Staff, building software to support Anthropic’s network. It sparked a flurry of people asking if they could join, too. Whether you’re considering a job change or specifically curious about Anthropic, I’ll share how I got the job, then walk through what I weighed: income, uncertainty, values, and the allure of hype.",
-          "link": "https://natemcmaster.com/blog/2026/01/27/so-you-want-to-join-anthropic/",
-          "publishedOn": "2026-01-27T08:00:00.000Z",
-          "wordCount": 1255,
-          "title": "So, you want to work for Anthropic?",
-          "imageUrl": "https://natemcmaster.com/assets/images/og/2026-01-27-so-you-want-to-join-anthropic.png"
         }
       ]
     },
