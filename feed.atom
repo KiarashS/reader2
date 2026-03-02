@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-03-01T02:56:16.336Z</updated>
+    <updated>2026-03-02T02:43:50.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inside the AWS SDK for .NET: A Code Quality Wake-Up Call]]></title>
+        <id>http://dotnettips.wordpress.com/?p=16474</id>
+        <link href="https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/"/>
+        <updated>2026-03-01T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The author critically reviews the AWS SDK for .NET, revealing alarming code quality issues, including 959,815 total violations and severe design flaws leading to potential memory leaks and resource management problems. Despite its popularity, the SDK presents significant risks for .NET developers, highlighting the importance of thorough assessment of open-source packages.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Connecting Azure to MongoDB Atlas via Private Endpoints]]></title>
         <id>https://jaliyaudagedara.blogspot.com/2026/02/connecting-azure-to-mongodb-atlas-via.html</id>
@@ -1003,16 +1013,6 @@ And in Program.cs]]></summary>
         <summary type="html"><![CDATA[I let my 1Password Family subscription lapse for three months to give iCloud Passwords a real shot. Apple’s offering is free, built-in, and getting better. After three months, I went back to 1Password.]]></summary>
         <author>
             <name>Nate McMaster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical Use Of AI Coding Tools For The Responsible Developer]]></title>
-        <id>https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/</id>
-        <link href="https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/"/>
-        <updated>2026-01-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stefan Kaltenegger)</name>
         </author>
     </entry>
 </feed>
