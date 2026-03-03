@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388435",
+          "author": "Zell Liew",
+          "description": "Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.\nPopover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/",
+          "publishedOn": "2026-03-02T15:10:07.000Z",
+          "wordCount": 2411,
+          "title": "Popover API or Dialog API: Which to Choose?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=392661",
           "author": "Daniel Schwarz",
           "description": "Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!\nWhat’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -32,7 +42,7 @@
           "description": "TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!\nYet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/yet-another-way-to-center-an-absolute-element/",
           "publishedOn": "2026-02-27T14:40:42.000Z",
-          "wordCount": 1677,
+          "wordCount": 1783,
           "title": "Yet Another Way to Center an (Absolute) Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2014/09/guide-centering.png"
         },
@@ -42,7 +52,7 @@
           "description": "Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a \"CSS exploit\" that \"allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.\"\nAn Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/an-exploit-in-css/",
           "publishedOn": "2026-02-25T21:31:39.000Z",
-          "wordCount": 2510,
+          "wordCount": 2777,
           "title": "An Exploit … in CSS?!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/code-magnify.png"
         },
@@ -180,16 +190,6 @@
           "wordCount": 1708,
           "title": "CSS Bar Charts Using Modern Functions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/bar-chart-horizontal.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390379",
-          "author": "Zell Liew",
-          "description": "You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.\nNo Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/",
-          "publishedOn": "2026-02-03T15:54:59.000Z",
-          "wordCount": 2193,
-          "title": "No Hassle Visual Code Theming: Publishing an Extension",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/vs-code-highlight.jpg"
         }
       ]
     },
@@ -199,12 +199,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
+          "author": "hello@smashingmagazine.com (Godstime Aburu)",
+          "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
+          "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
+          "publishedOn": "2026-03-02T10:00:00.000Z",
+          "wordCount": 5647,
+          "title": "Getting Started With The Popover API",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4410,
+          "wordCount": 4409,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -219,7 +234,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4059,
+          "wordCount": 4062,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -234,7 +249,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4407,
+          "wordCount": 4401,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -249,7 +264,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6729,
+          "wordCount": 6727,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -264,7 +279,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6332,
+          "wordCount": 6343,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -279,7 +294,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6497,
+          "wordCount": 6486,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -294,7 +309,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4497,
+          "wordCount": 4504,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -317,21 +332,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/combobox-vs-multiselect-vs-listbox/combobox-vs-multiselect-vs-listbox.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and maybe spark your creativity, too. All of them were designed with love by the community for the community and can be downloaded for free. Happy February!",
-          "link": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
-          "publishedOn": "2026-01-31T09:00:00.000Z",
-          "wordCount": 4595,
-          "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2026/feb-26-eternal-tech-preview-opt.png"
         }
       ]
     },
@@ -340,6 +340,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69a5efa7e8e1f9df72e3a2ee",
+          "author": "Beau Carnes",
+          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build a professional screen recording platform from scratch. Using Next.js 15 and Mux, you will create a \"Loo",
+          "link": "https://www.freecodecamp.org/news/loom-clone-next-javascript-mux/",
+          "publishedOn": "2026-03-02T20:14:31.000Z",
+          "wordCount": 1023,
+          "title": "Build a Loom Clone with Next.js 15 and Mux",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/eb0cef28-ed95-49f1-97d0-c66911848aa2.jpg"
+        },
+        {
+          "id": "69a5614ffc6453a5f17ca809",
+          "author": "Alex Tray",
+          "description": "Most teams are confident they can recover from a major outages until they actually have to. Backups exist, architectures are redundant and a recovery plan is documented somewhere, yet real incidents o",
+          "link": "https://www.freecodecamp.org/news/disaster-recovery-testing/",
+          "publishedOn": "2026-03-02T10:07:11.000Z",
+          "wordCount": 2288,
+          "title": "What is Disaster Recovery Testing? Explained with Practical Examples",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/57c1e51b-867c-444e-90f0-e6551284fe0a.png"
+        },
         {
           "id": "69a23fd4d4053a09f35c3d3e",
           "author": "Mark Mahoney",
@@ -401,16 +421,6 @@
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2362ab0d-419d-4add-8228-9788e5a58d0f.png"
         },
         {
-          "id": "699f5b70c9015c37f6bbd3e8",
-          "author": "Nikhil Adithyan",
-          "description": "In fintech or wealthtech products, people constantly need quick market context. They need to know why a particular stock moved, what changed recently, or what they should watch next. This usually beco",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-llm-market-copilot-mvp-with-langchain-apis-and-streamlit/",
-          "publishedOn": "2026-02-25T20:28:32.000Z",
-          "wordCount": 7905,
-          "title": "How to Build an LLM Market Copilot MVP with LangChain, APIs, and Streamlit",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/24b80a39-6649-4987-961c-ca4efb964b28.png"
-        },
-        {
           "id": "699f1d4e6049477bf67a9ad8",
           "author": "Orim Dominic Adah",
           "description": "A REST API documentation is a guide that explains how clients can make use of the REST APIs in an application. It details the available endpoints, how to send requests and what responses to expect. It",
@@ -429,16 +439,6 @@
           "wordCount": 3452,
           "title": "The AI Coding Loop: How to Guide AI With Rules and Tests",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/b757ebbf-c9e9-44ec-b92c-7a38a8616e68.png"
-        },
-        {
-          "id": "699e18191ddf529956e1951f",
-          "author": "Beau Carnes",
-          "description": "Stop treating Notion like a digital notebook and start using it as a high-level operating system. We just posted a massive Notion course on the freeCodeCamp.org YouTube channel. This course takes you",
-          "link": "https://www.freecodecamp.org/news/lean-notion-in-12-hours/",
-          "publishedOn": "2026-02-24T21:28:57.000Z",
-          "wordCount": 985,
-          "title": "Learn Notion in 12 Hours",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6ce96877-59d7-415e-99e0-f555367ad490.jpg"
         }
       ]
     },
@@ -495,12 +495,22 @@
       "siteUrl": "https://weblog.west-wind.com/",
       "articles": [
         {
+          "id": "5249291_202603022010",
+          "author": "Rick Strahl",
+          "description": "I wrote about how to get Azure Trusted Signing to work for my application signing tasks a while back and mentioned how frustrating that process was both on Azure as well as on the client for the actual signing process. Well, since then I'm happy to say that some additional tooling has come out from Microsoft that makes this process quite a bit easier and also the signing process considerably faster than my previous workflow.\nThis post is specifically about the client side of signing - the original post covers the Azure setup for your Azure Trusted Signing account and that hasn't changed much. In this post I'll discuss the new-ish dotnet sign tooling that now works officially with Azure Trusted Signing.\nThe documentation for the local client signing part of this process is still nearly non-…",
+          "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
+          "publishedOn": "2026-03-02T20:10:23.000Z",
+          "wordCount": 2347,
+          "title": "Azure Trusted Signing Revisited with Dotnet Sign",
+          "imageUrl": "https://weblog.west-wind.com/images/2026/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign/TrustedSigningBanner.jpg"
+        },
+        {
           "id": "5239628_202602262241",
           "author": "Rick Strahl",
           "description": "If you're using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\nFor signing code with trusted signing like this:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\n$args = @(\n    \"sign\", \"/v\", \"/debug\", \"/fd\", \"SHA256\",\n    \"/tr\", \"$timeServer\",\n    \"/td\", \"SHA256\",\n    \"/dlib\", \"$env:LOCALAPPDATA\\Microsoft\\MicrosoftTrustedSigningClientTools\\Azure.CodeSigning.Dlib.dll\",\n    \"/dmdf\", \".\\SignfileMetadata.json\"\n)\n# Add non-empty file arguments\nforeach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {\n    if (![string]::IsNullOrWhiteSpace($f)) {\n        $args += $f\n    }\n…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing",
           "publishedOn": "2026-02-26T22:41:03.000Z",
-          "wordCount": 1088,
+          "wordCount": 1084,
           "title": "Don't use the Microsoft Timestamp Server for Signing",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png"
         },
@@ -510,7 +520,7 @@
           "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
           "publishedOn": "2026-02-05T07:53:22.000Z",
-          "wordCount": 2429,
+          "wordCount": 2425,
           "title": "Reliably Refreshing the WebView2 Control",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
         }
@@ -522,12 +532,22 @@
       "siteUrl": "https://weblog.west-wind.com/",
       "articles": [
         {
+          "id": "5249291_202603022010",
+          "author": "Rick Strahl",
+          "description": "I wrote about how to get Azure Trusted Signing to work for my application signing tasks a while back and mentioned how frustrating that process was both on Azure as well as on the client for the actual signing process. Well, since then I'm happy to say that some additional tooling has come out from Microsoft that makes this process quite a bit easier and also the signing process considerably faster than my previous workflow.\nThis post is specifically about the client side of signing - the original post covers the Azure setup for your Azure Trusted Signing account and that hasn't changed much. In this post I'll discuss the new-ish dotnet sign tooling that now works officially with Azure Trusted Signing.\nThe documentation for the local client signing part of this process is still nearly non-…",
+          "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
+          "publishedOn": "2026-03-02T20:10:23.000Z",
+          "wordCount": 2351,
+          "title": "Azure Trusted Signing Revisited with Dotnet Sign",
+          "imageUrl": "https://weblog.west-wind.com/images/2026/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign/TrustedSigningBanner.jpg"
+        },
+        {
           "id": "5239628_202602262241",
           "author": "Rick Strahl",
           "description": "If you're using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\nFor signing code with trusted signing like this:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\n$args = @(\n    \"sign\", \"/v\", \"/debug\", \"/fd\", \"SHA256\",\n    \"/tr\", \"$timeServer\",\n    \"/td\", \"SHA256\",\n    \"/dlib\", \"$env:LOCALAPPDATA\\Microsoft\\MicrosoftTrustedSigningClientTools\\Azure.CodeSigning.Dlib.dll\",\n    \"/dmdf\", \".\\SignfileMetadata.json\"\n)\n# Add non-empty file arguments\nforeach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {\n    if (![string]::IsNullOrWhiteSpace($f)) {\n        $args += $f\n    }\n…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing",
           "publishedOn": "2026-02-26T22:41:03.000Z",
-          "wordCount": 1084,
+          "wordCount": 1088,
           "title": "Don't use the Microsoft Timestamp Server for Signing",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png"
         },
@@ -807,12 +827,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/03/02/dew-drop-march-2-2026-4615/",
+          "author": "Alvin A.",
+          "description": "Top Links How to Stream Live Data into .NET MAUI DataGrid Using Firebase (Shalini Suresh) From idea to pull request: A practical guide to building with GitHub Copilot CLI (Ari LiVigni) Ralph built a Cross-Platform app using Uno Platform whilst I slept. (Nick Randolph) Microsoft Foundry: An End-to-End Platform for Building, Governing, and Scaling AI … Continue reading Dew Drop – March 2, 2026 (#4615)",
+          "link": "https://www.alvinashcraft.com/2026/03/02/dew-drop-march-2-2026-4615/",
+          "publishedOn": "2026-03-02T12:21:39.000Z",
+          "wordCount": 2628,
+          "title": "Dew Drop – March 2, 2026 (#4615)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/02/27/dew-drop-february-27-2026-4614/",
           "author": "Alvin A.",
           "description": "Top Links Azure SDK Release (February 2026) (Ronnie Geraghty) Announcing Shader Model 6.9 Retail and New D3D12 Improvements (Amar Patel & Serena Tang) Copilot Tasks: From Answers to Actions (Copilot Team) VS Code: Building Long-Distance Next Edit Suggestions (Vikram Duvvur, Gaurav Mittal & Benjamin Simmonds) Announcing new Cloud PC devices designed for Windows 365 (Stefan … Continue reading Dew Drop – February 27, 2026 (#4614)",
           "link": "https://www.alvinashcraft.com/2026/02/27/dew-drop-february-27-2026-4614/",
           "publishedOn": "2026-02-27T12:02:10.000Z",
-          "wordCount": 2168,
+          "wordCount": 2179,
           "title": "Dew Drop – February 27, 2026 (#4614)",
           "imageUrl": null
         },
@@ -822,7 +852,7 @@
           "description": "Top Links Azure Developer CLI (azd) – February 2026: JMESPath Queries & Deployment Slots (PuiChee (PC) Chan) The Rise of The Claw with OpenClaw’s Peter Steinberger | Hanselminutes (Scott Hanselman) Codex 5.3 vs 5.2 for .NET Developers (Sam Basu) GitHub Copilot CLI is now generally available (GitHub Team) Microsoft Agent Framework for .NET 1.0.0 RC2 … Continue reading Dew Drop – February 26, 2026 (#4613)",
           "link": "https://www.alvinashcraft.com/2026/02/26/dew-drop-february-26-2026-4613/",
           "publishedOn": "2026-02-26T12:06:36.000Z",
-          "wordCount": 2113,
+          "wordCount": 2115,
           "title": "Dew Drop – February 26, 2026 (#4613)",
           "imageUrl": null
         },
@@ -832,7 +862,7 @@
           "description": "Top Links Visual Studio February Update (Mark Downie) New Azure Open AI models bring fast, expressive, and real‑time AI experiences in Microsoft Foundry (Naomi Moneypenny) Guardrails, Hard Cases, and Daily Habits for MCP Adoption (Matt Mattei) Flutter & Dart’s 2026 roadmap (Emma Twersky) The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s … Continue reading Dew Drop – February 25, 2026 (#4612)",
           "link": "https://www.alvinashcraft.com/2026/02/25/dew-drop-february-25-2026-4612/",
           "publishedOn": "2026-02-25T12:13:21.000Z",
-          "wordCount": 2240,
+          "wordCount": 2242,
           "title": "Dew Drop – February 25, 2026 (#4612)",
           "imageUrl": null
         },
@@ -842,7 +872,7 @@
           "description": "Top Links Accelerate Enterprise UI Development with Syncfusion MCP Servers (Lokeshwaran Ragavan) Run OpenClaw Securely in Docker Sandboxes (Jennifer Kohl) The simplest and fastest way to setup OpenClaw (Ollama Team) Technology & Friends – Rachel Appel on Dark Patterns (David Giard) The Token Police (Rob Conery) The TechBash 2026 Call for Speakers Is Open (TechBash … Continue reading Dew Drop – February 24, 2026 (#4611)",
           "link": "https://www.alvinashcraft.com/2026/02/24/dew-drop-february-24-2026-4611/",
           "publishedOn": "2026-02-24T12:11:23.000Z",
-          "wordCount": 2433,
+          "wordCount": 2435,
           "title": "Dew Drop – February 24, 2026 (#4611)",
           "imageUrl": null
         },
@@ -852,7 +882,7 @@
           "description": "Top Links .NET 11 Preview for .NET MAUI: Simplify XAML with Inline C# Expressions (Sri Radhesh Nag Subash Sankar) Integrating Microsoft Foundry with OpenClaw: Step by Step Model Configuration (suzarilshah) I used to be a Windows Developer….. and I still am (sort of) (Nick Randolph) Connect agents to OpenAPI tools | Microsoft Foundry (Microsoft Learn) … Continue reading Dew Drop – February 23, 2026 (#4610)",
           "link": "https://www.alvinashcraft.com/2026/02/23/dew-drop-february-23-2026-4610/",
           "publishedOn": "2026-02-23T12:28:29.000Z",
-          "wordCount": 2543,
+          "wordCount": 2545,
           "title": "Dew Drop – February 23, 2026 (#4610)",
           "imageUrl": null
         },
@@ -862,7 +892,7 @@
           "description": "Top Links Custom Agents in Visual Studio: Built in and Build-Your-Own agents (Rhea Patel & Kelly Fam) An easy agentic Workflow for Developing with Uno Platform MCPs (Matt Mattei) Gemini 3.1 Pro: A smarter model for your most complex tasks (Gemini Team) Microsoft Agent Framework Reaches Release Candidate (Shawn Henry) The Modern .NET Show – … Continue reading Dew Drop – February 20, 2026 (#4609)",
           "link": "https://www.alvinashcraft.com/2026/02/20/dew-drop-february-20-2026-4609/",
           "publishedOn": "2026-02-20T11:58:26.000Z",
-          "wordCount": 2220,
+          "wordCount": 2222,
           "title": "Dew Drop – February 20, 2026 (#4609)",
           "imageUrl": null
         },
@@ -872,7 +902,7 @@
           "description": "Top Links .NET Rocks! – Making Reliable Software in 2026 with Damien Brady (Carl Franklin & Richard Campbell) What to expect for open source in 2026 (Dylan Birtolo) Agentic Code Fixing with GitHub Copilot SDK and Foundry Local (Lee Stott) Azure reliability, resiliency, and recoverability: Build continuity by design (Mark Russinovich & Molina Sharma) Becoming … Continue reading Dew Drop – February 19, 2026 (#4608)",
           "link": "https://www.alvinashcraft.com/2026/02/19/dew-drop-february-19-2026-4608/",
           "publishedOn": "2026-02-19T11:54:14.000Z",
-          "wordCount": 1947,
+          "wordCount": 1949,
           "title": "Dew Drop – February 19, 2026 (#4608)",
           "imageUrl": null
         },
@@ -882,7 +912,7 @@
           "description": "Top Links Uno MCP vs App MCP: When to Use Each (Matt Mattei) Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale (Amar Badal) Making music with MIDI just got a real boost in Windows 11 (Pete Brown) XAML Source-Generation in .NET MAUI makes your app so much better (Daniel Hindrikes) JetBrains Editor Improvements: Smooth … Continue reading Dew Drop – February 18, 2026 (#4607)",
           "link": "https://www.alvinashcraft.com/2026/02/18/dew-drop-february-18-2026-4607/",
           "publishedOn": "2026-02-18T12:04:53.000Z",
-          "wordCount": 1996,
+          "wordCount": 1998,
           "title": "Dew Drop – February 18, 2026 (#4607)",
           "imageUrl": null
         },
@@ -892,7 +922,7 @@
           "description": "Top Links Technology & Friends – Rachel Appel on Retro AI and How Algorithms from the Commodore 64 Era Still Apply (David Giard) Uno Platform – Now With AI! | Visual Studio Toolbox (Robert Green, Sam Basu & Jerome Laban) Running NanoClaw in a Docker Shell Sandbox (Jennifer Kohl) JetBrains Rider Settings for Presentations (Joseph … Continue reading Dew Drop – February 17, 2026 (#4606)",
           "link": "https://www.alvinashcraft.com/2026/02/17/dew-drop-february-17-2026-4606/",
           "publishedOn": "2026-02-17T11:48:10.000Z",
-          "wordCount": 1818,
+          "wordCount": 1820,
           "title": "Dew Drop – February 17, 2026 (#4606)",
           "imageUrl": null
         },
@@ -902,7 +932,7 @@
           "description": "Top Links The First Beta of Android 17 (Matthew McCullough) Damian Brady: GitHub AI – Azure & DevOps Podcast Episode #389 (Jeffrey Palermo) Save the date! Aspire Conf (March 23rd) (Aspire Team) Exploring .NET 11 Preview 1 Runtime Async: A dive into the Future of Async in .NET (Laurent Kempe) Automate repository tasks with GitHub … Continue reading Dew Drop – February 16, 2026 (#4605)",
           "link": "https://www.alvinashcraft.com/2026/02/16/dew-drop-february-16-2026-4605/",
           "publishedOn": "2026-02-16T12:11:40.000Z",
-          "wordCount": 2529,
+          "wordCount": 2531,
           "title": "Dew Drop – February 16, 2026 (#4605)",
           "imageUrl": null
         },
@@ -912,18 +942,8 @@
           "description": "Top Links Why Your .NET MAUI Layout Breaks Across Devices and How to Fix It (Anandh Ganesan) AI Toolkit for VS Code — February 2026 Update (Junjie Li) Introducing GPT-5.3-Codex-Spark (OpenAI Team) Welcome to the Eternal September of open source. Here’s what we plan to do for maintainers. (Ashley Wolf) Microsoft Edge and Interop 2026 (Patrick Brosset) Azure … Continue reading Dew Drop – February 13, 2026 (#4604)",
           "link": "https://www.alvinashcraft.com/2026/02/13/dew-drop-february-13-2026-4604/",
           "publishedOn": "2026-02-13T12:00:26.000Z",
-          "wordCount": 2029,
+          "wordCount": 2031,
           "title": "Dew Drop – February 13, 2026 (#4604)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/02/12/dew-drop-february-12-2026-4603/",
-          "author": "Alvin A.",
-          "description": "Top Links Visual Studio: Unlock language-specific rich symbol context using new find_symbol tool (Sinem Akinci & Hannah Hong) Announcing TypeScript 6.0 Beta (Daniel Rosenwasser) Let Go, Let Claude (Rob Conery) Uno Platform February Release: Studio Productivity and Platform Improvements (Uno Platform Team) What’s new in Flutter 3.41 (Kevin Chisholm) GitHub Copilot Testing for .NET Brings … Continue reading Dew Drop – February 12, 2026 (#4603)",
-          "link": "https://www.alvinashcraft.com/2026/02/12/dew-drop-february-12-2026-4603/",
-          "publishedOn": "2026-02-12T12:02:53.000Z",
-          "wordCount": 2209,
-          "title": "Dew Drop – February 12, 2026 (#4603)",
           "imageUrl": null
         }
       ]
@@ -1122,7 +1142,7 @@
           "publishedOn": "2026-02-15T12:34:13.000Z",
           "wordCount": 4663,
           "title": "AI Features in SQL Server 2025",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1772073730"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1772419393"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=4060",
@@ -1152,18 +1172,7 @@
       "title": "Nate McMaster",
       "feedUrl": "https://natemcmaster.com/feed.xml",
       "siteUrl": "https://natemcmaster.com/",
-      "articles": [
-        {
-          "id": "https://natemcmaster.com/blog/2026/01/31/1password-is-still-worth-it/",
-          "author": null,
-          "description": "I let my 1Password Family subscription lapse for three months to give iCloud Passwords a real shot. Apple’s offering is free, built-in, and getting better. After three months, I went back to 1Password.",
-          "link": "https://natemcmaster.com/blog/2026/01/31/1password-is-still-worth-it/",
-          "publishedOn": "2026-01-31T08:00:00.000Z",
-          "wordCount": 723,
-          "title": "1Password is still worth it in 2026",
-          "imageUrl": "https://natemcmaster.com/assets/images/og/2026-01-31-1password-is-still-worth-it.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ASP.Net, C#, SQL, JQuery, Sharepoint",
@@ -1182,6 +1191,16 @@
       "feedUrl": "https://www.strathweb.com/posts/index.xml",
       "siteUrl": "https://www.strathweb.com/posts/",
       "articles": [
+        {
+          "id": "https://www.strathweb.com/2026/03/pure-post-quantum-cryptography-tls-with-asp-net-core/",
+          "author": null,
+          "description": "Over the last few years, I have dedicated a lot of space on this blog to the topic of Post-Quantum Cryptography (PQC). Today, we will peek into the TLS 1.3 handshake.\nWhile hybrid mode TLS is the pragmatic choice for today’s internet, understanding how to construct a fully quantum-safe connection is critical for preparing for the deprecation of classical algorithms.\nIn this post, we are going to explore a “pure” PQC TLS stack: Post-Quantum Key Exchange, with Post-Quantum Authentication. We will configure an ASP.NET Core application running on Linux to use ML-DSA-65 for authentication and ML-KEM-768 for key exchange.",
+          "link": "https://www.strathweb.com/2026/03/pure-post-quantum-cryptography-tls-with-asp-net-core/",
+          "publishedOn": "2026-03-02T07:06:14.000Z",
+          "wordCount": 1956,
+          "title": "Pure Post Quantum Cryptography TLS with ASP.NET Core",
+          "imageUrl": null
+        },
         {
           "id": "https://www.strathweb.com/2026/02/fine-tuning-phi-4-with-azure-ml/",
           "author": null,
