@@ -17,7 +17,7 @@
           "description": "Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.\nPopover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/",
           "publishedOn": "2026-03-02T15:10:07.000Z",
-          "wordCount": 2411,
+          "wordCount": 2442,
           "title": "Popover API or Dialog API: Which to Choose?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         },
@@ -219,7 +219,7 @@
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5649,
+          "wordCount": 5647,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -234,7 +234,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4420,
+          "wordCount": 4414,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -249,7 +249,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4075,
+          "wordCount": 4058,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -279,7 +279,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6733,
+          "wordCount": 6718,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -294,7 +294,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6335,
+          "wordCount": 6343,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -309,7 +309,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6499,
+          "wordCount": 6491,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -324,7 +324,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4510,
+          "wordCount": 4507,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -355,6 +355,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69a849e9e55311e40f03f00e",
+          "author": "Mayur Vekariya",
+          "description": "The Model Context Protocol (MCP) is changing how AI applications connect to external tools and data. While some tutorials stop at \"connect to GitHub\" or \"read a file,\" the real power of MCP is unlocki",
+          "link": "https://www.freecodecamp.org/news/how-to-build-mcp-servers-for-your-internal-data/",
+          "publishedOn": "2026-03-04T15:04:09.000Z",
+          "wordCount": 5989,
+          "title": "How to Build MCP Servers for Your Internal Data",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2e428238-cbc3-4892-97df-c1dd854c74c3.png"
+        },
         {
           "id": "69a6fdc756428acc6ff16dd8",
           "author": "Abdul Talha",
@@ -398,7 +408,7 @@
         {
           "id": "69a5614ffc6453a5f17ca809",
           "author": "Alex Tray",
-          "description": "Most teams are confident they can recover from a major outages until they actually have to. Backups exist, architectures are redundant and a recovery plan is documented somewhere, yet real incidents o",
+          "description": "Most teams are confident they can recover from a major outage until they actually have to. Backups exist, architectures are redundant and a recovery plan is documented somewhere, yet real incidents of",
           "link": "https://www.freecodecamp.org/news/disaster-recovery-testing/",
           "publishedOn": "2026-03-02T10:07:11.000Z",
           "wordCount": 2288,
@@ -444,16 +454,6 @@
           "wordCount": 1048,
           "title": "Learn Python and Build Autonomous Agents",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/3883540d-6097-459f-a4c5-83587aa33c8c.jpg"
-        },
-        {
-          "id": "69a06148ab6baac8ff198f13",
-          "author": "Beau Carnes",
-          "description": "Stop memorizing isolated commands and start building like a platform engineer. We just posted comprehensive Kubernetes course on the freeCodeCamp.org YouTube channel. This hands-on course is designed",
-          "link": "https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/",
-          "publishedOn": "2026-02-26T15:05:44.000Z",
-          "wordCount": 1001,
-          "title": "Master Kubernetes Through Production-Ready Practice",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/b1d63be6-f5d9-4ddc-8afc-4455c2ed95ee.jpg"
         }
       ]
     },
@@ -515,7 +515,7 @@
           "description": "I wrote about how to get Azure Trusted Signing to work for my application signing tasks a while back and mentioned how frustrating that process was both on Azure as well as on the client for the actual signing process. Well, since then I'm happy to say that some additional tooling has come out from Microsoft that makes this process quite a bit easier and also the signing process considerably faster than my previous workflow.\nThis post is specifically about the client side of signing - the original post covers both the Azure setup for your Azure Trusted Signing account and that hasn't changed much as well as the old SignTool based workflow which was a pain in the ass. In this post I'll discuss the new-ish dotnet sign tooling that now works officially with Azure Trusted Signing and is a lot …",
           "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
           "publishedOn": "2026-03-02T20:10:23.000Z",
-          "wordCount": 2440,
+          "wordCount": 2444,
           "title": "Azure Trusted Signing Revisited with Dotnet Sign",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign/TrustedSigningBanner.jpg"
         },
@@ -525,7 +525,7 @@
           "description": "If you're using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\nFor signing code with trusted signing like this:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\n$args = @(\n    \"sign\", \"/v\", \"/debug\", \"/fd\", \"SHA256\",\n    \"/tr\", \"$timeServer\",\n    \"/td\", \"SHA256\",\n    \"/dlib\", \"$env:LOCALAPPDATA\\Microsoft\\MicrosoftTrustedSigningClientTools\\Azure.CodeSigning.Dlib.dll\",\n    \"/dmdf\", \".\\SignfileMetadata.json\"\n)\n# Add non-empty file arguments\nforeach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {\n    if (![string]::IsNullOrWhiteSpace($f)) {\n        $args += $f\n    }\n…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing",
           "publishedOn": "2026-02-26T22:41:03.000Z",
-          "wordCount": 1088,
+          "wordCount": 1090,
           "title": "Don't use the Microsoft Timestamp Server for Signing",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png"
         },
@@ -552,7 +552,7 @@
           "description": "I wrote about how to get Azure Trusted Signing to work for my application signing tasks a while back and mentioned how frustrating that process was both on Azure as well as on the client for the actual signing process. Well, since then I'm happy to say that some additional tooling has come out from Microsoft that makes this process quite a bit easier and also the signing process considerably faster than my previous workflow.\nThis post is specifically about the client side of signing - the original post covers both the Azure setup for your Azure Trusted Signing account and that hasn't changed much as well as the old SignTool based workflow which was a pain in the ass. In this post I'll discuss the new-ish dotnet sign tooling that now works officially with Azure Trusted Signing and is a lot …",
           "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
           "publishedOn": "2026-03-02T20:10:23.000Z",
-          "wordCount": 2440,
+          "wordCount": 2444,
           "title": "Azure Trusted Signing Revisited with Dotnet Sign",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign/TrustedSigningBanner.jpg"
         },
@@ -562,7 +562,7 @@
           "description": "If you're using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\nFor signing code with trusted signing like this:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\n$args = @(\n    \"sign\", \"/v\", \"/debug\", \"/fd\", \"SHA256\",\n    \"/tr\", \"$timeServer\",\n    \"/td\", \"SHA256\",\n    \"/dlib\", \"$env:LOCALAPPDATA\\Microsoft\\MicrosoftTrustedSigningClientTools\\Azure.CodeSigning.Dlib.dll\",\n    \"/dmdf\", \".\\SignfileMetadata.json\"\n)\n# Add non-empty file arguments\nforeach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {\n    if (![string]::IsNullOrWhiteSpace($f)) {\n        $args += $f\n    }\n…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing",
           "publishedOn": "2026-02-26T22:41:03.000Z",
-          "wordCount": 1088,
+          "wordCount": 1090,
           "title": "Don't use the Microsoft Timestamp Server for Signing",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png"
         },
@@ -583,6 +583,16 @@
       "feedUrl": "https://dotnettips.wordpress.com/feed/",
       "siteUrl": "https://dotnettips.wordpress.com",
       "articles": [
+        {
+          "id": "http://dotnettips.wordpress.com/?p=17081",
+          "author": "David (dotNetDave) McCarter",
+          "description": "Effective software projects require thorough planning and architecture before coding begins. Skipping these steps often leads to costly mistakes, delays, and technical debt. A strong foundation improves system maintainability and user satisfaction. Managers should focus on results over constant activity; proper planning enhances delivery speed and quality, fostering happier users.",
+          "link": "https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/",
+          "publishedOn": "2026-03-04T07:00:00.000Z",
+          "wordCount": null,
+          "title": "dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays",
+          "imageUrl": null
+        },
         {
           "id": "http://dotnettips.wordpress.com/?p=16474",
           "author": "David (dotNetDave) McCarter",
@@ -820,9 +830,9 @@
           "description": "If you’re anything like me, you’ve probably spent a Friday afternoon trying to remember everything you did that week. Maybe it’s for a…",
           "link": "https://www.sahansera.dev/introducing-gh-weekly-updates/",
           "publishedOn": "2026-02-22T00:00:00.000Z",
-          "wordCount": 1025,
+          "wordCount": null,
           "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
-          "imageUrl": "https://www.sahansera.dev/static/7efde64ef8c2163a170b28d74b46347d/9dc27/introducing-gh-weekly-updates.jpg"
+          "imageUrl": null
         }
       ]
     },
@@ -832,12 +842,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/03/04/dew-drop-march-4-2026-4617/",
+          "author": "Alvin A.",
+          "description": "Top Links GPT-5.3 Instant: Smoother, more useful everyday conversations (OpenAI Team) Coffee and Open Source Conversation – Jeffrey Snover (Isaac Levin) Introducing GPT-5.3 Chat in Microsoft Foundry: A more grounded way to chat at enterprise scale and Unlocking document understanding with Mistral Document AI in Microsoft Foundry (Naomi Moneypenny) Go from prompt to working prototype with … Continue reading Dew Drop – March 4, 2026 (#4617)",
+          "link": "https://www.alvinashcraft.com/2026/03/04/dew-drop-march-4-2026-4617/",
+          "publishedOn": "2026-03-04T11:51:31.000Z",
+          "wordCount": 1929,
+          "title": "Dew Drop – March 4, 2026 (#4617)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/03/03/dew-drop-march-3-2026-4616/",
           "author": "Alvin A.",
           "description": "Top Links Windows App Development CLI v0.2: .NET support, manifest placeholders, “winapp store” and more! (Nikola Metulev) .NET 10: Secondary Toolbar Items for iOS and macOS in .NET MAUI (Leomaris Reyes) The JavaScript AI Build-a-thon Season 2 starts today! (Julia Muiruri) Give Your Agents Domain Expertise with Agent Skills in Microsoft Agent Framework (Sergey Menshykh) … Continue reading Dew Drop – March 3, 2026 (#4616)",
           "link": "https://www.alvinashcraft.com/2026/03/03/dew-drop-march-3-2026-4616/",
           "publishedOn": "2026-03-03T12:05:16.000Z",
-          "wordCount": 2086,
+          "wordCount": 2095,
           "title": "Dew Drop – March 3, 2026 (#4616)",
           "imageUrl": null
         },
@@ -940,16 +960,6 @@
           "wordCount": 1820,
           "title": "Dew Drop – February 17, 2026 (#4606)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/02/16/dew-drop-february-16-2026-4605/",
-          "author": "Alvin A.",
-          "description": "Top Links The First Beta of Android 17 (Matthew McCullough) Damian Brady: GitHub AI – Azure & DevOps Podcast Episode #389 (Jeffrey Palermo) Save the date! Aspire Conf (March 23rd) (Aspire Team) Exploring .NET 11 Preview 1 Runtime Async: A dive into the Future of Async in .NET (Laurent Kempe) Automate repository tasks with GitHub … Continue reading Dew Drop – February 16, 2026 (#4605)",
-          "link": "https://www.alvinashcraft.com/2026/02/16/dew-drop-february-16-2026-4605/",
-          "publishedOn": "2026-02-16T12:11:40.000Z",
-          "wordCount": 2531,
-          "title": "Dew Drop – February 16, 2026 (#4605)",
-          "imageUrl": null
         }
       ]
     },
@@ -1005,16 +1015,6 @@
           "wordCount": 4396,
           "title": "Sending messages to Azure Service Bus from Azure API Management",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh6uf8X_WbWyditLskL8Az3-Yue_Ta63nwuGO39WafykaUVmZXJyfZy8THxbOUzMhzcfxSdHRrR0x42h6_lzyMIlEL75uI3sDzGiXtVLDXxhRWPwa6Jn8tmsn_Jzu7f2L8U9Kul0YhRUKegVOsYfPFX58TDcFcTk2NrVgj8DVmaAlzUMyJqFN5UsdYvzZM=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://jaliyaudagedara.blogspot.com/2026/02/net-isolated-azure-functions-dependency.html",
-          "author": null,
-          "description": "In this post, let's have a look at how we can use Dependency Injection (DI)\n  with Azure Durable Entities in .NET 10 Isolated Durable Functions.&nbsp;\n\n\n\n  Say we have the following service.\n\n\n  public interface ISomeService\n{\n    Task DoSomething();\n}\n\npublic class SomeService : ISomeService\n{\n    public async Task DoSomething()\n    {\n        await Task.Delay(1000);\n    }\n}\n\nAnd in Program.cs",
-          "link": "https://jaliyaudagedara.blogspot.com/2026/02/net-isolated-azure-functions-dependency.html",
-          "publishedOn": "2026-02-02T10:40:00.001Z",
-          "wordCount": 4571,
-          "title": ".NET Isolated Azure Functions: Dependency Injection in Durable Entities",
-          "imageUrl": null
         }
       ]
     },
@@ -1145,9 +1145,9 @@
           "description": "SQL Server 2025 brings practical AI building blocks directly into the database engine: the VECTOR data type, vector indexing, ANN-powered similarity search, and T-SQL functions for embeddings and chunking.",
           "link": "https://dotnetstories.wordpress.com/2026/02/15/ai-features-in-sql-server-2025/",
           "publishedOn": "2026-02-15T12:34:13.000Z",
-          "wordCount": 4663,
+          "wordCount": 4664,
           "title": "AI Features in SQL Server 2025",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1772505974"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1772591935"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=4060",
@@ -1155,7 +1155,7 @@
           "description": "Copilot inside SSMS is a client feature, not a hosted brain. To function, it must connect to an Azure OpenAI resource in your Azure subscription, using two mandatory pieces of configuration: the resource endpoint and a model deployment name.",
           "link": "https://dotnetstories.wordpress.com/2026/02/15/from-ssms-to-azure-openai-how-copilot-actually-works/",
           "publishedOn": "2026-02-15T12:31:42.000Z",
-          "wordCount": 4850,
+          "wordCount": 4608,
           "title": "From SSMS to Azure OpenAI: How Copilot Actually Works",
           "imageUrl": "https://dotnetstories.wordpress.com/wp-content/uploads/2026/02/copilot-azure-1.png"
         }
