@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=392257",
+          "author": "Daniel Schwarz",
+          "description": "Sure, we can select the <html> element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it?\nThe Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-different-ways-to-select-html-in-css/",
+          "publishedOn": "2026-03-05T14:01:04.000Z",
+          "wordCount": 2504,
+          "title": "The Different Ways to Select <html> in CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/02/css-block-html.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=388435",
           "author": "Zell Liew",
           "description": "Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.\nPopover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/",
           "publishedOn": "2026-03-02T15:10:07.000Z",
-          "wordCount": 2442,
+          "wordCount": 3454,
           "title": "Popover API or Dialog API: Which to Choose?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         },
@@ -27,7 +37,7 @@
           "description": "Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!\nWhat’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-6/",
           "publishedOn": "2026-02-27T16:30:22.000Z",
-          "wordCount": 2144,
+          "wordCount": 3156,
           "title": "What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/border-shape.mp4",
@@ -42,7 +52,7 @@
           "description": "TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!\nYet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/yet-another-way-to-center-an-absolute-element/",
           "publishedOn": "2026-02-27T14:40:42.000Z",
-          "wordCount": 1783,
+          "wordCount": 2795,
           "title": "Yet Another Way to Center an (Absolute) Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2014/09/guide-centering.png"
         },
@@ -52,7 +62,7 @@
           "description": "Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a \"CSS exploit\" that \"allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.\"\nAn Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/an-exploit-in-css/",
           "publishedOn": "2026-02-25T21:31:39.000Z",
-          "wordCount": 2777,
+          "wordCount": 3789,
           "title": "An Exploit … in CSS?!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/code-magnify.png"
         },
@@ -62,7 +72,7 @@
           "description": "Browsers don't just let you bookmark web pages. You can also bookmark JavaScript, allowing you to do so much more than merely save pages.\nA Complete Guide to Bookmarklets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-complete-guide-to-bookmarklets/",
           "publishedOn": "2026-02-25T14:50:58.000Z",
-          "wordCount": 2674,
+          "wordCount": 3686,
           "title": "A Complete Guide to Bookmarklets",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/02/bookmarklets.png"
         },
@@ -72,7 +82,7 @@
           "description": "Let’s get nuanced in this article and discuss the capabilities of both SVG and raster imaged so that you can make informed decisions in your own work.\nLoading Smarter: SVG vs. Raster Loaders in Modern Web Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/loading-smarter-svg-vs-raster-loaders-in-modern-web-design/",
           "publishedOn": "2026-02-23T14:18:16.000Z",
-          "wordCount": 2665,
+          "wordCount": 3718,
           "title": "Loading Smarter: SVG vs. Raster Loaders in Modern Web Design",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/raster-vs-vector.jpg"
         },
@@ -82,7 +92,7 @@
           "description": "Danny has several ideas for how we could use :near(), a proposed pseudo-class that detects when the pointer is near an element. \nPotentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/potentially-coming-to-a-browser-near-you/",
           "publishedOn": "2026-02-20T15:36:55.000Z",
-          "wordCount": 2813,
+          "wordCount": 3817,
           "title": "Potentially Coming to a Browser :near() You",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/Screen-Recording-2026-02-06-at-8.58.26-AM.mov",
@@ -97,7 +107,7 @@
           "description": "The distinction between \"components\" and \"utilities\" seems clear at first glance, but gets a little blurred when working with them in Tailwind.\nDistinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/",
           "publishedOn": "2026-02-18T16:21:41.000Z",
-          "wordCount": 1786,
+          "wordCount": 2790,
           "title": "Distinguishing “Components” and “Utilities” in Tailwind",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
         },
@@ -107,7 +117,7 @@
           "description": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.\nSpiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
           "publishedOn": "2026-02-17T15:17:25.000Z",
-          "wordCount": 2077,
+          "wordCount": 3081,
           "title": "Spiral Scrollytelling in CSS With sibling-index()",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-9.37.52-AM.mov",
@@ -122,7 +132,7 @@
           "description": "Interop 2026 is officially a thing and there's plenty of new (and even old) CSS features that we can look forward to being cross-browser compatible and consistent!\nInterop 2026 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/interop-2026/",
           "publishedOn": "2026-02-17T14:17:30.000Z",
-          "wordCount": 2909,
+          "wordCount": 3913,
           "title": "Interop 2026",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/interop-2026.webp"
         },
@@ -132,7 +142,7 @@
           "description": "This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.\nWhat’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-5/",
           "publishedOn": "2026-02-13T15:19:57.000Z",
-          "wordCount": 1584,
+          "wordCount": 2588,
           "title": "What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/time-layout.mp4",
@@ -147,7 +157,7 @@
           "description": "This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.\nMaking a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/",
           "publishedOn": "2026-02-12T14:57:36.000Z",
-          "wordCount": 3663,
+          "wordCount": 4667,
           "title": "Making a Responsive Pyramidal Grid With Modern CSS",
           "enclosure": {
             "url": "http://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-8.44.39-AM.mov",
@@ -162,7 +172,7 @@
           "description": "The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS features?\nApproximating contrast-color() With Other CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/approximating-contrast-color-with-other-css-features/",
           "publishedOn": "2026-02-11T15:01:09.000Z",
-          "wordCount": 2572,
+          "wordCount": 3584,
           "title": "Approximating contrast-color() With Other CSS Features",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/apca-wcg-color-contrast.png"
         },
@@ -172,7 +182,7 @@
           "description": "Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it.\nTrying to Make the Perfect Pie Chart in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/",
           "publishedOn": "2026-02-09T17:34:56.000Z",
-          "wordCount": 4440,
+          "wordCount": 5452,
           "title": "Trying to Make the Perfect Pie Chart in CSS",
           "enclosure": {
             "url": "https://res.cloudinary.com/ddzynrhrx/video/upload/v1769282762/audio_nvda_tejgbi.mp4",
@@ -180,16 +190,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391781",
-          "author": "Preethi",
-          "description": "CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?\nCSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-bar-charts-using-modern-functions/",
-          "publishedOn": "2026-02-05T15:13:14.000Z",
-          "wordCount": 1708,
-          "title": "CSS Bar Charts Using Modern Functions",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/bar-chart-horizontal.webp"
         }
       ]
     },
@@ -219,7 +219,7 @@
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5647,
+          "wordCount": 5645,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -234,7 +234,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4414,
+          "wordCount": 4520,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -249,7 +249,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4058,
+          "wordCount": 4063,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -264,7 +264,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4402,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -279,7 +279,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6718,
+          "wordCount": 6729,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -294,7 +294,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6343,
+          "wordCount": 6338,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -309,7 +309,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6491,
+          "wordCount": 6503,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -324,7 +324,7 @@
           "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` rule finally give developers the confidence to write CSS that can keep up with modern front ends?",
           "link": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
           "publishedOn": "2026-02-05T08:00:00.000Z",
-          "wordCount": 4507,
+          "wordCount": 4509,
           "title": "CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg",
@@ -332,21 +332,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-scope-alternative-naming-conventions/css-scope-alternative-naming-conventions.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Combobox vs. Multi-Select vs. Listbox vs. Dual Listbox? How they are different, what purpose they serve, and how to choose the right one. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/",
-          "publishedOn": "2026-02-03T10:00:00.000Z",
-          "wordCount": 3616,
-          "title": "Combobox vs. Multiselect vs. Listbox: How To Choose The Right One",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/combobox-vs-multiselect-vs-listbox/combobox-vs-multiselect-vs-listbox.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/combobox-vs-multiselect-vs-listbox/combobox-vs-multiselect-vs-listbox.jpg"
         }
       ]
     },
@@ -355,6 +340,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69a99b623728a9dc358a5d85",
+          "author": "Manoj Aggarwal",
+          "description": "Whenever engineers are building AI-powered applications, use of sensitive data is always a top priority. You don't want to send users' data to an external API that you don't control. For me, this happ",
+          "link": "https://www.freecodecamp.org/news/protect-sensitive-data-with-local-llms/",
+          "publishedOn": "2026-03-05T15:04:02.000Z",
+          "wordCount": 2793,
+          "title": "How to Protect Sensitive Data by Running LLMs Locally with Ollama",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/f332e2f1-1bb5-450c-ae4a-d2ca4c6b2fe2.png"
+        },
+        {
+          "id": "69a999073728a9dc358915c1",
+          "author": "Beau Carnes",
+          "description": "As the industry standard for managing the machine learning life cycle, MLflow provides the necessary architecture to build systems that are both reproducible and scalable. We just posted a course on t",
+          "link": "https://www.freecodecamp.org/news/learn-mlops-with-mlflow-and-databricks/",
+          "publishedOn": "2026-03-05T14:53:59.000Z",
+          "wordCount": 1029,
+          "title": "Learn MLOps with MLflow and Databricks",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/8f3332fe-2f88-451d-9c2c-7ac8e08f0286.jpg"
+        },
+        {
+          "id": "69a997d53728a9dc358880a3",
+          "author": "Beau Carnes",
+          "description": "The NCA-AIIO certification is an entry-level credential that validates the foundational concepts of AI computing related to infrastructure and operations. We just posted a course on the freeCodeCamp.o",
+          "link": "https://www.freecodecamp.org/news/pass-the-nvidia-certified-associate-ai-infrastructure-and-operations-certification-exam/",
+          "publishedOn": "2026-03-05T14:48:53.000Z",
+          "wordCount": 944,
+          "title": "Pass the NVIDIA-Certified Associate AI Infrastructure and Operations Certification Exam",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7a3d245c-6e2d-4b01-99e2-0415e1b4c2a8.jpg"
+        },
         {
           "id": "69a849e9e55311e40f03f00e",
           "author": "Mayur Vekariya",
@@ -424,36 +439,6 @@
           "wordCount": 2365,
           "title": "Storyteller: A Medium For Guiding Others Through Code",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/902c2299-ea98-4136-8ee8-36668f0c08ee.png"
-        },
-        {
-          "id": "69a1f073d4053a09f3430559",
-          "author": "Ayodele Aransiola",
-          "description": "Imagine this situation: A user logs in successfully to your application, but upon loading their dashboard, they see someone else’s data. Why does this happen? The authentication worked, the session is",
-          "link": "https://www.freecodecamp.org/news/prevent-idor-in-nextjs/",
-          "publishedOn": "2026-02-27T19:28:51.000Z",
-          "wordCount": 2432,
-          "title": "How to Prevent IDOR Vulnerabilities in Next.js API Routes",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/b14a67ea-e78b-4ebd-996f-98da3a0a8027.png"
-        },
-        {
-          "id": "69a18785eec1fe1afcfa2751",
-          "author": "Beau Carnes",
-          "description": "Today Quincy Larson interviews Carl Brown, who runs the Internet of Bugs YouTube channel and has worked as a dev at Amazon, IBM, Sun Microsystems, and startups for over 37 years. We talk about: The h",
-          "link": "https://www.freecodecamp.org/news/the-ultimate-dev-skill-is-integration-testing-podcast-interview-with-internet-of-bugs-podcast-209/",
-          "publishedOn": "2026-02-27T12:00:00.000Z",
-          "wordCount": 1540,
-          "title": "The ultimate dev skill is Integration Testing – Podcast interview with Internet of Bugs [Podcast #209]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/747ec9c6-a776-425b-a95f-02023b755df6.jpg"
-        },
-        {
-          "id": "69a062cfab6baac8ff1a081d",
-          "author": "Beau Carnes",
-          "description": "The future of software is code that reasons. We just posted a new course on the freeCodeCamp.org YouTube channel designed to take you from Python fundamentals to AI Agent development. This course is a",
-          "link": "https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/",
-          "publishedOn": "2026-02-26T15:12:15.000Z",
-          "wordCount": 1048,
-          "title": "Learn Python and Build Autonomous Agents",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/3883540d-6097-459f-a4c5-83587aa33c8c.jpg"
         }
       ]
     },
@@ -491,16 +476,6 @@
           "wordCount": 552,
           "title": "Things That Caught My Attention Last Week - February 8",
           "imageUrl": null
-        },
-        {
-          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-february-1",
-          "author": null,
-          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
-          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-february-1",
-          "publishedOn": "2026-02-03T00:00:00.000Z",
-          "wordCount": 493,
-          "title": "Things That Caught My Attention Last Week - February 1",
-          "imageUrl": null
         }
       ]
     },
@@ -515,7 +490,7 @@
           "description": "I wrote about how to get Azure Trusted Signing to work for my application signing tasks a while back and mentioned how frustrating that process was both on Azure as well as on the client for the actual signing process. Well, since then I'm happy to say that some additional tooling has come out from Microsoft that makes this process quite a bit easier and also the signing process considerably faster than my previous workflow.\nThis post is specifically about the client side of signing - the original post covers both the Azure setup for your Azure Trusted Signing account and that hasn't changed much as well as the old SignTool based workflow which was a pain in the ass. In this post I'll discuss the new-ish dotnet sign tooling that now works officially with Azure Trusted Signing and is a lot …",
           "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
           "publishedOn": "2026-03-02T20:10:23.000Z",
-          "wordCount": 2444,
+          "wordCount": 2440,
           "title": "Azure Trusted Signing Revisited with Dotnet Sign",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign/TrustedSigningBanner.jpg"
         },
@@ -525,7 +500,7 @@
           "description": "If you're using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\nFor signing code with trusted signing like this:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\n$args = @(\n    \"sign\", \"/v\", \"/debug\", \"/fd\", \"SHA256\",\n    \"/tr\", \"$timeServer\",\n    \"/td\", \"SHA256\",\n    \"/dlib\", \"$env:LOCALAPPDATA\\Microsoft\\MicrosoftTrustedSigningClientTools\\Azure.CodeSigning.Dlib.dll\",\n    \"/dmdf\", \".\\SignfileMetadata.json\"\n)\n# Add non-empty file arguments\nforeach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {\n    if (![string]::IsNullOrWhiteSpace($f)) {\n        $args += $f\n    }\n…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing",
           "publishedOn": "2026-02-26T22:41:03.000Z",
-          "wordCount": 1090,
+          "wordCount": 1096,
           "title": "Don't use the Microsoft Timestamp Server for Signing",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png"
         },
@@ -552,7 +527,7 @@
           "description": "I wrote about how to get Azure Trusted Signing to work for my application signing tasks a while back and mentioned how frustrating that process was both on Azure as well as on the client for the actual signing process. Well, since then I'm happy to say that some additional tooling has come out from Microsoft that makes this process quite a bit easier and also the signing process considerably faster than my previous workflow.\nThis post is specifically about the client side of signing - the original post covers both the Azure setup for your Azure Trusted Signing account and that hasn't changed much as well as the old SignTool based workflow which was a pain in the ass. In this post I'll discuss the new-ish dotnet sign tooling that now works officially with Azure Trusted Signing and is a lot …",
           "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
           "publishedOn": "2026-03-02T20:10:23.000Z",
-          "wordCount": 2444,
+          "wordCount": 2440,
           "title": "Azure Trusted Signing Revisited with Dotnet Sign",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign/TrustedSigningBanner.jpg"
         },
@@ -562,7 +537,7 @@
           "description": "If you're using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\nFor signing code with trusted signing like this:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\n$args = @(\n    \"sign\", \"/v\", \"/debug\", \"/fd\", \"SHA256\",\n    \"/tr\", \"$timeServer\",\n    \"/td\", \"SHA256\",\n    \"/dlib\", \"$env:LOCALAPPDATA\\Microsoft\\MicrosoftTrustedSigningClientTools\\Azure.CodeSigning.Dlib.dll\",\n    \"/dmdf\", \".\\SignfileMetadata.json\"\n)\n# Add non-empty file arguments\nforeach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {\n    if (![string]::IsNullOrWhiteSpace($f)) {\n        $args += $f\n    }\n…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing",
           "publishedOn": "2026-02-26T22:41:03.000Z",
-          "wordCount": 1090,
+          "wordCount": 1096,
           "title": "Don't use the Microsoft Timestamp Server for Signing",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png"
         },
@@ -572,7 +547,7 @@
           "description": "It seems like such a simple thing: Reloading Web Browser content when a page is already active. Just reload, right! But... it's never quite so simple. There is soft reload and hard reload,  and it turns out the WebView2 control does not expose the underlying browser APIs in the same way you might be used to by your browser or DOM APIs. While there's Reload() functionality, there's no direct support for a hard reload that also reloads related resources like images, overriding local and server cache settings.\nSpecifically the WebView2 control has a CoreWebView2.Reload() method, but it lacks a noCache parameter to completely reload content of the page and all of its dependencies.\n\n\n\nWhy Hard Refreshes matter\nRefreshing content is a common thing that you do in any Web application, but in local…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
           "publishedOn": "2026-02-05T07:53:22.000Z",
-          "wordCount": 2425,
+          "wordCount": 2429,
           "title": "Reliably Refreshing the WebView2 Control",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Reliably-Refreshing-the-WebView2-Control/WebViewRefreshBanner.jpg"
         }
@@ -589,9 +564,9 @@
           "description": "Effective software projects require thorough planning and architecture before coding begins. Skipping these steps often leads to costly mistakes, delays, and technical debt. A strong foundation improves system maintainability and user satisfaction. Managers should focus on results over constant activity; proper planning enhances delivery speed and quality, fostering happier users.",
           "link": "https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/",
           "publishedOn": "2026-03-04T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5763,
           "title": "dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/02/dotnetdave-dotnetdave-says-dotnetdave-says-rushing-into-coding-2072.jpg?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16474",
@@ -599,9 +574,9 @@
           "description": "The author critically reviews the AWS SDK for .NET, revealing alarming code quality issues, including 959,815 total violations and severe design flaws leading to potential memory leaks and resource management problems. Despite its popularity, the SDK presents significant risks for .NET developers, highlighting the importance of thorough assessment of open-source packages.",
           "link": "https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/",
           "publishedOn": "2026-03-01T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6365,
           "title": "Inside the AWS SDK for .NET: A Code Quality Wake-Up Call",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20260117_0900_image-generation_simple_compose_01kf67gr97fz5854cq5a3qkdr3.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16970",
@@ -609,9 +584,9 @@
           "description": "The excerpt highlights two recruiting approaches: strategic, quality-driven methods and the ineffective flypaper method, which focuses on quantity over candidate suitability. The latter can harm candidates' reputations and trust with hiring managers. It emphasizes the importance of working with skilled recruiters who prioritize meaningful engagement and proper preparation for roles.",
           "link": "https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/",
           "publishedOn": "2026-02-25T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4377,
           "title": "Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/02/20260218_1231_image-generation_simple_compose_01khs0ahczfmqrny45wsh0pg78-1.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16397",
@@ -619,9 +594,9 @@
           "description": "The article highlights the disappointing state of user experience in air travel, focusing on unreliable software, poor connectivity, and frustrating airline apps. Despite expectations for improvement, airline systems remain outdated and inefficient, causing significant discomfort and dissatisfaction for travelers. The author urges airlines to prioritize user experience as essential.",
           "link": "https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/",
           "publishedOn": "2026-02-22T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6025,
           "title": "UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20250425_1043_giant-bug-warning_simple_compose_01jspstqrsf0088b6mgvd6xdcn-222100.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16981",
@@ -629,9 +604,9 @@
           "description": "The author emphasizes the utility of CodeRush by DevExpress for refactoring, particularly its feature for embedding images in source code. Using Mermaid's flow diagrams, the author illustrates complex methods visually, enhancing code comprehension. Despite limitations in image handling, the combination of Mermaid and CodeRush promotes clear, maintainable code effectively.",
           "link": "https://dotnettips.wordpress.com/2026/02/20/making-code-easier-to-understand-with-mermaid-diagrams-and-coderush/",
           "publishedOn": "2026-02-20T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6238,
           "title": "Making Code Easier to Understand with Mermaid Diagrams and CodeRush",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/02/20260219_1129_image-generation_remix_01khvf4adqf9ab12djgs7vvrsk.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16393",
@@ -639,9 +614,9 @@
           "description": "The Clock type in the DotNetTips.Spargine.Core assembly and NuGet package centralizes time-related functions to enhance application consistency and reduce fragmentation. It provides a comprehensive and reliable abstraction for developers, ensuring efficient time handling while minimizing bugs. By streamlining time operations, Clock fosters cleaner, more predictable code across applications.",
           "link": "https://dotnettips.wordpress.com/2026/02/15/boost-your-net-projects-with-spargine-centralized-time-handling-with-the-clock-type/",
           "publishedOn": "2026-02-15T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5922,
           "title": "Boost Your .NET Projects with Spargine: Centralized Time Handling with the Clock Type",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20260112_1028_image-generation_simple_compose_01kesggt93edys7wvb58b961zy.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16813",
@@ -680,6 +655,56 @@
       "feedUrl": "https://www.aspsnippets.com/RSS.ashx",
       "siteUrl": "https://www.aspsnippets.com/RSS.ashx",
       "articles": [
+        {
+          "id": "https://aspsnippets.com/Articles/Create-Horizontal-CheckedListBox-in-Windows-Application-using-C-and-VBNet.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to create Horizontal CheckedListBox control in Windows Forms (WinForms) Application using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Create-Horizontal-CheckedListBox-in-Windows-Application-using-C-and-VBNet.aspx",
+          "publishedOn": "2026-03-05T00:00:00.000Z",
+          "wordCount": 1200,
+          "title": "Create Horizontal CheckedListBox in Windows Application using C# and VB.Net",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-WebGrid-Delete-Row-with-Confirmation.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to perform Delete Row with Confirmation in WebGrid in ASP.Net Core (.Net Core 8) MVC.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-WebGrid-Delete-Row-with-Confirmation.aspx",
+          "publishedOn": "2026-03-05T00:00:00.000Z",
+          "wordCount": 1501,
+          "title": "ASP.Net Core WebGrid: Delete Row with Confirmation",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-WebGrid-Delete-Row-with-Confirmation.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to perform Delete Row with Confirmation in WebGrid in ASP.Net Core (.Net Core 8) Razor Pages.",
+          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-WebGrid-Delete-Row-with-Confirmation.aspx",
+          "publishedOn": "2026-03-05T00:00:00.000Z",
+          "wordCount": 1577,
+          "title": "ASP.Net Core Razor Pages WebGrid: Delete Row with Confirmation",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Nuget-Install-MicrosoftReportingServicesReportViewerControlWebForms.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to install Microsoft.ReportingServices.ReportViewerControl.WebForms library from Nuget package in Visual Studio.",
+          "link": "https://aspsnippets.com/Articles/Nuget-Install-MicrosoftReportingServicesReportViewerControlWebForms.aspx",
+          "publishedOn": "2026-03-05T00:00:00.000Z",
+          "wordCount": 794,
+          "title": "Nuget Install: Microsoft.ReportingServices.ReportViewerControl.WebForms",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Nuget-Install-MicrosoftReportingServicesReportViewerControlWinForms.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to install Microsoft.ReportingServices.ReportViewerControl.WinForms library from Nuget package in Visual Studio.",
+          "link": "https://aspsnippets.com/Articles/Nuget-Install-MicrosoftReportingServicesReportViewerControlWinForms.aspx",
+          "publishedOn": "2026-03-05T00:00:00.000Z",
+          "wordCount": 794,
+          "title": "Nuget Install: Microsoft.ReportingServices.ReportViewerControl.WinForms",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
         {
           "id": "https://aspsnippets.com/Articles/Assign-dynamic-CheckChanged-event-to-CheckBox-in-Windows-Application-using-C-and-VBNet.aspx",
           "author": null,
@@ -729,56 +754,6 @@
           "wordCount": 1194,
           "title": "Bind DataTable (DataSet) to WebGrid in ASP.Net Core Razor Pages",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Populate-DataTable-in-ASPNet-MVC.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to populate DataTable in ASP.Net MVC.",
-          "link": "https://aspsnippets.com/Articles/Populate-DataTable-in-ASPNet-MVC.aspx",
-          "publishedOn": "2026-02-25T00:00:00.000Z",
-          "wordCount": 1042,
-          "title": "Populate DataTable in ASP.Net MVC",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-Core-WebGrid-Delete-Row-with-Confirmation.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained",
-          "link": "https://aspsnippets.com/Articles/ASPNet-Core-WebGrid-Delete-Row-with-Confirmation.aspx",
-          "publishedOn": "2026-02-25T00:00:00.000Z",
-          "wordCount": null,
-          "title": "ASP.Net Core WebGrid: Delete  Row with Confirmation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-WebGrid-Delete-Row-with-Confirmation.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained",
-          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-WebGrid-Delete-Row-with-Confirmation.aspx",
-          "publishedOn": "2026-02-25T00:00:00.000Z",
-          "wordCount": null,
-          "title": "ASP.Net Core Razor Pages WebGrid: Delete Row with Confirmation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Create-Charts-using-JSON-JavaScript--jQuery-in-ASPNet.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to use HTML5 Canvas Charts in ASP.Net.",
-          "link": "https://aspsnippets.com/Articles/Create-Charts-using-JSON-JavaScript--jQuery-in-ASPNet.aspx",
-          "publishedOn": "2026-02-24T00:00:00.000Z",
-          "wordCount": 1455,
-          "title": "Create Charts using JSON, JavaScript & jQuery in ASP.Net",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-WebGrid-Format-Decimal-Number-in-Column.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to format Decimal Number in Column using WebGrid in in ASP.Net Core (.Net Core 8) Razor Pages.",
-          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Razor-Pages-WebGrid-Format-Decimal-Number-in-Column.aspx",
-          "publishedOn": "2026-02-24T00:00:00.000Z",
-          "wordCount": 1340,
-          "title": "ASP.Net Core Razor Pages: WebGrid Format Decimal Number in Column",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         }
       ]
     },
@@ -806,16 +781,6 @@
           "wordCount": 2461,
           "title": "Creating standard and \"observable\" instruments: System.Diagnostics.Metrics APIs - Part 3",
           "imageUrl": "https://andrewlock.net/content/images/2026/instruments.png"
-        },
-        {
-          "id": "https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/",
-          "author": "Andrew Lock",
-          "description": "In this post I explore the source generators shipped in Microsoft.Extensions.Telemetry.Abstractions, explore the code, and discuss whether I would use them",
-          "link": "https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/",
-          "publishedOn": "2026-02-03T10:00:00.000Z",
-          "wordCount": 3215,
-          "title": "Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2",
-          "imageUrl": "https://andrewlock.net/content/images/2026/metrics_banner_2.png"
         }
       ]
     },
@@ -830,9 +795,9 @@
           "description": "If you’re anything like me, you’ve probably spent a Friday afternoon trying to remember everything you did that week. Maybe it’s for a…",
           "link": "https://www.sahansera.dev/introducing-gh-weekly-updates/",
           "publishedOn": "2026-02-22T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1025,
           "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
-          "imageUrl": null
+          "imageUrl": "https://www.sahansera.dev/static/7efde64ef8c2163a170b28d74b46347d/9dc27/introducing-gh-weekly-updates.jpg"
         }
       ]
     },
@@ -842,12 +807,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/03/05/dew-drop-march-5-2026-4618/",
+          "author": "Alvin A.",
+          "description": "Top Links Copilot App on Windows: Opening web links alongside your conversations begins rolling out to Windows Insiders (Microsoft Copilot Team) Get started with GitHub Copilot CLI: A free, hands-on course (Dan Wahlin) The Great Foundry Shift: Microsoft Foundry New vs Classic Explained (Vinod Soni) .NET Rocks! – CLI First with Kathleen Dollard (Carl Franklin & Richard Campbell) Windows Terminal v1.25.622.0 … Continue reading Dew Drop – March 5, 2026 (#4618)",
+          "link": "https://www.alvinashcraft.com/2026/03/05/dew-drop-march-5-2026-4618/",
+          "publishedOn": "2026-03-05T12:06:43.000Z",
+          "wordCount": 2102,
+          "title": "Dew Drop – March 5, 2026 (#4618)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/03/04/dew-drop-march-4-2026-4617/",
           "author": "Alvin A.",
           "description": "Top Links GPT-5.3 Instant: Smoother, more useful everyday conversations (OpenAI Team) Coffee and Open Source Conversation – Jeffrey Snover (Isaac Levin) Introducing GPT-5.3 Chat in Microsoft Foundry: A more grounded way to chat at enterprise scale and Unlocking document understanding with Mistral Document AI in Microsoft Foundry (Naomi Moneypenny) Go from prompt to working prototype with … Continue reading Dew Drop – March 4, 2026 (#4617)",
           "link": "https://www.alvinashcraft.com/2026/03/04/dew-drop-march-4-2026-4617/",
           "publishedOn": "2026-03-04T11:51:31.000Z",
-          "wordCount": 1929,
+          "wordCount": 1938,
           "title": "Dew Drop – March 4, 2026 (#4617)",
           "imageUrl": null
         },
@@ -950,16 +925,6 @@
           "wordCount": 1998,
           "title": "Dew Drop – February 18, 2026 (#4607)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/02/17/dew-drop-february-17-2026-4606/",
-          "author": "Alvin A.",
-          "description": "Top Links Technology & Friends – Rachel Appel on Retro AI and How Algorithms from the Commodore 64 Era Still Apply (David Giard) Uno Platform – Now With AI! | Visual Studio Toolbox (Robert Green, Sam Basu & Jerome Laban) Running NanoClaw in a Docker Shell Sandbox (Jennifer Kohl) JetBrains Rider Settings for Presentations (Joseph … Continue reading Dew Drop – February 17, 2026 (#4606)",
-          "link": "https://www.alvinashcraft.com/2026/02/17/dew-drop-february-17-2026-4606/",
-          "publishedOn": "2026-02-17T11:48:10.000Z",
-          "wordCount": 1820,
-          "title": "Dew Drop – February 17, 2026 (#4606)",
-          "imageUrl": null
         }
       ]
     },
@@ -1005,16 +970,6 @@
           "wordCount": 4247,
           "title": "Connecting to Azure Managed Redis Instance from Redis Insight",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEht5qB4JmUxp_K_Gx_aCTcBDsyDIfTSVYFZ0HXKWQ8FaE9QO6i14axp413B-CnzU5UN3T8PfIx6JwJ2O5lVgkJVXY8AK2ID-qB5bVJ9QqwCtpMh1RAEs-7k5HLq9tUIPSy3yeudZlJ4LrXR5H-HbSHTFqcKr5jRo5iTafiIcQWWe8lwJHJ_jEptlCiqFxo=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://jaliyaudagedara.blogspot.com/2026/02/sending-messages-to-azure-service-bus.html",
-          "author": null,
-          "description": "With Azure API Management (APIM), now you can send/publish messages directly\n  to Azure Service Bus. Note: at the time of writing this post, this feature is\n  still in preview. I am very excited for this feature, because now we can have\n  a simple architecture, we don't need a separate backend code/service to\n  send/publish messages.\n\n\n\n  This is done via the&nbsp;send-service-bus-message&nbsp",
-          "link": "https://jaliyaudagedara.blogspot.com/2026/02/sending-messages-to-azure-service-bus.html",
-          "publishedOn": "2026-02-03T11:50:00.000Z",
-          "wordCount": 4396,
-          "title": "Sending messages to Azure Service Bus from Azure API Management",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh6uf8X_WbWyditLskL8Az3-Yue_Ta63nwuGO39WafykaUVmZXJyfZy8THxbOUzMhzcfxSdHRrR0x42h6_lzyMIlEL75uI3sDzGiXtVLDXxhRWPwa6Jn8tmsn_Jzu7f2L8U9Kul0YhRUKegVOsYfPFX58TDcFcTk2NrVgj8DVmaAlzUMyJqFN5UsdYvzZM=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -1145,9 +1100,9 @@
           "description": "SQL Server 2025 brings practical AI building blocks directly into the database engine: the VECTOR data type, vector indexing, ANN-powered similarity search, and T-SQL functions for embeddings and chunking.",
           "link": "https://dotnetstories.wordpress.com/2026/02/15/ai-features-in-sql-server-2025/",
           "publishedOn": "2026-02-15T12:34:13.000Z",
-          "wordCount": 4664,
+          "wordCount": 4663,
           "title": "AI Features in SQL Server 2025",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1772591935"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1772333737"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=4060",
@@ -1155,7 +1110,7 @@
           "description": "Copilot inside SSMS is a client feature, not a hosted brain. To function, it must connect to an Azure OpenAI resource in your Azure subscription, using two mandatory pieces of configuration: the resource endpoint and a model deployment name.",
           "link": "https://dotnetstories.wordpress.com/2026/02/15/from-ssms-to-azure-openai-how-copilot-actually-works/",
           "publishedOn": "2026-02-15T12:31:42.000Z",
-          "wordCount": 4608,
+          "wordCount": 4850,
           "title": "From SSMS to Azure OpenAI: How Copilot Actually Works",
           "imageUrl": "https://dotnetstories.wordpress.com/wp-content/uploads/2026/02/copilot-azure-1.png"
         }
