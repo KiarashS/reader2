@@ -204,7 +204,7 @@
           "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.",
           "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
           "publishedOn": "2026-03-06T08:00:00.000Z",
-          "wordCount": 4568,
+          "wordCount": 4583,
           "title": "Human Strategy In An AI-Accelerated Workflow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg",
@@ -234,7 +234,7 @@
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5655,
+          "wordCount": null,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -249,7 +249,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4413,
+          "wordCount": 4420,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -264,7 +264,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4071,
+          "wordCount": 4062,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -279,7 +279,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4404,
+          "wordCount": 4509,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -294,7 +294,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6730,
+          "wordCount": 6733,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -309,7 +309,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6334,
+          "wordCount": 6332,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -324,7 +324,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6495,
+          "wordCount": 6497,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -500,34 +500,7 @@
           "description": "I wrote about how to get Azure Trusted Signing to work for my application signing tasks a while back and mentioned how frustrating that process was both on Azure as well as on the client for the actual signing process. Well, since then I'm happy to say that some additional tooling has come out from Microsoft that makes this process quite a bit easier and also the signing process considerably faster than my previous workflow.\nThis post is specifically about the client side of signing - the original post covers both the Azure setup for your Azure Trusted Signing account and that hasn't changed much as well as the old SignTool based workflow which was a pain in the ass. In this post I'll discuss the new-ish dotnet sign tooling that now works officially with Azure Trusted Signing and is a lot …",
           "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
           "publishedOn": "2026-03-02T20:10:23.000Z",
-          "wordCount": 2444,
-          "title": "Azure Trusted Signing Revisited with Dotnet Sign",
-          "imageUrl": "https://weblog.west-wind.com/images/2026/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign/TrustedSigningBanner.jpg"
-        },
-        {
-          "id": "5239628_202602262241",
-          "author": "Rick Strahl",
-          "description": "If you're using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\nFor signing code with trusted signing like this:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\n$args = @(\n    \"sign\", \"/v\", \"/debug\", \"/fd\", \"SHA256\",\n    \"/tr\", \"$timeServer\",\n    \"/td\", \"SHA256\",\n    \"/dlib\", \"$env:LOCALAPPDATA\\Microsoft\\MicrosoftTrustedSigningClientTools\\Azure.CodeSigning.Dlib.dll\",\n    \"/dmdf\", \".\\SignfileMetadata.json\"\n)\n# Add non-empty file arguments\nforeach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {\n    if (![string]::IsNullOrWhiteSpace($f)) {\n        $args += $f\n    }\n…",
-          "link": "https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing",
-          "publishedOn": "2026-02-26T22:41:03.000Z",
-          "wordCount": 1096,
-          "title": "Don't use the Microsoft Timestamp Server for Signing",
-          "imageUrl": "https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png"
-        }
-      ]
-    },
-    {
-      "title": "Rick Strahl's Web Log",
-      "feedUrl": "https://feeds.feedburner.com/RickStrahl",
-      "siteUrl": "https://weblog.west-wind.com/",
-      "articles": [
-        {
-          "id": "5249291_202603022010",
-          "author": "Rick Strahl",
-          "description": "I wrote about how to get Azure Trusted Signing to work for my application signing tasks a while back and mentioned how frustrating that process was both on Azure as well as on the client for the actual signing process. Well, since then I'm happy to say that some additional tooling has come out from Microsoft that makes this process quite a bit easier and also the signing process considerably faster than my previous workflow.\nThis post is specifically about the client side of signing - the original post covers both the Azure setup for your Azure Trusted Signing account and that hasn't changed much as well as the old SignTool based workflow which was a pain in the ass. In this post I'll discuss the new-ish dotnet sign tooling that now works officially with Azure Trusted Signing and is a lot …",
-          "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
-          "publishedOn": "2026-03-02T20:10:23.000Z",
-          "wordCount": 2440,
+          "wordCount": 2442,
           "title": "Azure Trusted Signing Revisited with Dotnet Sign",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign/TrustedSigningBanner.jpg"
         },
@@ -544,10 +517,47 @@
       ]
     },
     {
+      "title": "Rick Strahl's Web Log",
+      "feedUrl": "https://feeds.feedburner.com/RickStrahl",
+      "siteUrl": "https://weblog.west-wind.com/",
+      "articles": [
+        {
+          "id": "5249291_202603022010",
+          "author": "Rick Strahl",
+          "description": "I wrote about how to get Azure Trusted Signing to work for my application signing tasks a while back and mentioned how frustrating that process was both on Azure as well as on the client for the actual signing process. Well, since then I'm happy to say that some additional tooling has come out from Microsoft that makes this process quite a bit easier and also the signing process considerably faster than my previous workflow.\nThis post is specifically about the client side of signing - the original post covers both the Azure setup for your Azure Trusted Signing account and that hasn't changed much as well as the old SignTool based workflow which was a pain in the ass. In this post I'll discuss the new-ish dotnet sign tooling that now works officially with Azure Trusted Signing and is a lot …",
+          "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
+          "publishedOn": "2026-03-02T20:10:23.000Z",
+          "wordCount": 2446,
+          "title": "Azure Trusted Signing Revisited with Dotnet Sign",
+          "imageUrl": "https://weblog.west-wind.com/images/2026/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign/TrustedSigningBanner.jpg"
+        },
+        {
+          "id": "5239628_202602262241",
+          "author": "Rick Strahl",
+          "description": "If you're using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\nFor signing code with trusted signing like this:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\n$args = @(\n    \"sign\", \"/v\", \"/debug\", \"/fd\", \"SHA256\",\n    \"/tr\", \"$timeServer\",\n    \"/td\", \"SHA256\",\n    \"/dlib\", \"$env:LOCALAPPDATA\\Microsoft\\MicrosoftTrustedSigningClientTools\\Azure.CodeSigning.Dlib.dll\",\n    \"/dmdf\", \".\\SignfileMetadata.json\"\n)\n# Add non-empty file arguments\nforeach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {\n    if (![string]::IsNullOrWhiteSpace($f)) {\n        $args += $f\n    }\n…",
+          "link": "https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing",
+          "publishedOn": "2026-02-26T22:41:03.000Z",
+          "wordCount": 1096,
+          "title": "Don't use the Microsoft Timestamp Server for Signing",
+          "imageUrl": "https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png"
+        }
+      ]
+    },
+    {
       "title": "dotNetTips.com",
       "feedUrl": "https://dotnettips.wordpress.com/feed/",
       "siteUrl": "https://dotnettips.wordpress.com",
       "articles": [
+        {
+          "id": "http://dotnettips.wordpress.com/?p=16486",
+          "author": "David (dotNetDave) McCarter",
+          "description": "A review of the Azure Core SDK reveals alarming code quality issues, including significant code violations and inadequate unit testing. Key problems include improper IDisposable implementations, performance anti-patterns, and a lack of globalization support. Although it received a grade of C, reliance on this SDK poses risks for .NET developers.",
+          "link": "https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/",
+          "publishedOn": "2026-03-08T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Inside the Azure SDK for .NET: A Code Quality Reality Check",
+          "imageUrl": null
+        },
         {
           "id": "http://dotnettips.wordpress.com/?p=17081",
           "author": "David (dotNetDave) McCarter",
@@ -594,9 +604,9 @@
           "description": "The author emphasizes the utility of CodeRush by DevExpress for refactoring, particularly its feature for embedding images in source code. Using Mermaid's flow diagrams, the author illustrates complex methods visually, enhancing code comprehension. Despite limitations in image handling, the combination of Mermaid and CodeRush promotes clear, maintainable code effectively.",
           "link": "https://dotnettips.wordpress.com/2026/02/20/making-code-easier-to-understand-with-mermaid-diagrams-and-coderush/",
           "publishedOn": "2026-02-20T07:00:00.000Z",
-          "wordCount": 6189,
+          "wordCount": null,
           "title": "Making Code Easier to Understand with Mermaid Diagrams and CodeRush",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/02/20260219_1129_image-generation_remix_01khvf4adqf9ab12djgs7vvrsk.png?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16393",
@@ -1069,9 +1079,9 @@
           "description": "SQL Server 2025 brings practical AI building blocks directly into the database engine: the VECTOR data type, vector indexing, ANN-powered similarity search, and T-SQL functions for embeddings and chunking.",
           "link": "https://dotnetstories.wordpress.com/2026/02/15/ai-features-in-sql-server-2025/",
           "publishedOn": "2026-02-15T12:34:13.000Z",
-          "wordCount": 4663,
+          "wordCount": 4664,
           "title": "AI Features in SQL Server 2025",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1771382888"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1772937936"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=4060",
@@ -1079,7 +1089,7 @@
           "description": "Copilot inside SSMS is a client feature, not a hosted brain. To function, it must connect to an Azure OpenAI resource in your Azure subscription, using two mandatory pieces of configuration: the resource endpoint and a model deployment name.",
           "link": "https://dotnetstories.wordpress.com/2026/02/15/from-ssms-to-azure-openai-how-copilot-actually-works/",
           "publishedOn": "2026-02-15T12:31:42.000Z",
-          "wordCount": 4850,
+          "wordCount": 4608,
           "title": "From SSMS to Azure OpenAI: How Copilot Actually Works",
           "imageUrl": "https://dotnetstories.wordpress.com/wp-content/uploads/2026/02/copilot-azure-1.png"
         }

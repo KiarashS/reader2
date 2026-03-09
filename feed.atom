@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-03-08T02:46:14.765Z</updated>
+    <updated>2026-03-09T02:48:01.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inside the Azure SDK for .NET: A Code Quality Reality Check]]></title>
+        <id>http://dotnettips.wordpress.com/?p=16486</id>
+        <link href="https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/"/>
+        <updated>2026-03-08T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of the Azure Core SDK reveals alarming code quality issues, including significant code violations and inadequate unit testing. Key problems include improper IDisposable implementations, performance anti-patterns, and a lack of globalization support. Although it received a grade of C, reliance on this SDK poses risks for .NET developers.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Production-Ready Voice Agent Architecture with WebRTC]]></title>
         <id>69ab2f260bca1a3976458b2a</id>
