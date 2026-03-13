@@ -17,7 +17,7 @@
           "description": "Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.\nAbusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/abusing-customizable-selects/",
           "publishedOn": "2026-03-11T13:59:15.000Z",
-          "wordCount": 4809,
+          "wordCount": 4860,
           "title": "Abusing Customizable Selects",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/css-tricks-custom-select-folder-stack.mp4",
@@ -32,7 +32,7 @@
           "description": "How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices.\nThe Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-value-of-z-index/",
           "publishedOn": "2026-03-09T14:20:01.000Z",
-          "wordCount": 4132,
+          "wordCount": 4196,
           "title": "The Value of z-index",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_8926F490CDA74C2CA8D0B6E99405A055C6BF40F4CCE75686F0BAADE6ECBD39FB_1772115867944_image.png"
         },
@@ -132,7 +132,7 @@
           "description": "The distinction between \"components\" and \"utilities\" seems clear at first glance, but gets a little blurred when working with them in Tailwind.\nDistinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/",
           "publishedOn": "2026-02-18T16:21:41.000Z",
-          "wordCount": 2791,
+          "wordCount": 2783,
           "title": "Distinguishing “Components” and “Utilities” in Tailwind",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
         },
@@ -142,7 +142,7 @@
           "description": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.\nSpiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
           "publishedOn": "2026-02-17T15:17:25.000Z",
-          "wordCount": 3082,
+          "wordCount": 3074,
           "title": "Spiral Scrollytelling in CSS With sibling-index()",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-9.37.52-AM.mov",
@@ -167,7 +167,7 @@
           "description": "This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.\nWhat’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-important-5/",
           "publishedOn": "2026-02-13T15:19:57.000Z",
-          "wordCount": 2581,
+          "wordCount": 2589,
           "title": "What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/time-layout.mp4",
@@ -182,7 +182,7 @@
           "description": "This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.\nMaking a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/",
           "publishedOn": "2026-02-12T14:57:36.000Z",
-          "wordCount": 4660,
+          "wordCount": 4668,
           "title": "Making a Responsive Pyramidal Grid With Modern CSS",
           "enclosure": {
             "url": "http://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-8.44.39-AM.mov",
@@ -198,6 +198,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
+          "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
+          "publishedOn": "2026-03-12T10:00:00.000Z",
+          "wordCount": 5098,
+          "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
           "author": "hello@smashingmagazine.com (Sunil Sandhu)",
@@ -219,7 +234,7 @@
           "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
           "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
           "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7470,
+          "wordCount": 7451,
           "title": "Persuasive Design: Ten Years Later",
           "enclosure": {
             "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
@@ -234,7 +249,7 @@
           "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.",
           "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
           "publishedOn": "2026-03-06T08:00:00.000Z",
-          "wordCount": 4562,
+          "wordCount": 4576,
           "title": "Human Strategy In An AI-Accelerated Workflow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg",
@@ -264,7 +279,7 @@
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5645,
+          "wordCount": 5641,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -279,7 +294,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4412,
+          "wordCount": 4407,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -294,7 +309,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4069,
+          "wordCount": 4066,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -309,7 +324,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4514,
+          "wordCount": 4415,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -324,7 +339,7 @@
           "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks down the UX and design principles behind effective streak systems.",
           "link": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
           "publishedOn": "2026-02-18T15:00:00.000Z",
-          "wordCount": 6727,
+          "wordCount": 6728,
           "title": "Designing A Streak System: The UX And Psychology Of Streaks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-streak-system-ux-psychology/designing-streak-system-ux-psychology.jpg",
@@ -339,7 +354,7 @@
           "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.",
           "link": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
           "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 6340,
+          "wordCount": 6337,
           "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-empathy-centred-ux-framework-mental-health-apps/building-empathy-centred-ux-framework-mental-health-apps.jpg",
@@ -354,7 +369,7 @@
           "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational frameworks, and organizational practices for building agentic systems that are not only powerful but also transparent, controllable, and trustworthy.",
           "link": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
           "publishedOn": "2026-02-11T13:00:00.000Z",
-          "wordCount": 6499,
+          "wordCount": 6495,
           "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accountability",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-agentic-ai-practical-ux-patterns/designing-agentic-ai-practical-ux-patterns.jpg",
@@ -370,6 +385,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69b310eb93256dfc5303de72",
+          "author": "Tilda Udufo",
+          "description": "Before I started building auth into my own projects, I didn't think too deeply about what was happening to passwords behind the scenes. Like most developers, I installed a library, called a hash funct",
+          "link": "https://www.freecodecamp.org/news/passwords-hashing-and-salting-explained/",
+          "publishedOn": "2026-03-12T19:15:55.000Z",
+          "wordCount": 2447,
+          "title": "What Your Auth Library Isn't Telling You About Passwords: Hashing and Salting Explained",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/61e84941-bb32-4029-9d58-39022488d29e.png"
+        },
+        {
+          "id": "69b2e3051be92d8f177bf807",
+          "author": "Abdul Talha",
+          "description": "Depending on cloud apps means that you don't truly own your notes. If your internet goes down or if the company changes its rules, you could lose access. In this article, you'll learn how to build you",
+          "link": "https://www.freecodecamp.org/news/self-host-affine-windows/",
+          "publishedOn": "2026-03-12T16:00:05.000Z",
+          "wordCount": 1903,
+          "title": "How to Self-Host AFFiNE on Windows with WSL and Docker",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/950eee10-aa2c-4071-9c40-abaf759f6d10.png"
+        },
+        {
+          "id": "69b2e2721be92d8f1778c002",
+          "author": "Bala Priya C",
+          "description": "Recursion is when a function solves a problem by calling itself. It sounds odd at first — why would a function call itself? — but once it clicks, you'll find it's often the most natural way to express",
+          "link": "https://www.freecodecamp.org/news/recursion-in-python-intro-for-beginners/",
+          "publishedOn": "2026-03-12T15:57:38.000Z",
+          "wordCount": 2586,
+          "title": "Recursion in Python – A Practical Introduction for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4893014c-db1c-4a2b-9040-e3103faf5169.png"
+        },
+        {
+          "id": "69b2e2251be92d8f177786a8",
+          "author": "Njong Emy",
+          "description": "In the world of Software Engineering, there are plenty of programming languages to learn. And there are both low-level and high-level options. I’ve tried my hand at a few of them, and the one language",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-coding-in-golang/",
+          "publishedOn": "2026-03-12T15:56:21.000Z",
+          "wordCount": 5174,
+          "title": "How to Get Started Coding in Golang",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a429db13-593a-4afe-be02-2c94ae1f246f.png"
+        },
+        {
+          "id": "69b27bc5f22e712aaa45f840",
+          "author": "Jakub T. Jankiewicz",
+          "description": "When you create an article, such as a blog post for freeCodeCamp, Hashnode, Medium, or DEV.to, you can help guide the reader by creating a Table of Contents (ToC). In this article, I'll explain how to",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-table-of-contents-for-your-article/",
+          "publishedOn": "2026-03-12T08:39:33.000Z",
+          "wordCount": 2590,
+          "title": "How to Create a Table of Contents for Your Article",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/ff72c490-a57b-46c4-b0d9-8c2654853b7c.png"
+        },
+        {
+          "id": "69b206806c896b0519d2a308",
+          "author": "Nneoma Uche",
+          "description": "Real-time data powers much of modern software: live stock prices, chat applications, sports scores, collaborative tools. And to build these systems, you'll need to understand how real-time communicati",
+          "link": "https://www.freecodecamp.org/news/how-to-use-websockets-from-python-to-fastapi/",
+          "publishedOn": "2026-03-12T00:19:12.000Z",
+          "wordCount": 2711,
+          "title": "How to Use WebSockets: From Python to FastAPI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8acb0854-7289-4794-8f97-242ec5d8ca61.png"
+        },
+        {
+          "id": "69b1e4e76c896b0519c9a4bb",
+          "author": "Atuoha Anthony",
+          "description": "Software development has always evolved alongside the tools we build. There was a time when developers wrote everything in assembly language. Then higher-level languages arrived and made it possible t",
+          "link": "https://www.freecodecamp.org/news/learn-how-ai-agents-are-changing-development-by-building-a-flutter-app/",
+          "publishedOn": "2026-03-11T21:55:51.000Z",
+          "wordCount": 6299,
+          "title": "Learn How AI Agents Are Changing Software Development by Building a Flutter App Using Antigravity and Stitch",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/884f5ad2-55e8-479e-aa2c-1d742d8ff922.png"
+        },
         {
           "id": "69b1d33d6c896b0519c3abdc",
           "author": "Bala Priya C",
@@ -399,76 +484,6 @@
           "wordCount": 7058,
           "title": "How to Build an Autonomous AI Agent with n8n and Decapod",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d27ea304-5db6-4172-823d-3f6aa0612d38.png"
-        },
-        {
-          "id": "69b1b23c6c896b0519b4eda8",
-          "author": "Christopher Galliart",
-          "description": "Most RAG tutorials end the same way: you've got a working prototype and a bill for a vector database that runs whether anyone's querying it or not. Add an always-on embedding service, a hosted LLM end",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-serverless-rag-pipeline-on-aws-that-scales-to-zero/",
-          "publishedOn": "2026-03-11T18:19:40.000Z",
-          "wordCount": 4192,
-          "title": "How to Build a Serverless RAG Pipeline on AWS That Scales to Zero",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c0416d9e-9661-47a3-ba9c-8001f5f91b8c.png"
-        },
-        {
-          "id": "69b199496c896b0519a8964c",
-          "author": "Beau Carnes",
-          "description": "Automation is no longer just a \"nice-to-have\" skill, it powers modern software development. To help you master automation and CI/CD, we’ve just released a massive 17-hour Jenkins course on the freeCod",
-          "link": "https://www.freecodecamp.org/news/ci-cd-in-production-with-jenkins/",
-          "publishedOn": "2026-03-11T16:33:13.000Z",
-          "wordCount": 956,
-          "title": "CI/CD in Production with Jenkins",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/8a580ac3-b25c-40ba-a1cc-1787c4aaf899.jpg"
-        },
-        {
-          "id": "69b1975b6c896b0519a78b21",
-          "author": "Ajay Patel",
-          "description": "Hey there! If you're building modern web interfaces, chances are you've already fallen in love with Tailwind CSS for its speed and flexibility. One of the most powerful tools in Tailwind's arsenal is",
-          "link": "https://www.freecodecamp.org/news/how-to-use-flex-in-tailwind-css-and-justify-flex-items/",
-          "publishedOn": "2026-03-11T16:24:59.000Z",
-          "wordCount": 3410,
-          "title": "How to Use Flex in Tailwind CSS and Justify Flex Items",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3522007b-55f0-44bf-9b6f-b0489d1a8774.png"
-        },
-        {
-          "id": "69b191d16c896b0519a4b11f",
-          "author": "Beau Carnes",
-          "description": "The goal isn't just to train a model; it's to build a system that understands your specific data as well as you do. We just posted a massive, 12-hour course on the freeCodeCamp.org YouTube channel des",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/",
-          "publishedOn": "2026-03-11T16:01:21.000Z",
-          "wordCount": 1085,
-          "title": "Learn how to fine-tune LLMs in 12 hours",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/607e7b69-615d-4e07-a196-ce39b425a93b.jpg"
-        },
-        {
-          "id": "69b0a8f8abc0d95001af6574",
-          "author": "Maku Gideon",
-          "description": "Ever wondered how Gmail knows that an email promising you $10 million is spam? Or how it catches those \"You've won a free iPhone!\" messages before they reach your inbox? In this tutorial, you'll build",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-spam-email-detector-with-python-and-naive-bayes-classifier/",
-          "publishedOn": "2026-03-10T23:27:52.000Z",
-          "wordCount": 3588,
-          "title": "How to Build a Spam Email Detector with Python and Naive Bayes Classifier",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/92eb401b-fce3-411b-9b0b-02ba486586cb.png"
-        },
-        {
-          "id": "69b0a865abc0d95001af32a2",
-          "author": "Gabor Koos",
-          "description": "Finding the top K items in a dataset pops up everywhere: from highlighting the hottest posts in a social feed, to detecting the largest transactions in a financial system, or spotting the heaviest use",
-          "link": "https://www.freecodecamp.org/news/how-to-find-the-top-k-items-heap-and-streaming-approaches-in-go/",
-          "publishedOn": "2026-03-10T23:25:25.000Z",
-          "wordCount": 3356,
-          "title": "How to Find the Top-K Items: Heap and Streaming Approaches in Go",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4cf09440-765e-416a-8d15-ff12496f595d.png"
-        },
-        {
-          "id": "69b09018abc0d95001a8f07f",
-          "author": "Balajee Asish Brahmandam",
-          "description": "Every MCP tutorial I've found so far has followed the same basic script: build a server, point Claude Desktop at it, screenshot the chat window, done. This is fine if you want a demo. But it's not fin",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-mcp-server-with-python-docker-and-claude-code/",
-          "publishedOn": "2026-03-10T21:41:44.000Z",
-          "wordCount": 3683,
-          "title": "How to Build an MCP Server with Python, Docker, and Claude Code",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/02826050-87fa-42cb-8167-73bca4b42616.png"
         }
       ]
     },
@@ -530,7 +545,7 @@
           "description": "I wrote about how to get Azure Trusted Signing to work for my application signing tasks a while back and mentioned how frustrating that process was both on Azure as well as on the client for the actual signing process. Well, since then I'm happy to say that some additional tooling has come out from Microsoft that makes this process quite a bit easier and also the signing process considerably faster than my previous workflow.\nThis post is specifically about the client side of signing - the original post covers both the Azure setup for your Azure Trusted Signing account and that hasn't changed much as well as the old SignTool based workflow which was a pain in the ass. In this post I'll discuss the new-ish dotnet sign tooling that now works officially with Azure Trusted Signing and is a lot …",
           "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
           "publishedOn": "2026-03-02T20:10:23.000Z",
-          "wordCount": 2446,
+          "wordCount": 2484,
           "title": "Azure Trusted Signing Revisited with Dotnet Sign",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign/TrustedSigningBanner.jpg"
         },
@@ -557,7 +572,7 @@
           "description": "I wrote about how to get Azure Trusted Signing to work for my application signing tasks a while back and mentioned how frustrating that process was both on Azure as well as on the client for the actual signing process. Well, since then I'm happy to say that some additional tooling has come out from Microsoft that makes this process quite a bit easier and also the signing process considerably faster than my previous workflow.\nThis post is specifically about the client side of signing - the original post covers both the Azure setup for your Azure Trusted Signing account and that hasn't changed much as well as the old SignTool based workflow which was a pain in the ass. In this post I'll discuss the new-ish dotnet sign tooling that now works officially with Azure Trusted Signing and is a lot …",
           "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
           "publishedOn": "2026-03-02T20:10:23.000Z",
-          "wordCount": 2446,
+          "wordCount": 2488,
           "title": "Azure Trusted Signing Revisited with Dotnet Sign",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign/TrustedSigningBanner.jpg"
         },
@@ -567,7 +582,7 @@
           "description": "If you're using any of the Microsoft Signing technologies like Trusted Signing, one thing you might run into is frequent failures of the default, suggested timestamp server that Microsoft uses in their examples:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\nFor signing code with trusted signing like this:\n$timeServer = \"http://timestamp.acs.microsoft.com\"\n\n$args = @(\n    \"sign\", \"/v\", \"/debug\", \"/fd\", \"SHA256\",\n    \"/tr\", \"$timeServer\",\n    \"/td\", \"SHA256\",\n    \"/dlib\", \"$env:LOCALAPPDATA\\Microsoft\\MicrosoftTrustedSigningClientTools\\Azure.CodeSigning.Dlib.dll\",\n    \"/dmdf\", \".\\SignfileMetadata.json\"\n)\n# Add non-empty file arguments\nforeach ($f in @($file, $file1, $file2, $file3, $file4, $file5, $file6, $file7)) {\n    if (![string]::IsNullOrWhiteSpace($f)) {\n        $args += $f\n    }\n…",
           "link": "https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing",
           "publishedOn": "2026-02-26T22:41:03.000Z",
-          "wordCount": 1092,
+          "wordCount": 1096,
           "title": "Don't use the Microsoft Timestamp Server for Signing",
           "imageUrl": "https://weblog.west-wind.com/images/2026/Dont-use-the-Microsoft-Timestamp-Server-for-Signing/SigningFailedBanner.png"
         }
@@ -579,14 +594,34 @@
       "siteUrl": "https://dotnettips.wordpress.com",
       "articles": [
         {
+          "id": "http://dotnettips.wordpress.com/?p=17166",
+          "author": "David (dotNetDave) McCarter",
+          "description": "In a recent podcast, Christian Buckley and I discussed the dual nature of AI, sparking excitement and anxiety among software engineers. We explored its implications for the future of the profession, its impact on software design and development, and how it will affect everyday life. Join us for insights and perspectives.",
+          "link": "https://dotnettips.wordpress.com/2026/03/12/collabtalk-podcast-episode-183-with-david-mccarter/",
+          "publishedOn": "2026-03-12T06:00:00.000Z",
+          "wordCount": 4939,
+          "title": "CollabTalk Podcast: Episode 183 with David McCarter",
+          "imageUrl": "https://dotnettips.wordpress.com/wp-content/uploads/2026/03/2026-03-11_10-10-13.jpg"
+        },
+        {
+          "id": "http://dotnettips.wordpress.com/?p=17125",
+          "author": "David (dotNetDave) McCarter",
+          "description": "The article critiques OpenAI's Sora 2 platform, highlighting its worsened user experience compared to Sora 1. Key features have been removed, leading to confusion and inefficiency for users. The author argues that Sora 2 exemplifies a troubling industry trend called \"enshittification,\" where tech platforms degrade service after users have invested in them, prompting potential user migration to alternatives.",
+          "link": "https://dotnettips.wordpress.com/2026/03/12/ux-chronicles-how-openai-broke-sora/",
+          "publishedOn": "2026-03-12T06:00:00.000Z",
+          "wordCount": 7733,
+          "title": "UX Chronicles: How OpenAI Broke Sora",
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/03/chatgpt-image-mar-5-2026-12_50_22-pm.png?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "http://dotnettips.wordpress.com/?p=17089",
           "author": "David (dotNetDave) McCarter",
           "description": "Clear naming standards in software development significantly enhance code readability, maintainability, and overall quality. Consistent naming reduces cognitive load, facilitates collaboration, and lowers long-term maintenance costs. Ignoring these standards leads to confusion, longer development times, and increased technical debt. Investing in robust naming conventions is essential for professional-grade software development.",
           "link": "https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/",
           "publishedOn": "2026-03-11T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5951,
           "title": "dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/02/dotnetdave-dotnetdave-says-clear-naming-standards-ai-2043.jpg?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16486",
@@ -594,9 +629,9 @@
           "description": "A review of the Azure Core SDK reveals alarming code quality issues, including significant code violations and inadequate unit testing. Key problems include improper IDisposable implementations, performance anti-patterns, and a lack of globalization support. Although it received a grade of C, reliance on this SDK poses risks for .NET developers.",
           "link": "https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/",
           "publishedOn": "2026-03-08T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6285,
           "title": "Inside the Azure SDK for .NET: A Code Quality Reality Check",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20260119_1100_image-generation_simple_compose_01kfbk5nz1fx7t61hcvx2rbjx2.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=17081",
@@ -604,9 +639,9 @@
           "description": "Effective software projects require thorough planning and architecture before coding begins. Skipping these steps often leads to costly mistakes, delays, and technical debt. A strong foundation improves system maintainability and user satisfaction. Managers should focus on results over constant activity; proper planning enhances delivery speed and quality, fostering happier users.",
           "link": "https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/",
           "publishedOn": "2026-03-04T07:00:00.000Z",
-          "wordCount": 5923,
+          "wordCount": null,
           "title": "dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays",
-          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/02/dotnetdave-dotnetdave-says-dotnetdave-says-rushing-into-coding-2072.jpg?fit=1200%2C800&ssl=1"
+          "imageUrl": null
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16474",
@@ -614,9 +649,9 @@
           "description": "The author critically reviews the AWS SDK for .NET, revealing alarming code quality issues, including 959,815 total violations and severe design flaws leading to potential memory leaks and resource management problems. Despite its popularity, the SDK presents significant risks for .NET developers, highlighting the importance of thorough assessment of open-source packages.",
           "link": "https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/",
           "publishedOn": "2026-03-01T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6365,
           "title": "Inside the AWS SDK for .NET: A Code Quality Wake-Up Call",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20260117_0900_image-generation_simple_compose_01kf67gr97fz5854cq5a3qkdr3.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16970",
@@ -656,26 +691,6 @@
           "publishedOn": "2026-02-15T07:00:00.000Z",
           "wordCount": null,
           "title": "Boost Your .NET Projects with Spargine: Centralized Time Handling with the Clock Type",
-          "imageUrl": null
-        },
-        {
-          "id": "http://dotnettips.wordpress.com/?p=16813",
-          "author": "David (dotNetDave) McCarter",
-          "description": "Using IndexOf() for checking if a string starts with a specific value in .NET is inefficient and unclear. This approach performs unnecessary work and obscures intent.",
-          "link": "https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/",
-          "publishedOn": "2026-02-11T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf()",
-          "imageUrl": null
-        },
-        {
-          "id": "http://dotnettips.wordpress.com/?p=16768",
-          "author": "David (dotNetDave) McCarter",
-          "description": "Secure password hashing is vital for application security. The PasswordHasher class in Spargine for .NET 10 consolidates previous hashing implementations into a single solution that supports various modern algorithms. This enhances flexibility and ensures robust security while simplifying usage, making it essential for developers aiming to protect user credentials effectively.",
-          "link": "https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/",
-          "publishedOn": "2026-02-11T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher",
           "imageUrl": null
         }
       ]
@@ -847,12 +862,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/03/12/dew-drop-march-12-2026-4623/",
+          "author": "Alvin A.",
+          "description": "Top Links GDC 2026: Announcing new tools and platform updates for Windows PC game developers (Ian LeGrow) VS Code 1.112 Insiders Release (Visual Studio Code Team) Software Engineering Radio Episode #711 – Scott Hanselman on AI-Assisted Development Tools (Jeremy Jung) Introducing Replit Agent 4: Built for Creativity (Replit Team) .NET Rocks! – Avalonia 12 with … Continue reading Dew Drop – March 12, 2026 (#4623)",
+          "link": "https://www.alvinashcraft.com/2026/03/12/dew-drop-march-12-2026-4623/",
+          "publishedOn": "2026-03-12T11:03:13.000Z",
+          "wordCount": 2029,
+          "title": "Dew Drop – March 12, 2026 (#4623)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/03/11/dew-drop-march-11-2026-4622/",
           "author": "Alvin A.",
           "description": "Top Links Aspire Conf is Coming! Join us Live on March 23 (Maddy Montaquila) Visual Studio 2026 Release Notes – March Update 18.4.0 (Microsoft Learn) RunAs Radio Show #1027 – SQL Server in 2026 with Bob Ward (Richard Campbell) Microsoft Foundry Local Workshop: Build AI apps locally with Foundry Local – RAG, agents, and multi-agent … Continue reading Dew Drop – March 11, 2026 (#4622)",
           "link": "https://www.alvinashcraft.com/2026/03/11/dew-drop-march-11-2026-4622/",
           "publishedOn": "2026-03-11T11:05:31.000Z",
-          "wordCount": 2337,
+          "wordCount": 2300,
           "title": "Dew Drop – March 11, 2026 (#4622)",
           "imageUrl": null
         },
@@ -862,7 +887,7 @@
           "description": "Top Links Introducing the First Frontier Suite built on Intelligence + Trust (Judson Althoff) Visual Studio Dev Essentials: Free, Practical Tools for Every Developer (Jim Harrer) Build a Profile Picture Editor in .NET MAUI with the Image Editor (Karthick Mani) Build a real-world example with Microsoft Agent Framework, Microsoft Foundry, MCP and Aspire (Justin Yoo) … Continue reading Dew Drop – March 10, 2026 (#4621)",
           "link": "https://www.alvinashcraft.com/2026/03/10/dew-drop-march-10-2026-4621/",
           "publishedOn": "2026-03-10T11:09:38.000Z",
-          "wordCount": 2447,
+          "wordCount": 2401,
           "title": "Dew Drop – March 10, 2026 (#4621)",
           "imageUrl": null
         },
@@ -872,7 +897,7 @@
           "description": "Top Links Announcing TypeScript 6.0 RC (Daniel Rosenwasser) Getting Started with Visual Studio & Uno Platform + AI (Sam Basu) What’s new in Microsoft Foundry | February 2026 (Nick Brady) htmxRazor 1.2.0: Toast Notifications, Pagination, and the End of CSS Specificity Fights (Chris Woodruff) How to scan for vulnerabilities with GitHub Security Lab’s open source … Continue reading Dew Drop – March 9, 2026 (#4620)",
           "link": "https://www.alvinashcraft.com/2026/03/09/dew-drop-march-9-2026-4620/",
           "publishedOn": "2026-03-09T14:35:17.000Z",
-          "wordCount": 2686,
+          "wordCount": 2640,
           "title": "Dew Drop – March 9, 2026 (#4620)",
           "imageUrl": null
         },
@@ -882,7 +907,7 @@
           "description": "Top Links Introducing GPT-5.4 in Microsoft Foundry (Naomi Moneypenny) ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out (Alexander Kurakin) Release v1.0 of the official MCP C# SDK (Mike Kistler) Windows Terminal Preview 1.25 Release (Dustin Howett) Model Context Protocol (MCP): A New Standard for AI Integrations in .NET (Arulraj Aboorvasamy) Making agents … Continue reading Dew Drop – March 6, 2026 (#4619)",
           "link": "https://www.alvinashcraft.com/2026/03/06/dew-drop-march-6-2026-4619/",
           "publishedOn": "2026-03-06T12:10:54.000Z",
-          "wordCount": 2308,
+          "wordCount": 2262,
           "title": "Dew Drop – March 6, 2026 (#4619)",
           "imageUrl": null
         },
@@ -892,7 +917,7 @@
           "description": "Top Links Copilot App on Windows: Opening web links alongside your conversations begins rolling out to Windows Insiders (Microsoft Copilot Team) Get started with GitHub Copilot CLI: A free, hands-on course (Dan Wahlin) The Great Foundry Shift: Microsoft Foundry New vs Classic Explained (Vinod Soni) .NET Rocks! – CLI First with Kathleen Dollard (Carl Franklin & Richard Campbell) Windows Terminal v1.25.622.0 … Continue reading Dew Drop – March 5, 2026 (#4618)",
           "link": "https://www.alvinashcraft.com/2026/03/05/dew-drop-march-5-2026-4618/",
           "publishedOn": "2026-03-05T12:06:43.000Z",
-          "wordCount": 2111,
+          "wordCount": 2065,
           "title": "Dew Drop – March 5, 2026 (#4618)",
           "imageUrl": null
         },
@@ -902,7 +927,7 @@
           "description": "Top Links GPT-5.3 Instant: Smoother, more useful everyday conversations (OpenAI Team) Coffee and Open Source Conversation – Jeffrey Snover (Isaac Levin) Introducing GPT-5.3 Chat in Microsoft Foundry: A more grounded way to chat at enterprise scale and Unlocking document understanding with Mistral Document AI in Microsoft Foundry (Naomi Moneypenny) Go from prompt to working prototype with … Continue reading Dew Drop – March 4, 2026 (#4617)",
           "link": "https://www.alvinashcraft.com/2026/03/04/dew-drop-march-4-2026-4617/",
           "publishedOn": "2026-03-04T11:51:31.000Z",
-          "wordCount": 1938,
+          "wordCount": 1892,
           "title": "Dew Drop – March 4, 2026 (#4617)",
           "imageUrl": null
         },
@@ -912,7 +937,7 @@
           "description": "Top Links Windows App Development CLI v0.2: .NET support, manifest placeholders, “winapp store” and more! (Nikola Metulev) .NET 10: Secondary Toolbar Items for iOS and macOS in .NET MAUI (Leomaris Reyes) The JavaScript AI Build-a-thon Season 2 starts today! (Julia Muiruri) Give Your Agents Domain Expertise with Agent Skills in Microsoft Agent Framework (Sergey Menshykh) … Continue reading Dew Drop – March 3, 2026 (#4616)",
           "link": "https://www.alvinashcraft.com/2026/03/03/dew-drop-march-3-2026-4616/",
           "publishedOn": "2026-03-03T12:05:16.000Z",
-          "wordCount": 2095,
+          "wordCount": 2049,
           "title": "Dew Drop – March 3, 2026 (#4616)",
           "imageUrl": null
         },
@@ -922,7 +947,7 @@
           "description": "Top Links How to Stream Live Data into .NET MAUI DataGrid Using Firebase (Shalini Suresh) From idea to pull request: A practical guide to building with GitHub Copilot CLI (Ari LiVigni) Ralph built a Cross-Platform app using Uno Platform whilst I slept. (Nick Randolph) Microsoft Foundry: An End-to-End Platform for Building, Governing, and Scaling AI … Continue reading Dew Drop – March 2, 2026 (#4615)",
           "link": "https://www.alvinashcraft.com/2026/03/02/dew-drop-march-2-2026-4615/",
           "publishedOn": "2026-03-02T12:21:39.000Z",
-          "wordCount": 2637,
+          "wordCount": 2591,
           "title": "Dew Drop – March 2, 2026 (#4615)",
           "imageUrl": null
         },
@@ -932,7 +957,7 @@
           "description": "Top Links Azure SDK Release (February 2026) (Ronnie Geraghty) Announcing Shader Model 6.9 Retail and New D3D12 Improvements (Amar Patel & Serena Tang) Copilot Tasks: From Answers to Actions (Copilot Team) VS Code: Building Long-Distance Next Edit Suggestions (Vikram Duvvur, Gaurav Mittal & Benjamin Simmonds) Announcing new Cloud PC devices designed for Windows 365 (Stefan … Continue reading Dew Drop – February 27, 2026 (#4614)",
           "link": "https://www.alvinashcraft.com/2026/02/27/dew-drop-february-27-2026-4614/",
           "publishedOn": "2026-02-27T12:02:10.000Z",
-          "wordCount": 2179,
+          "wordCount": 2133,
           "title": "Dew Drop – February 27, 2026 (#4614)",
           "imageUrl": null
         },
@@ -942,7 +967,7 @@
           "description": "Top Links Azure Developer CLI (azd) – February 2026: JMESPath Queries & Deployment Slots (PuiChee (PC) Chan) The Rise of The Claw with OpenClaw’s Peter Steinberger | Hanselminutes (Scott Hanselman) Codex 5.3 vs 5.2 for .NET Developers (Sam Basu) GitHub Copilot CLI is now generally available (GitHub Team) Microsoft Agent Framework for .NET 1.0.0 RC2 … Continue reading Dew Drop – February 26, 2026 (#4613)",
           "link": "https://www.alvinashcraft.com/2026/02/26/dew-drop-february-26-2026-4613/",
           "publishedOn": "2026-02-26T12:06:36.000Z",
-          "wordCount": 2115,
+          "wordCount": 2069,
           "title": "Dew Drop – February 26, 2026 (#4613)",
           "imageUrl": null
         },
@@ -952,18 +977,8 @@
           "description": "Top Links Visual Studio February Update (Mark Downie) New Azure Open AI models bring fast, expressive, and real‑time AI experiences in Microsoft Foundry (Naomi Moneypenny) Guardrails, Hard Cases, and Daily Habits for MCP Adoption (Matt Mattei) Flutter & Dart’s 2026 roadmap (Emma Twersky) The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s … Continue reading Dew Drop – February 25, 2026 (#4612)",
           "link": "https://www.alvinashcraft.com/2026/02/25/dew-drop-february-25-2026-4612/",
           "publishedOn": "2026-02-25T12:13:21.000Z",
-          "wordCount": 2242,
+          "wordCount": 2196,
           "title": "Dew Drop – February 25, 2026 (#4612)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/02/24/dew-drop-february-24-2026-4611/",
-          "author": "Alvin A.",
-          "description": "Top Links Accelerate Enterprise UI Development with Syncfusion MCP Servers (Lokeshwaran Ragavan) Run OpenClaw Securely in Docker Sandboxes (Jennifer Kohl) The simplest and fastest way to setup OpenClaw (Ollama Team) Technology & Friends – Rachel Appel on Dark Patterns (David Giard) The Token Police (Rob Conery) The TechBash 2026 Call for Speakers Is Open (TechBash … Continue reading Dew Drop – February 24, 2026 (#4611)",
-          "link": "https://www.alvinashcraft.com/2026/02/24/dew-drop-february-24-2026-4611/",
-          "publishedOn": "2026-02-24T12:11:23.000Z",
-          "wordCount": 2435,
-          "title": "Dew Drop – February 24, 2026 (#4611)",
           "imageUrl": null
         }
       ]
@@ -992,12 +1007,22 @@
       "siteUrl": "https://jaliyaudagedara.blogspot.com/",
       "articles": [
         {
+          "id": "https://jaliyaudagedara.blogspot.com/2026/03/c-15-collection-expression-arguments.html",
+          "author": null,
+          "description": "In this post, let's have a look at a new C# 15 feature:\n  Collection Expression Arguments&nbsp;which is now available with\n  .NET 11 Preview 1.0.\n\n\n  With C# 12, we got Collection Expressions which gave us a nice unified syntax\n  to initialize collections using [...]. But one thing we couldn't do was\n  pass arguments to the underlying collection's constructor. For example, if you\n  wanted to",
+          "link": "https://jaliyaudagedara.blogspot.com/2026/03/c-15-collection-expression-arguments.html",
+          "publishedOn": "2026-03-03T10:14:00.008Z",
+          "wordCount": 4401,
+          "title": "C# 15: Collection Expression Arguments",
+          "imageUrl": null
+        },
+        {
           "id": "https://jaliyaudagedara.blogspot.com/2026/02/connecting-azure-to-mongodb-atlas-via.html",
           "author": null,
           "description": "In this post, let's see how we can set up Azure Private Endpoints to\n  connect to a MongoDB Atlas cluster.\n\n\n  When we connect to a&nbsp;MongoDB Atlas&nbsp;cluster, we typically use\n  a connection string like this:\n\n\n  mongodb+srv://&lt;CLUSTER_NAME&gt;.bzmphh.mongodb.net\n\n\n\n  This goes over the public internet. If we are on Azure and want traffic to\n  stay private and routed through Azure's",
           "link": "https://jaliyaudagedara.blogspot.com/2026/02/connecting-azure-to-mongodb-atlas-via.html",
           "publishedOn": "2026-02-28T09:41:00.002Z",
-          "wordCount": 5116,
+          "wordCount": 5121,
           "title": "Connecting Azure to MongoDB Atlas via Private Endpoints",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiS8RDleUpaj6PvPzcUR_Uxlv1Ah-wkFwevIdzyT14VY14RPGBgru-_o73McdWybY6b64v6RqA_Fvd3Jj0JBVBYzS1iCLilmEM5eiJcptDMJx9CjRVCeygzy4qMedZIraQZt1I6vXcZ47Cgs0MnHx1nJVGFNfz6zNY-ZNx1-yM8lCYUa47wi36zwpDBfT0=w1200-h630-p-k-no-nu"
         },
@@ -1007,7 +1032,7 @@
           "description": "Redis Insight is one\n  of the must-have tools if you are working with Redis. It provides a nice GUI\n  to browse keys, run commands, and monitor your Redis instance.\n\n\nFew years ago, I have previously blogged about&nbsp;Connecting to Azure Cache for Redis Instance from RedisInsight.&nbsp;Azure Cache for Redis is scheduled for retirement on September 30, 2028. Microsoft recommends migrating",
           "link": "https://jaliyaudagedara.blogspot.com/2026/02/connecting-to-azure-managed-redis.html",
           "publishedOn": "2026-02-25T10:26:00.001Z",
-          "wordCount": 4247,
+          "wordCount": 4250,
           "title": "Connecting to Azure Managed Redis Instance from Redis Insight",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEht5qB4JmUxp_K_Gx_aCTcBDsyDIfTSVYFZ0HXKWQ8FaE9QO6i14axp413B-CnzU5UN3T8PfIx6JwJ2O5lVgkJVXY8AK2ID-qB5bVJ9QqwCtpMh1RAEs-7k5HLq9tUIPSy3yeudZlJ4LrXR5H-HbSHTFqcKr5jRo5iTafiIcQWWe8lwJHJ_jEptlCiqFxo=w1200-h630-p-k-no-nu"
         }
@@ -1023,7 +1048,28 @@
       "title": "Michał Jankowski",
       "feedUrl": "https://www.jankowskimichal.pl/en/feed/",
       "siteUrl": "https://www.jankowskimichal.pl/en/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.jankowskimichal.pl/?p=4357",
+          "author": "Michał Jankowski",
+          "description": "Half of Spotify ’s pull requests are already generated automatically. Not as a demo. Not in a prototype. In production engineering workflows. That number made me rethink how software development is changing. Looking at today’s models and what they can do, I keep wondering how organizations are adjusting software development to this new reality. I  [...]\nArtykuł From writing code to writing intent: Where are You in the 2026 Agent shift? pochodzi z serwisu Michał Jankowski.",
+          "link": "https://www.jankowskimichal.pl/en/2026/03/from-writing-code-to-writing-intent-where-are-you-in-the-2026-agent-shift/",
+          "publishedOn": "2026-03-12T13:03:08.000Z",
+          "wordCount": 2875,
+          "title": "From writing code to writing intent: Where are You in the 2026 Agent shift?",
+          "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/03/2026.03.12-From-writing-code-to-writing-intent-Where-are-You-in-the-2026-Agent-shift.png"
+        },
+        {
+          "id": "https://www.jankowskimichal.pl/?p=4353",
+          "author": "Michał Jankowski",
+          "description": "It’s fascinating to hear which tasks people want to delegate to AI. Some time ago, during a discussion about GenAI ideas, I asked one question that completely changed the room: “What happens if the other person also comes with an AI partner?” Silence. That silence matters - because it reveals an unspoken assumption behind many  [...]\nArtykuł The disappearing human: Designing GenAI without losing the relationship layer pochodzi z serwisu Michał Jankowski.",
+          "link": "https://www.jankowskimichal.pl/en/2026/03/the-disappearing-human-designing-genai-without-losing-the-relationship-layer/",
+          "publishedOn": "2026-03-12T12:59:56.000Z",
+          "wordCount": 2018,
+          "title": "The disappearing human: Designing GenAI without losing the relationship layer",
+          "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/03/The-disappearing-human-Designing-GenAI-without-losing-the-relationship-layer.png"
+        }
+      ]
     },
     {
       "title": "Allen Conway",
@@ -1110,7 +1156,7 @@
           "publishedOn": "2026-02-15T12:34:13.000Z",
           "wordCount": 4664,
           "title": "AI Features in SQL Server 2025",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1773024444"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1773196637"
         },
         {
           "id": "http://dotnetstories.wordpress.com/?p=4060",
