@@ -32,7 +32,7 @@
           "description": "Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. \nJavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/javascript-for-everyone-destructuring/",
           "publishedOn": "2026-03-19T13:06:30.000Z",
-          "wordCount": 5744,
+          "wordCount": 5783,
           "title": "JavaScript for Everyone: Destructuring",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
         },
@@ -62,7 +62,7 @@
           "description": "Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.\nAbusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/abusing-customizable-selects/",
           "publishedOn": "2026-03-11T13:59:15.000Z",
-          "wordCount": 4902,
+          "wordCount": 4933,
           "title": "Abusing Customizable Selects",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/02/css-tricks-custom-select-folder-stack.mp4",
@@ -152,7 +152,7 @@
           "description": "Let’s get nuanced in this article and discuss the capabilities of both SVG and raster imaged so that you can make informed decisions in your own work.\nLoading Smarter: SVG vs. Raster Loaders in Modern Web Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/loading-smarter-svg-vs-raster-loaders-in-modern-web-design/",
           "publishedOn": "2026-02-23T14:18:16.000Z",
-          "wordCount": 3711,
+          "wordCount": 3814,
           "title": "Loading Smarter: SVG vs. Raster Loaders in Modern Web Design",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/raster-vs-vector.jpg"
         }
@@ -164,12 +164,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
+          "author": "hello@smashingmagazine.com (Ruben Ferreira Duarte)",
+          "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
+          "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
+          "publishedOn": "2026-03-24T13:00:00.000Z",
+          "wordCount": 6109,
+          "title": "Testing Font Scaling For Accessibility With Figma Variables",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
           "author": "hello@smashingmagazine.com (Godstime Aburu)",
           "description": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers practical solutions to fix it.",
           "link": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
           "publishedOn": "2026-03-20T13:00:00.000Z",
-          "wordCount": 5133,
+          "wordCount": 5121,
           "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly",
           "enclosure": {
             "url": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg",
@@ -199,7 +214,7 @@
           "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
           "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
           "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4474,
+          "wordCount": 4480,
           "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
@@ -214,7 +229,7 @@
           "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
           "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
           "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6379,
           "title": "Moving From Moment.js To The JS Temporal API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
@@ -229,7 +244,7 @@
           "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
           "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
           "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5097,
+          "wordCount": 5096,
           "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
@@ -259,7 +274,7 @@
           "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
           "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
           "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7456,
+          "wordCount": 7464,
           "title": "Persuasive Design: Ten Years Later",
           "enclosure": {
             "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
@@ -274,7 +289,7 @@
           "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.",
           "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
           "publishedOn": "2026-03-06T08:00:00.000Z",
-          "wordCount": 4575,
+          "wordCount": 4581,
           "title": "Human Strategy In An AI-Accelerated Workflow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg",
@@ -304,7 +319,7 @@
           "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
           "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5651,
+          "wordCount": 5645,
           "title": "Getting Started With The Popover API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
@@ -319,7 +334,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
           "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4411,
+          "wordCount": 4426,
           "title": "Fresh Energy In March (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
@@ -334,7 +349,7 @@
           "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
           "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
           "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4050,
+          "wordCount": 4071,
           "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
           "enclosure": {
             "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
@@ -349,7 +364,7 @@
           "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.",
           "link": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
           "publishedOn": "2026-02-23T10:00:00.000Z",
-          "wordCount": 4409,
+          "wordCount": 4405,
           "title": "A Designer’s Guide To Eco-Friendly Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designer-guide-eco-friendly-interfaces/designer-guide-eco-friendly-interfaces.jpg",
@@ -365,6 +380,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69c1dcba30a9b81e3ac436d8",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "If you've spent any time shipping Flutter apps manually, you already know the drill. Someone on the team finishes a feature, builds the APK locally, signs it (hopefully with the right keystore), uploa",
+          "link": "https://www.freecodecamp.org/news/build-a-complete-flutter-ci-cd-pipeline-with-codemagic/",
+          "publishedOn": "2026-03-24T00:37:14.000Z",
+          "wordCount": 5235,
+          "title": "How to Build a Complete Flutter CI/CD Pipeline with Codemagic: From PR Quality Gates to Automated Store Releases",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/914de6f3-5b7f-48ff-a092-1f8d095202e5.png"
+        },
+        {
+          "id": "69c1dc5930a9b81e3ac400fc",
+          "author": "Daniel Nwaneri",
+          "description": "I spent 64% of my weekly Claude budget before Wednesday building a tool designed to reduce Claude usage. That's the kind of irony that deserves its own specification. The tool is spec-writer: a Claude",
+          "link": "https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-guess-your-requirements/",
+          "publishedOn": "2026-03-24T00:35:37.000Z",
+          "wordCount": 3343,
+          "title": "How to Stop Letting AI Agents Guess Your Requirements",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/06a3ff85-4d60-4e05-b494-8d2f3e6024ac.png"
+        },
         {
           "id": "69c1abb330a9b81e3aa82e36",
           "author": "Bala Priya C",
@@ -444,26 +479,6 @@
           "wordCount": 4517,
           "title": "How to Set Up WebAuthn in Node.js for Passwordless Biometric Login",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8cc356c5-b011-4316-8236-a0443eb2cc03.png"
-        },
-        {
-          "id": "69bc3c86b238fd45a32512ba",
-          "author": "Beau Carnes",
-          "description": "Testing is the unsung hero of software development because shipping features is only half the battle. We just published a comprehensive course on the freeCodeCamp.org YouTube channel that will teach y",
-          "link": "https://www.freecodecamp.org/news/software-testing-with-playwright/",
-          "publishedOn": "2026-03-19T18:12:22.000Z",
-          "wordCount": 1138,
-          "title": "Software Testing with Playwright",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d64667fd-3a46-4b34-8dc9-89c5a56e59d3.jpg"
-        },
-        {
-          "id": "69bc38cfb238fd45a3231433",
-          "author": "Oleh Romanyuk",
-          "description": "Forms are often the gatekeepers to conversions on a site or application. Abandoned carts, partially signed-up users, and users who stop engaging with your app are often thanks to friction with forms.",
-          "link": "https://www.freecodecamp.org/news/automate-form-ux-audits-handbook/",
-          "publishedOn": "2026-03-19T17:56:31.000Z",
-          "wordCount": 7524,
-          "title": "How to Automate Form UX Audits: Errors, Hints, and Keyboard Flows",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5bf2b730-1a9f-46e9-9809-b63926589f00.png"
         }
       ]
     },
@@ -579,9 +594,9 @@
           "description": "This article explains two methods to obtain the current thread ID in .NET and shows which method is more performant.",
           "link": "https://dotnettips.wordpress.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/",
           "publishedOn": "2026-03-22T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4419,
           "title": "General Performance: Exploring Thread ID Retrieval Methods",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20260122_0957_image-generation_remix_01kfk6qq06eyebcxfd60v61j7v.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=17098",
@@ -589,9 +604,9 @@
           "description": "The text emphasizes the importance of transparency in the recruiting process, highlighting that unclear communication from recruiters can hinder trust. Job seekers should request essential details upfront, while recruiters are encouraged to lead with clarity and respect candidates' experience. Building relationships based on transparency strengthens the recruitment dynamic.",
           "link": "https://dotnettips.wordpress.com/2026/03/18/dotnetdave-says-good-recruiters-are-transparent-and-willing-to-share-details-about-the-job-position/",
           "publishedOn": "2026-03-18T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5997,
           "title": "dotNetDave Says… Good Recruiters Are Transparent and Willing to Share Details About the Job Position",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/02/20260226_0648_image-generation_remix_01kjczvkcmekjaxqhfhffsrtn5.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16502",
@@ -599,9 +614,9 @@
           "description": "String manipulation is crucial in modern applications, significantly impacting performance and memory usage in .NET. learn how to achieve nearly double the speed and zero memory allocations when a count is required from a regular expression.",
           "link": "https://dotnettips.wordpress.com/2026/03/15/regular-expression-performance-supercharge-your-match-counting/",
           "publishedOn": "2026-03-15T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4493,
           "title": "Regular Expression Performance: Supercharge Your Match Counting",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20260120_1251_jet-in-cosmic-trail_remix_01kfebtvpwem8t7m1y5smes2nj.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=17174",
@@ -609,9 +624,9 @@
           "description": "A new eBook by David McCarter offers software engineers practical strategies for effectively navigating the recruiting process. It emphasizes understanding recruiter dynamics, identifying high-quality recruiters, and avoiding common pitfalls. The guide aims to empower engineers to make informed career decisions and build productive relationships with recruiters, enhancing job search outcomes.",
           "link": "https://dotnettips.wordpress.com/2026/03/13/rock-your-career-the-recruiter-survival-guide-for-software-engineers-how-to-use-recruiters-without-getting-used/",
           "publishedOn": "2026-03-13T17:17:17.000Z",
-          "wordCount": null,
+          "wordCount": 5578,
           "title": "Rock Your Career: The Recruiter Survival Guide for Software Engineers – How to Use Recruiters Without Getting Used",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/03/chatgpt-image-mar-13-2026-01_50_55-pm.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=17166",
@@ -619,9 +634,9 @@
           "description": "In a recent podcast, Christian Buckley and I discussed the dual nature of AI, sparking excitement and anxiety among software engineers. We explored its implications for the future of the profession, its impact on software design and development, and how it will affect everyday life. Join us for insights and perspectives.",
           "link": "https://dotnettips.wordpress.com/2026/03/12/collabtalk-podcast-episode-183-with-david-mccarter/",
           "publishedOn": "2026-03-12T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4973,
           "title": "CollabTalk Podcast: Episode 183 with David McCarter",
-          "imageUrl": null
+          "imageUrl": "https://dotnettips.wordpress.com/wp-content/uploads/2026/03/2026-03-11_10-10-13.jpg"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=17125",
@@ -629,9 +644,9 @@
           "description": "The article critiques OpenAI's Sora 2 platform, highlighting its worsened user experience compared to Sora 1. Key features have been removed, leading to confusion and inefficiency for users. The author argues that Sora 2 exemplifies a troubling industry trend called \"enshittification,\" where tech platforms degrade service after users have invested in them, prompting potential user migration to alternatives.",
           "link": "https://dotnettips.wordpress.com/2026/03/12/ux-chronicles-how-openai-broke-sora/",
           "publishedOn": "2026-03-12T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 7646,
           "title": "UX Chronicles: How OpenAI Broke Sora",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/03/chatgpt-image-mar-5-2026-12_50_22-pm.png?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=17089",
@@ -639,9 +654,9 @@
           "description": "Clear naming standards in software development significantly enhance code readability, maintainability, and overall quality. Consistent naming reduces cognitive load, facilitates collaboration, and lowers long-term maintenance costs. Ignoring these standards leads to confusion, longer development times, and increased technical debt. Investing in robust naming conventions is essential for professional-grade software development.",
           "link": "https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/",
           "publishedOn": "2026-03-11T06:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5960,
           "title": "dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/02/dotnetdave-dotnetdave-says-clear-naming-standards-ai-2043.jpg?fit=1200%2C800&ssl=1"
         },
         {
           "id": "http://dotnettips.wordpress.com/?p=16486",
@@ -669,9 +684,9 @@
           "description": "The author critically reviews the AWS SDK for .NET, revealing alarming code quality issues, including 959,815 total violations and severe design flaws leading to potential memory leaks and resource management problems. Despite its popularity, the SDK presents significant risks for .NET developers, highlighting the importance of thorough assessment of open-source packages.",
           "link": "https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/",
           "publishedOn": "2026-03-01T07:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6278,
           "title": "Inside the AWS SDK for .NET: A Code Quality Wake-Up Call",
-          "imageUrl": null
+          "imageUrl": "https://i0.wp.com/dotnettips.wordpress.com/wp-content/uploads/2026/01/20260117_0900_image-generation_simple_compose_01kf67gr97fz5854cq5a3qkdr3.png?fit=1200%2C800&ssl=1"
         }
       ]
     },
@@ -813,18 +828,7 @@
       "title": "sahansera.dev RSS Feed",
       "feedUrl": "https://sahansera.dev/rss.xml",
       "siteUrl": "https://www.sahansera.dev",
-      "articles": [
-        {
-          "id": "https://www.sahansera.dev/introducing-gh-weekly-updates/",
-          "author": null,
-          "description": "If you’re anything like me, you’ve probably spent a Friday afternoon trying to remember everything you did that week. Maybe it’s for a…",
-          "link": "https://www.sahansera.dev/introducing-gh-weekly-updates/",
-          "publishedOn": "2026-02-22T00:00:00.000Z",
-          "wordCount": 1025,
-          "title": "Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries",
-          "imageUrl": "https://www.sahansera.dev/static/7efde64ef8c2163a170b28d74b46347d/9dc27/introducing-gh-weekly-updates.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Morning Dew by Alvin Ashcraft",
@@ -832,12 +836,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/03/24/dew-drop-march-24-2026-4631/",
+          "author": "Alvin A.",
+          "description": "Top Links Windows Community Toolkit – How Microsoft uses Uno Platform to Ship Fast (Michael Hawker) Announcing TypeScript 6.0 (Daniel Rosenwasser) Generative AI for Beginners .NET: Version 2 on .NET 10 (Pablo Lopes & Bruno Capuano) Announcing Aspire 13.2 (Maddy Montaquila & David Fowler) What Developers Say AI Is Actually Good For in Software Development … Continue reading Dew Drop – March 24, 2026 (#4631)",
+          "link": "https://www.alvinashcraft.com/2026/03/24/dew-drop-march-24-2026-4631/",
+          "publishedOn": "2026-03-24T10:58:09.000Z",
+          "wordCount": 2104,
+          "title": "Dew Drop – March 24, 2026 (#4631)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/03/23/dew-drop-march-23-2026-4630/",
           "author": "Alvin A.",
           "description": "Top Links Building real-world AI automation with Foundry Local and the Microsoft Agent Framework (Lee Stott) Rider 2026.1 Release Candidate Is Out! and ReSharper 2026.1 Release Candidate Released! (Sasha Ivanova) I’d Rather Be Writing Podcast – Will tech writers survive AI? Perspectives from two professors, Nupoor Ranade and Jeremy Merritt (Tom Johnson) Securing Azure AI Agents: … Continue reading Dew Drop – March 23, 2026 (#4630)",
           "link": "https://www.alvinashcraft.com/2026/03/23/dew-drop-march-23-2026-4630/",
           "publishedOn": "2026-03-23T11:10:48.000Z",
-          "wordCount": 2148,
+          "wordCount": 2157,
           "title": "Dew Drop – March 23, 2026 (#4630)",
           "imageUrl": null
         },
@@ -940,16 +954,6 @@
           "wordCount": 2640,
           "title": "Dew Drop – March 9, 2026 (#4620)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/03/06/dew-drop-march-6-2026-4619/",
-          "author": "Alvin A.",
-          "description": "Top Links Introducing GPT-5.4 in Microsoft Foundry (Naomi Moneypenny) ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out (Alexander Kurakin) Release v1.0 of the official MCP C# SDK (Mike Kistler) Windows Terminal Preview 1.25 Release (Dustin Howett) Model Context Protocol (MCP): A New Standard for AI Integrations in .NET (Arulraj Aboorvasamy) Making agents … Continue reading Dew Drop – March 6, 2026 (#4619)",
-          "link": "https://www.alvinashcraft.com/2026/03/06/dew-drop-march-6-2026-4619/",
-          "publishedOn": "2026-03-06T12:10:54.000Z",
-          "wordCount": 2262,
-          "title": "Dew Drop – March 6, 2026 (#4619)",
-          "imageUrl": null
         }
       ]
     },
@@ -988,12 +992,22 @@
       "siteUrl": "https://jaliyaudagedara.blogspot.com/",
       "articles": [
         {
+          "id": "https://jaliyaudagedara.blogspot.com/2026/03/ef-core-110-create-and-apply-migrations.html",
+          "author": null,
+          "description": "When working with migrations in Entity Framework Core, what we usually do is\n  first create the migration and then apply it to the database.\n\n\n  It has always been a two-step process, and that can be a bit annoying when you\n  are continuously developing.\n\ndotnet ef\n\n  dotnet ef migrations add Initial\ndotnet ef database update\n\n\n\n  Package Manager Console/PowerShell\n\n\n  Add-Migration Initial",
+          "link": "https://jaliyaudagedara.blogspot.com/2026/03/ef-core-110-create-and-apply-migrations.html",
+          "publishedOn": "2026-03-20T09:39:00.001Z",
+          "wordCount": 4230,
+          "title": "EF Core 11.0: Create and Apply Migrations in a Single Command",
+          "imageUrl": null
+        },
+        {
           "id": "https://jaliyaudagedara.blogspot.com/2026/03/ef-core-110-complex-types-and-json.html",
           "author": null,
           "description": "In this post, let's have a look at a nice improvement in\n  EF Core 11 around complex types, JSON columns, and inheritance mapping.\n\n\n  If you tried to use a complex type as a JSON column on an entity hierarchy\n  that uses TPT (Table-per-Type) or\n  TPC (Table-per-Concrete-Type) in EF Core 10, you would have\n  noticed that it was not working as expected. With EF Core 11, that\n  limitation is now",
           "link": "https://jaliyaudagedara.blogspot.com/2026/03/ef-core-110-complex-types-and-json.html",
           "publishedOn": "2026-03-17T02:07:00.001Z",
-          "wordCount": 4571,
+          "wordCount": 4583,
           "title": "EF Core 11.0: Complex Types and JSON Columns on Entity Types with TPT/TPC Inheritance",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj9tUqDEpUhaf1scEOjvt0dF44YKUr4PuRJsMRz5PXxsrWSzZOxg1tOrRfAbuPasG-A0vCS9Efb96A3TGDSIXfJjkvNRuK9ovfPXMszfUCDTg4g5keovX7hvbSuHKcHFX4r2PmUrLkIjVjNWu1P9ePp6f29Xv_ifPlRBpko0IjY5b4ApSQ4droajJXiowc=w1200-h630-p-k-no-nu"
         },
@@ -1003,7 +1017,7 @@
           "description": "In this post, let's have a look at a new C# 15 feature:\n  Collection Expression Arguments&nbsp;which is now available with\n  .NET 11 Preview 1.0.\n\n\n  With C# 12, we got Collection Expressions which gave us a nice unified syntax\n  to initialize collections using [...]. But one thing we couldn't do was\n  pass arguments to the underlying collection's constructor. For example, if you\n  wanted to",
           "link": "https://jaliyaudagedara.blogspot.com/2026/03/c-15-collection-expression-arguments.html",
           "publishedOn": "2026-03-03T10:14:00.008Z",
-          "wordCount": 4413,
+          "wordCount": 4423,
           "title": "C# 15: Collection Expression Arguments",
           "imageUrl": null
         },
@@ -1196,12 +1210,22 @@
       "siteUrl": "https://www.strathweb.com/posts/",
       "articles": [
         {
+          "id": "https://www.strathweb.com/2026/03/introducing-agentguard-declarative-guardrails-for-dotnet-ai-agents/",
+          "author": null,
+          "description": "As AI agents become more common in .NET applications, the question of how to keep them safe and well-behaved keeps coming up. Prompt injection, PII leakage, topic drift, tool call abuse - these are all problems that every team building with agents ends up having to deal with, often by hand-rolling ad-hoc checks. Python developers have had libraries like NeMo Guardrails and Guardrails AI to help with this for a while now, but the .NET side has been largely left to fend for itself.\nToday I would like to introduce AgentGuard, a library I have been working on to fill that gap - composable, declarative guardrails and safety controls for .NET AI agents.",
+          "link": "https://www.strathweb.com/2026/03/introducing-agentguard-declarative-guardrails-for-dotnet-ai-agents/",
+          "publishedOn": "2026-03-24T07:00:00.000Z",
+          "wordCount": 1571,
+          "title": "Introducing AgentGuard - declarative guardrails for .NET AI agents",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.strathweb.com/2026/03/pure-post-quantum-cryptography-tls-with-asp-net-core/",
           "author": null,
           "description": "Over the last few years, I have dedicated a lot of space on this blog to the topic of Post-Quantum Cryptography (PQC). Today, we will peek into the TLS 1.3 handshake.\nWhile hybrid mode TLS is the pragmatic choice for today’s internet, understanding how to construct a fully quantum-safe connection is critical for preparing for the deprecation of classical algorithms.\nIn this post, we are going to explore a “pure” PQC TLS stack: Post-Quantum Key Exchange, with Post-Quantum Authentication. We will configure an ASP.NET Core application running on Linux to use ML-DSA-65 for authentication and ML-KEM-768 for key exchange.",
           "link": "https://www.strathweb.com/2026/03/pure-post-quantum-cryptography-tls-with-asp-net-core/",
           "publishedOn": "2026-03-02T07:06:14.000Z",
-          "wordCount": 1956,
+          "wordCount": 1957,
           "title": "Pure Post Quantum Cryptography TLS with ASP.NET Core",
           "imageUrl": null
         },
@@ -1211,7 +1235,7 @@
           "description": "Recently, I dedicated quite a lot of room on this blog to the topic of running Phi locally. This time, I want to focus on a different aspect of adopting small language models like Phi - fine-tuning them. I already covered local fine-tuning in the past, so today we are going to do this with Azure Machine Learning (Azure ML).\nAzure ML is a comprehensive cloud service for accelerating and managing the machine learning project lifecycle. While local fine-tuning is great, moving to Azure ML makes a lot of sense when you need to scale, and/or when you want to experience the Nvidia GPUs without investing in hardware.\nWe are going to do LoRA fine-tuning of a Phi-4 model, and then deploy it to a managed batch endpoint for inference.",
           "link": "https://www.strathweb.com/2026/02/fine-tuning-phi-4-with-azure-ml/",
           "publishedOn": "2026-02-23T07:06:14.000Z",
-          "wordCount": 1870,
+          "wordCount": 1871,
           "title": "Fine-tuning Phi-4 with Azure ML",
           "imageUrl": null
         }

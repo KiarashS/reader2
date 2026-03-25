@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-03-24T02:44:29.245Z</updated>
+    <updated>2026-03-25T02:49:26.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Testing Font Scaling For Accessibility With Figma Variables]]></title>
+        <id>https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/</id>
+        <link href="https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/"/>
+        <updated>2026-03-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ruben Ferreira Duarte)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – March 24, 2026 (#4631)]]></title>
+        <id>https://www.alvinashcraft.com/2026/03/24/dew-drop-march-24-2026-4631/</id>
+        <link href="https://www.alvinashcraft.com/2026/03/24/dew-drop-march-24-2026-4631/"/>
+        <updated>2026-03-24T10:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Top Links Windows Community Toolkit – How Microsoft uses Uno Platform to Ship Fast (Michael Hawker) Announcing TypeScript 6.0 (Daniel Rosenwasser) Generative AI for Beginners .NET: Version 2 on .NET 10 (Pablo Lopes & Bruno Capuano) Announcing Aspire 13.2 (Maddy Montaquila & David Fowler) What Developers Say AI Is Actually Good For in Software Development … Continue reading Dew Drop – March 24, 2026 (#4631)]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing AgentGuard - declarative guardrails for .NET AI agents]]></title>
+        <id>https://www.strathweb.com/2026/03/introducing-agentguard-declarative-guardrails-for-dotnet-ai-agents/</id>
+        <link href="https://www.strathweb.com/2026/03/introducing-agentguard-declarative-guardrails-for-dotnet-ai-agents/"/>
+        <updated>2026-03-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As AI agents become more common in .NET applications, the question of how to keep them safe and well-behaved keeps coming up. Prompt injection, PII leakage, topic drift, tool call abuse - these are all problems that every team building with agents ends up having to deal with, often by hand-rolling ad-hoc checks. Python developers have had libraries like NeMo Guardrails and Guardrails AI to help with this for a while now, but the .NET side has been largely left to fend for itself.
+Today I would like to introduce AgentGuard, a library I have been working on to fill that gap - composable, declarative guardrails and safety controls for .NET AI agents.]]></summary>
+        <author>
+            <name>Archive on Strathweb. A free flowing tech monologue.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Complete Flutter CI/CD Pipeline with Codemagic: From PR Quality Gates to Automated Store Releases]]></title>
+        <id>69c1dcba30a9b81e3ac436d8</id>
+        <link href="https://www.freecodecamp.org/news/build-a-complete-flutter-ci-cd-pipeline-with-codemagic/"/>
+        <updated>2026-03-24T00:37:14.000Z</updated>
+        <summary type="html"><![CDATA[If you've spent any time shipping Flutter apps manually, you already know the drill. Someone on the team finishes a feature, builds the APK locally, signs it (hopefully with the right keystore), uploa]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Letting AI Agents Guess Your Requirements]]></title>
+        <id>69c1dc5930a9b81e3ac400fc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-guess-your-requirements/"/>
+        <updated>2026-03-24T00:35:37.000Z</updated>
+        <summary type="html"><![CDATA[I spent 64% of my weekly Claude budget before Wednesday building a tool designed to reduce Claude usage. That's the kind of irony that deserves its own specification. The tool is spec-writer: a Claude]]></summary>
+        <author>
+            <name>Daniel Nwaneri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the Command Pattern in Python]]></title>
         <id>69c1abb330a9b81e3aa82e36</id>
@@ -238,6 +289,33 @@ Experimenting With Scroll-Driven corner-shape Animations originally published on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EF Core 11.0: Create and Apply Migrations in a Single Command]]></title>
+        <id>https://jaliyaudagedara.blogspot.com/2026/03/ef-core-110-create-and-apply-migrations.html</id>
+        <link href="https://jaliyaudagedara.blogspot.com/2026/03/ef-core-110-create-and-apply-migrations.html"/>
+        <updated>2026-03-20T09:39:00.001Z</updated>
+        <summary type="html"><![CDATA[When working with migrations in Entity Framework Core, what we usually do is
+  first create the migration and then apply it to the database.
+
+
+  It has always been a two-step process, and that can be a bit annoying when you
+  are continuously developing.
+
+dotnet ef
+
+  dotnet ef migrations add Initial
+dotnet ef database update
+
+
+
+  Package Manager Console/PowerShell
+
+
+  Add-Migration Initial]]></summary>
+        <author>
+            <name>Jaliya's Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Set Up WebAuthn in Node.js for Passwordless Biometric Login]]></title>
         <id>69bc51d6b238fd45a32f1cb0</id>
         <link href="https://www.freecodecamp.org/news/set-up-webauthn-in-node-js-for-passwordless-biometric-login/"/>
@@ -245,26 +323,6 @@ Experimenting With Scroll-Driven corner-shape Animations originally published on
         <summary type="html"><![CDATA[JWT auth feels clean until a stolen token still looks valid to your server. That's the real problem: a bearer token proves possession of a token, but it doesn't prove possession of a trusted device. I]]></summary>
         <author>
             <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Testing with Playwright]]></title>
-        <id>69bc3c86b238fd45a32512ba</id>
-        <link href="https://www.freecodecamp.org/news/software-testing-with-playwright/"/>
-        <updated>2026-03-19T18:12:22.000Z</updated>
-        <summary type="html"><![CDATA[Testing is the unsung hero of software development because shipping features is only half the battle. We just published a comprehensive course on the freeCodeCamp.org YouTube channel that will teach y]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Form UX Audits: Errors, Hints, and Keyboard Flows]]></title>
-        <id>69bc38cfb238fd45a3231433</id>
-        <link href="https://www.freecodecamp.org/news/automate-form-ux-audits-handbook/"/>
-        <updated>2026-03-19T17:56:31.000Z</updated>
-        <summary type="html"><![CDATA[Forms are often the gatekeepers to conversions on a site or application. Abandoned carts, partially signed-up users, and users who stop engaging with your app are often thanks to friction with forms.]]></summary>
-        <author>
-            <name>Oleh Romanyuk</name>
         </author>
     </entry>
     <entry>
@@ -624,16 +682,6 @@ The Value of z-index originally published on CSS-Tricks, which is part of the Di
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop – March 6, 2026 (#4619)]]></title>
-        <id>https://www.alvinashcraft.com/2026/03/06/dew-drop-march-6-2026-4619/</id>
-        <link href="https://www.alvinashcraft.com/2026/03/06/dew-drop-march-6-2026-4619/"/>
-        <updated>2026-03-06T12:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Introducing GPT-5.4 in Microsoft Foundry (Naomi Moneypenny) ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out (Alexander Kurakin) Release v1.0 of the official MCP C# SDK (Mike Kistler) Windows Terminal Preview 1.25 Release (Dustin Howett) Model Context Protocol (MCP): A New Standard for AI Integrations in .NET (Arulraj Aboorvasamy) Making agents … Continue reading Dew Drop – March 6, 2026 (#4619)]]></summary>
-        <author>
-            <name>Alvin A.</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Human Strategy In An AI-Accelerated Workflow]]></title>
         <id>https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/</id>
         <link href="https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/"/>
@@ -987,16 +1035,6 @@ We are going to do LoRA fine-tuning of a Phi-4 model, and then deploy it to a ma
         <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
         <author>
             <name>Peter Ritchie's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries]]></title>
-        <id>https://www.sahansera.dev/introducing-gh-weekly-updates/</id>
-        <link href="https://www.sahansera.dev/introducing-gh-weekly-updates/"/>
-        <updated>2026-02-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re anything like me, you’ve probably spent a Friday afternoon trying to remember everything you did that week. Maybe it’s for a…]]></summary>
-        <author>
-            <name>sahansera.dev RSS Feed</name>
         </author>
     </entry>
 </feed>
