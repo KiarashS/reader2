@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-04-12T03:31:32.017Z</updated>
+    <updated>2026-04-13T03:37:56.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections]]></title>
+        <id>https://dotnettips.com/?p=16589</id>
+        <link href="https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/"/>
+        <updated>2026-04-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Count vs IsEmpty can be the difference between fast code and a performance disaster. For some immutable and concurrent collections, the wrong choice is tens of thousands of times slower.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Secure AI PR Reviewer with Claude, GitHub Actions, and JavaScript]]></title>
         <id>69d965cac8e5007ddbff6584</id>
@@ -822,16 +832,6 @@ Artykuł AI Governance is no longer optional (Mar 10, 2026) pochodzi z serwisu M
         <summary type="html"><![CDATA[A new eBook by David McCarter offers software engineers practical strategies for effectively navigating the recruiting process. It emphasizes understanding recruiter dynamics, identifying high-quality recruiters, and avoiding common pitfalls. The guide aims to empower engineers to make informed career decisions and build productive relationships with recruiters, enhancing job search outcomes.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving From Moment.js To The JS Temporal API]]></title>
-        <id>https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/</id>
-        <link href="https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/"/>
-        <updated>2026-03-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joe Attardi)</name>
         </author>
     </entry>
 </feed>
