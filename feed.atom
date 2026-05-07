@@ -2,16 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-05-06T03:50:01.933Z</updated>
+    <updated>2026-05-07T03:49:25.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Logo?]]></title>
-        <id>stories/737626</id>
-        <link href="https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/"/>
-        <updated>2026-05-06T03:49:32.019Z</updated>
-        <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.]]></summary>
+        <title type="html"><![CDATA[Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs]]></title>
+        <id>stories/737894</id>
+        <link href="https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/"/>
+        <updated>2026-05-07T03:48:56.202Z</updated>
+        <summary type="html"><![CDATA[Transform healthcare and life sciences with Claude on Microsoft Foundry-trusted AI for compliance, workflows, and innovation.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Functions & Durable Functions Part 1]]></title>
+        <id>stories/737117</id>
+        <link href="https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/"/>
+        <updated>2026-05-07T03:48:55.915Z</updated>
+        <summary type="html"><![CDATA[As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -20,8 +30,48 @@
         <title type="html"><![CDATA[Fundamentals of AI]]></title>
         <id>stories/738416</id>
         <link href="https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/"/>
-        <updated>2026-05-06T03:49:32.018Z</updated>
+        <updated>2026-05-07T03:48:55.643Z</updated>
         <summary type="html"><![CDATA[I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logo?]]></title>
+        <id>stories/737626</id>
+        <link href="https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/"/>
+        <updated>2026-05-07T03:48:55.385Z</updated>
+        <summary type="html"><![CDATA[Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Dluzen on Azure Functions & Durable Functions]]></title>
+        <id>stories/736946</id>
+        <link href="https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/"/>
+        <updated>2026-05-07T03:48:55.331Z</updated>
+        <summary type="html"><![CDATA[I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EF Core Lazy Loading Performance Gotcha]]></title>
+        <id>stories/737816</id>
+        <link href="https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha"/>
+        <updated>2026-05-07T03:48:55.139Z</updated>
+        <summary type="html"><![CDATA[Mark Heath's Development Blog]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoPilot Gets Us Started]]></title>
+        <id>stories/738494</id>
+        <link href="https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/"/>
+        <updated>2026-05-07T03:48:54.915Z</updated>
+        <summary type="html"><![CDATA[In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -30,18 +80,8 @@
         <title type="html"><![CDATA[Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence]]></title>
         <id>stories/737305</id>
         <link href="https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/"/>
-        <updated>2026-05-06T03:49:31.975Z</updated>
+        <updated>2026-05-07T03:48:54.671Z</updated>
         <summary type="html"><![CDATA[How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs]]></title>
-        <id>stories/737894</id>
-        <link href="https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/"/>
-        <updated>2026-05-06T03:49:31.974Z</updated>
-        <summary type="html"><![CDATA[Transform healthcare and life sciences with Claude on Microsoft Foundry-trusted AI for compliance, workflows, and innovation.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -50,7 +90,7 @@
         <title type="html"><![CDATA[Azure updates for partners: December 2025]]></title>
         <id>stories/736815</id>
         <link href="https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025"/>
-        <updated>2026-05-06T03:49:31.822Z</updated>
+        <updated>2026-05-07T03:48:54.608Z</updated>
         <summary type="html"><![CDATA[Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
@@ -60,28 +100,8 @@
         <title type="html"><![CDATA[Linear Regression with Pseudo-Inverse Training Using JavaScript]]></title>
         <id>stories/739299</id>
         <link href="https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx"/>
-        <updated>2026-05-06T03:49:31.656Z</updated>
+        <updated>2026-05-07T03:48:54.307Z</updated>
         <summary type="html"><![CDATA[Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The danger of glamourizing one shots]]></title>
-        <id>stories/739584</id>
-        <link href="https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots"/>
-        <updated>2026-05-06T03:49:31.504Z</updated>
-        <summary type="html"><![CDATA[People should not be judging AI-augmented coding by '1 shots.' If someone told ...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joe Dluzen on Azure Functions & Durable Functions]]></title>
-        <id>stories/736946</id>
-        <link href="https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/"/>
-        <updated>2026-05-06T03:49:31.443Z</updated>
-        <summary type="html"><![CDATA[I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -90,38 +110,8 @@
         <title type="html"><![CDATA[HyperVideo Features]]></title>
         <id>stories/738686</id>
         <link href="https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/"/>
-        <updated>2026-05-06T03:49:31.321Z</updated>
+        <updated>2026-05-07T03:48:47.422Z</updated>
         <summary type="html"><![CDATA[In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial "release," and some are simply aspirational.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning AI]]></title>
-        <id>stories/737522</id>
-        <link href="https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/"/>
-        <updated>2026-05-06T03:49:31.236Z</updated>
-        <summary type="html"><![CDATA[Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoPilot Gets Us Started]]></title>
-        <id>stories/738494</id>
-        <link href="https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/"/>
-        <updated>2026-05-06T03:49:30.950Z</updated>
-        <summary type="html"><![CDATA[In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.]]></summary>
-        <author>
-            <name>dotnetkicks.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Year in Review]]></title>
-        <id>stories/737343</id>
-        <link href="https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review"/>
-        <updated>2026-05-06T03:49:30.929Z</updated>
-        <summary type="html"><![CDATA[Mark Heath's Development Blog]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -130,18 +120,38 @@
         <title type="html"><![CDATA[Essential Programmer Utilities]]></title>
         <id>stories/738621</id>
         <link href="https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/"/>
-        <updated>2026-05-06T03:49:30.927Z</updated>
+        <updated>2026-05-07T03:48:47.173Z</updated>
         <summary type="html"><![CDATA[Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure Functions & Durable Functions Part 1]]></title>
-        <id>stories/737117</id>
-        <link href="https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/"/>
-        <updated>2026-05-06T03:49:30.881Z</updated>
-        <summary type="html"><![CDATA[As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.]]></summary>
+        <title type="html"><![CDATA[2025 Year in Review]]></title>
+        <id>stories/737343</id>
+        <link href="https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review"/>
+        <updated>2026-05-07T03:48:46.997Z</updated>
+        <summary type="html"><![CDATA[Mark Heath's Development Blog]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The danger of glamourizing one shots]]></title>
+        <id>stories/739584</id>
+        <link href="https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots"/>
+        <updated>2026-05-07T03:48:46.975Z</updated>
+        <summary type="html"><![CDATA[People should not be judging AI-augmented coding by '1 shots.' If someone told ...]]></summary>
+        <author>
+            <name>dotnetkicks.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning AI]]></title>
+        <id>stories/737522</id>
+        <link href="https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/"/>
+        <updated>2026-05-07T03:48:46.973Z</updated>
+        <summary type="html"><![CDATA[Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
@@ -150,20 +160,95 @@
         <title type="html"><![CDATA[An AI Project]]></title>
         <id>stories/738475</id>
         <link href="https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/"/>
-        <updated>2026-05-06T03:49:30.584Z</updated>
+        <updated>2026-05-07T03:48:46.729Z</updated>
         <summary type="html"><![CDATA[As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).]]></summary>
         <author>
             <name>dotnetkicks.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EF Core Lazy Loading Performance Gotcha]]></title>
-        <id>stories/737816</id>
-        <link href="https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha"/>
-        <updated>2026-05-06T03:49:30.572Z</updated>
-        <summary type="html"><![CDATA[Mark Heath's Development Blog]]></summary>
+        <title type="html"><![CDATA[The Hammer Always Fits: When AI Becomes the Only Tool in Your Developer’s Toolbox]]></title>
+        <id>https://www.jankowskimichal.pl/?p=4392</id>
+        <link href="https://www.jankowskimichal.pl/en/2026/05/the-hammer-always-fits-when-ai-becomes-the-only-tool-in-your-developers-toolbox/"/>
+        <updated>2026-05-06T20:10:16.000Z</updated>
+        <summary type="html"><![CDATA[The productivity gains from AI coding tools are real. So is the quiet erosion happening underneath them. Enterprises are deploying Copilot, Claude, and Cursor across engineering teams, measuring code velocity, and calling it a win - while the engineering judgment those tools depend on slowly atrophies. This isn't a story about AI being bad. It's  [...]
+Artykuł The Hammer Always Fits: When AI Becomes the Only Tool in Your Developer’s Toolbox pochodzi z serwisu Michał Jankowski.]]></summary>
         <author>
-            <name>dotnetkicks.com</name>
+            <name>Michał Jankowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Prompt API]]></title>
+        <id>https://css-tricks.com/?p=394653</id>
+        <link href="https://css-tricks.com/googles-prompt-api/"/>
+        <updated>2026-05-06T19:41:29.000Z</updated>
+        <summary type="html"><![CDATA[Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:
+As a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, 
+…
+Google’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITCM vs DTCM vs DDR: Embedded Memory Types Explained [Full Handbook]]]></title>
+        <id>69fb8bbc50ecad4533638e41</id>
+        <link href="https://www.freecodecamp.org/news/itcm-vs-dtcm-vs-ddr-embedded-memory-types-explained-handbook/"/>
+        <updated>2026-05-06T18:43:08.000Z</updated>
+        <summary type="html"><![CDATA[Most embedded engineers hit this problem early on: the same code on the same processor runs fast in one scenario and surprisingly slow in another. The culprit is almost always where the code and data]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Review: Improving Language Understanding by Generative Pre-Training (GPT-1)]]></title>
+        <id>69fb84ad50ecad45335e5367</id>
+        <link href="https://www.freecodecamp.org/news/ai-paper-review-improving-language-understanding-by-generative-pre-training-gpt-1/"/>
+        <updated>2026-05-06T18:13:01.000Z</updated>
+        <summary type="html"><![CDATA[We use AI tools all the time, whether it’s asking questions, generating images, or getting help with everyday tasks. But most of these tools didn’t appear out of nowhere. They were developed based on]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Market Research Copilot with MCP and Python [Full Handbook]]]></title>
+        <id>69fb845950ecad45335e0fe2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-market-research-copilot-with-mcp-and-python-handbook/"/>
+        <updated>2026-05-06T18:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Most financial AI tools are good at one thing: summarizing a stock. You ask about Apple, NVIDIA, or Tesla, and they give you a clean overview of price action, a few ratios, and maybe some company cont]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Zigzag CSS Layouts With a Grid + Transform Trick]]></title>
+        <id>https://css-tricks.com/?p=393013</id>
+        <link href="https://css-tricks.com/zigzag-css-grid-layouts/"/>
+        <updated>2026-05-06T13:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.
+Making Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop – May 6, 2026 (#4662)]]></title>
+        <id>https://www.alvinashcraft.com/2026/05/06/dew-drop-may-6-2026-4662/</id>
+        <link href="https://www.alvinashcraft.com/2026/05/06/dew-drop-may-6-2026-4662/"/>
+        <updated>2026-05-06T10:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Top Links ZoomIt, Evolved (Scott Hanselman & Mark Russinovich) How to Fix Slow EF Core Queries: Practical Performance Tuning (Arulraj Aboorvasamy) Apps That See: Bringing Vision AI to Your Projects (Frank Boucher) Node.js 26.0.0 (Current) (Rafael Gonzaga) Introducing OpenAI’s newest chat model in Microsoft Foundry (Naomi Moneypenny) Real-world WPF Modernization Showcase (Sam Basu) Web and … Continue reading Dew Drop – May 6, 2026 (#4662)]]></summary>
+        <author>
+            <name>Alvin A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Architecture Of Local-First Web Development]]></title>
+        <id>https://smashingmagazine.com/2026/05/architecture-local-first-web-development/</id>
+        <link href="https://smashingmagazine.com/2026/05/architecture-local-first-web-development/"/>
+        <updated>2026-05-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
         </author>
     </entry>
     <entry>
@@ -257,26 +342,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Navigate Microservices as a Frontend Engineer]]></title>
-        <id>69f8de9b46610fd6060f5251</id>
-        <link href="https://www.freecodecamp.org/news/how-to-navigate-microservices-as-a-frontend-engineer/"/>
-        <updated>2026-05-04T17:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Most frontend engineers don't choose microservices. They inherit them. One day you're fetching data from a single API, and the next you're stitching together responses from five services, each with it]]></summary>
-        <author>
-            <name>Abisoye Alli-Balogun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Compress PDF Files in the Browser Using JavaScript (Step-by-Step)]]></title>
-        <id>69f8b15246610fd606f2d8da</id>
-        <link href="https://www.freecodecamp.org/news/how-to-compress-pdf-files-in-the-browser-using-javascript/"/>
-        <updated>2026-05-04T14:46:42.000Z</updated>
-        <summary type="html"><![CDATA[PDF files are everywhere. From invoices and reports to résumés and documents, they’re one of the most common file formats we deal with. But there’s a common problem: PDFs can get large quickly. If you]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fixed-Height Cards: More Fragile Than They Look]]></title>
         <id>https://css-tricks.com/?p=393102</id>
         <link href="https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/"/>
@@ -316,16 +381,6 @@ Fixed-Height Cards: More Fragile Than They Look originally handwritten and publi
 What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stanford's youngest instructor talks InfoSec, AI, and catching cheaters - Rachel Fernandez interview [Podcast #217]]]></title>
-        <id>69f487c41637663d8b07deab</id>
-        <link href="https://www.freecodecamp.org/news/stanford-s-youngest-instructor-talks-infosec-ai-and-catching-cheaters-rachel-fernandez-interview-podcast-217/"/>
-        <updated>2026-05-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today Quincy Larson interviews Rachel An Fernandez. She's a computer science student at Stanford and the youngest instructor at the entire university. She recently helped organize TreeHacks, Stanford']]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -755,16 +810,6 @@ Enhancing Astro With a Markdown Component originally handwritten and published w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop – April 21, 2026 (#4651)]]></title>
-        <id>https://www.alvinashcraft.com/2026/04/21/dew-drop-april-21-2026-4651/</id>
-        <link href="https://www.alvinashcraft.com/2026/04/21/dew-drop-april-21-2026-4651/"/>
-        <updated>2026-04-21T10:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Top Links Writing Node.js addons with .NET Native AOT (Drew Noakes) Changes to GitHub Copilot Individual plans (Joe Binder) VS Code Agents Insiders: The AI-First Editor Built for Developers and Students (Lee Stott) GitHub Copilot meets Azure Developer CLI: AI-assisted project setup and error troubleshooting (Kristen Womack) 7 XAML Resource Keys AI Got Wrong in … Continue reading Dew Drop – April 21, 2026 (#4651)]]></summary>
-        <author>
-            <name>Alvin A.</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Removing byte[] allocations in .NET Framework using ReadOnlySpan<T>]]></title>
         <id>https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/</id>
         <link href="https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/"/>
@@ -911,17 +956,6 @@ The Radio State Machine originally handwritten and published with love on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 View Transitions Recipes to Try]]></title>
-        <id>https://css-tricks.com/?p=392002</id>
-        <link href="https://css-tricks.com/7-view-transitions-recipes-to-try/"/>
-        <updated>2026-04-13T14:14:43.000Z</updated>
-        <summary type="html"><![CDATA[Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!
-7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections]]></title>
         <id>https://dotnettips.com/?p=16589</id>
         <link href="https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/"/>
@@ -939,17 +973,6 @@ The Radio State Machine originally handwritten and published with love on CSS-Tr
         <summary type="html"><![CDATA[Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selecting a Date Range in CSS]]></title>
-        <id>https://css-tricks.com/?p=393088</id>
-        <link href="https://css-tricks.com/selecting-a-date-range-in-css/"/>
-        <updated>2026-04-09T13:52:56.000Z</updated>
-        <summary type="html"><![CDATA[A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.
-Selecting a Date Range in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
     <entry>
@@ -1016,16 +1039,6 @@ Specifically:
     Expose AI endpoints via APIM (e.g., Language Model APIs / Foundry)]]></summary>
         <author>
             <name>Jaliya's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things That Caught My Attention Last Week - April 5]]></title>
-        <id>http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-april-5</id>
-        <link href="http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-april-5"/>
-        <updated>2026-04-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
-        <author>
-            <name>Peter Ritchie's Blog</name>
         </author>
     </entry>
 </feed>
