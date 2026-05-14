@@ -12,12 +12,52 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?page_id=393625",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotateX() function rotates an element around the x-axis in a three-dimensional space\nrotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotatex/",
+          "publishedOn": "2026-05-13T14:36:54.000Z",
+          "wordCount": 4618,
+          "title": "rotateX()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393615",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotateY() function rotates an element around its vertical y-axis.\nrotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotatey/",
+          "publishedOn": "2026-05-13T14:33:58.000Z",
+          "wordCount": 4719,
+          "title": "rotateY()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393630",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. \nrotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotatez/",
+          "publishedOn": "2026-05-13T14:33:03.000Z",
+          "wordCount": 4001,
+          "title": "rotateZ()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393611",
+          "author": "Gabriel Shoyombo",
+          "description": "The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.\nrotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/r/rotate/",
+          "publishedOn": "2026-05-13T14:32:47.000Z",
+          "wordCount": 4200,
+          "title": "rotate()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=393604",
           "author": "Mat Marquis",
           "description": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
           "publishedOn": "2026-05-12T13:59:35.000Z",
-          "wordCount": 4903,
+          "wordCount": 5077,
           "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/js-shadow.png"
         },
@@ -125,56 +165,6 @@
           "wordCount": 6640,
           "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/10/nth-letter.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392970",
-          "author": "John Rhea",
-          "description": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\nRecreating Apple’s Vision Pro Animation in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/",
-          "publishedOn": "2026-04-23T13:22:57.000Z",
-          "wordCount": 4694,
-          "title": "Recreating Apple’s Vision Pro Animation in CSS",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/03/AppleSite.mov",
-            "length": "40640388",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/apple-vision-pro.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392286",
-          "author": "Zell Liew",
-          "description": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\nEnhancing Astro With a Markdown Component originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/astro-markdown-component/",
-          "publishedOn": "2026-04-22T13:49:57.000Z",
-          "wordCount": 3392,
-          "title": "Enhancing Astro With a Markdown Component",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392278",
-          "author": "Zell Liew",
-          "description": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\nMarkdown + Astro = ❤️ originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/markdown-astro/",
-          "publishedOn": "2026-04-20T13:55:16.000Z",
-          "wordCount": 3479,
-          "title": "Markdown + Astro = ❤️",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/mdx-astro.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393515",
-          "author": "Daniel Schwarz",
-          "description": "This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.\nWhat’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-9/",
-          "publishedOn": "2026-04-17T14:00:41.000Z",
-          "wordCount": 3398,
-          "title": "What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/2.mp4",
-            "length": "219737",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/wh9.jpg"
         }
       ]
     },
@@ -184,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
+          "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
+          "publishedOn": "2026-05-13T13:00:00.000Z",
+          "wordCount": 6273,
+          "title": "Practical Interface Patterns For AI Transparency (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "author": "hello@smashingmagazine.com (Durgesh Pawar)",
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8648,
+          "wordCount": 8760,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -219,7 +224,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6545,
+          "wordCount": 6554,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -234,7 +239,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4610,
+          "wordCount": 4609,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -249,7 +254,7 @@
           "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
           "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
           "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4614,
+          "wordCount": 4615,
           "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
@@ -264,7 +269,7 @@
           "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
           "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4153,
+          "wordCount": 4154,
           "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -279,7 +284,7 @@
           "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
           "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
           "publishedOn": "2026-04-20T13:00:00.000Z",
-          "wordCount": 4711,
+          "wordCount": 4707,
           "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
@@ -435,36 +440,56 @@
       ]
     },
     {
-      "title": "Rick Strahl's Web Log",
+      "title": "Rick Strahl's Weblog",
       "feedUrl": "https://feeds.feedburner.com/rickstrahl",
       "siteUrl": "https://weblog.west-wind.com/",
       "articles": [
         {
-          "id": "5314605_202604240204",
-          "author": "Rick Strahl",
+          "id": "dkvnwxdbh42n",
+          "author": "(Rick Strahl)",
+          "description": "When I need to pick up the client IP Address in ASP.NET Core I always forget where to find the connection information.\nIt's also useful to remember that if requests are proxied we need to return the forwarded IP address, rather than the proxy's IP Address.\nGood ready to use a small helper extension method for the HttpRequest class that makes this more easily accessible:\n/// <summary>\n/// Returns the client IP Address for a request.\n///\n/// Checks proxy forwarding first, then the actual ip\n/// and returns null if not available.\n/// </summary>\n/// <param name=\"context\">HttpRequest instance</param>\n/// <returns>\n/// IP Address or null if not available. Note local IP\n/// tends to get returned as IPv6 `::1` value.\n/// </returns>\npublic static string GetClientIpAddress(this HttpRequest request)\n{\n    if (request == null) return null;\n\n    return request.Headers[\"X-Forwarded-For\"].FirstOrDefault() ??\n           request.HttpContext?.Connection?.RemoteIpAddress?.ToString() ??\n           null;\n}\n\nYou can also find this as part of the HttpRequestExtensions class in the Westwind.AspNetCore package here which provides a host of other small, but frequently used extensions.\n\nSummary\nNothing new here, but given how often I fumble for this value, creating this wrapper and putting a reminder here for quick lookup seems worth the effort 😄\nResources\nWestwind.AspNetCore on Github",
+          "link": "https://weblog.west-wind.com/https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core",
+          "publishedOn": "2026-05-13T10:35:26.000Z",
+          "wordCount": null,
+          "title": "Getting the Client IP Address in ASP.NET Core",
+          "imageUrl": null
+        },
+        {
+          "id": "5314605",
+          "author": "(Rick Strahl)",
           "description": "This is a two part series that discusses the Westwind.Scripting Template library\nPart 1: Revisiting C# Scripting with the Westwind.Scripting Templating Library\nPart 2: Real world integration for a Local Rendering and Web Site Generation\n (this post)\nIn part 1 of this series I introduced the Westwind.Scripting library, how it works and how you can use it and integrate it into your applications. In part 2, I'm going over implementation details of hosting a scripting engine for a specific scenario that generates local static Html output for a for a project based solution that requires both local preview and local Web site generation. As part of that process I'll point out a number of issues that you likely have to consider in this somewhat common scenario.\nIf you haven't already, I'd recommen…",
-          "link": "https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2",
-          "publishedOn": "2026-04-24T02:04:43.000Z",
-          "wordCount": 4748,
+          "link": "https://weblog.west-wind.com/https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2",
+          "publishedOn": "2026-04-23T16:04:43.000Z",
+          "wordCount": null,
           "title": "Putting the Westwind.Scripting C# Templating Library to work, Part 2",
-          "imageUrl": "https://weblog.west-wind.com/https://weblog.west-wind.com/images/2026/Revisiting-C-Scripting-with-the-Westwind-Scripting-Templating-Library,-Part-1/Part2-Banner.jpg"
+          "imageUrl": null
         }
       ]
     },
     {
-      "title": "Rick Strahl's Web Log",
+      "title": "Rick Strahl's Weblog",
       "feedUrl": "https://feeds.feedburner.com/RickStrahl",
       "siteUrl": "https://weblog.west-wind.com/",
       "articles": [
         {
-          "id": "5314605_202604240204",
-          "author": "Rick Strahl",
+          "id": "dkvnwxdbh42n",
+          "author": "(Rick Strahl)",
+          "description": "When I need to pick up the client IP Address in ASP.NET Core I always forget where to find the connection information.\nIt's also useful to remember that if requests are proxied we need to return the forwarded IP address, rather than the proxy's IP Address.\nGood ready to use a small helper extension method for the HttpRequest class that makes this more easily accessible:\n/// <summary>\n/// Returns the client IP Address for a request.\n///\n/// Checks proxy forwarding first, then the actual ip\n/// and returns null if not available.\n/// </summary>\n/// <param name=\"context\">HttpRequest instance</param>\n/// <returns>\n/// IP Address or null if not available. Note local IP\n/// tends to get returned as IPv6 `::1` value.\n/// </returns>\npublic static string GetClientIpAddress(this HttpRequest request)\n{\n    if (request == null) return null;\n\n    return request.Headers[\"X-Forwarded-For\"].FirstOrDefault() ??\n           request.HttpContext?.Connection?.RemoteIpAddress?.ToString() ??\n           null;\n}\n\nYou can also find this as part of the HttpRequestExtensions class in the Westwind.AspNetCore package here which provides a host of other small, but frequently used extensions.\n\nSummary\nNothing new here, but given how often I fumble for this value, creating this wrapper and putting a reminder here for quick lookup seems worth the effort 😄\nResources\nWestwind.AspNetCore on Github",
+          "link": "https://weblog.west-wind.com/https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core",
+          "publishedOn": "2026-05-13T10:35:26.000Z",
+          "wordCount": null,
+          "title": "Getting the Client IP Address in ASP.NET Core",
+          "imageUrl": null
+        },
+        {
+          "id": "5314605",
+          "author": "(Rick Strahl)",
           "description": "This is a two part series that discusses the Westwind.Scripting Template library\nPart 1: Revisiting C# Scripting with the Westwind.Scripting Templating Library\nPart 2: Real world integration for a Local Rendering and Web Site Generation\n (this post)\nIn part 1 of this series I introduced the Westwind.Scripting library, how it works and how you can use it and integrate it into your applications. In part 2, I'm going over implementation details of hosting a scripting engine for a specific scenario that generates local static Html output for a for a project based solution that requires both local preview and local Web site generation. As part of that process I'll point out a number of issues that you likely have to consider in this somewhat common scenario.\nIf you haven't already, I'd recommen…",
-          "link": "https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2",
-          "publishedOn": "2026-04-24T02:04:43.000Z",
-          "wordCount": 4744,
+          "link": "https://weblog.west-wind.com/https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2",
+          "publishedOn": "2026-04-23T16:04:43.000Z",
+          "wordCount": null,
           "title": "Putting the Westwind.Scripting C# Templating Library to work, Part 2",
-          "imageUrl": "https://weblog.west-wind.com/https://weblog.west-wind.com/images/2026/Revisiting-C-Scripting-with-the-Westwind-Scripting-Templating-Library,-Part-1/Part2-Banner.jpg"
+          "imageUrl": null
         }
       ]
     },
@@ -474,233 +499,23 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
-          "id": "stories/736132",
-          "author": null,
-          "description": "Explore Microsoft's SQL tooling updates, AI integration, and roadmap for SSMS, VS Code, and DevOps innovations. Learn more.",
-          "link": "https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/",
-          "publishedOn": "2026-05-13T04:00:48.508Z",
-          "wordCount": null,
-          "title": "How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/736976",
-          "author": null,
-          "description": "I am excited to announce the release of my new book, Build and Deploy Apps using Azure Developer CLI, a practical, hands-on guide for developers and teams who",
-          "link": "https://dotnetkicks.com/r/736976?url=https://build5nines.com/new-book-build-and-deploy-apps-using-azure-developer-cli-written-by-chris-pietschmann/",
-          "publishedOn": "2026-05-13T04:00:48.500Z",
-          "wordCount": null,
-          "title": "New Book: Build And Deploy Apps Using Azure Developer CLI By Chris Pietschmann | Build5Nines",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/736726",
-          "author": null,
-          "description": "Azure DevOps enhanced support for Microsoft.Testing.Platform, from running tests to publishing results!",
-          "link": "https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/",
-          "publishedOn": "2026-05-13T04:00:48.500Z",
-          "wordCount": null,
-          "title": "Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737327",
-          "author": null,
-          "description": "Recently, I was chatting with an engineer who was transitioning into a fully remote role for the first time in their career. They were excited, but also had a touch of anxiety about it.",
-          "link": "https://dotnetkicks.com/r/737327?url=https://rion.io/2025/12/30/striking-a-balance-working-fully-remote-for-nearly-a-decade/",
-          "publishedOn": "2026-05-13T04:00:48.489Z",
-          "wordCount": null,
-          "title": "Striking a Balance: Working Fully Remote for Nearly a Decade",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737508",
-          "author": null,
-          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Top .NET Videos & Live Streams of 2025 - .NET Blog Top .NET Blog Posts of 2025 - .NET Blog Java at Microsoft: 2025 Year in Review - Microsoft for Java Developers https://bsky.app/profile/tunaxor.me/post/3mbdl6vsbs222 Videos C# Source Generators - Why and How...",
-          "link": "https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/",
-          "publishedOn": "2026-05-13T04:00:48.488Z",
-          "wordCount": null,
-          "title": "F# Weekly #1, 2026 - Kipo &amp; future of MonoGame",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737651",
-          "author": null,
-          "description": "The post shows how to set the correct amr value when authenticating using ASP.NET Core Identity and passkeys in .NET 10. When authenticating using OpenID Connect and passkeys authentication, the OpenID Connect Extended Authentication Profile (EAP) ACR Values 1.0 specification should be used for the implementation. The amr claim should return the pop value.",
-          "link": "https://dotnetkicks.com/r/737651?url=https://damienbod.com/2026/01/05/set-the-amr-claim-when-using-passkeys-authentication-in-asp-net-core/",
-          "publishedOn": "2026-05-13T04:00:48.486Z",
-          "wordCount": null,
-          "title": "Set the amr claim when using passkeys authentication in ASP.NET Core",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737638",
-          "author": null,
-          "description": "In this post I describe some recent changes to the NetEscapades.EnumGenerators source generator, including support for the System.Memory package and new APIs",
-          "link": "https://dotnetkicks.com/r/737638?url=https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/",
-          "publishedOn": "2026-05-13T04:00:48.486Z",
-          "wordCount": null,
-          "title": "Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737771",
-          "author": null,
-          "description": "The MongoDB EF Core provider now supports Queryable Encryption and Vector Search. Learn how to encrypt sensitive data while querying it and build AI-powered semantic search applications directly with EF Core.",
-          "link": "https://dotnetkicks.com/r/737771?url=https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/",
-          "publishedOn": "2026-05-13T04:00:48.483Z",
-          "wordCount": null,
-          "title": "Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737876",
-          "author": null,
-          "description": "This post shows how to implement an application which requires a user to authenticate using passkeys. The identity provider returns three claims to prove the authentication level (loa), the identity level, (loi) and the amr claim showing the used authentication method. Code: https://github.com/swiss-ssi-group/swiyu-passkeys-idp-loi-loa Blogs in this series: Digital authentication and identity validation Set the amr...",
-          "link": "https://dotnetkicks.com/r/737876?url=https://damienbod.com/2026/01/12/implementing-level-of-authentication-loa-with-asp-net-core-identity-and-duende/",
-          "publishedOn": "2026-05-13T04:00:48.481Z",
-          "wordCount": null,
-          "title": "Implementing Level of Authentication (LoA) with ASP.NET Core Identity and Duende",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737839",
-          "author": null,
-          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Mibo: A Functional Game Framework for F# Generative AI: The Future of Consumer Technology - .NET Blog XAML Studio is now Open Sourced - #ifdef Windows EF Core MongoDB Queryable Encryption and Vector Search Explained - .NET Blog Scaling AI Agents...",
-          "link": "https://dotnetkicks.com/r/737839?url=https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/",
-          "publishedOn": "2026-05-13T04:00:48.481Z",
-          "wordCount": null,
-          "title": "F# Weekly #2, 2026 - Mibo and WREN Stack",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737933",
-          "author": null,
-          "description": "Discover how .NET's Virtual Monolithic Repository synchronizes code across multiple repos, unifying builds with an efficient two‑way flow.",
-          "link": "https://dotnetkicks.com/r/737933?url=https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/",
-          "publishedOn": "2026-05-13T04:00:48.478Z",
-          "wordCount": null,
-          "title": "How We Synchronize .NET's Virtual Monorepo - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737993",
-          "author": null,
-          "description": "In this post I describe my experience with the Windows File Explorer replacement, File Pilot. It's blazingly fast, feature rich, and has hotkeys everywhere",
-          "link": "https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
-          "publishedOn": "2026-05-13T04:00:48.477Z",
-          "wordCount": null,
-          "title": "The Windows File Explorer replacement, File Pilot, is awesome",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738093",
-          "author": null,
-          "description": "Reach out anytime to sales@jasperfx.net to ask us about how we could potentially help your shop with software development using the Critter Stack. It's a New Year and hopefully we all get to start on some great new software initiatives. If you happen to be starting something this year that's going to get you into...",
-          "link": "https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/",
-          "publishedOn": "2026-05-13T04:00:48.474Z",
-          "wordCount": null,
-          "title": "How JasperFx Supports our Customers",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738401",
-          "author": null,
-          "description": "This article explores how to implement Level of Identification (LOI) in an ASP.NET Core application. The solution uses Duende IdentityServer as the OpenID Connect provider and ASP.NET Core Identity for user management. Identity verification is performed using the Swiyu Public Beta infrastructure. Any OpenID Connect client can consume the loi claim together with the loa...",
-          "link": "https://dotnetkicks.com/r/738401?url=https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/",
-          "publishedOn": "2026-05-13T04:00:48.473Z",
-          "wordCount": null,
-          "title": "Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738148",
-          "author": null,
-          "description": "Tailwind's 80% revenue decline leads to a much more interesting story",
-          "link": "https://dotnetkicks.com/r/738148?url=https://petabridge.com/blog/ai-transforms-oss-business-models/",
-          "publishedOn": "2026-05-13T04:00:48.473Z",
-          "wordCount": null,
-          "title": "How AI Will Transform Open Source Business Models",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738454",
-          "author": null,
-          "description": "The Marten community made our first big release of the new year with 8.18 this morning. I'm particularly happy with a couple significant things in this release: We had 8 different contributors in just the last month of work this release represents Anne Erdtsieck did a lot to improve our documentation for using our multi-stream...",
-          "link": "https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/",
-          "publishedOn": "2026-05-13T04:00:48.471Z",
-          "wordCount": null,
-          "title": "Easier Query Models with Marten",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738685",
-          "author": null,
-          "description": "Welcome to F# Weekly, A roundup of F# content from this past week: News Bringing work context to your code in GitHub Copilot - Microsoft for Developers Context-Driven Development: Agent Skills for Microsoft Foundry and Azure | All things Azure PowerToys 0.97 is here: a big Command Palette update and a new mouse utility -...",
-          "link": "https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/",
-          "publishedOn": "2026-05-13T04:00:48.463Z",
-          "wordCount": null,
-          "title": "F# Weekly #4, 2026 - F# event / (un)conference in 2026?",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738845",
-          "author": null,
-          "description": "In this post I provide an introduction to the System.Diagnostics.Metrics API, and show how to create a custom metric and read it with dotnet-coutners",
-          "link": "https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/",
-          "publishedOn": "2026-05-13T04:00:48.456Z",
-          "wordCount": null,
-          "title": "Creating and consuming metrics with System.Diagnostics.Metrics APIs",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/739065",
-          "author": null,
-          "description": "Learn how Microsoft.Extensions.AI provides a unified API for building intelligent .NET applications with any LLM provider - one interface, endless possibilities, with built-in middleware, telemetry, structured outputs and more.",
-          "link": "https://dotnetkicks.com/r/739065?url=https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/",
-          "publishedOn": "2026-05-13T04:00:48.455Z",
-          "wordCount": null,
-          "title": ".NET AI Essentials - The Core Building Blocks Explained - .NET Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738968",
-          "author": null,
-          "description": "Sometimes, when we're getting ready to launch a new Apache Flink job - or even just roll out a major new feature - we run into a familiar problem: we need meaningful data in state before the job can do what we built it to do.",
-          "link": "https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/",
-          "publishedOn": "2026-05-13T04:00:48.455Z",
-          "wordCount": null,
-          "title": "Prepare for Launch: Enrichment Strategies for Apache Flink",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/739584",
-          "author": null,
-          "description": "People should not be judging AI-augmented coding by '1 shots.' If someone told ...",
-          "link": "https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
-          "publishedOn": "2026-05-13T04:00:48.447Z",
-          "wordCount": null,
-          "title": "The danger of glamourizing one shots",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738686",
-          "author": null,
-          "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
-          "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
-          "publishedOn": "2026-05-13T04:00:47.450Z",
-          "wordCount": 2161,
-          "title": "HyperVideo Features",
-          "imageUrl": null
-        },
-        {
           "id": "stories/737894",
           "author": null,
           "description": "Transform healthcare and life sciences with Claude on Microsoft Foundry-trusted AI for compliance, workflows, and innovation.",
           "link": "https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-          "publishedOn": "2026-05-13T04:00:47.197Z",
-          "wordCount": 5354,
+          "publishedOn": "2026-05-14T03:59:44.979Z",
+          "wordCount": null,
           "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737305",
+          "author": null,
+          "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
+          "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
+          "publishedOn": "2026-05-14T03:59:20.007Z",
+          "wordCount": null,
+          "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
           "imageUrl": null
         },
         {
@@ -708,7 +523,7 @@
           "author": null,
           "description": "I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.",
           "link": "https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/",
-          "publishedOn": "2026-05-13T04:00:46.188Z",
+          "publishedOn": "2026-05-14T03:59:19.936Z",
           "wordCount": null,
           "title": "Fundamentals of AI",
           "imageUrl": null
@@ -718,7 +533,7 @@
           "author": null,
           "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
           "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
-          "publishedOn": "2026-05-13T04:00:35.110Z",
+          "publishedOn": "2026-05-14T03:59:19.935Z",
           "wordCount": null,
           "title": "Logo?",
           "imageUrl": null
@@ -728,19 +543,9 @@
           "author": null,
           "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
           "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-          "publishedOn": "2026-05-13T04:00:35.022Z",
+          "publishedOn": "2026-05-14T03:59:19.929Z",
           "wordCount": null,
           "title": "Azure updates for partners: December 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737305",
-          "author": null,
-          "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
-          "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
-          "publishedOn": "2026-05-13T04:00:34.975Z",
-          "wordCount": null,
-          "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
           "imageUrl": null
         },
         {
@@ -748,7 +553,7 @@
           "author": null,
           "description": "Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.",
           "link": "https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx",
-          "publishedOn": "2026-05-13T04:00:34.964Z",
+          "publishedOn": "2026-05-14T03:59:18.560Z",
           "wordCount": null,
           "title": "Linear Regression with Pseudo-Inverse Training Using JavaScript",
           "imageUrl": null
@@ -758,39 +563,9 @@
           "author": null,
           "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
           "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
-          "publishedOn": "2026-05-13T04:00:22.955Z",
-          "wordCount": 12990,
+          "publishedOn": "2026-05-14T03:59:18.318Z",
+          "wordCount": 13095,
           "title": "Joe Dluzen on Azure Functions & Durable Functions",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737117",
-          "author": null,
-          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
-          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
-          "publishedOn": "2026-05-13T04:00:22.256Z",
-          "wordCount": 3897,
-          "title": "Azure Functions & Durable Functions Part 1",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737816",
-          "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
-          "publishedOn": "2026-05-13T04:00:22.225Z",
-          "wordCount": 954,
-          "title": "EF Core Lazy Loading Performance Gotcha",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
-        },
-        {
-          "id": "stories/738621",
-          "author": null,
-          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
-          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
-          "publishedOn": "2026-05-13T04:00:22.009Z",
-          "wordCount": 2584,
-          "title": "Essential Programmer Utilities",
           "imageUrl": null
         },
         {
@@ -798,19 +573,59 @@
           "author": null,
           "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
           "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
-          "publishedOn": "2026-05-13T04:00:21.548Z",
+          "publishedOn": "2026-05-14T03:59:18.274Z",
           "wordCount": 2444,
           "title": "CoPilot Gets Us Started",
           "imageUrl": null
+        },
+        {
+          "id": "stories/738686",
+          "author": null,
+          "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
+          "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
+          "publishedOn": "2026-05-14T03:59:17.597Z",
+          "wordCount": 2161,
+          "title": "HyperVideo Features",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737117",
+          "author": null,
+          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
+          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
+          "publishedOn": "2026-05-14T03:59:17.306Z",
+          "wordCount": 3897,
+          "title": "Azure Functions & Durable Functions Part 1",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/739584",
+          "author": null,
+          "description": "People should not be judging AI-augmented coding by '1 shots.' If someone told ...",
+          "link": "https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
+          "publishedOn": "2026-05-14T03:59:17.049Z",
+          "wordCount": 730,
+          "title": "The danger of glamourizing one shots",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
         },
         {
           "id": "stories/738475",
           "author": null,
           "description": "As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).",
           "link": "https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/",
-          "publishedOn": "2026-05-13T04:00:20.984Z",
+          "publishedOn": "2026-05-14T03:59:16.864Z",
           "wordCount": 2209,
           "title": "An AI Project",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/738621",
+          "author": null,
+          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
+          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
+          "publishedOn": "2026-05-14T03:59:16.775Z",
+          "wordCount": 2584,
+          "title": "Essential Programmer Utilities",
           "imageUrl": null
         },
         {
@@ -818,9 +633,19 @@
           "author": null,
           "description": "Mark Heath's Development Blog",
           "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
-          "publishedOn": "2026-05-13T04:00:20.777Z",
+          "publishedOn": "2026-05-14T03:59:16.713Z",
           "wordCount": 1509,
           "title": "2025 Year in Review",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+        },
+        {
+          "id": "stories/737816",
+          "author": null,
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
+          "publishedOn": "2026-05-14T03:59:16.710Z",
+          "wordCount": 954,
+          "title": "EF Core Lazy Loading Performance Gotcha",
           "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
         },
         {
@@ -828,7 +653,7 @@
           "author": null,
           "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
           "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
-          "publishedOn": "2026-05-13T04:00:20.774Z",
+          "publishedOn": "2026-05-14T03:59:16.556Z",
           "wordCount": 2582,
           "title": "Learning AI",
           "imageUrl": null
@@ -846,7 +671,7 @@
           "description": "When populating collections in .NET, choosing the right bulk operation improves both clarity and efficiency. Methods like AddRange() and InsertRange() allow multiple items to be added in a single call, reducing overhead compared to repeated individual inserts and clearly expressing intent. When combined with proper capacity planning, these approaches help produce predictable, maintainable code—whether items are being appended or inserted at a specific position.",
           "link": "https://dotnettips.com/2026/05/10/collection-performance-addrange-vs-insertrange-when-populating-lists/",
           "publishedOn": "2026-05-10T06:00:00.000Z",
-          "wordCount": 3680,
+          "wordCount": 3379,
           "title": "Collection Performance: AddRange() vs. InsertRange() When Populating Lists",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/05/20260218_0626_image-generation_remix_01khrbdyg1eawbjk1sb850ntj4.png?fit=1200%2C800&ssl=1"
         },
@@ -856,7 +681,7 @@
           "description": "In March 2026, I challenged GitHub Copilot to build a Visual Studio extension, \"Version Sync,\" from scratch without coding. Despite initial failures and needing extensive feedback, it succeeded in creating an extension to sync project version numbers. However, Copilot's code quality was lacking, emphasizing that AI can't replace experienced developers.",
           "link": "https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/",
           "publishedOn": "2026-05-03T07:00:00.000Z",
-          "wordCount": 8617,
+          "wordCount": 8459,
           "title": "Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/03/chatgpt-image-mar-31-2026-10_16_47-am.png?fit=1200%2C800&ssl=1"
         },
@@ -1078,12 +903,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/05/13/dew-drop-may-13-2026-4667/",
+          "author": "Alvin A.",
+          "description": "Top Links Introducing dotnet new WinUI templates (Niels Laute, Dinah Gao & Nikola Metulev) Introducing WinUI agent plugin for GitHub Copilot and Claude Code (Nikola Metulev) Foundry Local 1.1: Live Transcription, Embeddings, and Responses API (Sam Kemp) Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI (Lee Reilly) winget-tui: A terminal UI … Continue reading Dew Drop – May 13, 2026 (#4667)",
+          "link": "https://www.alvinashcraft.com/2026/05/13/dew-drop-may-13-2026-4667/",
+          "publishedOn": "2026-05-13T10:59:49.000Z",
+          "wordCount": 1914,
+          "title": "Dew Drop – May 13, 2026 (#4667)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/05/12/dew-drop-may-12-2026-4666/",
           "author": "Alvin A.",
           "description": "Top Links Composition Stack for AI-Assisted .NET Development (Matt Mattei) Things I Think I Think… about Coding Agents and IDEs (Ted Neward) What’s new in Microsoft Foundry | April 2026 (Nick Brady) WinUI 3 Performance: A Leap Forward (Beth Pan) GitHub Copilot CLI + GPT-5-mini BYOK: The Code Was Cheap, the Quality Gates Were Expensive … Continue reading Dew Drop – May 12, 2026 (#4666)",
           "link": "https://www.alvinashcraft.com/2026/05/12/dew-drop-may-12-2026-4666/",
           "publishedOn": "2026-05-12T10:59:58.000Z",
-          "wordCount": 2047,
+          "wordCount": 2056,
           "title": "Dew Drop – May 12, 2026 (#4666)",
           "imageUrl": null
         },
@@ -1186,16 +1021,6 @@
           "wordCount": 2135,
           "title": "Dew Drop – April 29, 2026 (#4657)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/04/28/dew-drop-april-28-2026-4656/",
-          "author": "Alvin A.",
-          "description": "Top Links PowerToys Release v0.99.0 (LegendaryBlair) Integrating Native Device Features in .NET MAUI with Built‑In APIs (Shalini Suresh) Hooking Up All the Things, Making Your Developer’s Life Easier | Visual Studio Live! Las Vegas 2026 (Jeff Fritz) GitHub Quick Review: Evaluate your enterprise and organizations with GitHub best practices (GHQR Team) Announcing Shader Model 6.10 … Continue reading Dew Drop – April 28, 2026 (#4656)",
-          "link": "https://www.alvinashcraft.com/2026/04/28/dew-drop-april-28-2026-4656/",
-          "publishedOn": "2026-04-28T10:52:22.000Z",
-          "wordCount": 2017,
-          "title": "Dew Drop – April 28, 2026 (#4656)",
-          "imageUrl": null
         }
       ]
     },
@@ -1234,12 +1059,22 @@
       "siteUrl": "https://jaliyaudagedara.blogspot.com/",
       "articles": [
         {
+          "id": "https://jaliyaudagedara.blogspot.com/2026/05/ef-core-110-temporal-period-properties.html",
+          "author": null,
+          "description": "In this post, let's have a look at a small but very welcome improvement to SQL Server Temporal Tables support in EF Core shipping with .NET 11 Preview 4, the ability to map temporal period columns (PeriodStart and PeriodEnd) to regular CLR properties on the entity.\n\nLong time ago I blogged about EF Core 6.0: Introducing Support for SQL Server Temporal Tables, where we saw how to opt an entity",
+          "link": "https://jaliyaudagedara.blogspot.com/2026/05/ef-core-110-temporal-period-properties.html",
+          "publishedOn": "2026-05-13T09:59:27.484Z",
+          "wordCount": 4633,
+          "title": "EF Core 11.0: Temporal Period Properties Backed by CLR Properties",
+          "imageUrl": null
+        },
+        {
           "id": "https://jaliyaudagedara.blogspot.com/2026/04/ef-core-110-querying-json-columns-with.html",
           "author": null,
           "description": "In this post, let's have a look at two new functions introduced in\n    EF Core 11.0:&nbsp;EF.Functions.JsonPathExists()&nbsp;and&nbsp;EF.Functions.JsonContains(). Both are aimed at making it easier to query JSON data stored in your\n    database, without falling back to raw SQL.\n  \n  \n  \n    For SQL Server,&nbsp;JsonPathExists()&nbsp;translates to the\n    JSON_PATH_EXISTS\n    function (",
           "link": "https://jaliyaudagedara.blogspot.com/2026/04/ef-core-110-querying-json-columns-with.html",
           "publishedOn": "2026-04-29T10:08:37.158Z",
-          "wordCount": 4639,
+          "wordCount": 4644,
           "title": "EF Core 11.0: Querying JSON Columns with JsonPathExists and JsonContains",
           "imageUrl": null
         },
@@ -1249,7 +1084,7 @@
           "description": "In this post, let's have a look at Microsoft Agent Framework's\n  Agent Middleware with .NET. In my\n  previous post, we looked at getting started with Microsoft Agent Framework in .NET by\n  building an agent with tools. In this post, let's see how we can use\n  middleware to intercept and inspect agent runs, function calls, and chat\n  client calls.\n\n\n&nbsp;\n\n\n  Microsoft Agent Framework",
           "link": "https://jaliyaudagedara.blogspot.com/2026/04/microsoft-agent-frameworks-agent.html",
           "publishedOn": "2026-04-14T09:20:00.001Z",
-          "wordCount": 4726,
+          "wordCount": 4729,
           "title": "Microsoft Agent Frameworks' Agent Middleware with .NET",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiPmjWYRKKvPqSqFRY201qmG7zJCSN2wXSuVtcfcgASWCrhlb7yruYjA3jt93nYQ4yQ8Y85m7kSOFnn3BJo5yFPX6XtpHe5tqCikVhI6kqwqiTn4plAIVFvsc_x9GJaZ6IR7nGQlK66HACfW56mV1RGkrViIt4x0_GHGI8Eh7GBVmPhOglnT65j4PVM2ro=w1200-h630-p-k-no-nu"
         }
@@ -1383,7 +1218,7 @@
           "publishedOn": "2026-05-10T20:32:33.000Z",
           "wordCount": 6353,
           "title": "SQL Server Database Corruption: How to Fix Allocation Errors and Recover Safely",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1778644810"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1778731143"
         }
       ]
     },
@@ -1428,7 +1263,7 @@
           "description": "Some years (wow, time flies!) ago I wrote a quantum computing book titled “Introduction to Quantum Computing with Q# and QDK” (I guess it’s difficult to miss too, since its cover still sits in the sidebar of this blog…). Even though a ton of things have changed in QDK since than, I have been maintaining the source code throughout the years - most importantly, porting everything to QDK 1.0.\nToday I would like to share yet another update: the samples are now also available as Jupyter notebooks.",
           "link": "https://www.strathweb.com/2026/04/qsharp-book-samples-notebook-format/",
           "publishedOn": "2026-04-24T07:06:14.000Z",
-          "wordCount": 1488,
+          "wordCount": null,
           "title": "Q# book samples now available in the notebook format",
           "imageUrl": null
         }
