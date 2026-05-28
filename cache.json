@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393536",
+          "author": "Preethi",
+          "description": "Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.\nRevealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
+          "publishedOn": "2026-05-27T12:37:33.000Z",
+          "wordCount": 3459,
+          "title": "Revealing Text With CSS letter-spacing",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/revealing-text.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=395048",
           "author": "Geoff Graham",
           "description": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\nTechnical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/technical-writing-in-the-ai-age/",
           "publishedOn": "2026-05-26T13:49:28.000Z",
-          "wordCount": 5429,
+          "wordCount": 5720,
           "title": "Technical Writing in the AI Age",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
         },
@@ -37,7 +47,7 @@
           "description": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
           "publishedOn": "2026-05-22T13:44:40.000Z",
-          "wordCount": 5473,
+          "wordCount": 5423,
           "title": "The State of CSS Centering in 2026",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/centered-text.webp"
         },
@@ -57,7 +67,7 @@
           "description": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\nCross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/cross-document-view-transitions-part-1/",
           "publishedOn": "2026-05-18T13:47:19.000Z",
-          "wordCount": 6722,
+          "wordCount": 6680,
           "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/loader-dots.jpg"
         },
@@ -155,16 +165,6 @@
           "wordCount": 4164,
           "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/lee-mothers-day.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394653",
-          "author": "Geoff Graham",
-          "description": "Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:\nAs a Chrome user, you’ll have received Gemini Nano in the form of a 4GB transfer recently; no permission asked or required. If you remove it, \n…\nGoogle’s Prompt API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/googles-prompt-api/",
-          "publishedOn": "2026-05-06T19:41:29.000Z",
-          "wordCount": 3345,
-          "title": "Google’s Prompt API",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-gemini.webp"
         }
       ]
     },
@@ -194,7 +194,7 @@
           "description": "What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
           "link": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
           "publishedOn": "2026-05-22T13:00:00.000Z",
-          "wordCount": 4356,
+          "wordCount": null,
           "title": "Four Levels Of Customer Understanding",
           "enclosure": {
             "url": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg",
@@ -209,7 +209,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4897,
+          "wordCount": 4900,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -224,7 +224,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4904,
+          "wordCount": 4913,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -239,7 +239,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6266,
+          "wordCount": null,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -254,7 +254,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8656,
+          "wordCount": 8650,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -299,7 +299,7 @@
           "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
           "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4610,
+          "wordCount": 4613,
           "title": "A Fresh View In May (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -307,21 +307,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
-          "author": "hello@smashingmagazine.com (Casey Hudetz and Eric Olive)",
-          "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
-          "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
-          "publishedOn": "2026-04-27T10:00:00.000Z",
-          "wordCount": 4612,
-          "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg"
         }
       ]
     },
@@ -330,6 +315,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a17657ebadcd8afcb2bcdb4",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Every Dart developer has written this at some point: try {   final user = await repository.getUser(id);   // do something with user } catch (e) {   // what is e? who knows.   print(e.toString()); } I",
+          "link": "https://www.freecodecamp.org/news/advanced-error-handling-in-dart-records-result-types-monads-and-freezed-exceptions/",
+          "publishedOn": "2026-05-27T21:43:26.000Z",
+          "wordCount": 4928,
+          "title": "Advanced Error Handling in Dart: Records, Result Types, Monads, and Freezed Exceptions",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21795781-af21-4c57-9457-6c58f22af656.png"
+        },
+        {
+          "id": "6a17653cbadcd8afcb2bb430",
+          "author": "Mohammed Fahd Abrah",
+          "description": "When GPT-3 was released in 2020, it completely changed how people thought about language models. It showed that a sufficiently large neural network could learn tasks directly from prompts and examples",
+          "link": "https://www.freecodecamp.org/news/ai-paper-review-gpt-4-technical-report/",
+          "publishedOn": "2026-05-27T21:42:20.000Z",
+          "wordCount": 9827,
+          "title": "AI Paper Review: GPT-4 Technical Report (GPT-4)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2a5eb5e0-bd3c-4423-b9b5-b94edbaaba98.png"
+        },
+        {
+          "id": "6a175a04badcd8afcb276a4e",
+          "author": "Manish Shivanandhan",
+          "description": "Developers today build software in a world where the internet is fragmented. Websites change content based on geography. APIs introduce rate limits. Security systems block repeated requests. Testing e",
+          "link": "https://www.freecodecamp.org/news/top-5-proxy-providers-for-developers/",
+          "publishedOn": "2026-05-27T20:54:28.000Z",
+          "wordCount": 2150,
+          "title": "Top 5 Proxy Providers for Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/405e0e85-bea8-4094-913a-d592966d8ccc.png"
+        },
+        {
+          "id": "6a171310badcd8afcb060460",
+          "author": "Osomudeya Zudonu",
+          "description": "Automation scripts often validate process completion instead of system health. A Kubernetes pod can be running while the application inside it can't authenticate to the database. A Terraform deploymen",
+          "link": "https://www.freecodecamp.org/news/how-to-use-bash-python-for-real-devops-automation-handbook-with-production-use-cases/",
+          "publishedOn": "2026-05-27T15:51:44.000Z",
+          "wordCount": 11595,
+          "title": "How to Use Bash & Python for Real DevOps Automation – Full Handbook with 5 Production Use Cases",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/73f2a745-c1b5-4cbb-8f97-2ba6c5230592.png"
+        },
+        {
+          "id": "6a17098ebadcd8afcb01782a",
+          "author": "Ilknur Eren",
+          "description": "CAPTCHAs – or the “I am not a robot” challenges – were originally designed to separate humans from bots. It started with deciphering some distorted text, then evolved into checking a box or boxes wher",
+          "link": "https://www.freecodecamp.org/news/how-captchas-affect-accessibility-problems-and-alternatives/",
+          "publishedOn": "2026-05-27T15:11:10.000Z",
+          "wordCount": 1945,
+          "title": "How CAPTCHAs Affect Accessibility: Problems, Workarounds, and Alternatives",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/a273f7cd-5fd3-49cf-942b-c2d4b6af2cc7.png"
+        },
+        {
+          "id": "6a17079fbadcd8afcb0097bf",
+          "author": "Bhavin Sheth",
+          "description": "Sometimes PDF pages appear upside down, sideways, or in the wrong orientation after scanning or exporting documents. Instead of re-creating the document manually, users usually just need a quick way t",
+          "link": "https://www.freecodecamp.org/news/how-to-rotate-pdf-pages/",
+          "publishedOn": "2026-05-27T15:02:55.000Z",
+          "wordCount": 2644,
+          "title": "How to Build a Browser-Based PDF Rotator Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b548434f-958d-438e-9294-b751a4a591be.png"
+        },
+        {
+          "id": "6a1706d0badcd8afcb00415d",
+          "author": "Ayantunji Timilehin",
+          "description": "Most developers think of AI the same way: you send data to a server, the server thinks, you get a response back. That mental model made sense for a long time. It still makes sense for a lot of use cas",
+          "link": "https://www.freecodecamp.org/news/build-ai-apps-in-the-browser-with-tensorflow-js-and-webgpu/",
+          "publishedOn": "2026-05-27T14:59:28.000Z",
+          "wordCount": 4352,
+          "title": "How to Build AI Apps in the Browser with TensorFlow.js and WebGPU",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/87141e6b-7529-4278-a2fa-ee8e4d9f9062.png"
+        },
         {
           "id": "6a1594c1da253d50d4ae1277",
           "author": "אחיה כהן",
@@ -359,76 +414,6 @@
           "wordCount": 14117,
           "title": "How to Use Dart Cloud Functions and the Firebase Admin SDK: A Handbook for Developers",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/faa7ab26-537d-47f6-ae20-c34c2efbf408.png"
-        },
-        {
-          "id": "6a1070e71f237623ea06ca2d",
-          "author": "Lakshmi Mahabaleshwara",
-          "description": "Medical imaging is transforming healthcare. Researchers are training deep learning models to detect pneumonia from chest X-rays, estimate cardiac function from echocardiograms, and identify tumors fro",
-          "link": "https://www.freecodecamp.org/news/build-ai-image-de-identification-for-clinical-research/",
-          "publishedOn": "2026-05-22T15:06:15.000Z",
-          "wordCount": 2528,
-          "title": "How to Build an AI-Powered Medical Image De-Identification Pipeline for Clinical Research",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/04f2b51b-5590-4bde-9d2c-4af3a6d4237c.png"
-        },
-        {
-          "id": "6a106a2f1f237623ea0336d3",
-          "author": "Qudrat Ullah",
-          "description": "AI coding tools now offer much more than autocomplete. They can analyze your codebase, edit multiple files, execute commands, explain errors, generate tests, write documentation, and prepare pull requ",
-          "link": "https://www.freecodecamp.org/news/how-to-build-software-factory-with-claude-code/",
-          "publishedOn": "2026-05-22T14:37:35.000Z",
-          "wordCount": 19252,
-          "title": "How to Build a Software Factory with Claude Code: From Vibe Coding to Agentic Development",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/9dba291f-c5b1-4c0c-99a6-44941e60f014.png"
-        },
-        {
-          "id": "6a0f78aad8e265f60d5f7b56",
-          "author": "Manish Shivanandhan",
-          "description": "Every production engineering team knows the pattern. A new project begins with energy. Product goals are clear. Deadlines are ambitious. Teams want to move quickly and deliver something customers can",
-          "link": "https://www.freecodecamp.org/news/how-to-avoid-rebuilding-infrastructure-for-every-new-project/",
-          "publishedOn": "2026-05-21T21:27:06.000Z",
-          "wordCount": 2404,
-          "title": "How to Avoid Rebuilding Infrastructure for Every New Project",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/6c414744-42af-430a-8bbd-76a33b564e4b.png"
-        },
-        {
-          "id": "6a0f57a1d8e265f60d4f8624",
-          "author": "Rajdeep Singh",
-          "description": "GitHub is a popular code collaboration platform for developers. You can use it to share, manage, and contribute to open-source codebases, save and work on your own code, and more. And to be a more eff",
-          "link": "https://www.freecodecamp.org/news/how-to-use-github-search-like-a-pro/",
-          "publishedOn": "2026-05-21T19:06:09.000Z",
-          "wordCount": 2661,
-          "title": "How to Use GitHub Search Like a Pro",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/0e61e7e1-619c-4a66-b994-6a888100d0dd.png"
-        },
-        {
-          "id": "6a0f4895d8e265f60d42650e",
-          "author": "Beau Carnes",
-          "description": "Traditional word processors require you to act as a writer, layout designer, and typesetter all at once. LaTeX automates the tedious design mechanics so you can focus entirely on your content. LaTeX i",
-          "link": "https://www.freecodecamp.org/news/learn-latex-in-41-hours/",
-          "publishedOn": "2026-05-21T18:01:57.000Z",
-          "wordCount": 1170,
-          "title": "Learn LaTeX in 41 Hours",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/83817630-820c-4713-9c42-6b8331fea403.jpg"
-        },
-        {
-          "id": "6a0f459fd8e265f60d40984d",
-          "author": "Beau Carnes",
-          "description": "Most developers learn JavaScript by memorizing rules and copying framework patterns. But when a weird production bug hits or a senior engineer asks a deep architectural question during an interview, s",
-          "link": "https://www.freecodecamp.org/news/think-like-the-javascript-engine/",
-          "publishedOn": "2026-05-21T17:49:19.000Z",
-          "wordCount": 1185,
-          "title": "Think Like the JavaScript Engine",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/33ed65b4-a837-490c-b215-e21554a739ad.jpg"
-        },
-        {
-          "id": "6a0df3b68b034602219e482c",
-          "author": "Destiny Erhabor",
-          "description": "Most engineers assume their Kubernetes cluster encrypts all of its traffic. It doesn't. The commands you run with kubectl are encrypted — your client and the API server speak TLS. The API server talki",
-          "link": "https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic/",
-          "publishedOn": "2026-05-20T17:47:34.000Z",
-          "wordCount": 5415,
-          "title": "How to Encrypt Kubernetes Traffic with cert-manager, Let's Encrypt, and Internal TLS",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/c1cf9847-fa0f-49f3-93f4-3c5c1e8ac4c0.png"
         }
       ]
     },
@@ -456,16 +441,6 @@
           "wordCount": 489,
           "title": "Things That Caught My Attention Last Week - May 10",
           "imageUrl": null
-        },
-        {
-          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-april-26",
-          "author": null,
-          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
-          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-april-26",
-          "publishedOn": "2026-04-27T00:00:00.000Z",
-          "wordCount": 612,
-          "title": "Things That Caught My Attention Last Week - April 26",
-          "imageUrl": null
         }
       ]
     },
@@ -477,10 +452,10 @@
         {
           "id": "qzzxfojpce9j",
           "author": "(Rick Strahl)",
-          "description": "ASP.NET Core applications by default want to run in a root folder - and to be fair that's the 99% use case. But there are those occasional situations where you want to run a Web site in a sub folder rather than on the root of the Web site.\nIn this post I review what's required to run ASP.NET with a PathBase - which works with any Web server - and then specifically discuss how to set this up on IIS, which is a little more complicated than it should be.\nAlthough I discuss IIS specifically here for the physical deployment part since that's what I'm running on, the majority of this this content concerning the ASP.NET set up and modifications, applies to any Web server hosting when using sub folder mapping.\n\nWhy would I need to run out of a SubFolder?\nThe specific scenario that I ran into was t…",
+          "description": "ASP.NET Core applications by default want to run in a root folder - and to be fair that's the 99% use case. But there are those occasional situations where you want to run a Web site in a sub folder rather than on the root of the Web site.\nIn this post I review what's required to run ASP.NET with a PathBase - which works with any Web server - and then specifically discuss how to set this up on IIS, which is a little more complicated than it should be.\nAlthough I discuss IIS specifically here for the physical deployment part since that's what I'm running on, the majority of this this content concerning the ASP.NET set up and modifications, applies to any Web server hosting when using sub folder mapping.\n\n\n\nWhy would I need to run out of a SubFolder?\nThe specific scenario that I ran into was…",
           "link": "https://weblog.west-wind.com/posts/2026/May/26/Running-ASPNET-Core-Applications-in-an-IIS-Subfolder-Application",
           "publishedOn": "2026-05-26T14:16:20.000Z",
-          "wordCount": 3163,
+          "wordCount": 3159,
           "title": "Running ASP.NET Core Applications as a Subfolder Application",
           "imageUrl": "https://weblog.west-wind.com/https://weblog.west-wind.com/imageContent/2026/Running-ASP-NET-Core-Applications-in-an-IIS-Subfolder-Application/PostBanner.jpg"
         },
@@ -490,7 +465,7 @@
           "description": "When I need to pick up the client IP Address in ASP.NET Core I always forget where to find the connection information.\nIt's simple enough:\nHttpContext?.Connection?.RemoteIpAddress\n\nbut I never remember to look on the context object as I expect it to be on the Request 😄.\nIt's also useful to remember that if requests are proxied, we need to return the forwarded IP address, rather than the proxy's IP Address. Finally, in most cases you'd likely want the ipv4 address rather than an IPv6 address.\nHere's ready to use helper extension method for the HttpRequest class that makes this more easily accessible:\n/// <summary>\n/// Returns the client IPv4 Address for a request.\n///\n/// Checks proxy forwarding first, the actual ip\n/// and returns null.\n/// </summary>\n/// <param name=\"request\">The HttpReq…",
           "link": "https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core",
           "publishedOn": "2026-05-13T10:35:26.000Z",
-          "wordCount": 1283,
+          "wordCount": 1287,
           "title": "Getting the Client IP Address in ASP.NET Core",
           "imageUrl": "https://weblog.west-wind.com/https://weblog.west-wind.com/images/2026/Getting-the-Client-IP-Address-in-ASP-NET-Core/ClientIpBanner.jpg"
         }
@@ -504,7 +479,7 @@
         {
           "id": "qzzxfojpce9j",
           "author": "(Rick Strahl)",
-          "description": "ASP.NET Core applications by default want to run in a root folder - and to be fair that's the 99% use case. But there are those occasional situations where you want to run a Web site in a sub folder rather than on the root of the Web site.\nIn this post I review what's required to run ASP.NET with a PathBase - which works with any Web server - and then specifically discuss how to set this up on IIS, which is a little more complicated than it should be.\nAlthough I discuss IIS specifically here for the physical deployment part since that's what I'm running on, the majority of this this content concerning the ASP.NET set up and modifications, applies to any Web server hosting when using sub folder mapping.\n\nWhy would I need to run out of a SubFolder?\nThe specific scenario that I ran into was t…",
+          "description": "ASP.NET Core applications by default want to run in a root folder - and to be fair that's the 99% use case. But there are those occasional situations where you want to run a Web site in a sub folder rather than on the root of the Web site.\nIn this post I review what's required to run ASP.NET with a PathBase - which works with any Web server - and then specifically discuss how to set this up on IIS, which is a little more complicated than it should be.\nAlthough I discuss IIS specifically here for the physical deployment part since that's what I'm running on, the majority of this this content concerning the ASP.NET set up and modifications, applies to any Web server hosting when using sub folder mapping.\n\n\n\nWhy would I need to run out of a SubFolder?\nThe specific scenario that I ran into was…",
           "link": "https://weblog.west-wind.com/posts/2026/May/26/Running-ASPNET-Core-Applications-in-an-IIS-Subfolder-Application",
           "publishedOn": "2026-05-26T14:16:20.000Z",
           "wordCount": 3159,
@@ -529,13 +504,13 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
-          "id": "stories/737626",
+          "id": "stories/737117",
           "author": null,
-          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
-          "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
-          "publishedOn": "2026-05-27T04:25:09.725Z",
-          "wordCount": null,
-          "title": "Logo?",
+          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
+          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
+          "publishedOn": "2026-05-28T04:15:29.779Z",
+          "wordCount": 3909,
+          "title": "Azure Functions & Durable Functions Part 1",
           "imageUrl": null
         },
         {
@@ -543,9 +518,19 @@
           "author": null,
           "description": "I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.",
           "link": "https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/",
-          "publishedOn": "2026-05-27T04:25:09.318Z",
+          "publishedOn": "2026-05-28T04:15:29.296Z",
           "wordCount": null,
           "title": "Fundamentals of AI",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/738494",
+          "author": null,
+          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
+          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
+          "publishedOn": "2026-05-28T04:15:29.147Z",
+          "wordCount": 2449,
+          "title": "CoPilot Gets Us Started",
           "imageUrl": null
         },
         {
@@ -553,9 +538,19 @@
           "author": null,
           "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
           "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
-          "publishedOn": "2026-05-27T04:25:09.217Z",
+          "publishedOn": "2026-05-28T04:15:28.966Z",
           "wordCount": null,
           "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737626",
+          "author": null,
+          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
+          "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
+          "publishedOn": "2026-05-28T04:15:28.948Z",
+          "wordCount": null,
+          "title": "Logo?",
           "imageUrl": null
         },
         {
@@ -563,7 +558,7 @@
           "author": null,
           "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
           "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-          "publishedOn": "2026-05-27T04:25:09.192Z",
+          "publishedOn": "2026-05-28T04:15:28.920Z",
           "wordCount": null,
           "title": "Azure updates for partners: December 2025",
           "imageUrl": null
@@ -573,29 +568,9 @@
           "author": null,
           "description": "Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.",
           "link": "https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx",
-          "publishedOn": "2026-05-27T04:25:08.677Z",
+          "publishedOn": "2026-05-28T04:15:27.554Z",
           "wordCount": null,
           "title": "Linear Regression with Pseudo-Inverse Training Using JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737894",
-          "author": null,
-          "description": "Transform healthcare and life sciences with Claude on Microsoft Foundry-trusted AI for compliance, workflows, and innovation.",
-          "link": "https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-          "publishedOn": "2026-05-27T04:25:08.676Z",
-          "wordCount": 5397,
-          "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737117",
-          "author": null,
-          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
-          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
-          "publishedOn": "2026-05-27T04:25:08.337Z",
-          "wordCount": 3909,
-          "title": "Azure Functions & Durable Functions Part 1",
           "imageUrl": null
         },
         {
@@ -603,19 +578,9 @@
           "author": null,
           "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
           "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
-          "publishedOn": "2026-05-27T04:25:08.259Z",
-          "wordCount": 15061,
+          "publishedOn": "2026-05-28T04:15:24.086Z",
+          "wordCount": 15425,
           "title": "Joe Dluzen on Azure Functions & Durable Functions",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738686",
-          "author": null,
-          "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
-          "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
-          "publishedOn": "2026-05-27T04:25:08.196Z",
-          "wordCount": 2165,
-          "title": "HyperVideo Features",
           "imageUrl": null
         },
         {
@@ -623,29 +588,9 @@
           "author": null,
           "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
           "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
-          "publishedOn": "2026-05-27T04:25:07.975Z",
+          "publishedOn": "2026-05-28T04:15:23.302Z",
           "wordCount": 2586,
           "title": "Learning AI",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/739584",
-          "author": null,
-          "description": "People should not be judging AI-augmented coding by '1 shots.' If someone told ...",
-          "link": "https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
-          "publishedOn": "2026-05-27T04:25:07.589Z",
-          "wordCount": 730,
-          "title": "The danger of glamourizing one shots",
-          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
-        },
-        {
-          "id": "stories/738621",
-          "author": null,
-          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
-          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
-          "publishedOn": "2026-05-27T04:25:07.586Z",
-          "wordCount": 2602,
-          "title": "Essential Programmer Utilities",
           "imageUrl": null
         },
         {
@@ -653,7 +598,7 @@
           "author": null,
           "description": "Mark Heath's Development Blog",
           "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
-          "publishedOn": "2026-05-27T04:25:07.388Z",
+          "publishedOn": "2026-05-28T04:15:23.159Z",
           "wordCount": 1509,
           "title": "2025 Year in Review",
           "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
@@ -663,7 +608,7 @@
           "author": null,
           "description": "Mark Heath's Development Blog",
           "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
-          "publishedOn": "2026-05-27T04:25:07.338Z",
+          "publishedOn": "2026-05-28T04:15:23.111Z",
           "wordCount": 954,
           "title": "EF Core Lazy Loading Performance Gotcha",
           "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
@@ -673,19 +618,49 @@
           "author": null,
           "description": "As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).",
           "link": "https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/",
-          "publishedOn": "2026-05-27T04:25:06.970Z",
+          "publishedOn": "2026-05-28T04:15:23.064Z",
           "wordCount": 2213,
           "title": "An AI Project",
           "imageUrl": null
         },
         {
-          "id": "stories/738494",
+          "id": "stories/738686",
           "author": null,
-          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
-          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
-          "publishedOn": "2026-05-27T04:25:06.688Z",
-          "wordCount": 2449,
-          "title": "CoPilot Gets Us Started",
+          "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
+          "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
+          "publishedOn": "2026-05-28T04:15:22.875Z",
+          "wordCount": 2165,
+          "title": "HyperVideo Features",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737894",
+          "author": null,
+          "description": "Transform healthcare and life sciences with Claude on Microsoft Foundry-trusted AI for compliance, workflows, and innovation.",
+          "link": "https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
+          "publishedOn": "2026-05-28T04:15:22.807Z",
+          "wordCount": 5397,
+          "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/739584",
+          "author": null,
+          "description": "People should not be judging AI-augmented coding by '1 shots.' If someone told ...",
+          "link": "https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
+          "publishedOn": "2026-05-28T04:15:22.321Z",
+          "wordCount": 730,
+          "title": "The danger of glamourizing one shots",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
+        },
+        {
+          "id": "stories/738621",
+          "author": null,
+          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
+          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
+          "publishedOn": "2026-05-28T04:15:21.788Z",
+          "wordCount": 2602,
+          "title": "Essential Programmer Utilities",
           "imageUrl": null
         }
       ]
@@ -761,18 +736,7 @@
       "title": "ASPSnippets RSS Feed",
       "feedUrl": "https://www.aspsnippets.com/RSS.ashx",
       "siteUrl": "https://www.aspsnippets.com/RSS.ashx",
-      "articles": [
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-Core-Read-Files-from-wwwroot-Directory-in-Controller-Net-10.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained",
-          "link": "https://aspsnippets.com/Articles/ASPNet-Core-Read-Files-from-wwwroot-Directory-in-Controller-Net-10.aspx",
-          "publishedOn": "2026-04-27T00:00:00.000Z",
-          "wordCount": null,
-          "title": "ASP.Net Core: Read Files from wwwroot Directory in Controller (.Net 10)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Andrew Lock | .NET Escapades",
@@ -823,12 +787,22 @@
       "siteUrl": "https://www.alvinashcraft.com",
       "articles": [
         {
+          "id": "https://www.alvinashcraft.com/2026/05/27/dew-drop-may-27-2026-4677/",
+          "author": "Alvin A.",
+          "description": "Top Links Give Your .NET MAUI Android Apps a Material 3 Makeover (Gerald Versluis) WinUI agents and skills for Windows app development (Windows Dev Team) Visual Studio May Update – Plan, Review, Refine (Mark Downie) Write Cleaner WinForms Code with Copilot and the WinForms Expert Agent | Visual Studio Toolbox (Robert Green & Klaus Loeffelmann) … Continue reading Dew Drop – May 27, 2026 (#4677)",
+          "link": "https://www.alvinashcraft.com/2026/05/27/dew-drop-may-27-2026-4677/",
+          "publishedOn": "2026-05-27T10:57:13.000Z",
+          "wordCount": 1992,
+          "title": "Dew Drop – May 27, 2026 (#4677)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.alvinashcraft.com/2026/05/26/dew-drop-may-26-2026-4676/",
           "author": "Alvin A.",
           "description": "Top Links VS Code Insiders Podcast Episode #22 – Agent-First Development Workflows in VS Code with Brigit Murtaugh (James Montemagno & Pierce Boggan) Building an On-Device Voice Assistant with Microsoft Foundry Local (Lee Stott) Building Fluent Icon Finder with the WinUI Copilot Skill (Joseph Finney) Cortex Episode #179 – The Philosophy of Obsidian, with CEO … Continue reading Dew Drop – May 26, 2026 (#4676)",
           "link": "https://www.alvinashcraft.com/2026/05/26/dew-drop-may-26-2026-4676/",
           "publishedOn": "2026-05-26T10:47:27.000Z",
-          "wordCount": 1757,
+          "wordCount": 1766,
           "title": "Dew Drop – May 26, 2026 (#4676)",
           "enclosure": {
             "url": "http://www.sqldownunder.com/Portals/0/SDUShowFiles/SDU96FullShow.mp3",
@@ -935,16 +909,6 @@
           "publishedOn": "2026-05-12T10:59:58.000Z",
           "wordCount": 2179,
           "title": "Dew Drop – May 12, 2026 (#4666)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alvinashcraft.com/2026/05/11/dew-drop-may-11-2026-4665/",
-          "author": "Alvin A.",
-          "description": "Top Links Build an AI-Powered Rich Text Editor in .NET MAUI with AI AssistView (Tamilarasan Gunasekaran) Getting started with the GitHub Copilot SDK in .NET (Bart Wullems) Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support (hkcanan) Merge Conflict Episode #514 – Running Local LLMs in VS Code (James Montemagno & Frank Kreuger) Syncing Claude Memory … Continue reading Dew Drop – May 11, 2026 (#4665)",
-          "link": "https://www.alvinashcraft.com/2026/05/11/dew-drop-may-11-2026-4665/",
-          "publishedOn": "2026-05-11T11:10:13.000Z",
-          "wordCount": 2342,
-          "title": "Dew Drop – May 11, 2026 (#4665)",
           "imageUrl": null
         }
       ]
@@ -1152,7 +1116,7 @@
           "publishedOn": "2026-05-10T20:32:33.000Z",
           "wordCount": 6353,
           "title": "SQL Server Database Corruption: How to Fix Allocation Errors and Recover Safely",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1779816314"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1779768695"
         }
       ]
     },
