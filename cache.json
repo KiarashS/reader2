@@ -179,7 +179,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5658,
+          "wordCount": 5660,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -224,7 +224,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4895,
+          "wordCount": 4903,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -239,7 +239,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4902,
+          "wordCount": 4918,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -254,7 +254,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6267,
+          "wordCount": 6272,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -269,7 +269,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8657,
+          "wordCount": 8647,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -299,7 +299,7 @@
           "description": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various states, that may not be instantly obvious. What happens if the stream is interrupted? Can users tab through the UI on the keyboard as it shifts? What ARIA attributes might be needed?",
           "link": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
           "publishedOn": "2026-05-01T08:00:00.000Z",
-          "wordCount": 6551,
+          "wordCount": 6552,
           "title": "Designing Stable Interfaces For Streaming Content",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg",
@@ -307,21 +307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-stable-interfaces-streaming-content/designing-stable-interfaces-streaming-content.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome May with a new collection of desktop wallpapers! Following our monthly tradition, the wallpapers were created by the community for the community and can be downloaded for free. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/04/desktop-wallpaper-calendars-may-2026/",
-          "publishedOn": "2026-04-30T11:00:00.000Z",
-          "wordCount": 4616,
-          "title": "A Fresh View In May (2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
         }
       ]
     },
@@ -480,7 +465,7 @@
           "description": "When I need to pick up the client IP Address in ASP.NET Core I always forget where to find the connection information.\nIt's simple enough:\nHttpContext?.Connection?.RemoteIpAddress\n\nbut I never remember to look on the context object as I expect it to be on the Request 😄.\nIt's also useful to remember that if requests are proxied, we need to return the forwarded IP address, rather than the proxy's IP Address. Finally, in most cases you'd likely want the ipv4 address rather than an IPv6 address.\nHere's ready to use helper extension method for the HttpRequest class that makes this more easily accessible:\n/// <summary>\n/// Returns the client IPv4 Address for a request.\n///\n/// Checks proxy forwarding first, the actual ip\n/// and returns null.\n/// </summary>\n/// <param name=\"request\">The HttpReq…",
           "link": "https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core",
           "publishedOn": "2026-05-13T10:35:26.000Z",
-          "wordCount": 1287,
+          "wordCount": 1283,
           "title": "Getting the Client IP Address in ASP.NET Core",
           "imageUrl": "https://weblog.west-wind.com/https://weblog.west-wind.com/images/2026/Getting-the-Client-IP-Address-in-ASP-NET-Core/ClientIpBanner.jpg"
         }
@@ -507,7 +492,7 @@
           "description": "When I need to pick up the client IP Address in ASP.NET Core I always forget where to find the connection information.\nIt's simple enough:\nHttpContext?.Connection?.RemoteIpAddress\n\nbut I never remember to look on the context object as I expect it to be on the Request 😄.\nIt's also useful to remember that if requests are proxied, we need to return the forwarded IP address, rather than the proxy's IP Address. Finally, in most cases you'd likely want the ipv4 address rather than an IPv6 address.\nHere's ready to use helper extension method for the HttpRequest class that makes this more easily accessible:\n/// <summary>\n/// Returns the client IPv4 Address for a request.\n///\n/// Checks proxy forwarding first, the actual ip\n/// and returns null.\n/// </summary>\n/// <param name=\"request\">The HttpReq…",
           "link": "https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core",
           "publishedOn": "2026-05-13T10:35:26.000Z",
-          "wordCount": 1283,
+          "wordCount": 1287,
           "title": "Getting the Client IP Address in ASP.NET Core",
           "imageUrl": "https://weblog.west-wind.com/https://weblog.west-wind.com/images/2026/Getting-the-Client-IP-Address-in-ASP-NET-Core/ClientIpBanner.jpg"
         }
@@ -519,23 +504,13 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
-          "id": "stories/737117",
+          "id": "stories/737626",
           "author": null,
-          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
-          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
-          "publishedOn": "2026-05-30T04:02:46.460Z",
-          "wordCount": 3909,
-          "title": "Azure Functions & Durable Functions Part 1",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/736815",
-          "author": null,
-          "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
-          "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-          "publishedOn": "2026-05-30T04:02:45.571Z",
+          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
+          "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
+          "publishedOn": "2026-05-31T04:38:16.428Z",
           "wordCount": null,
-          "title": "Azure updates for partners: December 2025",
+          "title": "Logo?",
           "imageUrl": null
         },
         {
@@ -543,19 +518,19 @@
           "author": null,
           "description": "I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.",
           "link": "https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/",
-          "publishedOn": "2026-05-30T04:02:45.365Z",
+          "publishedOn": "2026-05-31T04:38:16.378Z",
           "wordCount": null,
           "title": "Fundamentals of AI",
           "imageUrl": null
         },
         {
-          "id": "stories/737626",
+          "id": "stories/736815",
           "author": null,
-          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
-          "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
-          "publishedOn": "2026-05-30T04:02:45.162Z",
+          "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
+          "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
+          "publishedOn": "2026-05-31T04:38:16.292Z",
           "wordCount": null,
-          "title": "Logo?",
+          "title": "Azure updates for partners: December 2025",
           "imageUrl": null
         },
         {
@@ -563,109 +538,9 @@
           "author": null,
           "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
           "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
-          "publishedOn": "2026-05-30T04:02:45.118Z",
+          "publishedOn": "2026-05-31T04:38:16.212Z",
           "wordCount": null,
           "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/739299",
-          "author": null,
-          "description": "Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.",
-          "link": "https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx",
-          "publishedOn": "2026-05-30T04:02:45.117Z",
-          "wordCount": null,
-          "title": "Linear Regression with Pseudo-Inverse Training Using JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737816",
-          "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
-          "publishedOn": "2026-05-30T04:02:45.038Z",
-          "wordCount": 954,
-          "title": "EF Core Lazy Loading Performance Gotcha",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
-        },
-        {
-          "id": "stories/736946",
-          "author": null,
-          "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
-          "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
-          "publishedOn": "2026-05-30T04:02:44.973Z",
-          "wordCount": 16311,
-          "title": "Joe Dluzen on Azure Functions & Durable Functions",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737894",
-          "author": null,
-          "description": "Transform healthcare and life sciences with Claude on Microsoft Foundry-trusted AI for compliance, workflows, and innovation.",
-          "link": "https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-          "publishedOn": "2026-05-30T04:02:44.670Z",
-          "wordCount": 5398,
-          "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738686",
-          "author": null,
-          "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
-          "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
-          "publishedOn": "2026-05-30T04:02:44.639Z",
-          "wordCount": 2165,
-          "title": "HyperVideo Features",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737522",
-          "author": null,
-          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
-          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
-          "publishedOn": "2026-05-30T04:02:44.099Z",
-          "wordCount": 2586,
-          "title": "Learning AI",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/739584",
-          "author": null,
-          "description": "People should not be judging AI-augmented coding by '1 shots.' If someone told ...",
-          "link": "https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
-          "publishedOn": "2026-05-30T04:02:43.658Z",
-          "wordCount": 730,
-          "title": "The danger of glamourizing one shots",
-          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
-        },
-        {
-          "id": "stories/738494",
-          "author": null,
-          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
-          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
-          "publishedOn": "2026-05-30T04:02:42.583Z",
-          "wordCount": 2449,
-          "title": "CoPilot Gets Us Started",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737343",
-          "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
-          "publishedOn": "2026-05-30T04:02:42.575Z",
-          "wordCount": 1509,
-          "title": "2025 Year in Review",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
-        },
-        {
-          "id": "stories/738475",
-          "author": null,
-          "description": "As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).",
-          "link": "https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/",
-          "publishedOn": "2026-05-30T04:02:42.534Z",
-          "wordCount": 2213,
-          "title": "An AI Project",
           "imageUrl": null
         },
         {
@@ -673,9 +548,119 @@
           "author": null,
           "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
           "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
-          "publishedOn": "2026-05-30T04:02:41.630Z",
+          "publishedOn": "2026-05-31T04:38:15.826Z",
           "wordCount": 2606,
           "title": "Essential Programmer Utilities",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/736946",
+          "author": null,
+          "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
+          "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
+          "publishedOn": "2026-05-31T04:38:15.816Z",
+          "wordCount": 16941,
+          "title": "Joe Dluzen on Azure Functions & Durable Functions",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737522",
+          "author": null,
+          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
+          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
+          "publishedOn": "2026-05-31T04:38:15.334Z",
+          "wordCount": 2586,
+          "title": "Learning AI",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/739299",
+          "author": null,
+          "description": "Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.",
+          "link": "https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx",
+          "publishedOn": "2026-05-31T04:38:15.199Z",
+          "wordCount": null,
+          "title": "Linear Regression with Pseudo-Inverse Training Using JavaScript",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737894",
+          "author": null,
+          "description": "Transform healthcare and life sciences with Claude on Microsoft Foundry-trusted AI for compliance, workflows, and innovation.",
+          "link": "https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
+          "publishedOn": "2026-05-31T04:38:15.037Z",
+          "wordCount": 5398,
+          "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737343",
+          "author": null,
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
+          "publishedOn": "2026-05-31T04:38:14.948Z",
+          "wordCount": 1509,
+          "title": "2025 Year in Review",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+        },
+        {
+          "id": "stories/737117",
+          "author": null,
+          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
+          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
+          "publishedOn": "2026-05-31T04:38:14.857Z",
+          "wordCount": 3909,
+          "title": "Azure Functions & Durable Functions Part 1",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/739584",
+          "author": null,
+          "description": "People should not be judging AI-augmented coding by '1 shots.' If someone told ...",
+          "link": "https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
+          "publishedOn": "2026-05-31T04:38:14.640Z",
+          "wordCount": 730,
+          "title": "The danger of glamourizing one shots",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
+        },
+        {
+          "id": "stories/737816",
+          "author": null,
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
+          "publishedOn": "2026-05-31T04:38:14.233Z",
+          "wordCount": 954,
+          "title": "EF Core Lazy Loading Performance Gotcha",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+        },
+        {
+          "id": "stories/738686",
+          "author": null,
+          "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
+          "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
+          "publishedOn": "2026-05-31T04:38:14.066Z",
+          "wordCount": 2165,
+          "title": "HyperVideo Features",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/738494",
+          "author": null,
+          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
+          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
+          "publishedOn": "2026-05-31T04:38:13.177Z",
+          "wordCount": 2449,
+          "title": "CoPilot Gets Us Started",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/738475",
+          "author": null,
+          "description": "As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).",
+          "link": "https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/",
+          "publishedOn": "2026-05-31T04:38:11.094Z",
+          "wordCount": 2213,
+          "title": "An AI Project",
           "imageUrl": null
         }
       ]
@@ -755,22 +740,22 @@
         {
           "id": "https://aspsnippets.com/Articles/Net-10-Print-View-in-ASPNet-Core.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained",
+          "description": "In this tutorial, we will walk through a practical example of how to print View in ASP.Net Core (.NET 10) in Visual Studio 2026.",
           "link": "https://aspsnippets.com/Articles/Net-10-Print-View-in-ASPNet-Core.aspx",
-          "publishedOn": "2026-05-28T00:00:00.000Z",
-          "wordCount": null,
+          "publishedOn": "2026-05-30T00:00:00.000Z",
+          "wordCount": 1435,
           "title": ".Net 10: Print View in ASP.Net Core",
-          "imageUrl": null
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
         {
           "id": "https://aspsnippets.com/Articles/Net-10-Print-DIV-in-ASPNet-Core.aspx",
           "author": null,
-          "description": "Here Mudassar Khan has explained",
+          "description": "In this tutorial, we will walk through a practical example of how to print DIV in ASP.Net Core (.NET 10) in Visual Studio 2026.",
           "link": "https://aspsnippets.com/Articles/Net-10-Print-DIV-in-ASPNet-Core.aspx",
-          "publishedOn": "2026-05-28T00:00:00.000Z",
-          "wordCount": null,
+          "publishedOn": "2026-05-30T00:00:00.000Z",
+          "wordCount": 1378,
           "title": ".Net 10 Print DIV in ASP.Net Core",
-          "imageUrl": null
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         }
       ]
     },
@@ -808,134 +793,209 @@
       "articles": []
     },
     {
-      "title": "Morning Dew by Alvin Ashcraft",
+      "title": "Alvin Ashcraft's Morning Dew",
       "feedUrl": "https://www.alvinashcraft.com/feed/",
-      "siteUrl": "https://www.alvinashcraft.com",
+      "siteUrl": "https://alvinashcraft.com",
       "articles": [
         {
-          "id": "https://www.alvinashcraft.com/2026/05/29/dew-drop-may-29-2026-4679/",
-          "author": "Alvin A.",
-          "description": "Top Links Claude Opus 4.8 available via Microsoft Foundry (Vesa Nopanen) Automate evaluations | Microsoft Foundry (Zachary Cavanell) That’s a wrap: Everything Flutter at Google I/O 2026 (Emma Twersky) Create Multi-platform Apps with .NET MAUI and the MAUI Community Toolkit (David Ramel & Alvin Ashcraft) Improve your agentic developer tools by grounding in Microsoft Learn … Continue reading Dew Drop – May 29, 2026 (#4679)",
-          "link": "https://www.alvinashcraft.com/2026/05/29/dew-drop-may-29-2026-4679/",
-          "publishedOn": "2026-05-29T10:56:35.000Z",
-          "wordCount": 2035,
-          "title": "Dew Drop – May 29, 2026 (#4679)",
-          "imageUrl": null
+          "id": "https://alvinashcraft.com/2026/05/29/dew-drop-may-29-2026-4679/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nClaude Opus 4.8 available via Microsoft Foundry (Vesa Nopanen)\nAutomate evaluations | Microsoft Foundry (Zachary Cavanell)\nThat’s a wrap: Everything Flutter at Google I/O 2026 (Emma Twersky)\nCreate Multi-platform Apps with .NET MAUI and the MAUI Community Toolkit (David…",
+          "link": "https://alvinashcraft.com/2026/05/29/dew-drop-may-29-2026-4679/",
+          "publishedOn": "2026-05-29T10:56:41.000Z",
+          "wordCount": 68,
+          "title": "Dew Drop - May 29, 2026 (#4679)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         },
         {
-          "id": "https://www.alvinashcraft.com/2026/05/28/dew-drop-may-28-2026-4678/",
-          "author": "Alvin A.",
-          "description": "Top Links How AI coding agents actually use your technology (Waldek Mastykarz) AI-Powered Content Summarization and File Organization in Blazor File Manager (Keerthana Rajendran) GitHub Copilot: Your AI Companion for Every Workflow | GitHub Copilot Dev Days (Matt Soucoup) .NET Rocks! – Ten Things Scott Sauber Does On Every .NET App (Carl Franklin & Richard … Continue reading Dew Drop – May 28, 2026 (#4678)",
-          "link": "https://www.alvinashcraft.com/2026/05/28/dew-drop-may-28-2026-4678/",
-          "publishedOn": "2026-05-28T11:07:53.000Z",
-          "wordCount": 2014,
-          "title": "Dew Drop – May 28, 2026 (#4678)",
-          "imageUrl": null
+          "id": "https://alvinashcraft.com/2026/05/28/dew-drop-may-28-2026-4678/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nHow AI coding agents actually use your technology (Waldek Mastykarz)\nAI-Powered Content Summarization and File Organization in Blazor File Manager (Keerthana Rajendran)\nGitHub Copilot: Your AI Companion for Every Workflow | GitHub Copilot Dev Days (Matt Soucoup)\n.NET Ro…",
+          "link": "https://alvinashcraft.com/2026/05/28/dew-drop-may-28-2026-4678/",
+          "publishedOn": "2026-05-28T11:07:56.000Z",
+          "wordCount": 68,
+          "title": "Dew Drop - May 28, 2026 (#4678)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         },
         {
-          "id": "https://www.alvinashcraft.com/2026/05/27/dew-drop-may-27-2026-4677/",
-          "author": "Alvin A.",
-          "description": "Top Links Give Your .NET MAUI Android Apps a Material 3 Makeover (Gerald Versluis) WinUI agents and skills for Windows app development (Windows Dev Team) Visual Studio May Update – Plan, Review, Refine (Mark Downie) Write Cleaner WinForms Code with Copilot and the WinForms Expert Agent | Visual Studio Toolbox (Robert Green & Klaus Loeffelmann) … Continue reading Dew Drop – May 27, 2026 (#4677)",
-          "link": "https://www.alvinashcraft.com/2026/05/27/dew-drop-may-27-2026-4677/",
+          "id": "https://alvinashcraft.com/?p=36706",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nGive Your .NET MAUI Android Apps a Material 3 Makeover (Gerald Versluis)\nWinUI agents and skills for Windows app development (Windows Dev Team)\nVisual Studio May Update – Plan, Review, Refine (Mark Downie)\nWrite Cleaner WinForms Code with Copilot and the WinForms Expert…",
+          "link": "https://alvinashcraft.com/2026/05/27/dew-drop-may-27-2026-4677/",
           "publishedOn": "2026-05-27T10:57:13.000Z",
-          "wordCount": 2001,
-          "title": "Dew Drop – May 27, 2026 (#4677)",
-          "imageUrl": null
+          "wordCount": 68,
+          "title": "Dew Drop - May 27, 2026 (#4677)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         },
         {
-          "id": "https://www.alvinashcraft.com/2026/05/26/dew-drop-may-26-2026-4676/",
-          "author": "Alvin A.",
-          "description": "Top Links VS Code Insiders Podcast Episode #22 – Agent-First Development Workflows in VS Code with Brigit Murtaugh (James Montemagno & Pierce Boggan) Building an On-Device Voice Assistant with Microsoft Foundry Local (Lee Stott) Building Fluent Icon Finder with the WinUI Copilot Skill (Joseph Finney) Cortex Episode #179 – The Philosophy of Obsidian, with CEO … Continue reading Dew Drop – May 26, 2026 (#4676)",
-          "link": "https://www.alvinashcraft.com/2026/05/26/dew-drop-may-26-2026-4676/",
+          "id": "https://alvinashcraft.com/?p=36703",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nVS Code Insiders Podcast Episode #22 - Agent-First Development Workflows in VS Code with Brigit Murtaugh (James Montemagno & Pierce Boggan)\nBuilding an On-Device Voice Assistant with Microsoft Foundry Local (Lee Stott)\nBuilding Fluent Icon Finder with the WinUI Copilot …",
+          "link": "https://alvinashcraft.com/2026/05/26/dew-drop-may-26-2026-4676/",
           "publishedOn": "2026-05-26T10:47:27.000Z",
-          "wordCount": 1766,
-          "title": "Dew Drop – May 26, 2026 (#4676)",
-          "enclosure": {
-            "url": "http://www.sqldownunder.com/Portals/0/SDUShowFiles/SDU96FullShow.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
+          "wordCount": 68,
+          "title": "Dew Drop - May 26, 2026 (#4676)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         },
         {
-          "id": "https://www.alvinashcraft.com/2026/05/25/dew-drop-may-25-2026-4675/",
-          "author": "Alvin A.",
-          "description": "Top Links Automatically getting API difference diagrams in your .NET PRs (Morten Nielsen) Automating Intakes to the Awesome Copilot Marketplace (Aaron Powell) Introducing Syncfusion Toolkit for Blazor: Free Open-Source Blazor Components (Saravanan G.) Learn how to host your agents on Microsoft Foundry (Pamela Fox) TechBash CLI – A GitHub Copilot CLI skill that connects your … Continue reading Dew Drop – May 25, 2026 (#4675)",
-          "link": "https://www.alvinashcraft.com/2026/05/25/dew-drop-may-25-2026-4675/",
+          "id": "https://alvinashcraft.com/?p=36702",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nAutomatically getting API difference diagrams in your .NET PRs (Morten Nielsen)\nAutomating Intakes to the Awesome Copilot Marketplace (Aaron Powell)\nIntroducing Syncfusion Toolkit for Blazor: Free Open-Source Blazor Components (Saravanan G.)\nLearn how to host your agent…",
+          "link": "https://alvinashcraft.com/2026/05/25/dew-drop-may-25-2026-4675/",
           "publishedOn": "2026-05-25T13:33:55.000Z",
-          "wordCount": 2246,
-          "title": "Dew Drop – May 25, 2026 (#4675)",
-          "imageUrl": null
+          "wordCount": 68,
+          "title": "Dew Drop - May 25, 2026 (#4675)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         },
         {
-          "id": "https://www.alvinashcraft.com/2026/05/22/dew-drop-may-22-2026-4674/",
-          "author": "Alvin A.",
-          "description": "Top Links Plan Before You Build: Introducing the Plan agent in Visual Studio (Rachel Kang) Windows App SDK Version 2.1.3 Stable Release Notes and Windows App SDK Version 2.1 Experimental 8 (2.1.4-Experimental8) Release Notes (Microsoft Learn) Announcing Agent Governance Toolkit MCP Extensions for .NET (Jack Batzner) PowerShell is now notarized and hardened for macOS (Jason … Continue reading Dew Drop – May 22, 2026 (#4674)",
-          "link": "https://www.alvinashcraft.com/2026/05/22/dew-drop-may-22-2026-4674/",
+          "id": "https://alvinashcraft.com/?p=36700",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nPlan Before You Build: Introducing the Plan agent in Visual Studio (Rachel Kang)\nWindows App SDK Version 2.1.3 Stable Release Notes and Windows App SDK Version 2.1 Experimental 8 (2.1.4-Experimental8) Release Notes (Microsoft Learn)\nAnnouncing Agent Governance Toolkit M…",
+          "link": "https://alvinashcraft.com/2026/05/22/dew-drop-may-22-2026-4674/",
           "publishedOn": "2026-05-22T11:11:30.000Z",
-          "wordCount": 2245,
-          "title": "Dew Drop – May 22, 2026 (#4674)",
-          "imageUrl": null
+          "wordCount": 68,
+          "title": "Dew Drop - May 22, 2026 (#4674)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         },
         {
-          "id": "https://www.alvinashcraft.com/2026/05/21/dew-drop-may-21-2026-4673/",
-          "author": "Alvin A.",
-          "description": "Top Links Building AI Agents with Microsoft Foundry: A Progressive Lab from Hello World to Self-Hosted (Lee Stott) New in Edge for Business: AI for work, safe from day one (Lindsay Kubasik) Stop prompt injection from hijacking your agent, new security capabilities now released within Agent Framework (Eduard van Valkenburg & Shruti Tople) .NET Rocks! … Continue reading Dew Drop – May 21, 2026 (#4673)",
-          "link": "https://www.alvinashcraft.com/2026/05/21/dew-drop-may-21-2026-4673/",
+          "id": "https://alvinashcraft.com/?p=36699",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nBuilding AI Agents with Microsoft Foundry: A Progressive Lab from Hello World to Self-Hosted (Lee Stott)\nNew in Edge for Business: AI for work, safe from day one (Lindsay Kubasik)\nStop prompt injection from hijacking your agent, new security capabilities now released wi…",
+          "link": "https://alvinashcraft.com/2026/05/21/dew-drop-may-21-2026-4673/",
           "publishedOn": "2026-05-21T11:00:05.000Z",
-          "wordCount": 1920,
-          "title": "Dew Drop – May 21, 2026 (#4673)",
-          "imageUrl": null
+          "wordCount": 68,
+          "title": "Dew Drop - May 21, 2026 (#4673)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         },
         {
-          "id": "https://www.alvinashcraft.com/2026/05/20/dew-drop-may-20-2026-4672/",
-          "author": "Alvin A.",
-          "description": "Top Links Package Identity (Howard Kapustein) Build a Real-Time Weather Dashboard with .NET MAUI Tab View (Sneha Kumar) How to run evals for the model router (Sanjeev Jagtap, Lee Stott & Marie-Louise Onga Nana) S. ‘Soma’ Somasegar, 1966-2026: Microsoft and Madrona leader was a champion of developers and startups (Todd Bishop) Android Studio I/O Edition: … Continue reading Dew Drop – May 20, 2026 (#4672)",
-          "link": "https://www.alvinashcraft.com/2026/05/20/dew-drop-may-20-2026-4672/",
+          "id": "https://alvinashcraft.com/?p=36698",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nPackage Identity (Howard Kapustein)\nBuild a Real-Time Weather Dashboard with .NET MAUI Tab View (Sneha Kumar)\nHow to run evals for the model router (Sanjeev Jagtap, Lee Stott & Marie-Louise Onga Nana)\nS. ‘Soma’ Somasegar, 1966-2026: Microsoft and Madrona leader was a ch…",
+          "link": "https://alvinashcraft.com/2026/05/20/dew-drop-may-20-2026-4672/",
           "publishedOn": "2026-05-20T11:04:28.000Z",
-          "wordCount": 2336,
-          "title": "Dew Drop – May 20, 2026 (#4672)",
-          "imageUrl": null
+          "wordCount": 68,
+          "title": "Dew Drop - May 20, 2026 (#4672)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         },
         {
-          "id": "https://www.alvinashcraft.com/2026/05/19/dew-drop-may-19-2026-4671/",
-          "author": "Alvin A.",
-          "description": "Top Links NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports (Nikolche Kolev) Flutter’s multiplatform value for agentic development (Michael Thomsen) On .NET Live: How Coding Standards Supercharge .NET Quality & Performance (David McCarter) NuGet PackageReference for C++ Projects in Visual Studio (Augustin Popa) Material 3 in .NET MAUI — One Line to Transform Your … Continue reading Dew Drop – May 19, 2026 (#4671)",
-          "link": "https://www.alvinashcraft.com/2026/05/19/dew-drop-may-19-2026-4671/",
+          "id": "https://alvinashcraft.com/?p=36697",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nNuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports (Nikolche Kolev)\nFlutter’s multiplatform value for agentic development (Michael Thomsen)\nOn .NET Live: How Coding Standards Supercharge .NET Quality & Performance (David McCarter)\nNuGet Pac…",
+          "link": "https://alvinashcraft.com/2026/05/19/dew-drop-may-19-2026-4671/",
           "publishedOn": "2026-05-19T11:02:48.000Z",
-          "wordCount": 2166,
-          "title": "Dew Drop – May 19, 2026 (#4671)",
-          "imageUrl": null
+          "wordCount": 68,
+          "title": "Dew Drop - May 19, 2026 (#4671)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         },
         {
-          "id": "https://www.alvinashcraft.com/2026/05/18/dew-drop-may-18-2026-4670/",
-          "author": "Alvin A.",
-          "description": "Top Links Improving Windows quality: Making Taskbar and Start more personal (Diego Baca) Advanced Shader Delivery expands Public Preview with AMD (Wendy Ho) fate 1.0 – A modern data client for React (fate team) Introducing Agent Skills for AI‑Assisted Syncfusion PDF Viewer Integration (Deepa Thiruppathy) Compose Multiplatform 1.11.0 Is Now Available (Elvira Mustafina) The Coding … Continue reading Dew Drop – May 18, 2026 (#4670)",
-          "link": "https://www.alvinashcraft.com/2026/05/18/dew-drop-may-18-2026-4670/",
+          "id": "https://alvinashcraft.com/?p=36696",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nImproving Windows quality: Making Taskbar and Start more personal (Diego Baca)\nAdvanced Shader Delivery expands Public Preview with AMD (Wendy Ho)\nfate 1.0 - A modern data client for React (fate team)\nIntroducing Agent Skills for AI‑Assisted Syncfusion PDF Viewer Integr…",
+          "link": "https://alvinashcraft.com/2026/05/18/dew-drop-may-18-2026-4670/",
           "publishedOn": "2026-05-18T10:59:48.000Z",
-          "wordCount": 2256,
-          "title": "Dew Drop – May 18, 2026 (#4670)",
-          "imageUrl": null
+          "wordCount": 68,
+          "title": "Dew Drop - May 18, 2026 (#4670)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         },
         {
-          "id": "https://www.alvinashcraft.com/2026/05/15/dew-drop-may-15-2026-4669/",
-          "author": "Alvin A.",
-          "description": "Top Links Visual Studio Code 1.121 (Visual Studio Code Team) Securing Azure apps with Aspire enterprise networking (Eric Erhardt) How Claude Code works in large codebases: Best practices and where to start (Claude Team) VSLive! Microsoft AI Hackathon 2026: Send Your Team Home With Working Code (Jim Harrer) Playwright+ for .NET Apps (Sam Basu) The … Continue reading Dew Drop – May 15, 2026 (#4669)",
-          "link": "https://www.alvinashcraft.com/2026/05/15/dew-drop-may-15-2026-4669/",
+          "id": "https://alvinashcraft.com/?p=36695",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nVisual Studio Code 1.121 (Visual Studio Code Team)\nSecuring Azure apps with Aspire enterprise networking (Eric Erhardt)\nHow Claude Code works in large codebases: Best practices and where to start (Claude Team)\nVSLive! Microsoft AI Hackathon 2026: Send Your Team Home Wit…",
+          "link": "https://alvinashcraft.com/2026/05/15/dew-drop-may-15-2026-4669/",
           "publishedOn": "2026-05-15T10:58:07.000Z",
-          "wordCount": 2104,
-          "title": "Dew Drop – May 15, 2026 (#4669)",
-          "imageUrl": null
+          "wordCount": 68,
+          "title": "Dew Drop - May 15, 2026 (#4669)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         },
         {
-          "id": "https://www.alvinashcraft.com/2026/05/14/dew-drop-may-14-2026-4668/",
-          "author": "Alvin A.",
-          "description": "Top Links Process API Improvements in .NET 11 (Adam Sitnik) .NET MAUI Moves to CoreCLR in .NET 11 (David Ortinau) Trick out your GitHub Copilot CLI with Oh My Posh (Kayla Cinnamon) Is debugging an AI system fundamentally different than debugging a traditional software system? | One Dev Question (Mark Russinovich) Agent Skills in Visual … Continue reading Dew Drop – May 14, 2026 (#4668)",
-          "link": "https://www.alvinashcraft.com/2026/05/14/dew-drop-may-14-2026-4668/",
+          "id": "https://alvinashcraft.com/?p=36694",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nProcess API Improvements in .NET 11 (Adam Sitnik)\n.NET MAUI Moves to CoreCLR in .NET 11 (David Ortinau)\nTrick out your GitHub Copilot CLI with Oh My Posh (Kayla Cinnamon)\nIs debugging an AI system fundamentally different than debugging a traditional software system? | O…",
+          "link": "https://alvinashcraft.com/2026/05/14/dew-drop-may-14-2026-4668/",
           "publishedOn": "2026-05-14T11:13:41.000Z",
-          "wordCount": 2272,
-          "title": "Dew Drop – May 14, 2026 (#4668)",
-          "imageUrl": null
+          "wordCount": 68,
+          "title": "Dew Drop - May 14, 2026 (#4668)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
+        {
+          "id": "https://alvinashcraft.com/?p=36692",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nIntroducing dotnet new WinUI templates (Niels Laute, Dinah Gao & Nikola Metulev)\nIntroducing WinUI agent plugin for GitHub Copilot and Claude Code (Nikola Metulev)\nFoundry Local 1.1: Live Transcription, Embeddings, and Responses API (Sam Kemp)\nDungeons & Desktops: Build…",
+          "link": "https://alvinashcraft.com/2026/05/13/dew-drop-may-13-2026-4667/",
+          "publishedOn": "2026-05-13T10:59:49.000Z",
+          "wordCount": 68,
+          "title": "Dew Drop - May 13, 2026 (#4667)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
+        {
+          "id": "https://alvinashcraft.com/?p=36691",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nComposition Stack for AI-Assisted .NET Development (Matt Mattei)\nThings I Think I Think… about Coding Agents and IDEs (Ted Neward)\nWhat’s new in Microsoft Foundry | April 2026 (Nick Brady)\nWinUI 3 Performance: A Leap Forward (Beth Pan)\nGitHub Copilot CLI + GPT-5-…",
+          "link": "https://alvinashcraft.com/2026/05/12/dew-drop-may-12-2026-4666/",
+          "publishedOn": "2026-05-12T10:59:58.000Z",
+          "wordCount": 68,
+          "title": "Dew Drop - May 12, 2026 (#4666)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
+        {
+          "id": "https://alvinashcraft.com/?p=36689",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nBuild an AI-Powered Rich Text Editor in .NET MAUI with AI AssistView (Tamilarasan Gunasekaran)\nGetting started with the GitHub Copilot SDK in .NET (Bart Wullems)\nClaude Code inside Obsidian — academic research skills, inline diff editing, MCP support (hkcanan)\nMerge Con…",
+          "link": "https://alvinashcraft.com/2026/05/11/dew-drop-may-11-2026-4665/",
+          "publishedOn": "2026-05-11T11:10:13.000Z",
+          "wordCount": 68,
+          "title": "Dew Drop - May 11, 2026 (#4665)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
+        {
+          "id": "https://alvinashcraft.com/?p=36686",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nWhat’s New in Aspire 13.3 (Maddy Montaquila)\nImprove your AI coding agent with runtime context from Aspire MCP (Tim Deschryver)\nA New Chapter for Realtime AI: Reasoning, Translation, and Real-Time Transcription (Naomi Moneypenny)\nAgent pull requests are everywhere. Here…",
+          "link": "https://alvinashcraft.com/2026/05/08/dew-drop-may-8-2026-4664/",
+          "publishedOn": "2026-05-08T10:56:57.000Z",
+          "wordCount": 68,
+          "title": "Dew Drop - May 8, 2026 (#4664)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
+        {
+          "id": "https://alvinashcraft.com/?p=36685",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nFrom Local to Production: Deploy Your Microsoft Agent Framework Agent with Foundry Hosted Agents (Tao Chen & Shawn Henry)\nFrom Prompts to Specs: AI Development with OpenSpec in Code Studio (Abilash Raja)\nThere is no Install – it’s ‘Stage’ and ‘Register’ (Howard Kapustei…",
+          "link": "https://alvinashcraft.com/2026/05/07/dew-drop-may-7-2026-4663/",
+          "publishedOn": "2026-05-07T10:58:26.000Z",
+          "wordCount": 68,
+          "title": "Dew Drop - May 7, 2026 (#4663)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
+        {
+          "id": "https://alvinashcraft.com/?p=36684",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nZoomIt, Evolved (Scott Hanselman & Mark Russinovich)\nHow to Fix Slow EF Core Queries: Practical Performance Tuning (Arulraj Aboorvasamy)\nApps That See: Bringing Vision AI to Your Projects (Frank Boucher)\nNode.js 26.0.0 (Current) (Rafael Gonzaga)\nIntroducing OpenAI's new…",
+          "link": "https://alvinashcraft.com/2026/05/06/dew-drop-may-6-2026-4662/",
+          "publishedOn": "2026-05-06T10:58:09.000Z",
+          "wordCount": 68,
+          "title": "Dew Drop - May 6, 2026 (#4662)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
+        {
+          "id": "https://alvinashcraft.com/?p=36683",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nAnnouncing the WinApp VS Code Extension — Run, Debug, and Package Windows Apps in VS Code (Chiara Mooney)\nGiving Copilot more C++ context using custom instructions in VS Code (Sinem Akinci)\nSQL MCP Server as an App Service (Jerry Nixon & Helen Zeng)\nDeveloping internal …",
+          "link": "https://alvinashcraft.com/2026/05/05/dew-drop-may-5-2026-4661/",
+          "publishedOn": "2026-05-05T10:56:41.000Z",
+          "wordCount": 68,
+          "title": "Dew Drop - May 5, 2026 (#4661)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
+        {
+          "id": "https://alvinashcraft.com/?p=36682",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nTechnology & Friends Episode #900 - A Celebration of Friends! (David Giard)\nThe new Run dialog: faster, cleaner, and more capable (Clint Rutkas)\nThings I Think I Think… Data Privacy (Ted Neward)\nAspNetCoreCertificates - Certificate Manager in .NET Core for creati…",
+          "link": "https://alvinashcraft.com/2026/05/04/dew-drop-may-4-2026-4660/",
+          "publishedOn": "2026-05-04T11:08:05.000Z",
+          "wordCount": 68,
+          "title": "Dew Drop - May 4, 2026 (#4660)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -1132,7 +1192,7 @@
           "publishedOn": "2026-05-10T20:32:33.000Z",
           "wordCount": 6353,
           "title": "SQL Server Database Corruption: How to Fix Allocation Errors and Recover Safely",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1779855897"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1780028237"
         }
       ]
     },
