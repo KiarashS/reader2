@@ -17,7 +17,7 @@
           "description": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
           "publishedOn": "2026-06-04T13:14:49.000Z",
-          "wordCount": 4924,
+          "wordCount": 5036,
           "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/03/screenreader.mp4",
@@ -194,7 +194,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5523,
+          "wordCount": 5524,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -209,7 +209,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5656,
+          "wordCount": 5659,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -254,7 +254,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4902,
+          "wordCount": 4894,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -269,7 +269,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4904,
+          "wordCount": 4901,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -284,7 +284,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6275,
+          "wordCount": 6266,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -292,21 +292,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
-          "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
-          "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-          "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8650,
-          "title": "The Architecture Of Local-First Web Development",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg"
         }
       ]
     },
@@ -455,9 +440,9 @@
           "description": "Last week I finally updated my blog and moved it to .NET 10 from the ancient WebForms based engine I built 20 years ago. The app is deployed onto a Windows server running IIS and I ran into a snag related to cookie authentication in ASP.NET.\nThe problem showed up in my Admin panel login where the login would persist across browser sessions, but would not persist across IIS or ASP.NET application restarts. In other words, I could sign in and the cookie worked fine for the current session and even in subsequent sessions after shutting down and restarting the browser, but it would eventually fail after an application update, or the nightly scheduled IIS recycle ignoring the full cookie persistence expiration.\n\n\n\nEncryption Keys\nThe app uses Cookie Authentication for the administration backend…",
           "link": "https://weblog.west-wind.com/posts/2026/May/31/Lost-ASPNET-Cookies-on-IIS-Restarts",
           "publishedOn": "2026-05-31T08:49:58.000Z",
-          "wordCount": 2275,
+          "wordCount": 2232,
           "title": "Lost ASP.NET Identity Cookies on IIS Application Pool Restarts",
-          "imageUrl": "https://weblog.west-wind.com/https://weblog.west-wind.com/imageContent/2026/Lost-ASP-NET-Cookies-on-IIS-Restarts/CookieMonsterAttackOnIis.jpg"
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Lost-ASP-NET-Cookies-on-IIS-Restarts/CookieMonsterAttackOnIis.jpg"
         },
         {
           "id": "qzzxfojpce9j",
@@ -465,9 +450,9 @@
           "description": "ASP.NET Core applications by default want to run in a root folder - and to be fair that's the 99% use case. But there are those occasional situations where you want to run a Web site in a sub folder rather than on the root of the Web site.\nIn this post I review what's required to run ASP.NET with a PathBase - which works with any Web server - and then specifically discuss how to set this up on IIS, which is a little more complicated than it should be.\nAlthough I discuss IIS specifically here for the physical deployment part since that's what I'm running on, the majority of this this content concerning the ASP.NET set up and modifications, applies to any Web server hosting when using sub folder mapping.\n\n\n\nWhy would I need to run out of a SubFolder?\nThe specific scenario that I ran into was…",
           "link": "https://weblog.west-wind.com/posts/2026/May/26/Running-ASPNET-Core-Applications-in-an-IIS-Subfolder-Application",
           "publishedOn": "2026-05-26T14:16:20.000Z",
-          "wordCount": 3339,
+          "wordCount": 3296,
           "title": "Running ASP.NET Core Applications as a Subfolder Application",
-          "imageUrl": "https://weblog.west-wind.com/https://weblog.west-wind.com/imageContent/2026/Running-ASP-NET-Core-Applications-in-an-IIS-Subfolder-Application/PostBanner.jpg"
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Running-ASP-NET-Core-Applications-in-an-IIS-Subfolder-Application/PostBanner.jpg"
         },
         {
           "id": "dkvnwxdbh42n",
@@ -475,9 +460,9 @@
           "description": "When I need to pick up the client IP Address in ASP.NET Core I always forget where to find the connection information.\nIt's simple enough:\nHttpContext?.Connection?.RemoteIpAddress\n\nbut I never remember to look on the context object as I expect it to be on the Request 😄.\nIt's also useful to remember that if requests are proxied, we need to return the forwarded IP address, rather than the proxy's IP Address. Finally, in most cases you'd likely want the ipv4 address rather than an IPv6 address.\nHere's ready to use helper extension method for the HttpRequest class that makes this more easily accessible:\n/// <summary>\n/// Returns the client IPv4 Address for a request.\n///\n/// Checks proxy forwarding first, the actual ip\n/// and returns null.\n/// </summary>\n/// <param name=\"request\">The HttpReq…",
           "link": "https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core",
           "publishedOn": "2026-05-13T10:35:26.000Z",
-          "wordCount": 1283,
+          "wordCount": 1244,
           "title": "Getting the Client IP Address in ASP.NET Core",
-          "imageUrl": "https://weblog.west-wind.com/https://weblog.west-wind.com/images/2026/Getting-the-Client-IP-Address-in-ASP-NET-Core/ClientIpBanner.jpg"
+          "imageUrl": "https://weblog.west-wind.com/images/2026/Getting-the-Client-IP-Address-in-ASP-NET-Core/ClientIpBanner.jpg"
         }
       ]
     },
@@ -492,9 +477,9 @@
           "description": "Last week I finally updated my blog and moved it to .NET 10 from the ancient WebForms based engine I built 20 years ago. The app is deployed onto a Windows server running IIS and I ran into a snag related to cookie authentication in ASP.NET.\nThe problem showed up in my Admin panel login where the login would persist across browser sessions, but would not persist across IIS or ASP.NET application restarts. In other words, I could sign in and the cookie worked fine for the current session and even in subsequent sessions after shutting down and restarting the browser, but it would eventually fail after an application update, or the nightly scheduled IIS recycle ignoring the full cookie persistence expiration.\n\n\n\nEncryption Keys\nThe app uses Cookie Authentication for the administration backend…",
           "link": "https://weblog.west-wind.com/posts/2026/May/31/Lost-ASPNET-Cookies-on-IIS-Restarts",
           "publishedOn": "2026-05-31T08:49:58.000Z",
-          "wordCount": 2275,
+          "wordCount": 2228,
           "title": "Lost ASP.NET Identity Cookies on IIS Application Pool Restarts",
-          "imageUrl": "https://weblog.west-wind.com/https://weblog.west-wind.com/imageContent/2026/Lost-ASP-NET-Cookies-on-IIS-Restarts/CookieMonsterAttackOnIis.jpg"
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Lost-ASP-NET-Cookies-on-IIS-Restarts/CookieMonsterAttackOnIis.jpg"
         },
         {
           "id": "qzzxfojpce9j",
@@ -502,9 +487,9 @@
           "description": "ASP.NET Core applications by default want to run in a root folder - and to be fair that's the 99% use case. But there are those occasional situations where you want to run a Web site in a sub folder rather than on the root of the Web site.\nIn this post I review what's required to run ASP.NET with a PathBase - which works with any Web server - and then specifically discuss how to set this up on IIS, which is a little more complicated than it should be.\nAlthough I discuss IIS specifically here for the physical deployment part since that's what I'm running on, the majority of this this content concerning the ASP.NET set up and modifications, applies to any Web server hosting when using sub folder mapping.\n\n\n\nWhy would I need to run out of a SubFolder?\nThe specific scenario that I ran into was…",
           "link": "https://weblog.west-wind.com/posts/2026/May/26/Running-ASPNET-Core-Applications-in-an-IIS-Subfolder-Application",
           "publishedOn": "2026-05-26T14:16:20.000Z",
-          "wordCount": 3335,
+          "wordCount": 3292,
           "title": "Running ASP.NET Core Applications as a Subfolder Application",
-          "imageUrl": "https://weblog.west-wind.com/https://weblog.west-wind.com/imageContent/2026/Running-ASP-NET-Core-Applications-in-an-IIS-Subfolder-Application/PostBanner.jpg"
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Running-ASP-NET-Core-Applications-in-an-IIS-Subfolder-Application/PostBanner.jpg"
         },
         {
           "id": "dkvnwxdbh42n",
@@ -512,9 +497,9 @@
           "description": "When I need to pick up the client IP Address in ASP.NET Core I always forget where to find the connection information.\nIt's simple enough:\nHttpContext?.Connection?.RemoteIpAddress\n\nbut I never remember to look on the context object as I expect it to be on the Request 😄.\nIt's also useful to remember that if requests are proxied, we need to return the forwarded IP address, rather than the proxy's IP Address. Finally, in most cases you'd likely want the ipv4 address rather than an IPv6 address.\nHere's ready to use helper extension method for the HttpRequest class that makes this more easily accessible:\n/// <summary>\n/// Returns the client IPv4 Address for a request.\n///\n/// Checks proxy forwarding first, the actual ip\n/// and returns null.\n/// </summary>\n/// <param name=\"request\">The HttpReq…",
           "link": "https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core",
           "publishedOn": "2026-05-13T10:35:26.000Z",
-          "wordCount": 1283,
+          "wordCount": 1240,
           "title": "Getting the Client IP Address in ASP.NET Core",
-          "imageUrl": "https://weblog.west-wind.com/https://weblog.west-wind.com/images/2026/Getting-the-Client-IP-Address-in-ASP-NET-Core/ClientIpBanner.jpg"
+          "imageUrl": "https://weblog.west-wind.com/images/2026/Getting-the-Client-IP-Address-in-ASP-NET-Core/ClientIpBanner.jpg"
         }
       ]
     },
@@ -524,23 +509,13 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
-          "id": "stories/737894",
+          "id": "stories/737626",
           "author": null,
-          "description": "Transform healthcare and life sciences with Claude on Microsoft Foundry-trusted AI for compliance, workflows, and innovation.",
-          "link": "https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-          "publishedOn": "2026-06-05T04:24:13.572Z",
-          "wordCount": 5401,
-          "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/736815",
-          "author": null,
-          "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
-          "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-          "publishedOn": "2026-06-05T04:24:13.095Z",
+          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
+          "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
+          "publishedOn": "2026-06-06T04:06:32.994Z",
           "wordCount": null,
-          "title": "Azure updates for partners: December 2025",
+          "title": "Logo?",
           "imageUrl": null
         },
         {
@@ -548,9 +523,29 @@
           "author": null,
           "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
           "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
-          "publishedOn": "2026-06-05T04:24:12.800Z",
+          "publishedOn": "2026-06-06T04:06:32.984Z",
           "wordCount": null,
           "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/736815",
+          "author": null,
+          "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
+          "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
+          "publishedOn": "2026-06-06T04:06:32.974Z",
+          "wordCount": null,
+          "title": "Azure updates for partners: December 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737117",
+          "author": null,
+          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
+          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
+          "publishedOn": "2026-06-06T04:06:31.628Z",
+          "wordCount": 3925,
+          "title": "Azure Functions & Durable Functions Part 1",
           "imageUrl": null
         },
         {
@@ -558,27 +553,37 @@
           "author": null,
           "description": "I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.",
           "link": "https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/",
-          "publishedOn": "2026-06-05T04:24:12.742Z",
+          "publishedOn": "2026-06-06T04:06:31.469Z",
           "wordCount": null,
           "title": "Fundamentals of AI",
           "imageUrl": null
         },
         {
-          "id": "stories/737626",
+          "id": "stories/737816",
           "author": null,
-          "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
-          "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
-          "publishedOn": "2026-06-05T04:24:12.672Z",
-          "wordCount": null,
-          "title": "Logo?",
-          "imageUrl": null
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
+          "publishedOn": "2026-06-06T04:06:31.269Z",
+          "wordCount": 954,
+          "title": "EF Core Lazy Loading Performance Gotcha",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+        },
+        {
+          "id": "stories/737343",
+          "author": null,
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
+          "publishedOn": "2026-06-06T04:06:31.253Z",
+          "wordCount": 1509,
+          "title": "2025 Year in Review",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
         },
         {
           "id": "stories/739299",
           "author": null,
           "description": "Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.",
           "link": "https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx",
-          "publishedOn": "2026-06-05T04:24:12.497Z",
+          "publishedOn": "2026-06-06T04:06:31.179Z",
           "wordCount": null,
           "title": "Linear Regression with Pseudo-Inverse Training Using JavaScript",
           "imageUrl": null
@@ -588,39 +593,39 @@
           "author": null,
           "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
           "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
-          "publishedOn": "2026-06-05T04:24:12.363Z",
-          "wordCount": 18089,
+          "publishedOn": "2026-06-06T04:06:31.000Z",
+          "wordCount": 18432,
           "title": "Joe Dluzen on Azure Functions & Durable Functions",
           "imageUrl": null
         },
         {
-          "id": "stories/737343",
+          "id": "stories/737894",
           "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
-          "publishedOn": "2026-06-05T04:24:12.215Z",
-          "wordCount": 1509,
-          "title": "2025 Year in Review",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+          "description": "Transform healthcare and life sciences with Claude on Microsoft Foundry-trusted AI for compliance, workflows, and innovation.",
+          "link": "https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
+          "publishedOn": "2026-06-06T04:06:30.699Z",
+          "wordCount": 5401,
+          "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs",
+          "imageUrl": null
         },
         {
           "id": "stories/738686",
           "author": null,
           "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
           "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
-          "publishedOn": "2026-06-05T04:24:11.950Z",
+          "publishedOn": "2026-06-06T04:06:30.225Z",
           "wordCount": 2187,
           "title": "HyperVideo Features",
           "imageUrl": null
         },
         {
-          "id": "stories/737522",
+          "id": "stories/738494",
           "author": null,
-          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
-          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
-          "publishedOn": "2026-06-05T04:24:11.577Z",
-          "wordCount": 2602,
-          "title": "Learning AI",
+          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
+          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
+          "publishedOn": "2026-06-06T04:06:29.916Z",
+          "wordCount": 2465,
+          "title": "CoPilot Gets Us Started",
           "imageUrl": null
         },
         {
@@ -628,9 +633,29 @@
           "author": null,
           "description": "As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).",
           "link": "https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/",
-          "publishedOn": "2026-06-05T04:24:11.339Z",
+          "publishedOn": "2026-06-06T04:06:29.591Z",
           "wordCount": 2229,
           "title": "An AI Project",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737522",
+          "author": null,
+          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
+          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
+          "publishedOn": "2026-06-06T04:06:29.469Z",
+          "wordCount": 2602,
+          "title": "Learning AI",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/738621",
+          "author": null,
+          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
+          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
+          "publishedOn": "2026-06-06T04:06:28.928Z",
+          "wordCount": 2622,
+          "title": "Essential Programmer Utilities",
           "imageUrl": null
         },
         {
@@ -638,50 +663,10 @@
           "author": null,
           "description": "People should not be judging AI-augmented coding by '1 shots.' If someone told ...",
           "link": "https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
-          "publishedOn": "2026-06-05T04:24:11.205Z",
+          "publishedOn": "2026-06-06T04:06:28.915Z",
           "wordCount": 730,
           "title": "The danger of glamourizing one shots",
           "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
-        },
-        {
-          "id": "stories/738494",
-          "author": null,
-          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
-          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
-          "publishedOn": "2026-06-05T04:24:11.006Z",
-          "wordCount": 2465,
-          "title": "CoPilot Gets Us Started",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737816",
-          "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
-          "publishedOn": "2026-06-05T04:24:10.992Z",
-          "wordCount": 954,
-          "title": "EF Core Lazy Loading Performance Gotcha",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
-        },
-        {
-          "id": "stories/738621",
-          "author": null,
-          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
-          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
-          "publishedOn": "2026-06-05T04:24:10.531Z",
-          "wordCount": 2622,
-          "title": "Essential Programmer Utilities",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737117",
-          "author": null,
-          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
-          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
-          "publishedOn": "2026-06-05T04:24:10.416Z",
-          "wordCount": 3925,
-          "title": "Azure Functions & Durable Functions Part 1",
-          "imageUrl": null
         }
       ]
     },
@@ -768,12 +753,72 @@
       "siteUrl": "https://www.aspsnippets.com/RSS.ashx",
       "articles": [
         {
+          "id": "https://aspsnippets.com/Articles/Get-BoundField-and-TemplateField-column-values-on-Button-Click-in-ASPNet-GridView.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to get BoundField and TemplateField column values on Button Click in ASP.Net GridView using C# and VB.Net.",
+          "link": "https://aspsnippets.com/Articles/Get-BoundField-and-TemplateField-column-values-on-Button-Click-in-ASPNet-GridView.aspx",
+          "publishedOn": "2026-06-05T00:00:00.000Z",
+          "wordCount": 1868,
+          "title": "Get BoundField and TemplateField column values on Button Click in ASP.Net GridView",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Bind-Model-Properties-in-ASPNet-Core-Razor-Pages.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to bind Model Properties in ASP.Net Core (.Net Core 8) Razor Pages.",
+          "link": "https://aspsnippets.com/Articles/Bind-Model-Properties-in-ASPNet-Core-Razor-Pages.aspx",
+          "publishedOn": "2026-06-05T00:00:00.000Z",
+          "wordCount": 1663,
+          "title": "Bind Model Properties in ASP.Net Core Razor Pages",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Using-the-asppagehandler-attribute-in-ASPNet-Core-Razor-Pages.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained with an example, how to use the asp-page-handler attribute in ASP.Net Core (.Net Core 8) Razor Pages.",
+          "link": "https://aspsnippets.com/Articles/Using-the-asppagehandler-attribute-in-ASPNet-Core-Razor-Pages.aspx",
+          "publishedOn": "2026-06-05T00:00:00.000Z",
+          "wordCount": 1649,
+          "title": "Using the asp-page-handler attribute in ASP.Net Core Razor Pages",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Taskreturning-Page-methods-are-unsupported-in-the-current-application-configuration.aspx",
+          "author": null,
+          "description": "In this tutorial, we will walk through a practical example where we will resolve the following error in ASP.Net Web Forms ( .Net Framework 4.8) in Visual Studio 2026.",
+          "link": "https://aspsnippets.com/Articles/Taskreturning-Page-methods-are-unsupported-in-the-current-application-configuration.aspx",
+          "publishedOn": "2026-06-05T00:00:00.000Z",
+          "wordCount": 1473,
+          "title": "Task-returning Page methods are unsupported in the current application configuration",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Net-48-Button-Click-using-async-and-await-in-ASPNet-Web-Forms.aspx",
+          "author": null,
+          "description": "In this tutorial, we will walk through a practical example of how to implement Button Click event using async and await in ASP.Net Web Forms ( .Net Framework 4.8) in Visual Studio 2026.",
+          "link": "https://aspsnippets.com/Articles/Net-48-Button-Click-using-async-and-await-in-ASPNet-Web-Forms.aspx",
+          "publishedOn": "2026-06-05T00:00:00.000Z",
+          "wordCount": 1818,
+          "title": ".Net 4.8: Button Click using async and await in ASP.Net Web Forms",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/Net-48-GridView-Paging-using-async-and-await-in-ASPNet-Web-Forms.aspx",
+          "author": null,
+          "description": "In this tutorial, we will walk through a practical example of how to implement Paging in GridView using async and await in ASP.Net Web Forms ( .Net Framework 4.8) in Visual Studio 2026.",
+          "link": "https://aspsnippets.com/Articles/Net-48-GridView-Paging-using-async-and-await-in-ASPNet-Web-Forms.aspx",
+          "publishedOn": "2026-06-05T00:00:00.000Z",
+          "wordCount": 1948,
+          "title": ".Net 4.8: GridView Paging using async and await in ASP.Net Web Forms",
+          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
+        },
+        {
           "id": "https://aspsnippets.com/Articles/Net-48-Bind-GridView-using-async-and-await-in-ASPNet-Web-Forms.aspx",
           "author": null,
           "description": "In this tutorial, we will walk through a practical example of how to bind GridView using async and await in ASP.Net Web Forms ( .Net Framework 4.8) in Visual Studio 2026.",
           "link": "https://aspsnippets.com/Articles/Net-48-Bind-GridView-using-async-and-await-in-ASPNet-Web-Forms.aspx",
           "publishedOn": "2026-06-04T00:00:00.000Z",
-          "wordCount": 1542,
+          "wordCount": 1852,
           "title": ".Net 4.8: Bind GridView using async and await in ASP.Net Web Forms",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
@@ -783,7 +828,7 @@
           "description": "In this tutorial, we will walk through a practical example of RegisterAsyncTask method in Page Load event in ASP.Net Web Forms ( .Net Framework 4.8) in Visual Studio 2026.",
           "link": "https://aspsnippets.com/Articles/Net-48-Explaining-RegisterAsyncTask-method-in-PageLoad-event.aspx",
           "publishedOn": "2026-06-04T00:00:00.000Z",
-          "wordCount": 1700,
+          "wordCount": 2010,
           "title": ".Net 4.8: Explaining RegisterAsyncTask method in Page_Load event",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
@@ -793,19 +838,9 @@
           "description": "In this tutorial, we will walk through a practical example where we will resolve the following error in ASP.Net Web Forms ( .Net Framework 4.8) in Visual Studio 2026.",
           "link": "https://aspsnippets.com/Articles/This-operation-requires-the-Page-to-be-asynchronous-the-Async-attribute-must-be-set-to-true.aspx",
           "publishedOn": "2026-06-04T00:00:00.000Z",
-          "wordCount": 1211,
+          "wordCount": 1521,
           "title": "This operation requires the Page to be asynchronous the Async attribute must be set to true",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Task-returning-Page-methods-are-unsupported-in-the-current-application-configuration.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained",
-          "link": "https://aspsnippets.com/Articles/Task-returning-Page-methods-are-unsupported-in-the-current-application-configuration.aspx",
-          "publishedOn": "2026-06-04T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Task-returning Page methods are unsupported in the current application configuration",
-          "imageUrl": null
         },
         {
           "id": "https://aspsnippets.com/Articles/Net-48-Using-async-and-await-in-ASPNet-Web-Forms.aspx",
@@ -813,28 +848,8 @@
           "description": "In this tutorial, we will walk through a practical example of how to use async and await in ASP.Net Web Forms ( .Net Framework 4.8) in Visual Studio 2026.",
           "link": "https://aspsnippets.com/Articles/Net-48-Using-async-and-await-in-ASPNet-Web-Forms.aspx",
           "publishedOn": "2026-06-03T00:00:00.000Z",
-          "wordCount": 1719,
+          "wordCount": 2029,
           "title": ".Net 4.8: Using async and await in ASP.Net Web Forms",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Net-10-Print-View-in-ASPNet-Core.aspx",
-          "author": null,
-          "description": "In this tutorial, we will walk through a practical example of how to print View in ASP.Net Core (.NET 10) in Visual Studio 2026.",
-          "link": "https://aspsnippets.com/Articles/Net-10-Print-View-in-ASPNet-Core.aspx",
-          "publishedOn": "2026-05-30T00:00:00.000Z",
-          "wordCount": 1435,
-          "title": ".Net 10: Print View in ASP.Net Core",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Net-10-Print-DIV-in-ASPNet-Core.aspx",
-          "author": null,
-          "description": "In this tutorial, we will walk through a practical example of how to print DIV in ASP.Net Core (.NET 10) in Visual Studio 2026.",
-          "link": "https://aspsnippets.com/Articles/Net-10-Print-DIV-in-ASPNet-Core.aspx",
-          "publishedOn": "2026-05-30T00:00:00.000Z",
-          "wordCount": 1378,
-          "title": ".Net 10 Print DIV in ASP.Net Core",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         }
       ]
@@ -877,6 +892,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/06/05/dew-drop-june-5-2026-4684/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nAspire Multi-repo Rollout at Scale with Agentic AI (Jeff Liu & Chuanbo Zhang)\nBehind the Keynote: How Windows Made OpenClaw Work in the Keynote Demo | LIVE144 | Microsoft Build 2026 (Scott Hanselman)\nAccelerate Edge AI Development with Foundry Local (Dom Robinson, samke…",
+          "link": "https://alvinashcraft.com/2026/06/05/dew-drop-june-5-2026-4684/",
+          "publishedOn": "2026-06-05T10:37:04.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - June 5, 2026 (#4684)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/06/04/dew-drop-june-4-2026-4683/",
           "author": "Alvin Ashcraft",
@@ -1065,16 +1090,6 @@
           "publishedOn": "2026-05-11T11:10:13.000Z",
           "wordCount": 72,
           "title": "Dew Drop - May 11, 2026 (#4665)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/?p=36686",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nWhat’s New in Aspire 13.3 (Maddy Montaquila)\nImprove your AI coding agent with runtime context from Aspire MCP (Tim Deschryver)\nA New Chapter for Realtime AI: Reasoning, Translation, and Real-Time Transcription (Naomi Moneypenny)\nAgent pull requests are everywhere. Here…",
-          "link": "https://alvinashcraft.com/2026/05/08/dew-drop-may-8-2026-4664/",
-          "publishedOn": "2026-05-08T10:56:57.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - May 8, 2026 (#4664)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
@@ -1272,7 +1287,7 @@
           "publishedOn": "2026-05-10T20:32:33.000Z",
           "wordCount": 6353,
           "title": "SQL Server Database Corruption: How to Fix Allocation Errors and Recover Safely",
-          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1780633440"
+          "imageUrl": "https://secure.gravatar.com/blavatar/03cf7e9161e00cc88cf94211d565886c03b9ead7182b0f385fae8c102bdf8d17?s=200&ts=1780462542"
         }
       ]
     },
