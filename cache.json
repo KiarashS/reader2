@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=394890",
+          "author": "Silvestar Bistrović",
+          "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
+          "publishedOn": "2026-06-22T12:39:13.000Z",
+          "wordCount": 4577,
+          "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
+            "length": "38364603",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/opposing-scroll-columns.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=394364",
           "author": "Daniel Schwarz",
           "description": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -32,7 +47,7 @@
           "description": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
           "publishedOn": "2026-06-17T15:32:30.000Z",
-          "wordCount": 5660,
+          "wordCount": 5670,
           "title": "The Siren Song of ariaNotify()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
         },
@@ -175,16 +190,6 @@
           "wordCount": 3131,
           "title": "Astro Markdown Component Utility for Any Framework",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395357",
-          "author": "Daniel Schwarz",
-          "description": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-12/",
-          "publishedOn": "2026-05-29T13:25:38.000Z",
-          "wordCount": 3487,
-          "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-2.31.26-PM.png"
         }
       ]
     },
@@ -199,7 +204,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6494,
+          "wordCount": 6503,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -214,7 +219,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4802,
+          "wordCount": 4821,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -229,7 +234,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5747,
+          "wordCount": 5750,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -259,7 +264,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5512,
+          "wordCount": 5520,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -274,7 +279,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5655,
+          "wordCount": 5663,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -305,6 +310,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a39b4a8a46b9ad44f07cee5",
+          "author": "Manish Ramavat",
+          "description": "Many AI Agent tutorials propose the same fix for bad output: reflection. Your agent generates garbage JSON? Just add another LLM call to \"review\" it. The second call critiques the first, the first tri",
+          "link": "https://www.freecodecamp.org/news/what-to-do-when-reflection-won-t-fix-your-ai-agent-s-output/",
+          "publishedOn": "2026-06-22T21:30:00.000Z",
+          "wordCount": 2971,
+          "title": "What to Do When Reflection Won't Fix Your AI Agent's Output",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/106d9ec2-0ef5-4bec-b2c6-8473b3bd671f.png"
+        },
+        {
+          "id": "6a397b0b12901591d0138d81",
+          "author": "Vineeth Pawar",
+          "description": "When you hear \"Scalable Design System with a Monorepo Ecosystem\" it might sound like a bunch of jargon glued together. Let's simplify: Design system: the building blocks of your product (buttons, inp",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-scalable-design-system-in-a-monorepo/",
+          "publishedOn": "2026-06-22T18:12:27.000Z",
+          "wordCount": 3495,
+          "title": "How to Build a Scalable Design System in a Monorepo",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e1f42e08-4158-4ecb-8d71-5371cfe86707.png"
+        },
+        {
+          "id": "6a3966d66a52acabf1b616a4",
+          "author": "Olamilekan Lamidi",
+          "description": "Performance tools are good at showing you what's slow. They can tell you that your Largest Contentful Paint is 4.2 seconds, your JavaScript bundle is too large, or an image below the fold is loading t",
+          "link": "https://www.freecodecamp.org/news/how-to-turn-performance-audits-into-ai-fix-prompts-with-a-devtools-extension/",
+          "publishedOn": "2026-06-22T16:46:14.000Z",
+          "wordCount": 3314,
+          "title": "How to Turn Performance Audits into AI Fix Prompts with a DevTools Extension",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/70dc4877-86de-43ec-bdf5-9a6dc34b7bf1.png"
+        },
+        {
+          "id": "6a396515fa8e37864960ddb6",
+          "author": "Ayobami Adejumo",
+          "description": "This handbook is a complete guide to the 7-step playbook that took one EKS bill from \\(85,000/month to \\)34,000/month — without touching a single line of product code. I've audited EKS clusters at mor",
+          "link": "https://www.freecodecamp.org/news/eks-cost-optimization-reduce-your-aws-bill-using-karpenter-and-rightsizing/",
+          "publishedOn": "2026-06-22T16:38:45.000Z",
+          "wordCount": 5256,
+          "title": "The EKS Cost Optimization Handbook: Reduce Your AWS Bill by 60% Using Karpenter and Rightsizing",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cd12d552-bcf2-466a-a98e-7674c436afaa.png"
+        },
+        {
+          "id": "6a39609b4c4daad6a42f931b",
+          "author": "Casmir Onyekani",
+          "description": "Managing a few of repositories is easy. And managing dozens can be challenging. But managing hundreds across multiple teams, products, and deployment environments is where things start to break down.",
+          "link": "https://www.freecodecamp.org/news/how-to-organize-and-maintain-azure-repositories-at-scale/",
+          "publishedOn": "2026-06-22T16:19:39.000Z",
+          "wordCount": 4494,
+          "title": "How to Organize and Maintain Azure Repositories at Scale: An Azure DevOps Engineer's Guide",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e4c2ef53-8e1f-4b05-99b8-6461c966335d.png"
+        },
         {
           "id": "6a36e90fd5185a258a6a5508",
           "author": "Gidudu Nicholas",
@@ -354,56 +409,6 @@
           "wordCount": 4746,
           "title": "How to Build an Offline AI Image Generator in Node.js with QVAC and Socket.io",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/db3fe63d-6df2-4250-b8f2-c166d9eafc3b.png"
-        },
-        {
-          "id": "6a34144348f250210b480951",
-          "author": "Shradha Puri",
-          "description": "Your Garmin shows poor recovery, WHOOP paints your day red, your resting heart rate is high, your HRV is low, and the app recommends that you rest. But here’s the thing: you don’t actually feel bad. F",
-          "link": "https://www.freecodecamp.org/news/how-wearables-track-the-menstrual-cycle-the-sensors-the-algorithms-and-the-accuracy-gap/",
-          "publishedOn": "2026-06-18T15:52:34.000Z",
-          "wordCount": 2939,
-          "title": "How Wearables Track the Menstrual Cycle: The Sensors, the Algorithms, and the Accuracy Gap",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f9883968-d2c8-4604-bd74-7e811ff52ca4.png"
-        },
-        {
-          "id": "6a34139bd09354fbef127810",
-          "author": "Nikhil Adithyan",
-          "description": "Most financial models use analyst consensus as a single forward-looking input: revenue estimate, EPS estimate, EBITDA estimate, or some version of a forward margin assumption. That works, but it flatt",
-          "link": "https://www.freecodecamp.org/news/how-to-analyze-analyst-estimate-ranges-with-python/",
-          "publishedOn": "2026-06-18T15:49:47.000Z",
-          "wordCount": 3854,
-          "title": "How to Analyze Analyst Estimate Ranges with Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bb6bebad-1360-43c7-b367-ab984bd8f8b9.png"
-        },
-        {
-          "id": "6a33373b82e3f02be1b8c36f",
-          "author": "Sviatoslav Barbutsa",
-          "description": "Retrieval-augmented generation, or RAG, is a pattern where an application retrieves relevant source material and adds it to a model prompt so the model can answer from that context. A larger context w",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-small-context-window-limits-in-rag-systems/",
-          "publishedOn": "2026-06-18T00:09:31.000Z",
-          "wordCount": 4164,
-          "title": "How to Handle Small Context Window Limits in RAG Systems",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5ee25d45-2056-4e32-b780-c92e828e7964.png"
-        },
-        {
-          "id": "6a32f4091d5034aa7d96e448",
-          "author": "Olaleye Blessing",
-          "description": "If you've spent enough time in the React ecosystem, you'll have likely seen codebases where nearly every function is wrapped with useCallback and the computed value is wrapped with useMemo. The reason",
-          "link": "https://www.freecodecamp.org/news/how-to-avoid-overusing-usecallback-and-usememo-in-react/",
-          "publishedOn": "2026-06-17T19:22:49.000Z",
-          "wordCount": 5887,
-          "title": "How to Avoid Overusing useCallback and useMemo in React",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/88ac6adf-ef3d-4f28-9dac-22ea12ed5005.png"
-        },
-        {
-          "id": "6a32f3c20533dba8baa5af51",
-          "author": "Tejas Ashok",
-          "description": "Lately, there's been more focus on creating specialized Small Language Models (SLMs) for high-throughput, real-time applications. But we seem to be at an impasse: we excel at fine-tuning these models,",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-architecture-for-small-language-model-fleets/",
-          "publishedOn": "2026-06-17T19:21:38.000Z",
-          "wordCount": 3153,
-          "title": "How to Build a Production Architecture for Small Language Model Fleets",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3b09fe00-d9ff-4ba6-bfec-feb3ebdb5da5.png"
         }
       ]
     },
@@ -445,7 +450,7 @@
           "description": "This post falls squarely into the stupid pet tricks category, but I'm going to post about it anyway, because it was an interesting experiment in dynamically creating a single file, self-contained Windows executable that contains the executable, data and a native dependency.\nThis is about as edge case as it gets, but let me give you my scenario and why I decided to tackle this, foolishly thinking that this would be a quick afternoon project (punchline: it wasn't).\nI have several Web based documentation solutions that I both publish publicly and also use for specific customer projects. Essentially these are Web site generator tools with a specific front end for creating the documentation that makes up the final documentation Web output. Because I deal quite a bit with legacy customers one is…",
           "link": "https://weblog.west-wind.com/posts/2026/Jun/13/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable",
           "publishedOn": "2026-06-13T00:00:00.000Z",
-          "wordCount": 5020,
+          "wordCount": 5024,
           "title": "Creating a Packaged Windows Single File Web Site Viewer Executable",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable/Banner.jpg"
         },
@@ -465,7 +470,7 @@
           "description": "ASP.NET Core applications by default want to run in a root folder - and to be fair that's the 99% use case. But there are those occasional situations where you want to run a Web site in a sub folder rather than on the root of the Web site.\nIn this post I review what's required to run ASP.NET with a PathBase - which works with any Web server - and then specifically discuss how to set this up on IIS, which is a little more complicated than it should be.\nAlthough I discuss IIS specifically here for the physical deployment part since that's what I'm running on, the majority of this this content concerning the ASP.NET set up and modifications, applies to any Web server hosting when using sub folder mapping.\n\n\n\nWhy would I need to run out of a SubFolder?\nThe specific scenario that I ran into was…",
           "link": "https://weblog.west-wind.com/posts/2026/May/26/Running-ASPNET-Core-Applications-in-an-IIS-Subfolder-Application",
           "publishedOn": "2026-05-26T14:16:20.000Z",
-          "wordCount": 3297,
+          "wordCount": 3293,
           "title": "Running ASP.NET Core Applications as a Subfolder Application",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Running-ASP-NET-Core-Applications-in-an-IIS-Subfolder-Application/PostBanner.jpg"
         }
@@ -482,7 +487,7 @@
           "description": "This post falls squarely into the stupid pet tricks category, but I'm going to post about it anyway, because it was an interesting experiment in dynamically creating a single file, self-contained Windows executable that contains the executable, data and a native dependency.\nThis is about as edge case as it gets, but let me give you my scenario and why I decided to tackle this, foolishly thinking that this would be a quick afternoon project (punchline: it wasn't).\nI have several Web based documentation solutions that I both publish publicly and also use for specific customer projects. Essentially these are Web site generator tools with a specific front end for creating the documentation that makes up the final documentation Web output. Because I deal quite a bit with legacy customers one is…",
           "link": "https://weblog.west-wind.com/posts/2026/Jun/13/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable",
           "publishedOn": "2026-06-13T00:00:00.000Z",
-          "wordCount": 5024,
+          "wordCount": 5020,
           "title": "Creating a Packaged Windows Single File Web Site Viewer Executable",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable/Banner.jpg"
         },
@@ -492,7 +497,7 @@
           "description": "Last week I finally updated my blog and moved it to .NET 10 from the ancient WebForms based engine I built 20 years ago. The app is deployed onto a Windows server running IIS and I ran into a snag related to cookie authentication in ASP.NET.\nThe problem showed up in my Admin panel login where the login would persist across browser sessions, but would not persist across IIS or ASP.NET application restarts. In other words, I could sign in and the cookie worked fine for the current session and even in subsequent sessions after shutting down and restarting the browser, but it would eventually fail after an application update, or the nightly scheduled IIS recycle ignoring the full cookie persistence expiration.\n\n\n\nEncryption Keys\nThe app uses Cookie Authentication for the administration backend…",
           "link": "https://weblog.west-wind.com/posts/2026/May/31/Lost-ASPNET-Cookies-on-IIS-Restarts",
           "publishedOn": "2026-05-31T08:49:58.000Z",
-          "wordCount": 2230,
+          "wordCount": 2234,
           "title": "Lost ASP.NET Identity Cookies on IIS Application Pool Restarts",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Lost-ASP-NET-Cookies-on-IIS-Restarts/CookieMonsterAttackOnIis.jpg"
         },
@@ -514,73 +519,23 @@
       "siteUrl": "https://dotnetkicks.com/",
       "articles": [
         {
+          "id": "stories/737894",
+          "author": null,
+          "description": "Transform healthcare and life sciences with Claude on Microsoft Foundry-trusted AI for compliance, workflows, and innovation.",
+          "link": "https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
+          "publishedOn": "2026-06-23T04:07:23.969Z",
+          "wordCount": 5399,
+          "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs",
+          "imageUrl": null
+        },
+        {
           "id": "stories/738416",
           "author": null,
           "description": "I'm studying for the Fundamentals of AI certification test by Microsoft. You would think this would be pretty easy (being fundamentals, and all), but here is a sample question from their study guide... This is not a trivial test, and I'm getting too old to memorize all the necessary material.",
           "link": "https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/",
-          "publishedOn": "2026-06-22T05:09:52.705Z",
+          "publishedOn": "2026-06-23T04:07:23.800Z",
           "wordCount": null,
           "title": "Fundamentals of AI",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737117",
-          "author": null,
-          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
-          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
-          "publishedOn": "2026-06-22T05:09:51.098Z",
-          "wordCount": 4121,
-          "title": "Azure Functions & Durable Functions Part 1",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738686",
-          "author": null,
-          "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
-          "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
-          "publishedOn": "2026-06-22T05:09:50.626Z",
-          "wordCount": 2378,
-          "title": "HyperVideo Features",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/736815",
-          "author": null,
-          "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
-          "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
-          "publishedOn": "2026-06-22T05:09:50.471Z",
-          "wordCount": null,
-          "title": "Azure updates for partners: December 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737305",
-          "author": null,
-          "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
-          "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
-          "publishedOn": "2026-06-22T05:09:50.463Z",
-          "wordCount": null,
-          "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/738494",
-          "author": null,
-          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
-          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
-          "publishedOn": "2026-06-22T05:09:50.452Z",
-          "wordCount": 2660,
-          "title": "CoPilot Gets Us Started",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/736946",
-          "author": null,
-          "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
-          "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
-          "publishedOn": "2026-06-22T05:09:50.421Z",
-          "wordCount": 22580,
-          "title": "Joe Dluzen on Azure Functions & Durable Functions",
           "imageUrl": null
         },
         {
@@ -588,29 +543,49 @@
           "author": null,
           "description": "Jesse Liberty has three decades of experience writing and delivering software projects and is the author of 2 dozen books and a couple dozen online courses. His latest book, Building APIs with .NET, is now available wherever you buy your books.",
           "link": "https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/",
-          "publishedOn": "2026-06-22T05:09:50.326Z",
+          "publishedOn": "2026-06-23T04:07:23.774Z",
           "wordCount": null,
           "title": "Logo?",
           "imageUrl": null
         },
         {
-          "id": "stories/737894",
+          "id": "stories/736946",
           "author": null,
-          "description": "Transform healthcare and life sciences with Claude on Microsoft Foundry-trusted AI for compliance, workflows, and innovation.",
-          "link": "https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/",
-          "publishedOn": "2026-06-22T05:09:49.997Z",
-          "wordCount": 5399,
-          "title": "Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs",
+          "description": "I'm happy to announce the start of a new series on creating APIs with C# and .NET-beginning with a series of posts, videos, and podcasts on Azure Functions and Durable Functions.",
+          "link": "https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/",
+          "publishedOn": "2026-06-23T04:07:23.770Z",
+          "wordCount": 22783,
+          "title": "Joe Dluzen on Azure Functions & Durable Functions",
           "imageUrl": null
         },
         {
-          "id": "stories/737522",
+          "id": "stories/737305",
           "author": null,
-          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
-          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
-          "publishedOn": "2026-06-22T05:09:49.875Z",
-          "wordCount": 2798,
-          "title": "Learning AI",
+          "description": "How Akka.Persistence allowed us to break the logjam on Sdkbin's massive technical debt.",
+          "link": "https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/",
+          "publishedOn": "2026-06-23T04:07:23.558Z",
+          "wordCount": null,
+          "title": "Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/736815",
+          "author": null,
+          "description": "Azure's December 2025 partner updates highlight new AI‑powered tools, governance capabilities, and cloud innovations that help partners deliver smarter, scalable solutions.",
+          "link": "https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025",
+          "publishedOn": "2026-06-23T04:07:23.469Z",
+          "wordCount": null,
+          "title": "Azure updates for partners: December 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737117",
+          "author": null,
+          "description": "As part of the API tutorials we decided we needed a Database with two tables: Book and Author. Books will join Author and there can be as many authors as we want. Rather than writing this however, I went on GitHub and used the agents. I prompted: ASP.net API with a sqlserver backend.",
+          "link": "https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/",
+          "publishedOn": "2026-06-23T04:07:23.408Z",
+          "wordCount": 4121,
+          "title": "Azure Functions & Durable Functions Part 1",
           "imageUrl": null
         },
         {
@@ -618,39 +593,9 @@
           "author": null,
           "description": "Dr. James McCaffrey presents a complete end-to-end demonstration of linear regression with pseudo-inverse training implemented using JavaScript. Compared to other training techniques, such as stochastic gradient descent, pseudo-inverse training does not require any parameters and so it is especially simple to use.",
           "link": "https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx",
-          "publishedOn": "2026-06-22T05:09:49.861Z",
+          "publishedOn": "2026-06-23T04:07:23.393Z",
           "wordCount": null,
           "title": "Linear Regression with Pseudo-Inverse Training Using JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "stories/737816",
-          "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
-          "publishedOn": "2026-06-22T05:09:49.836Z",
-          "wordCount": 954,
-          "title": "EF Core Lazy Loading Performance Gotcha",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
-        },
-        {
-          "id": "stories/737343",
-          "author": null,
-          "description": "Mark Heath's Development Blog",
-          "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
-          "publishedOn": "2026-06-22T05:09:49.555Z",
-          "wordCount": 1509,
-          "title": "2025 Year in Review",
-          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
-        },
-        {
-          "id": "stories/738621",
-          "author": null,
-          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
-          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
-          "publishedOn": "2026-06-22T05:09:47.789Z",
-          "wordCount": 2813,
-          "title": "Essential Programmer Utilities",
           "imageUrl": null
         },
         {
@@ -658,19 +603,79 @@
           "author": null,
           "description": "People should not be judging AI-augmented coding by '1 shots.' If someone told ...",
           "link": "https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots",
-          "publishedOn": "2026-06-22T05:09:47.761Z",
+          "publishedOn": "2026-06-23T04:07:23.353Z",
           "wordCount": 730,
           "title": "The danger of glamourizing one shots",
           "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
+        },
+        {
+          "id": "stories/737343",
+          "author": null,
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review",
+          "publishedOn": "2026-06-23T04:07:22.620Z",
+          "wordCount": 1509,
+          "title": "2025 Year in Review",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
+        },
+        {
+          "id": "stories/737522",
+          "author": null,
+          "description": "Very excited to say that I have purchased 3-4 books in preparation for the Azure AI 102 certification from Microsoft. I will be creating another series here, distilling down what I learn, even while we keep the API series going. This is the first certification I've ever tried for...",
+          "link": "https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/",
+          "publishedOn": "2026-06-23T04:07:22.511Z",
+          "wordCount": 2798,
+          "title": "Learning AI",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/737816",
+          "author": null,
+          "description": "Mark Heath's Development Blog",
+          "link": "https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha",
+          "publishedOn": "2026-06-23T04:07:22.432Z",
+          "wordCount": 954,
+          "title": "EF Core Lazy Loading Performance Gotcha",
+          "imageUrl": "https://markheath.net/images/sound_code_logo2.png"
         },
         {
           "id": "stories/738475",
           "author": null,
           "description": "As part of my work of rapidly coming up to speed with creating AI applications, I've decided to start an ambitious project, and to bring you with me. I call it HyperVideo. Picture a rectangle in which a video is playing (typically news or an instructional video, but it can be anything).",
           "link": "https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/",
-          "publishedOn": "2026-06-22T05:09:46.973Z",
+          "publishedOn": "2026-06-23T04:07:22.200Z",
           "wordCount": 2426,
           "title": "An AI Project",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/738621",
+          "author": null,
+          "description": "Every two years or so I publish a list of the utilities I find indispensable. It is interesting to me which ones last year after year (e.g., Evernote) and which fall off the list-often because the functionality I want has been absorbed into Microsoft software I'm already using. Here is 2026's list...",
+          "link": "https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/",
+          "publishedOn": "2026-06-23T04:07:21.938Z",
+          "wordCount": 2813,
+          "title": "Essential Programmer Utilities",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/738494",
+          "author": null,
+          "description": "In yesterday's post I described the project I want to build: HyperVideo. This morning I created a new Blazor application and the first thing I did was to open CoPilot and give it a prompt. Specifically, I asked it to build what I described yesterday.",
+          "link": "https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/",
+          "publishedOn": "2026-06-23T04:07:21.798Z",
+          "wordCount": 2660,
+          "title": "CoPilot Gets Us Started",
+          "imageUrl": null
+        },
+        {
+          "id": "stories/738686",
+          "author": null,
+          "description": "In a previous post, I laid out the basic idea of an AI demonstration project I call HyperVideo. In this short post, I'd like to review some of the features I imagine for this project. Some will be implemented in the MVP, some after the initial \"release,\" and some are simply aspirational.",
+          "link": "https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/",
+          "publishedOn": "2026-06-23T04:07:21.480Z",
+          "wordCount": 2378,
+          "title": "HyperVideo Features",
           "imageUrl": null
         }
       ]
@@ -696,7 +701,7 @@
           "description": "The article discusses the limitations and benefits of using Copilot for code optimization in the Spargine .NET project. While some suggestions from Copilot significantly improved performance, others were ineffective or detrimental. The author emphasizes the importance of thorough testing and verification of AI-generated changes to ensure quality and efficiency in code.",
           "link": "https://dotnettips.com/2026/06/14/boost-your-net-projects-copilot-benchmarks-and-the-truth-about-faster-code/",
           "publishedOn": "2026-06-14T06:00:00.000Z",
-          "wordCount": 3360,
+          "wordCount": 3352,
           "title": "Boost Your .NET Projects: Copilot, Benchmarks, and the Truth About Faster Code",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/05/ChatGPT-Image-May-24-2026-10_50_48-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -876,6 +881,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/06/22/dew-drop-june-22-2026-4695/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nHypeless AI #1: Live-Coding a Feature with Tomas Herceg | Thursday, Jun 25, 2026 • 1:00 PM – 5:00 PM CET (Update Conference Team)\nMerge Conflict Episode #520 - Inside the New GitHub Copilot App: Sessions, Canvases, Automations (James Montemagno & Frank Kreuger)\nWhat’s i…",
+          "link": "https://alvinashcraft.com/2026/06/22/dew-drop-june-22-2026-4695/",
+          "publishedOn": "2026-06-22T10:53:07.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - June 22, 2026 (#4695)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/06/19/dew-drop-june-19-2026-4694/",
           "author": "Alvin Ashcraft",
@@ -1065,16 +1080,6 @@
           "wordCount": 72,
           "title": "Dew Drop - May 26, 2026 (#4676)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/?p=36702",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nAutomatically getting API difference diagrams in your .NET PRs (Morten Nielsen)\nAutomating Intakes to the Awesome Copilot Marketplace (Aaron Powell)\nIntroducing Syncfusion Toolkit for Blazor: Free Open-Source Blazor Components (Saravanan G.)\nLearn how to host your agent…",
-          "link": "https://alvinashcraft.com/2026/05/25/dew-drop-may-25-2026-4675/",
-          "publishedOn": "2026-05-25T13:33:55.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - May 25, 2026 (#4675)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -1128,7 +1133,7 @@
           "description": "In this post, let's have a look at how to deploy to Azure from GitHub Actions without storing any secrets, using Microsoft Entra ID Workload Identity Federation (WIF).\n  \n  \n  \n  The traditional way to let a GitHub Actions workflow talk to Azure is to create a service principal, export its credentials, and paste them into a repository secret (commonly named AZURE_CREDENTIALS). It works,",
           "link": "https://jaliyaudagedara.blogspot.com/2026/06/using-microsoft-entra-id-workload.html",
           "publishedOn": "2026-06-18T10:06:26.553Z",
-          "wordCount": 4576,
+          "wordCount": 4574,
           "title": "Using Microsoft Entra ID Workload Identity Federation (WIF) to Deploy from GitHub Actions to Azure",
           "imageUrl": null
         },
