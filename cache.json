@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395223",
+          "author": "Daniel Schwarz",
+          "description": "CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-states-and-javascript-events/",
+          "publishedOn": "2026-06-29T13:03:32.000Z",
+          "wordCount": 4567,
+          "title": "The Shifting Line Between CSS States and JavaScript Events",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?page_id=394786",
           "author": "Gabriel Shoyombo",
           "description": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -180,16 +190,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
-        },
-        {
-          "id": "http://css-tricks.com/?page_id=243521",
-          "author": "Geoff Graham",
-          "description": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
-          "publishedOn": "2026-06-03T15:02:38.000Z",
-          "wordCount": 4296,
-          "title": "offset-path",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/07/funky-path.png"
         }
       ]
     },
@@ -204,7 +204,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6495,
+          "wordCount": 6492,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -219,7 +219,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4807,
+          "wordCount": 4812,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -234,7 +234,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5760,
+          "wordCount": 5753,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -264,7 +264,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5517,
+          "wordCount": 5528,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -281,6 +281,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a42a24e2a8a54195ace1aab",
+          "author": "ishaan gupta",
+          "description": "A few months ago, Andrej Karpathy released autoresearch. It's an open-source Python tool that lets an AI agent run experiments on one GPU while you sit back and wait for the results. Lately I've still",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-agent-that-runs-its-own-llm-experiments-with-autoresearch/",
+          "publishedOn": "2026-06-29T16:50:22.000Z",
+          "wordCount": 5726,
+          "title": "How to Build an AI Agent That Runs its Own LLM Experiments with autoresearch",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4f910471-5f78-41c0-a30e-7630737bbb74.png"
+        },
+        {
+          "id": "6a4286cee47e505c8beef4bb",
+          "author": "Prasanth Madhurapantula",
+          "description": "A Bloom filter gives you something that feels like magic: it can tell you whether an item is in a set of billions, using only a few kilobytes of memory. And it answers in the same tiny amount of time",
+          "link": "https://www.freecodecamp.org/news/how-bloom-filters-work-build-one-from-scratch-python/",
+          "publishedOn": "2026-06-29T14:53:02.000Z",
+          "wordCount": 3214,
+          "title": "How a Bloom Filter Works: Build One From Scratch in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c34b8589-9a73-4d91-9051-793cff8b2037.png"
+        },
+        {
+          "id": "6a427b9a9857c50fd3971c7a",
+          "author": "Jesutoni Aderibigbe",
+          "description": "In early 2023, I was interning at a US-based company, long before agentic AI became part of everyday development. We had tools like ChatGPT, Gemini, and Copilot, but they were mostly chat interfaces:",
+          "link": "https://www.freecodecamp.org/news/how-to-use-claude-code-to-build-flutter-apps-faster-best-practices/",
+          "publishedOn": "2026-06-29T14:05:14.000Z",
+          "wordCount": 4822,
+          "title": "How to Use Claude Code to Build Flutter Apps Faster — Best Practices for 2026",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/90650cde-75af-4ba0-af15-5d7c567d1583.png"
+        },
+        {
           "id": "6a3ebfce33b56590aa5b54c9",
           "author": "Darsh Shah",
           "description": "In this tutorial, I’ll show you how to build an AI web research agent using Ollama, Qwen, and Python. The agent searches the web for a topic, fetches relevant pages, and uses a local LLM to generate a",
@@ -296,7 +326,7 @@
           "description": "Cloudflare Tunnel is a secure tunneling solution that allows developers to expose local applications and private services to the internet without opening inbound ports or changing firewall rules. Inst",
           "link": "https://www.freecodecamp.org/news/how-to-choose-the-right-tunneling-tool/",
           "publishedOn": "2026-06-26T16:32:20.000Z",
-          "wordCount": 2665,
+          "wordCount": 2664,
           "title": "The Best Cloudflare Tunnel Alternatives – How to Choose the Right Tunneling Solution for Your Use Case",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3438d8ee-f43d-42ac-a4df-8ceb7b983664.png"
         },
@@ -349,36 +379,6 @@
           "wordCount": 4965,
           "title": "Advanced Dart: Learn Asynchronous Programming with Streams, Isolates, and the Event Loop",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bc97ef43-0f34-4cf1-a824-814a0ec2834d.png"
-        },
-        {
-          "id": "6a3d5613a6457a76ae756960",
-          "author": "Juan Mathews Rebello Santos",
-          "description": "I was born prematurely at six months. My mother's placenta detached before delivery, and she essentially \"gave birth\" before I came out. Two days after my birth, doctors found a heart murmur that requ",
-          "link": "https://www.freecodecamp.org/news/how-i-became-brazils-first-visually-impaired-cybersecurity-graduate/",
-          "publishedOn": "2026-06-25T16:23:47.000Z",
-          "wordCount": 3347,
-          "title": "How I Became Brazil's First Visually Impaired Cybersecurity Graduate — and Changed Vulnerability Research",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6a4dc6c9-2901-42c3-b008-5da6da29a845.png"
-        },
-        {
-          "id": "6a3d52709b8297191d1dfb4e",
-          "author": "Atuoha Anthony",
-          "description": "If you've written Flutter code for more than a month, you've likely written this line hundreds of times: mainAxisAlignment: MainAxisAlignment.center, crossAxisAlignment: CrossAxisAlignment.start, main",
-          "link": "https://www.freecodecamp.org/news/how-to-use-dart-dot-shorthands-handbook/",
-          "publishedOn": "2026-06-25T16:08:16.000Z",
-          "wordCount": 9616,
-          "title": "How to Use Dart Dot Shorthands: A Handbook for Devs",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8db73615-1cb4-4408-80d2-634775c83382.png"
-        },
-        {
-          "id": "6a3c65fd59937171080147f8",
-          "author": "Ophy Boamah",
-          "description": "AI coding agents can save developers a lot of time – that is, until you open the output and realize they've written code like it's 2019. Ask an agent to build a tooltip, for example. The HTML looks po",
-          "link": "https://www.freecodecamp.org/news/how-to-stop-your-ai-coding-agent-from-writing-outdated-code-with-modern-web-guidance/",
-          "publishedOn": "2026-06-24T23:19:25.000Z",
-          "wordCount": 3269,
-          "title": "How to Stop Your AI Coding Agent from Writing Outdated Code with Modern Web Guidance",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c231d1d5-6f7b-40c2-b255-81012edb97e0.png"
         }
       ]
     },
@@ -425,49 +425,22 @@
       "siteUrl": "https://weblog.west-wind.com/",
       "articles": [
         {
-          "id": "27v1kvj96o5y",
+          "id": "jq09wrhriyz8",
           "author": "(Rick Strahl)",
-          "description": "In my last post I described a WebPackageViewer tool tool that acts as a static Web site packager and self-contained Web site viewer all contained in a single Executable.\nOne feature of this single file tool is that it acts both as a GUI application (the Web site viewer) and as a CLI application (the package/unpackage tooling) from a single EXE. However, using both GUI and CLI interface from a single EXE is challenging and doesn't have a 100% clean solution. In this post I'll describe several options that make this dual mode operation work with an as clean as possible approach, as well as some alternatives that I've used in other applications.\nIf you think this is an off the wall concept, all of my commercial desktop applications Markdown Monster, WebSurge and Documentation Monster have a s…",
-          "link": "https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications",
-          "publishedOn": "2026-06-23T00:00:00.000Z",
-          "wordCount": 4211,
-          "title": "Creating Dual Use Windows GUI and Console Applications",
-          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Windows-GUI-App-that-also-Doubles-as-a-CLI-App/GuiConsoleAppBanner.jpg"
+          "description": "By default ASP.NET applies Controller Attribute Routes on concrete types. If you create a Controller class, the class and its routes are automatically recognized by ASP.NET during the startup process.\nASP.NET scans the startup assembly for any instance controllers and adds the routes it finds on them to the route table. If you have Controllers that live in another assembly you can get those to register as well, but you have to explicitly add the assembly to be scanned to the MVC startup configuration in your startup code:\nvar mvcBuilder = services.AddControllersWithViews()\n    // have to let MVC know we have an externally loaded controller\n    .AddApplicationPart(typeof(QmmApiController).Assembly);\n\nThings get more complicated when you want to inherit controllers as it's not always obvious…",
+          "link": "https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core",
+          "publishedOn": "2026-06-30T02:00:00.000Z",
+          "wordCount": 2956,
+          "title": "Getting Inherited Controller Routes to work in ASP.NET Core",
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Getting-Inherited-Controller-Routes-to-work-and-ASP-NET-Core/Banner.jpg"
         },
-        {
-          "id": "v7x3mwmnhs55",
-          "author": "(Rick Strahl)",
-          "description": "This post falls squarely into the stupid pet tricks category, but I'm going to post about it anyway, because it was an interesting experiment in dynamically creating a single file, self-contained Windows executable that contains the executable, data and a native dependency.\nThis is about as edge case as it gets, but let me give you my scenario and why I decided to tackle this, foolishly thinking that this would be a quick afternoon project (punchline: it wasn't).\nI have several Web based documentation solutions that I both publish publicly and also use for specific customer projects. Essentially these are Web site generator tools with a specific front end for creating the documentation that makes up the final documentation Web output. Because I deal quite a bit with legacy customers one is…",
-          "link": "https://weblog.west-wind.com/posts/2026/Jun/13/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable",
-          "publishedOn": "2026-06-13T00:00:00.000Z",
-          "wordCount": 5018,
-          "title": "Creating a Packaged Windows Single File Web Site Viewer Executable",
-          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable/Banner.jpg"
-        },
-        {
-          "id": "yd1j66azcyja",
-          "author": "(Rick Strahl)",
-          "description": "Last week I finally updated my blog and moved it to .NET 10 from the ancient WebForms based engine I built 20 years ago. The app is deployed onto a Windows server running IIS and I ran into a snag related to cookie authentication in ASP.NET.\nThe problem showed up in my Admin panel login where the login would persist across browser sessions, but would not persist across IIS or ASP.NET application restarts. In other words, I could sign in and the cookie worked fine for the current session and even in subsequent sessions after shutting down and restarting the browser, but it would eventually fail after an application update, or the nightly scheduled IIS recycle ignoring the full cookie persistence expiration.\n\n\n\nEncryption Keys\nThe app uses Cookie Authentication for the administration backend…",
-          "link": "https://weblog.west-wind.com/posts/2026/May/31/Lost-ASPNET-Cookies-on-IIS-Restarts",
-          "publishedOn": "2026-05-31T08:49:58.000Z",
-          "wordCount": 2234,
-          "title": "Lost ASP.NET Identity Cookies on IIS Application Pool Restarts",
-          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Lost-ASP-NET-Cookies-on-IIS-Restarts/CookieMonsterAttackOnIis.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Rick Strahl's Web Log",
-      "feedUrl": "https://feeds.feedburner.com/RickStrahl",
-      "siteUrl": "https://weblog.west-wind.com/",
-      "articles": [
         {
           "id": "27v1kvj96o5y",
           "author": "(Rick Strahl)",
           "description": "In my last post I described a WebPackageViewer tool tool that acts as a static Web site packager and self-contained Web site viewer all contained in a single Executable.\nOne feature of this single file tool is that it acts both as a GUI application (the Web site viewer) and as a CLI application (the package/unpackage tooling) from a single EXE. However, using both GUI and CLI interface from a single EXE is challenging and doesn't have a 100% clean solution. In this post I'll describe several options that make this dual mode operation work with an as clean as possible approach, as well as some alternatives that I've used in other applications.\nIf you think this is an off the wall concept, all of my commercial desktop applications Markdown Monster, WebSurge and Documentation Monster have a s…",
           "link": "https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications",
           "publishedOn": "2026-06-23T00:00:00.000Z",
-          "wordCount": 4211,
+          "wordCount": 4217,
           "title": "Creating Dual Use Windows GUI and Console Applications",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Windows-GUI-App-that-also-Doubles-as-a-CLI-App/GuiConsoleAppBanner.jpg"
         },
@@ -484,10 +457,57 @@
         {
           "id": "yd1j66azcyja",
           "author": "(Rick Strahl)",
-          "description": "Last week I finally updated my blog and moved it to .NET 10 from the ancient WebForms based engine I built 20 years ago. The app is deployed onto a Windows server running IIS and I ran into a snag related to cookie authentication in ASP.NET.\nThe problem showed up in my Admin panel login where the login would persist across browser sessions, but would not persist across IIS or ASP.NET application restarts. In other words, I could sign in and the cookie worked fine for the current session and even in subsequent sessions after shutting down and restarting the browser, but it would eventually fail after an application update, or the nightly scheduled IIS recycle ignoring the full cookie persistence expiration.\n\n\n\nEncryption Keys\nThe app uses Cookie Authentication for the administration backend…",
+          "description": "If you find that your ASP.NET authentication cookies expire every time your IIS application pool restarts or recycles, the culprit is likely the DataProtection API not finding the previously stored keys.  This post describes one gotcha I ran into with the default storage location on IIS in the user profile due to a default Application Pool setting.",
           "link": "https://weblog.west-wind.com/posts/2026/May/31/Lost-ASPNET-Cookies-on-IIS-Restarts",
           "publishedOn": "2026-05-31T08:49:58.000Z",
-          "wordCount": 2230,
+          "wordCount": 2234,
+          "title": "Lost ASP.NET Identity Cookies on IIS Application Pool Restarts",
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Lost-ASP-NET-Cookies-on-IIS-Restarts/CookieMonsterAttackOnIis.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Rick Strahl's Web Log",
+      "feedUrl": "https://feeds.feedburner.com/RickStrahl",
+      "siteUrl": "https://weblog.west-wind.com/",
+      "articles": [
+        {
+          "id": "jq09wrhriyz8",
+          "author": "(Rick Strahl)",
+          "description": "By default ASP.NET applies Controller Attribute Routes on concrete types. If you create a Controller class, the class and its routes are automatically recognized by ASP.NET during the startup process.\nASP.NET scans the startup assembly for any instance controllers and adds the routes it finds on them to the route table. If you have Controllers that live in another assembly you can get those to register as well, but you have to explicitly add the assembly to be scanned to the MVC startup configuration in your startup code:\nvar mvcBuilder = services.AddControllersWithViews()\n    // have to let MVC know we have an externally loaded controller\n    .AddApplicationPart(typeof(QmmApiController).Assembly);\n\nThings get more complicated when you want to inherit controllers as it's not always obvious…",
+          "link": "https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core",
+          "publishedOn": "2026-06-30T02:00:00.000Z",
+          "wordCount": 2960,
+          "title": "Getting Inherited Controller Routes to work in ASP.NET Core",
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Getting-Inherited-Controller-Routes-to-work-and-ASP-NET-Core/Banner.jpg"
+        },
+        {
+          "id": "27v1kvj96o5y",
+          "author": "(Rick Strahl)",
+          "description": "In my last post I described a WebPackageViewer tool tool that acts as a static Web site packager and self-contained Web site viewer all contained in a single Executable.\nOne feature of this single file tool is that it acts both as a GUI application (the Web site viewer) and as a CLI application (the package/unpackage tooling) from a single EXE. However, using both GUI and CLI interface from a single EXE is challenging and doesn't have a 100% clean solution. In this post I'll describe several options that make this dual mode operation work with an as clean as possible approach, as well as some alternatives that I've used in other applications.\nIf you think this is an off the wall concept, all of my commercial desktop applications Markdown Monster, WebSurge and Documentation Monster have a s…",
+          "link": "https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications",
+          "publishedOn": "2026-06-23T00:00:00.000Z",
+          "wordCount": 4213,
+          "title": "Creating Dual Use Windows GUI and Console Applications",
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Windows-GUI-App-that-also-Doubles-as-a-CLI-App/GuiConsoleAppBanner.jpg"
+        },
+        {
+          "id": "v7x3mwmnhs55",
+          "author": "(Rick Strahl)",
+          "description": "This post falls squarely into the stupid pet tricks category, but I'm going to post about it anyway, because it was an interesting experiment in dynamically creating a single file, self-contained Windows executable that contains the executable, data and a native dependency.\nThis is about as edge case as it gets, but let me give you my scenario and why I decided to tackle this, foolishly thinking that this would be a quick afternoon project (punchline: it wasn't).\nI have several Web based documentation solutions that I both publish publicly and also use for specific customer projects. Essentially these are Web site generator tools with a specific front end for creating the documentation that makes up the final documentation Web output. Because I deal quite a bit with legacy customers one is…",
+          "link": "https://weblog.west-wind.com/posts/2026/Jun/13/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable",
+          "publishedOn": "2026-06-13T00:00:00.000Z",
+          "wordCount": 5014,
+          "title": "Creating a Packaged Windows Single File Web Site Viewer Executable",
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable/Banner.jpg"
+        },
+        {
+          "id": "yd1j66azcyja",
+          "author": "(Rick Strahl)",
+          "description": "If you find that your ASP.NET authentication cookies expire every time your IIS application pool restarts or recycles, the culprit is likely the DataProtection API not finding the previously stored keys.  This post describes one gotcha I ran into with the default storage location on IIS in the user profile due to a default Application Pool setting.",
+          "link": "https://weblog.west-wind.com/posts/2026/May/31/Lost-ASPNET-Cookies-on-IIS-Restarts",
+          "publishedOn": "2026-05-31T08:49:58.000Z",
+          "wordCount": 2234,
           "title": "Lost ASP.NET Identity Cookies on IIS Application Pool Restarts",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Lost-ASP-NET-Cookies-on-IIS-Restarts/CookieMonsterAttackOnIis.jpg"
         }
@@ -504,7 +524,7 @@
           "description": "When populating collections in .NET, choosing the right bulk operation improves both clarity and efficiency. Methods like AddRange() and InsertRange() allow multiple items to be added in a single call, reducing overhead compared to repeated individual inserts and clearly expressing intent. When combined with proper capacity planning, these approaches help produce predictable, maintainable code—whether items are being appended or inserted at a specific position.",
           "link": "https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/",
           "publishedOn": "2026-06-28T06:00:00.000Z",
-          "wordCount": 4343,
+          "wordCount": 4517,
           "title": "IO Performance: Reuse HttpClient to Avoid Connection Overhead",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-10-2026-02_06_41-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -514,7 +534,7 @@
           "description": "dotNetDave will be speaking at SQL Saturday in Austin, Texas, on June 27, 2026, as part of the No Rest for the Wicked World Tour. His sessions, \"Röck Yoür Cäreer\" and \"Unleash Your Inner Rockstar,\" focus on valuable career insights for tech professionals and strategies for dynamic public speaking, promising actionable guidance and inspiration.",
           "link": "https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/",
           "publishedOn": "2026-06-26T16:01:23.000Z",
-          "wordCount": 4128,
+          "wordCount": 4284,
           "title": "dotNetDave Rocks .NET Day Switzerland 2026",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-10_51_36-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -524,7 +544,7 @@
           "description": "The article discusses the advantages of using compiled queries in Entity Framework, especially for frequently executed and complex queries.",
           "link": "https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/",
           "publishedOn": "2026-06-21T06:00:00.000Z",
-          "wordCount": 3502,
+          "wordCount": 3204,
           "title": "Database Performance: Making Entity Framework Queries Faster",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-3-2026-10_01_25-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -574,7 +594,7 @@
           "description": "After experimenting with the GitHub Copilot Agent during the 2026 Microsoft MVP Summit, the author faced numerous challenges, including code deletion, slow performance, and inconsistent adherence to coding conventions. Despite these issues, the agent added valuable unit tests to the Spargine projects, but it requires careful oversight and refining of prompts for effective use.",
           "link": "https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/",
           "publishedOn": "2026-05-31T06:00:00.000Z",
-          "wordCount": 6292,
+          "wordCount": 6118,
           "title": "GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/04/GitHub-Copilot-Agent-in-action.png?fit=1200%2C800&ssl=1"
         }
@@ -585,6 +605,26 @@
       "feedUrl": "https://www.aspsnippets.com/RSS.ashx",
       "siteUrl": "https://www.aspsnippets.com/RSS.ashx",
       "articles": [
+        {
+          "id": "https://aspsnippets.com/Articles/Upload-Large-File-using-AJAX-in-ASPNet-Core.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained",
+          "link": "https://aspsnippets.com/Articles/Upload-Large-File-using-AJAX-in-ASPNet-Core.aspx",
+          "publishedOn": "2026-06-29T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Upload Large File using AJAX in ASP.Net Core",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aspsnippets.com/Articles/NET-10-Uploading-Multiple-Large-Files-using-AJAX-in-ASPNET-Core.aspx",
+          "author": null,
+          "description": "Here Mudassar Khan has explained",
+          "link": "https://aspsnippets.com/Articles/NET-10-Uploading-Multiple-Large-Files-using-AJAX-in-ASPNET-Core.aspx",
+          "publishedOn": "2026-06-29T00:00:00.000Z",
+          "wordCount": null,
+          "title": ".NET 10: Uploading Multiple Large Files using AJAX in ASP.NET Core",
+          "imageUrl": null
+        },
         {
           "id": "https://aspsnippets.com/Articles/Net-10-Upload-Large-Files-in-ASPNet-Core.aspx",
           "author": null,
@@ -664,26 +704,6 @@
           "wordCount": null,
           "title": "Using ExecuteReaderAsync method of SqlDataReader in ASP.Net",
           "imageUrl": null
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Using-async-and-await-with-Page-Load-event-in-ASPNet-Web-Forms.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained",
-          "link": "https://aspsnippets.com/Articles/Using-async-and-await-with-Page-Load-event-in-ASPNet-Web-Forms.aspx",
-          "publishedOn": "2026-06-07T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Using async and await with Page Load event in ASP.Net Web Forms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-MVC-HtmlBeginForm-Tutorial-with-example.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained a simple tutorial with example on how to use Html.BeginForm extension method in ASP.Net MVC Razor.",
-          "link": "https://aspsnippets.com/Articles/ASPNet-MVC-HtmlBeginForm-Tutorial-with-example.aspx",
-          "publishedOn": "2026-06-06T00:00:00.000Z",
-          "wordCount": 1851,
-          "title": "ASP.Net MVC Html.BeginForm Tutorial with example",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         }
       ]
     },
@@ -715,6 +735,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/06/29/dew-drop-june-29-2026-4700/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nAction Required: Migrate Your Copilot CLI MCP Config Away from .vscode/mcp.json and MCP for Beginners: Why Every AI Engineer and Developer Should Learn the Model Context Protocol (Lee Stott)\nMigrating C# -> Microsoft Agent Framework (Jesse Liberty)\nwinapp CLI v0.4.0 Rel…",
+          "link": "https://alvinashcraft.com/2026/06/29/dew-drop-june-29-2026-4700/",
+          "publishedOn": "2026-06-29T14:09:23.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - June 29, 2026 (#4700)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/06/26/dew-drop-june-26-2026-4699/",
           "author": "Alvin Ashcraft",
@@ -903,16 +933,6 @@
           "publishedOn": "2026-06-02T10:32:10.000Z",
           "wordCount": 72,
           "title": "Dew Drop - June 2, 2026 (#4681)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/06/01/dew-drop-june-1-2026-4680/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nWhat’s new in Microsoft Foundry | May 2026 (Nick Brady)\nIntroducing a powerful new chapter for Windows PCs, accelerated by NVIDIA RTX Spark (Pavan Davuluri)\nAnnouncing the TechBash CLI: The AI-Powered Companion for Your Terminal (TechBash Team)\nAI Observability Starter …",
-          "link": "https://alvinashcraft.com/2026/06/01/dew-drop-june-1-2026-4680/",
-          "publishedOn": "2026-06-01T10:48:40.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - June 1, 2026 (#4680)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
