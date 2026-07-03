@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-07-02T04:08:02.172Z</updated>
+    <updated>2026-07-03T03:53:59.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[.NET Options Validation in Application Startup]]></title>
+        <id>https://jaliyaudagedara.blogspot.com/2026/07/net-options-validation-in-application.html</id>
+        <link href="https://jaliyaudagedara.blogspot.com/2026/07/net-options-validation-in-application.html"/>
+        <updated>2026-07-02T19:22:45.259Z</updated>
+        <summary type="html"><![CDATA[In this post, let's have a look at how we can validate options in
+    application startup in a .NET application.
+  
+  
+  
+    The Options pattern lets us bind a configuration section to a strongly-typed
+    class. On top of that, we can validate the bound values so that a
+    missing/incorrect configuration fails fast at application startup rather
+    than blowing up at some random point]]></summary>
+        <author>
+            <name>Jaliya's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex vs Claude Code: Which AI Coding Assistant to Choose]]></title>
+        <id>6a4697abd8f1260e868746b9</id>
+        <link href="https://www.freecodecamp.org/news/codex-vs-claude-code-which-ai-coding-assistant-to-choose/"/>
+        <updated>2026-07-02T16:54:03.000Z</updated>
+        <summary type="html"><![CDATA[AI coding assistants have evolved from simple autocomplete tools into capable development agents that can write code, debug applications, refactor projects, and even execute complex workflows. Among t]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python]]></title>
+        <id>6a46977d0ad5b1f1520283a9</id>
+        <link href="https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/"/>
+        <updated>2026-07-02T16:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Your AI product experiment reaches statistical significance on day 14 of a planned 30-day run, measuring a causal inference question: did the LLM-based feature genuinely improve outcomes? Every produc]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matching AI Modality To User Intent: Designing The Right Interface]]></title>
+        <id>https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/</id>
+        <link href="https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/"/>
+        <updated>2026-07-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - July 2, 2026 (#4703)]]></title>
+        <id>https://alvinashcraft.com/2026/07/02/dew-drop-july-2-2026-4703/</id>
+        <link href="https://alvinashcraft.com/2026/07/02/dew-drop-july-2-2026-4703/"/>
+        <updated>2026-07-02T06:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Visual Studio June Update – Track Your Usage, Trust Your Tools (Mark Downie)
+Building a Windows Tray App by combining Microsoft.UI.Reactor and a Worker Project (Morten Nielsen)
+Visual Studio Code 1.128 (Insiders) (Visual Studio Code Team)
+You're using Windows Terminal w…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering JavaScript Dates and Times]]></title>
+        <id>6a45bb3958a5f88e69843690</id>
+        <link href="https://www.freecodecamp.org/news/mastering-javascript-dates-and-times/"/>
+        <updated>2026-07-02T01:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Managing dates and times in JavaScript is notoriously tricky, often leading to subtle bugs that only surface once an application hits production. To help you master this fundamental skill, the freeCod]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Defend Your JavaScript App Against Unsafe Data with TypeScript Guard Utilities]]></title>
         <id>6a4576be7808ec6de20de8ff</id>
@@ -98,36 +170,6 @@ GitHub Copilot now an Integrated Agent in JetBrains IDEs …]]></summary>
         <summary type="html"><![CDATA[Most product teams assume infrastructure ownership is simply part of building software. We did too. It wasn’t until we measured how much engineering time was disappearing into operational work that we]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Screen Reader That's Built into Your iPhone]]></title>
-        <id>6a442b57dd852a5d76691859</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-screen-reader-that-s-built-into-your-iphone/"/>
-        <updated>2026-06-30T20:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Every iPhone and iPad includes a built-in screen reader called VoiceOver. VoiceOver speaks aloud the text on the screen, app names, icons, buttons, menus, links, and notifications and alerts. These ac]]></summary>
-        <author>
-            <name>Ilknur Eren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Command Line Basics for Beginners]]></title>
-        <id>6a43ead6ddc9ba7a9bd38fd7</id>
-        <link href="https://www.freecodecamp.org/news/command-line-basics-for-beginners/"/>
-        <updated>2026-06-30T16:12:06.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever watched a developer or DevOps engineer rapidly typing away into a blank, dark window filled with text, it might have looked like pure wizardry. That "blank window" is the command line a]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation for LLM Platforms: Switchback Designs When User Randomization Breaks Market Equilibrium in Python]]></title>
-        <id>6a43e83fe6f3ef85737305cb</id>
-        <link href="https://www.freecodecamp.org/news/switchback-experiments-for-ai-platform-features-in-python/"/>
-        <updated>2026-06-30T16:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Your team ships an intelligent query-routing feature for an LLM SaaS platform. The feature reads each incoming request in real time and decides whether to send it to the fast standard model or the mor]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
         </author>
     </entry>
     <entry>
@@ -1012,20 +1054,6 @@ Accelerate Edge AI Development with Foundry Local (Dom Robinson, samke…]]></su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop - June 4, 2026 (#4683)]]></title>
-        <id>https://alvinashcraft.com/2026/06/04/dew-drop-june-4-2026-4683/</id>
-        <link href="https://alvinashcraft.com/2026/06/04/dew-drop-june-4-2026-4683/"/>
-        <updated>2026-06-04T10:29:44.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Discovery to Execution: Scaling Agents with Toolboxes and Routines in Microsoft Foundry (Linda Li & Maria Naggaga)
-Union types in C# | DEM304 | Microsoft Build 2026 (Dustin Campbell & Mads Torgersen)
-How Microsoft is migrating repositories to GitHub (Poonam Gupta)
-Annou…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Make Your Design System AI-Ready]]></title>
         <id>https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/</id>
         <link href="https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/"/>
@@ -1033,16 +1061,6 @@ Annou…]]></summary>
         <summary type="html"><![CDATA[Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dotNetDave Rocks SQL Saturday – Austin 2026]]></title>
-        <id>https://dotnettips.com/?p=18091</id>
-        <link href="https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/"/>
-        <updated>2026-06-01T19:23:50.000Z</updated>
-        <summary type="html"><![CDATA[dotNetDave will be speaking at SQL Saturday in Austin, Texas, on June 27, 2026, as part of the No Rest for the Wicked World Tour. His sessions, "Röck Yoür Cäreer" and "Unleash Your Inner Rockstar," focus on valuable career insights for tech professionals and strategies for dynamic public speaking, promising actionable guidance and inspiration.]]></summary>
-        <author>
-            <name>David (dotNetDave) McCarter</name>
         </author>
     </entry>
 </feed>
