@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-07-05T04:06:08.701Z</updated>
+    <updated>2026-07-06T04:12:38.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The .NET Host Process: What Runs Before Main() and Why It Sometimes Hangs]]></title>
+        <id>https://dotnettips.com/?p=18182</id>
+        <link href="https://dotnettips.com/2026/07/05/the-net-host-process-what-runs-before-main-and-why-it-sometimes-hangs/"/>
+        <updated>2026-07-05T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This guide explores the essential role of the .NET host process, which initializes the runtime, resolves dependencies, and launches applications. It highlights common issues with lingering host processes, especially during BenchmarkDotNet runs, and offers diagnostic strategies to identify root causes, such as unclean shutdowns and locked files. Understanding this can streamline troubleshooting.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top AI Productivity Tools for Developers and Professionals]]></title>
         <id>6a47d78cf77fda0eb25967c4</id>

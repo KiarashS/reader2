@@ -219,7 +219,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7064,
+          "wordCount": 7063,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -234,7 +234,7 @@
           "description": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.",
           "link": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
           "publishedOn": "2026-06-30T12:00:00.000Z",
-          "wordCount": 4763,
+          "wordCount": null,
           "title": "Why Accessibility Is An Operational Capability, Not A Feature",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-accessibility-operational-capability-not-feature/why-accessibility-operational-capability-not-feature.jpg",
@@ -249,7 +249,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4828,
+          "wordCount": null,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -264,7 +264,7 @@
           "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
           "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
           "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": 6492,
+          "wordCount": null,
           "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
@@ -279,7 +279,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4917,
+          "wordCount": 4807,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -294,7 +294,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5750,
+          "wordCount": 5755,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -460,43 +460,6 @@
           "description": "By default ASP.NET applies Controller Attribute Routes on concrete types. If you create a Controller class, the class and its routes are automatically recognized by ASP.NET during the startup process.\nASP.NET scans the startup assembly for any instance controllers and adds the routes it finds on them to the route table. If you have Controllers that live in another assembly you can get those to register as well, but you have to explicitly add the assembly to be scanned to the MVC startup configuration in your startup code:\nvar mvcBuilder = services.AddControllersWithViews()\n    // have to let MVC know we have an externally loaded controller\n    .AddApplicationPart(typeof(QmmApiController).Assembly);\n\nThings get more complicated when you want to inherit controllers as it's not always obvious…",
           "link": "https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core",
           "publishedOn": "2026-06-30T00:00:00.000Z",
-          "wordCount": 3006,
-          "title": "Getting Inherited Controller Routes to work in ASP.NET Core",
-          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Getting-Inherited-Controller-Routes-to-work-and-ASP-NET-Core/Banner.jpg"
-        },
-        {
-          "id": "27v1kvj96o5y",
-          "author": "(Rick Strahl)",
-          "description": "In my last post I described a WebPackageViewer tool tool that acts as a static Web site packager and self-contained Web site viewer all contained in a single Executable.\nOne feature of this single file tool is that it acts both as a GUI application (the Web site viewer) and as a CLI application (the package/unpackage tooling) from a single EXE. However, using both GUI and CLI interface from a single EXE is challenging and doesn't have a 100% clean solution. In this post I'll describe several options that make this dual mode operation work with an as clean as possible approach, as well as some alternatives that I've used in other applications.\nIf you think this is an off the wall concept, all of my commercial desktop applications Markdown Monster, WebSurge and Documentation Monster have a s…",
-          "link": "https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications",
-          "publishedOn": "2026-06-23T00:00:00.000Z",
-          "wordCount": 4253,
-          "title": "Creating Dual Use Windows GUI and Console Applications",
-          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Windows-GUI-App-that-also-Doubles-as-a-CLI-App/GuiConsoleAppBanner.jpg"
-        },
-        {
-          "id": "v7x3mwmnhs55",
-          "author": "(Rick Strahl)",
-          "description": "This post falls squarely into the stupid pet tricks category, but I'm going to post about it anyway, because it was an interesting experiment in dynamically creating a single file, self-contained Windows executable that contains the executable, data and a native dependency.\nThis is about as edge case as it gets, but let me give you my scenario and why I decided to tackle this, foolishly thinking that this would be a quick afternoon project (punchline: it wasn't).\nI have several Web based documentation solutions that I both publish publicly and also use for specific customer projects. Essentially these are Web site generator tools with a specific front end for creating the documentation that makes up the final documentation Web output. Because I deal quite a bit with legacy customers one is…",
-          "link": "https://weblog.west-wind.com/posts/2026/Jun/13/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable",
-          "publishedOn": "2026-06-13T00:00:00.000Z",
-          "wordCount": 5054,
-          "title": "Creating a Packaged Windows Single File Web Site Viewer Executable",
-          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable/Banner.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Rick Strahl's Web Log",
-      "feedUrl": "https://feeds.feedburner.com/RickStrahl",
-      "siteUrl": "https://weblog.west-wind.com/",
-      "articles": [
-        {
-          "id": "jq09wrhriyz8",
-          "author": "(Rick Strahl)",
-          "description": "By default ASP.NET applies Controller Attribute Routes on concrete types. If you create a Controller class, the class and its routes are automatically recognized by ASP.NET during the startup process.\nASP.NET scans the startup assembly for any instance controllers and adds the routes it finds on them to the route table. If you have Controllers that live in another assembly you can get those to register as well, but you have to explicitly add the assembly to be scanned to the MVC startup configuration in your startup code:\nvar mvcBuilder = services.AddControllersWithViews()\n    // have to let MVC know we have an externally loaded controller\n    .AddApplicationPart(typeof(QmmApiController).Assembly);\n\nThings get more complicated when you want to inherit controllers as it's not always obvious…",
-          "link": "https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core",
-          "publishedOn": "2026-06-30T00:00:00.000Z",
           "wordCount": 3010,
           "title": "Getting Inherited Controller Routes to work in ASP.NET Core",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Getting-Inherited-Controller-Routes-to-work-and-ASP-NET-Core/Banner.jpg"
@@ -524,17 +487,64 @@
       ]
     },
     {
+      "title": "Rick Strahl's Web Log",
+      "feedUrl": "https://feeds.feedburner.com/RickStrahl",
+      "siteUrl": "https://weblog.west-wind.com/",
+      "articles": [
+        {
+          "id": "jq09wrhriyz8",
+          "author": "(Rick Strahl)",
+          "description": "By default ASP.NET applies Controller Attribute Routes on concrete types. If you create a Controller class, the class and its routes are automatically recognized by ASP.NET during the startup process.\nASP.NET scans the startup assembly for any instance controllers and adds the routes it finds on them to the route table. If you have Controllers that live in another assembly you can get those to register as well, but you have to explicitly add the assembly to be scanned to the MVC startup configuration in your startup code:\nvar mvcBuilder = services.AddControllersWithViews()\n    // have to let MVC know we have an externally loaded controller\n    .AddApplicationPart(typeof(QmmApiController).Assembly);\n\nThings get more complicated when you want to inherit controllers as it's not always obvious…",
+          "link": "https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core",
+          "publishedOn": "2026-06-30T00:00:00.000Z",
+          "wordCount": 3006,
+          "title": "Getting Inherited Controller Routes to work in ASP.NET Core",
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Getting-Inherited-Controller-Routes-to-work-and-ASP-NET-Core/Banner.jpg"
+        },
+        {
+          "id": "27v1kvj96o5y",
+          "author": "(Rick Strahl)",
+          "description": "In my last post I described a WebPackageViewer tool tool that acts as a static Web site packager and self-contained Web site viewer all contained in a single Executable.\nOne feature of this single file tool is that it acts both as a GUI application (the Web site viewer) and as a CLI application (the package/unpackage tooling) from a single EXE. However, using both GUI and CLI interface from a single EXE is challenging and doesn't have a 100% clean solution. In this post I'll describe several options that make this dual mode operation work with an as clean as possible approach, as well as some alternatives that I've used in other applications.\nIf you think this is an off the wall concept, all of my commercial desktop applications Markdown Monster, WebSurge and Documentation Monster have a s…",
+          "link": "https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications",
+          "publishedOn": "2026-06-23T00:00:00.000Z",
+          "wordCount": 4253,
+          "title": "Creating Dual Use Windows GUI and Console Applications",
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Windows-GUI-App-that-also-Doubles-as-a-CLI-App/GuiConsoleAppBanner.jpg"
+        },
+        {
+          "id": "v7x3mwmnhs55",
+          "author": "(Rick Strahl)",
+          "description": "This post falls squarely into the stupid pet tricks category, but I'm going to post about it anyway, because it was an interesting experiment in dynamically creating a single file, self-contained Windows executable that contains the executable, data and a native dependency.\nThis is about as edge case as it gets, but let me give you my scenario and why I decided to tackle this, foolishly thinking that this would be a quick afternoon project (punchline: it wasn't).\nI have several Web based documentation solutions that I both publish publicly and also use for specific customer projects. Essentially these are Web site generator tools with a specific front end for creating the documentation that makes up the final documentation Web output. Because I deal quite a bit with legacy customers one is…",
+          "link": "https://weblog.west-wind.com/posts/2026/Jun/13/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable",
+          "publishedOn": "2026-06-13T00:00:00.000Z",
+          "wordCount": 5054,
+          "title": "Creating a Packaged Windows Single File Web Site Viewer Executable",
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable/Banner.jpg"
+        }
+      ]
+    },
+    {
       "title": "dotNetTips.com",
       "feedUrl": "https://dotnettips.wordpress.com/feed/",
       "siteUrl": "https://dotnettips.com",
       "articles": [
+        {
+          "id": "https://dotnettips.com/?p=18182",
+          "author": "David (dotNetDave) McCarter",
+          "description": "This guide explores the essential role of the .NET host process, which initializes the runtime, resolves dependencies, and launches applications. It highlights common issues with lingering host processes, especially during BenchmarkDotNet runs, and offers diagnostic strategies to identify root causes, such as unclean shutdowns and locked files. Understanding this can streamline troubleshooting.",
+          "link": "https://dotnettips.com/2026/07/05/the-net-host-process-what-runs-before-main-and-why-it-sometimes-hangs/",
+          "publishedOn": "2026-07-05T06:00:00.000Z",
+          "wordCount": 7074,
+          "title": "The .NET Host Process: What Runs Before Main() and Why It Sometimes Hangs",
+          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-14-2026-12_54_12-PM.png?fit=1200%2C800&ssl=1"
+        },
         {
           "id": "https://dotnettips.com/?p=18208",
           "author": "David (dotNetDave) McCarter",
           "description": "The announcement reveals the release of Spargine 10 (v2026.10.7.1) on July 1, 2026, introducing NuGet packages for .NET 10. This update enhances performance and reliability with new classes and methods, performance benchmarks, and optimizations. The release includes speed improvements and promotes community collaboration for future enhancements.",
           "link": "https://dotnettips.com/2026/07/01/coding-faster-with-dotnettips-com-spargine-10-july-2026-release/",
           "publishedOn": "2026-07-01T06:00:00.000Z",
-          "wordCount": 5121,
+          "wordCount": 5135,
           "title": "Coding Faster with dotNetTips.com Spargine 10: July 2026 Release",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-13-2026-09_18_44-AM.png?fit=1200%2C800&ssl=1"
         },
