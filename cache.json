@@ -12,179 +12,144 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=382144",
-          "author": "Geoff Graham",
-          "description": "The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.\nState of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/state-of-css-2024-results/",
-          "publishedOn": "2024-10-30T16:43:55.000Z",
-          "wordCount": 2964,
-          "title": "State of CSS 2024 Results",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382144"
+          "id": "http://css-tricks.com/?page_id=18170",
+          "author": "Mojtaba Seyedi",
+          "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+          "publishedOn": "2026-07-15T19:57:51.000Z",
+          "wordCount": 4972,
+          "title": "pointer-events",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         },
         {
-          "id": "https://css-tricks.com/?p=382082",
-          "author": "Zell Liew",
-          "description": "What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices.\nTooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/tooltip-best-practices/",
-          "publishedOn": "2024-10-29T14:01:18.000Z",
-          "wordCount": 2171,
-          "title": "Tooltip Best Practices",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382082"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382039",
-          "author": "Sara Joy",
-          "description": "You’d be forgiven for thinking coding up both a dark and a light mode at once is a lot of work. You have to remember @media queries based on prefers-color-scheme as well as extra complications that arise when letting visitors …\nCome to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/come-to-the-light-dark-side/",
-          "publishedOn": "2024-10-25T14:08:20.000Z",
-          "wordCount": 5418,
-          "title": "Come to the light-dark() Side",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382039"
-        },
-        {
-          "id": "http://css-tricks.com/?p=198099",
-          "author": "Geoff Graham",
-          "description": "A whole bunch of years ago, we posted on this idea here on CSS-Tricks. We figured it was time to update that and do the subject justice.\nImagine a scenario where you need to split a layout in half. Content …\nLeft Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/left-and-right/",
-          "publishedOn": "2024-10-25T11:51:02.000Z",
-          "wordCount": 3318,
-          "title": "Left Half and Right Half Layout – Many Different Ways",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/198099"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382065",
-          "author": "Geoff Graham",
-          "description": "Terence Eden on using text-wrap: balance for more than headings:\nBut the name is, I think, slightly misleading. It doesn’t only work on text. It will work on any content. For example – I have a row of icons at \n…\nYou can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/",
-          "publishedOn": "2024-10-24T14:05:56.000Z",
-          "wordCount": 1480,
-          "title": "You can use text-wrap: balance; on icons",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382065"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382008",
-          "author": "Zell Liew",
-          "description": "The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …\nClarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/",
-          "publishedOn": "2024-10-23T13:20:46.000Z",
-          "wordCount": 2480,
-          "title": "Clarifying the Relationship Between Popovers and Dialogs",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382008"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381992",
-          "author": "Geoff Graham",
-          "description": "There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …\nClamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/clamp-it-vs-code-extension/",
-          "publishedOn": "2024-10-23T13:15:20.000Z",
-          "wordCount": 1459,
-          "title": "Clamp it! VS Code extension",
+          "id": "https://css-tricks.com/?p=396027",
+          "author": "Daniel Schwarz",
+          "description": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-15/",
+          "publishedOn": "2026-07-15T14:36:18.000Z",
+          "wordCount": 2376,
+          "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
           "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/10/clamp-it_fng4a5.mp4",
-            "length": "549889",
+            "url": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
+            "length": "163854",
             "type": "video/mp4"
           },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381992"
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi15.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=381613",
-          "author": "Geoff Graham",
-          "description": "I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …\nUnleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/",
-          "publishedOn": "2024-10-21T13:50:53.000Z",
-          "wordCount": 5808,
-          "title": "Unleash the Power of Scroll-Driven Animations",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381613"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381832",
-          "author": "Ryan Trimble",
-          "description": "Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.\nIf you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …\nCombining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/combining-forces-gsap-webflow/",
-          "publishedOn": "2024-10-18T13:09:22.000Z",
-          "wordCount": 1667,
-          "title": "Combining forces, GSAP & Webflow!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381832"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381882",
-          "author": "Geoff Graham",
-          "description": "I totally get the goal here: make CSS more modular and scalable in WordPress. Put all your global WordPress theme styles in a single file, including variations. JSON offers a nicely structured syntax that’s easily consumable by JavaScript, thereby allowing …\nMastering theme.json: You might not need CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/mastering-theme-json-you-might-not-need-css/",
-          "publishedOn": "2024-10-18T11:36:04.000Z",
-          "wordCount": 1658,
-          "title": "Mastering theme.json: You might not need CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381882"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381763",
-          "author": "Zell Liew",
-          "description": "One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …\nSolving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/",
-          "publishedOn": "2024-10-17T15:24:02.000Z",
-          "wordCount": 1873,
-          "title": "Solving Background Overflow With Inherited Border Radii",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381817",
-          "author": "Preethi",
-          "description": "What’s in a word? Actions. In the realm of user interfaces, a word is construed as the telltale of a control’s action. Sometimes it points us in the correct direction, and sometimes it leads us astray. We talk a lot …\nClose, Exit, Cancel: How to End User Interactions Well originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/close-exit-cancel-how-to-end-user-interactions-well/",
-          "publishedOn": "2024-10-16T14:12:57.000Z",
-          "wordCount": 3648,
-          "title": "Close, Exit, Cancel: How to End User Interactions Well",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381817"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381773",
+          "id": "https://css-tricks.com/?p=395508",
           "author": "Temani Afif",
-          "description": "CSS gradients have been so long that there’s no need to rehash what they are and how to use them. You have surely encountered them at some point in your front-end journey, and if you follow me, you also …\nCSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-tricks-that-use-only-one-gradient/",
-          "publishedOn": "2024-10-11T21:48:01.000Z",
-          "wordCount": 3461,
-          "title": "CSS Tricks That Use Only One Gradient",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381773"
+          "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+          "publishedOn": "2026-07-07T15:14:00.000Z",
+          "wordCount": 3729,
+          "title": "Get Ready For the Powerful CSS border-shape Property!",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=381752",
-          "author": "Geoff Graham",
-          "description": "It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.\nI’m …\nWPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic/",
-          "publishedOn": "2024-10-10T14:00:32.000Z",
-          "wordCount": 1465,
-          "title": "WPGraphQL Becomes a Canonical Plugin: My Move to Automattic",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381752"
+          "id": "https://css-tricks.com/?p=395894",
+          "author": "Daniel Schwarz",
+          "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field-sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-14/",
+          "publishedOn": "2026-06-30T13:54:14.000Z",
+          "wordCount": 2553,
+          "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
+            "length": "35551592",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi14.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=381678",
-          "author": "Juan Diego Rodríguez",
-          "description": "More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …\n2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/",
-          "publishedOn": "2024-10-09T14:10:33.000Z",
-          "wordCount": 2132,
-          "title": "2024: More CSS At-Rules Than the Past Decade Combined",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381678"
+          "id": "https://css-tricks.com/?p=395223",
+          "author": "Daniel Schwarz",
+          "description": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-states-and-javascript-events/",
+          "publishedOn": "2026-06-29T13:03:32.000Z",
+          "wordCount": 3629,
+          "title": "The Shifting Line Between CSS States and JavaScript Events",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=381729",
-          "author": "Geoff Graham",
-          "description": "I sat down with Heydon Pickering in the most recent episode of the Smashing Hour. Full transparency: I was nervous as heck. I’ve admired Heydon’s work for years, and even though we run in similar circles, this was our first …\nSmashing Hour With Heydon Pickering originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/smashing-hour-with-heydon-pickering/",
-          "publishedOn": "2024-10-08T15:22:02.000Z",
-          "wordCount": 1562,
-          "title": "Smashing Hour With Heydon Pickering",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381729"
+          "id": "https://css-tricks.com/?page_id=394786",
+          "author": "Gabriel Shoyombo",
+          "description": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+          "publishedOn": "2026-06-25T13:18:56.000Z",
+          "wordCount": 3125,
+          "title": "translateZ()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
         {
-          "id": "https://css-tricks.com/?p=381674",
-          "author": "Juan Diego Rodríguez",
-          "description": "The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …\nRecipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/",
-          "publishedOn": "2024-10-07T19:46:07.000Z",
-          "wordCount": 2702,
-          "title": "Recipes for Detecting Support for CSS At-Rules",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381674"
+          "id": "https://css-tricks.com/?page_id=393249",
+          "author": "Gabriel Shoyombo",
+          "description": "The translateY() function shifts an element vertically by the specified amount. \ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/t/translatey/",
+          "publishedOn": "2026-06-25T13:17:56.000Z",
+          "wordCount": 3000,
+          "title": "translateY()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393255",
+          "author": "Gabriel Shoyombo",
+          "description": "The translateX() function shifts an element horizontally by the specified amount. \ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/t/translatex/",
+          "publishedOn": "2026-06-25T13:16:01.000Z",
+          "wordCount": 3214,
+          "title": "translateX()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=393233",
+          "author": "Gabriel Shoyombo",
+          "description": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/t/translate/",
+          "publishedOn": "2026-06-25T13:15:05.000Z",
+          "wordCount": 3086,
+          "title": "translate()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=394890",
+          "author": "Silvestar Bistrović",
+          "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
+          "publishedOn": "2026-06-22T12:39:13.000Z",
+          "wordCount": 3538,
+          "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
+            "length": "38364603",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/opposing-scroll-columns.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=394364",
+          "author": "Daniel Schwarz",
+          "description": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
+          "publishedOn": "2026-06-19T13:03:17.000Z",
+          "wordCount": 3654,
+          "title": "A First Look at Scroll-Triggered Animations",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/04/1-1.mp4",
+            "length": "515618",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/sceroll-triggered-squares.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=395567",
+          "author": "Mat Marquis",
+          "description": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
+          "publishedOn": "2026-06-17T15:32:30.000Z",
+          "wordCount": 4554,
+          "title": "The Siren Song of ariaNotify()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
         }
       ]
     },
@@ -193,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
+          "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+          "publishedOn": "2026-07-17T08:00:00.000Z",
+          "wordCount": 5085,
+          "title": "When It Makes Sense To “Block” The Main Thread",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -214,7 +194,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5514,
+          "wordCount": 5409,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -229,7 +209,7 @@
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6769,
+          "wordCount": 6768,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -304,7 +284,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4815,
+          "wordCount": null,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -320,6 +300,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a5a98bcef0967f8fb858895",
+          "author": "Darsh Shah",
+          "description": "In this tutorial, I'll show you how to evaluate a local AI agent with a simple, repeatable evaluation harness. The harness runs the agent against a set of test cases, checks the results with both rule",
+          "link": "https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/",
+          "publishedOn": "2026-07-17T21:03:56.000Z",
+          "wordCount": 3089,
+          "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/43678778-ab94-4ad0-92af-888376bea668.png"
+        },
+        {
+          "id": "6a5a91c20842ed39785bc7c0",
+          "author": "jabo Landry",
+          "description": "Creating pop-ups and modals on your site can be a complicated process. And it often requires a lot of boilerplate code to get started. But the real challenge comes when you want to make that modal or",
+          "link": "https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/",
+          "publishedOn": "2026-07-17T20:34:10.000Z",
+          "wordCount": 2992,
+          "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e929b316-4b85-459b-9c40-1b7928518077.png"
+        },
+        {
+          "id": "6a5a91870c25cb6dfa32c0c9",
+          "author": "Bhavin Sheth",
+          "description": "PDF documents are frequently used to share invoices, contracts, reports, legal records, customer documents, financial statements, and internal business files. But before these documents are shared, th",
+          "link": "https://www.freecodecamp.org/news/build-pdf-redaction-tool-javascript/",
+          "publishedOn": "2026-07-17T20:33:11.000Z",
+          "wordCount": 5603,
+          "title": "How to Build a Browser-Based PDF Redaction Tool Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/18191d9d-9abf-44a3-8330-e452ce7194c2.png"
+        },
+        {
+          "id": "6a5a912d1a97bb513c72431e",
+          "author": "Ayobami Adejumo",
+          "description": "Every fast-growing engineering team eventually hits the same wall. A developer needs a new staging environment, so they file a ticket. The platform team queues it. Two weeks later, the environment exi",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/",
+          "publishedOn": "2026-07-17T20:31:41.000Z",
+          "wordCount": 6319,
+          "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e45df2a-5af9-4feb-84fa-f7eb1c04ee91.png"
+        },
+        {
+          "id": "6a5a5daeee4c6fc82387d36e",
+          "author": "Jibril-M🍀",
+          "description": "For the past 10 years, we've experienced a massive improvement in translation technologies. We went from robotic-like translations to systems that not only understand the meaning of each word in a sen",
+          "link": "https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/",
+          "publishedOn": "2026-07-17T16:51:58.000Z",
+          "wordCount": 4163,
+          "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/89b0a610-cd98-4112-95cc-fb01597911dc.png"
+        },
+        {
+          "id": "6a59619ee14c719ac88d7a33",
+          "author": "Md Tarikul Islam",
+          "description": "In this tutorial, you'll build a production-ready PayPal payment service using NestJS microservices. Along the way, you'll learn how to isolate payment logic into its own service, communicate between",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-paypal-in-a-microservice-architecture-using-nestjs-grpc-and-docker/",
+          "publishedOn": "2026-07-16T22:56:30.000Z",
+          "wordCount": 4540,
+          "title": "How to Implement PayPal in a Microservice Architecture Using NestJS, gRPC, and Docker",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/665e54b7-b47e-4abe-a417-49b51569868f.png"
+        },
+        {
+          "id": "6a59593c2c971321745e7720",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Every application, at some point, has to deal with a fundamental challenge: something happens, and several other things need to react to it. A user logs in, and the app needs to save a token, cache th",
+          "link": "https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/",
+          "publishedOn": "2026-07-16T22:20:44.000Z",
+          "wordCount": 6950,
+          "title": "The Observer Design Pattern Handbook: Event-Driven Architecture & Domain-Driven Design in Dart",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0621293d-e82e-4f24-bb6e-40dec481c7cd.png"
+        },
         {
           "id": "6a58c2ecce2d9571ce9c8a00",
           "author": "Beau Carnes",
@@ -349,76 +399,6 @@
           "wordCount": 1143,
           "title": "Master Full-Stack Mobile Development with React Native",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/823b7020-e45c-499e-99d2-d7324fbb2533.jpg"
-        },
-        {
-          "id": "6a58c0ae78ff326927bcf6bc",
-          "author": "Beau Carnes",
-          "description": "In 1956, a young programmer was taking his girlfriend shopping in Amsterdam. Feeling tired, they sat down at a cafe terrace for a cup of coffee. In the 20 minutes it took to finish their drinks, he co",
-          "link": "https://www.freecodecamp.org/news/understanding-dijkstra-s-algorithm/",
-          "publishedOn": "2026-07-16T11:29:50.000Z",
-          "wordCount": 1234,
-          "title": "Understanding Dijkstra's Algorithm",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e02f5472-4cdc-428e-a0ae-e3e71ed17bcb.png"
-        },
-        {
-          "id": "6a581c65dba34eeb664be8e2",
-          "author": "Hackita",
-          "description": "Here's something that tends to surprise developers who are new to security: most web vulnerabilities aren't the result of sophisticated attacks. They come from code patterns that look completely reaso",
-          "link": "https://www.freecodecamp.org/news/how-to-fix-common-web-application-security-vulnerabilities-in-node-js/",
-          "publishedOn": "2026-07-15T23:48:53.000Z",
-          "wordCount": 4536,
-          "title": "How to Fix Common Web Application Security Vulnerabilities in Node.js",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b2ec81b6-d6eb-41f0-9fa5-7570914ef97d.png"
-        },
-        {
-          "id": "6a57cee36dcb86f0029afe5f",
-          "author": "Manish Shivanandhan",
-          "description": "Every engineering team has said it at least once: \"It works on my machine.\" The phrase has become a running joke in software, but it's rarely funny when it happens in production. A feature passes ever",
-          "link": "https://www.freecodecamp.org/news/why-it-worked-on-my-machine-still-happens-in-2026/",
-          "publishedOn": "2026-07-15T18:18:11.000Z",
-          "wordCount": 3636,
-          "title": "Why \"It Worked on My Machine\" Still Happens in 2026",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8435d1c8-af34-4cff-8891-087ac2a3ad9d.png"
-        },
-        {
-          "id": "6a57a891a1ec2486def24d23",
-          "author": "Tech With RJ",
-          "description": "Most companies say they want to \"adopt AI\". In practice this usually means a chatbot bolted onto a website. Meanwhile, engineers using AI coding tools hit the opposite wall. The AI writes code fast, b",
-          "link": "https://www.freecodecamp.org/news/harness-engineering-ai-native-company/",
-          "publishedOn": "2026-07-15T15:34:41.000Z",
-          "wordCount": 3950,
-          "title": "How I Used Harness Engineering to Make Our Company AI-Native",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0438e6d7-d727-480d-8517-a87c12350326.png"
-        },
-        {
-          "id": "6a57a6aa328507d0d4d46169",
-          "author": "Zia Ullah",
-          "description": "I was helping a team that had a 200-page API documentation PDF. Every new engineer spent their first two weeks Ctrl+F-ing through it, asking the same questions in Slack, getting redirected to the same",
-          "link": "https://www.freecodecamp.org/news/how-to-build-rag-chatbot-nodejs-gemini-pgvector/",
-          "publishedOn": "2026-07-15T15:26:34.000Z",
-          "wordCount": 4865,
-          "title": "How to Build a RAG Chatbot for Your Docs with Node.js, Google Gemini, and pgvector",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9aa3d8d3-9c51-42a7-8e78-907802394ea1.png"
-        },
-        {
-          "id": "6a57a65ae479ecc16ad3b5b5",
-          "author": "Rudrendu Paul",
-          "description": "A randomized A/B test is the cleanest form of product experiment available. The coin flip that splits users between the new prompt template and the control removes every possible confounder by constru",
-          "link": "https://www.freecodecamp.org/news/regression-models-for-causal-inference-on-ai-features/",
-          "publishedOn": "2026-07-15T15:25:14.000Z",
-          "wordCount": 4745,
-          "title": "Product Experimentation with Regression-Based Causal Inference: Estimating LLM Feature Impact with Python and statsmodels",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/731ac81a-7bf4-45ff-9eac-49292d1484b1.png"
-        },
-        {
-          "id": "6a57a5ffa7a08b8fa91b718f",
-          "author": "Mohammed Fahd Abrah",
-          "description": "Today, diffusion models power some of the most impressive AI systems ever built. They generate photorealistic images, create videos, synthesize speech, design proteins, and increasingly influence fiel",
-          "link": "https://www.freecodecamp.org/news/ai-paper-review-deep-unsupervised-learning-using-nonequilibrium-thermodynamics/",
-          "publishedOn": "2026-07-15T15:23:43.000Z",
-          "wordCount": 6374,
-          "title": "AI Paper Review: Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4588c233-fd5f-4a51-86e8-79784b629fb4.png"
         }
       ]
     },
@@ -446,16 +426,6 @@
           "wordCount": 533,
           "title": "Things That Caught My Attention Last Week - June 22",
           "imageUrl": null
-        },
-        {
-          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-june-15",
-          "author": null,
-          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
-          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-june-15",
-          "publishedOn": "2026-06-17T00:00:00.000Z",
-          "wordCount": 421,
-          "title": "Things That Caught My Attention Last Week - June 15",
-          "imageUrl": null
         }
       ]
     },
@@ -470,7 +440,7 @@
           "description": "By default ASP.NET applies Controller Attribute Routes on concrete types. If you create a Controller class, the class and its routes are automatically recognized by ASP.NET during the startup process.\nASP.NET scans the startup assembly for any instance controllers and adds the routes it finds on them to the route table. If you have Controllers that live in another assembly you can get those to register as well, but you have to explicitly add the assembly to be scanned to the MVC startup configuration in your startup code:\nvar mvcBuilder = services.AddControllersWithViews()\n    // have to let MVC know we have an externally loaded controller\n    .AddApplicationPart(typeof(QmmApiController).Assembly);\n\nThings get more complicated when you want to inherit controllers as it's not always obvious…",
           "link": "https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core",
           "publishedOn": "2026-06-30T00:00:00.000Z",
-          "wordCount": 3015,
+          "wordCount": 3011,
           "title": "Getting Inherited Controller Routes to work in ASP.NET Core",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Getting-Inherited-Controller-Routes-to-work-and-ASP-NET-Core/Banner.jpg"
         },
@@ -480,7 +450,7 @@
           "description": "In my last post I described a WebPackageViewer tool tool that acts as a static Web site packager and self-contained Web site viewer all contained in a single Executable.\nOne feature of this single file tool is that it acts both as a GUI application (the Web site viewer) and as a CLI application (the package/unpackage tooling) from a single EXE. However, using both GUI and CLI interface from a single EXE is challenging and doesn't have a 100% clean solution. In this post I'll describe several options that make this dual mode operation work with an as clean as possible approach, as well as some alternatives that I've used in other applications.\nIf you think this is an off the wall concept, all of my commercial desktop applications Markdown Monster, WebSurge and Documentation Monster have a s…",
           "link": "https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications",
           "publishedOn": "2026-06-23T00:00:00.000Z",
-          "wordCount": 4256,
+          "wordCount": 4252,
           "title": "Creating Dual Use Windows GUI and Console Applications",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Windows-GUI-App-that-also-Doubles-as-a-CLI-App/GuiConsoleAppBanner.jpg"
         }
@@ -507,7 +477,7 @@
           "description": "In my last post I described a WebPackageViewer tool tool that acts as a static Web site packager and self-contained Web site viewer all contained in a single Executable.\nOne feature of this single file tool is that it acts both as a GUI application (the Web site viewer) and as a CLI application (the package/unpackage tooling) from a single EXE. However, using both GUI and CLI interface from a single EXE is challenging and doesn't have a 100% clean solution. In this post I'll describe several options that make this dual mode operation work with an as clean as possible approach, as well as some alternatives that I've used in other applications.\nIf you think this is an off the wall concept, all of my commercial desktop applications Markdown Monster, WebSurge and Documentation Monster have a s…",
           "link": "https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications",
           "publishedOn": "2026-06-23T00:00:00.000Z",
-          "wordCount": 4256,
+          "wordCount": 4252,
           "title": "Creating Dual Use Windows GUI and Console Applications",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Windows-GUI-App-that-also-Doubles-as-a-CLI-App/GuiConsoleAppBanner.jpg"
         }
@@ -524,7 +494,7 @@
           "description": "I/O operations impact application responsiveness, scalability, and costs. Enhancing file access, HTTP requests, and networking improves user experience while reducing resource consumption. This chapter discusses techniques to optimize I/O performance in .NET, utilizing benchmark results and profilers to identify bottlenecks and improve efficiency in near-production environments.",
           "link": "https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/",
           "publishedOn": "2026-07-12T12:23:27.000Z",
-          "wordCount": 4013,
+          "wordCount": 3838,
           "title": "Optimizing I/O Performance in .NET",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-12-2026-07_06_19-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -534,7 +504,7 @@
           "description": "Modern .NET applications support three major HTTP versions: HTTP/1.1, HTTP/2, and HTTP/3, each with distinct characteristics. HTTP/3, utilizing QUIC over UDP, offers advantages like reduced latency and better performance on unstable networks.",
           "link": "https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/",
           "publishedOn": "2026-07-12T06:00:00.000Z",
-          "wordCount": 3670,
+          "wordCount": 3371,
           "title": "HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-15-2026-11_05_06-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -544,7 +514,7 @@
           "description": "This guide explores the essential role of the .NET host process, which initializes the runtime, resolves dependencies, and launches applications. It highlights common issues with lingering host processes, especially during BenchmarkDotNet runs, and offers diagnostic strategies to identify root causes, such as unclean shutdowns and locked files. Understanding this can streamline troubleshooting.",
           "link": "https://dotnettips.com/2026/07/05/the-net-host-process-what-runs-before-main-and-why-it-sometimes-hangs/",
           "publishedOn": "2026-07-05T06:00:00.000Z",
-          "wordCount": 7155,
+          "wordCount": 7161,
           "title": "The .NET Host Process: What Runs Before Main() and Why It Sometimes Hangs",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-14-2026-12_54_12-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -574,7 +544,7 @@
           "description": "dotNetDave will be speaking at SQL Saturday in Austin, Texas, on June 27, 2026, as part of the No Rest for the Wicked World Tour. His sessions, \"Röck Yoür Cäreer\" and \"Unleash Your Inner Rockstar,\" focus on valuable career insights for tech professionals and strategies for dynamic public speaking, promising actionable guidance and inspiration.",
           "link": "https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/",
           "publishedOn": "2026-06-26T16:01:23.000Z",
-          "wordCount": 4130,
+          "wordCount": 4136,
           "title": "dotNetDave Rocks .NET Day Switzerland 2026",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-10_51_36-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -584,7 +554,7 @@
           "description": "The article discusses the advantages of using compiled queries in Entity Framework, especially for frequently executed and complex queries.",
           "link": "https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/",
           "publishedOn": "2026-06-21T06:00:00.000Z",
-          "wordCount": 3206,
+          "wordCount": 3212,
           "title": "Database Performance: Making Entity Framework Queries Faster",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-3-2026-10_01_25-AM.png?fit=1200%2C800&ssl=1"
         }
@@ -756,6 +726,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/07/17/dew-drop-july-17-2026-4714/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nVisual Studio Administrator? Join our Private Marketplace Preview! (Ruben Rios)\nThe Stack Overflow Podcast - Developers who move fast still need to do it together​​​​‌‍​‍​‍‌‍‌​‍‌‍‍‌‌‍‌‌‍‍‌‌‍‍​‍​‍​‍‍​‍​‍‌​‌‍​‌‌‍‍‌‍‍‌‌‌​‌‍‌​‍‍‌‍‍‌‌‍​‍​‍​‍​​‍​‍‌‍‍​‌​‍‌‍‌‌‌‍‌‍​‍​‍​‍‍​‍​‍‌‍‍…",
+          "link": "https://alvinashcraft.com/2026/07/17/dew-drop-july-17-2026-4714/",
+          "publishedOn": "2026-07-17T10:40:03.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - July 17, 2026 (#4714)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/07/16/dew-drop-july-16-2026-4713/",
           "author": "Alvin Ashcraft",
@@ -945,16 +925,6 @@
           "wordCount": 72,
           "title": "Dew Drop - June 22, 2026 (#4695)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/06/19/dew-drop-june-19-2026-4694/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nAnnouncing TypeScript 7.0 RC (Daniel Rosenwasser)\nIntelligent Terminal 0.1.1 is here: bash support, new slash commands, and more customization (Hamza Usmani)\nVisual Studio Code 1.126 Release Notes (Visual Studio Code Team)\nStop overloading your skills (Waldek Mastykarz)…",
-          "link": "https://alvinashcraft.com/2026/06/19/dew-drop-june-19-2026-4694/",
-          "publishedOn": "2026-06-19T11:45:26.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - June 19, 2026 (#4694)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -1004,12 +974,22 @@
       "siteUrl": "https://jaliyaudagedara.blogspot.com/",
       "articles": [
         {
+          "id": "https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html",
+          "author": null,
+          "description": "In this post, let's have a look at asynchronous validation support for\n    Minimal APIs, which is going to be available in&nbsp;ASP.NET Core 11.0.\n  \n  \n  \n    Some time back, I blogged about\n    Validation Support for Minimal APIs\n    and\n    Custom Validation\n    in ASP.NET Core 10.0. This is a continuation of that, but this time the\n    validators run asynchronously.\n  \n  \n  \n    With",
+          "link": "https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html",
+          "publishedOn": "2026-07-17T09:13:26.048Z",
+          "wordCount": 4565,
+          "title": "ASP.NET Core 11.0: Async Validation in Minimal APIs",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg_CdPcaP1CvU_7YdXMOaJF8G4vYoOh6KbkMz1mG2Fhe7ysFwFA1eDXiW1NsjAJZ8qr9tRZcP8MfbGeQK2-q3_GdlVrCBtjkiUl9NEUsfCcO5m-v9abKBfpF6IgNyEs1O-pl2WjnFymRosmBMBK-zJMMiswfmUrBVCZgpYWx8Z3h915WqaPrLjINyeU258=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://jaliyaudagedara.blogspot.com/2026/07/received-microsoft-mvp-award-in.html",
           "author": null,
           "description": "I am humbled and honored once again to receive the precious Microsoft Most Valuable Professional (MVP) Award for the 13th consecutive year.As always looking forward to another great year on top of Microsoft Development Stack.Microsoft Most Valuable Professional (MVP)Thank you Microsoft for your appreciation and Thank you everyone for your continuous support.Happy Coding.Regards,Jaliya",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/received-microsoft-mvp-award-in.html",
           "publishedOn": "2026-07-16T00:55:27.383Z",
-          "wordCount": 4093,
+          "wordCount": 4103,
           "title": "Received Microsoft MVP Award in Developer Technologies",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieyAJ8Vkwu_wWCuDNOWZpJdPdFVcNEDErNTZp7oCzNmRkftXhDJsIYF6qwnyprYwBsWS0lQHt4lGekGops7hsJzALXyy5ujFlpx2vpKcbjHxt6lhzUbelZENwjOakPkE8bNpKjoR_Apz9RnG4GSkadADxNKVtCMpmnQ3GVcKNTA2KNQAecAITwn_K9Gn0/w1200-h630-p-k-no-nu/MVP_Logo_Horizontal_Secondary_Blue288_RGB_300ppi.png"
         },
@@ -1019,7 +999,7 @@
           "description": "In this post, let's have a look at how we can validate options in\n    application startup in a .NET application.\n  \n  \n  \n    The Options pattern lets us bind a configuration section to a strongly-typed\n    class. On top of that, we can validate the bound values so that a\n    missing/incorrect configuration fails fast at application startup rather\n    than blowing up at some random point",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/net-options-validation-in-application.html",
           "publishedOn": "2026-07-02T19:22:45.259Z",
-          "wordCount": 4494,
+          "wordCount": 4502,
           "title": ".NET Options Validation in Application Startup",
           "imageUrl": null
         },
@@ -1060,6 +1040,23 @@
       "feedUrl": "https://www.manuelmeyer.net/feed/?x=1",
       "siteUrl": "https://www.manuelmeyer.net",
       "articles": []
+    },
+    {
+      "title": "Michał Jankowski",
+      "feedUrl": "https://www.jankowskimichal.pl/en/feed/",
+      "siteUrl": "https://www.jankowskimichal.pl/en/",
+      "articles": [
+        {
+          "id": "https://www.jankowskimichal.pl/?p=4406",
+          "author": "Michał Jankowski",
+          "description": "Three signals landed in the same week and pointed at the same gap: agentic engineering is maturing into a discipline where the absence of your own methodology is a measurable delivery risk — and dependency on someone else's infrastructure, as the US government just demonstrated, can cost you more than your tooling budget. Method beats  [...]\nArtykuł Frontier AI Access Is a Permission, Not a Property Right pochodzi z serwisu Michał Jankowski.",
+          "link": "https://www.jankowskimichal.pl/en/2026/06/frontier-ai-access-is-a-permission-not-a-property-right/",
+          "publishedOn": "2026-06-19T04:30:27.000Z",
+          "wordCount": 2956,
+          "title": "Frontier AI Access Is a Permission, Not a Property Right",
+          "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/06/ChatGPT-Image-23-cze-2026-06_38_21.png"
+        }
+      ]
     },
     {
       "title": "Allen Conway",
