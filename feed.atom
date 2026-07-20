@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-07-19T03:31:41.803Z</updated>
+    <updated>2026-07-20T03:46:06.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TCP vs. UDP in .NET: Speed, Reliability, and the Hidden Cost of Performance]]></title>
+        <id>https://dotnettips.com/?p=18246</id>
+        <link href="https://dotnettips.com/2026/07/19/tcp-vs-udp-in-net-speed-reliability-and-the-hidden-cost-of-performance/"/>
+        <updated>2026-07-19T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Choosing between TCP and UDP is crucial for data transport. TCP ensures reliability and ordered delivery, making it ideal for critical applications, while UDP prioritizes speed and low latency, suited for real-time scenarios.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python]]></title>
         <id>6a5a98bcef0967f8fb858895</id>
@@ -1007,28 +1017,6 @@ What’s i…]]></summary>
         <summary type="html"><![CDATA[The article discusses the advantages of using compiled queries in Entity Framework, especially for frequently executed and complex queries.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A First Look at Scroll-Triggered Animations]]></title>
-        <id>https://css-tricks.com/?p=394364</id>
-        <link href="https://css-tricks.com/css-scroll-triggered-animations-first-look/"/>
-        <updated>2026-06-19T13:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Let's poke at the differences between scroll-driven and scroll-triggered animations.
-A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frontier AI Access Is a Permission, Not a Property Right]]></title>
-        <id>https://www.jankowskimichal.pl/?p=4406</id>
-        <link href="https://www.jankowskimichal.pl/en/2026/06/frontier-ai-access-is-a-permission-not-a-property-right/"/>
-        <updated>2026-06-19T04:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Three signals landed in the same week and pointed at the same gap: agentic engineering is maturing into a discipline where the absence of your own methodology is a measurable delivery risk — and dependency on someone else's infrastructure, as the US government just demonstrated, can cost you more than your tooling budget. Method beats  [...]
-Artykuł Frontier AI Access Is a Permission, Not a Property Right pochodzi z serwisu Michał Jankowski.]]></summary>
-        <author>
-            <name>Michał Jankowski</name>
         </author>
     </entry>
 </feed>
