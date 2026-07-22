@@ -2,26 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-07-21T03:25:29.341Z</updated>
+    <updated>2026-07-22T03:23:42.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[C# 15: Brand New Union Types]]></title>
-        <id>https://jaliyaudagedara.blogspot.com/2026/07/c-15-brand-new-union-types.html</id>
-        <link href="https://jaliyaudagedara.blogspot.com/2026/07/c-15-brand-new-union-types.html"/>
-        <updated>2026-07-21T02:30:03.861Z</updated>
-        <summary type="html"><![CDATA[In this post, let's have a look at Union types in C# and a subtle
-      difference you will notice when you migrate from a closed class hierarchy
-      to a union.
-    
-    
-    
-      Some time ago I blogged about
-      C# 15.0: Closed Class Hierarchies. There we used the closed keyword to model a fixed set of
-      Shape types and let the compiler enforce exhaustive pattern]]></summary>
+        <title type="html"><![CDATA["Relaxation and its Role in Vision": The 1977 PhD Thesis That Helped Shape Modern AI Research]]></title>
+        <id>6a5faeb5d735fe8d9b8a5d84</id>
+        <link href="https://www.freecodecamp.org/news/relaxation-and-its-role-in-vision-the-1977-phd-thesis-that-helped-shape-modern-ai-research/"/>
+        <updated>2026-07-21T17:39:01.000Z</updated>
+        <summary type="html"><![CDATA[When people think of Geoffrey Hinton, they usually think of backpropagation, Boltzmann Machines, Deep Belief Networks, or the deep learning revolution that transformed artificial intelligence. But few]]></summary>
         <author>
-            <name>Jaliya's Blog</name>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - July 21, 2026 (#4716)]]></title>
+        <id>https://alvinashcraft.com/2026/07/21/dew-drop-july-21-2026-4716/</id>
+        <link href="https://alvinashcraft.com/2026/07/21/dew-drop-july-21-2026-4716/"/>
+        <updated>2026-07-21T13:18:25.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+v7.7.0-preview.3 Release of PowerShell (jshigetomi)
+Headless Agents (Rocky Lhotka)
+Announcing new Windows Insider builds for 20 July 2026 (Stephen Lines)
+T-SQL Hygiene: Introducing the Covering Index (Jerry Nixon)
+.NET MAUI v11.0.0-preview.6 Release Notes (kubaflo)
+Real…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs]]></title>
+        <id>https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/</id>
+        <link href="https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"/>
+        <updated>2026-07-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[writing-mode]]></title>
+        <id>http://css-tricks.com/?page_id=244261</id>
+        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
+        <updated>2026-07-21T09:39:10.000Z</updated>
+        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
+.element {
+  writing-mode: vertical-rl;
+}
+This is most useful in languages such as Chinese, Japanese or …
+writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Serve a Multi-User AI Agent with FastAPI and Streamlit]]></title>
+        <id>6a5e9c35892c69a16fdf27df</id>
+        <link href="https://www.freecodecamp.org/news/how-to-serve-a-multi-user-ai-agent-with-fastapi-and-streamlit/"/>
+        <updated>2026-07-20T22:07:49.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I’ll show you how to serve a multi-user local AI agent as a REST API using FastAPI, then add a lightweight Streamlit UI on top. Instead of interacting with the agent through a termin]]></summary>
+        <author>
+            <name>Darsh Shah</name>
         </author>
     </entry>
     <entry>
@@ -145,26 +188,6 @@ Introducing LM St…]]></summary>
         <summary type="html"><![CDATA[Choosing between TCP and UDP is crucial for data transport. TCP ensures reliability and ordered delivery, making it ideal for critical applications, while UDP prioritizes speed and low latency, suited for real-time scenarios.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python]]></title>
-        <id>6a5a98bcef0967f8fb858895</id>
-        <link href="https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/"/>
-        <updated>2026-07-17T21:03:56.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I'll show you how to evaluate a local AI agent with a simple, repeatable evaluation harness. The harness runs the agent against a set of test cases, checks the results with both rule]]></summary>
-        <author>
-            <name>Darsh Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript]]></title>
-        <id>6a5a91c20842ed39785bc7c0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/"/>
-        <updated>2026-07-17T20:34:10.000Z</updated>
-        <summary type="html"><![CDATA[Creating pop-ups and modals on your site can be a complicated process. And it often requires a lot of boilerplate code to get started. But the real challenge comes when you want to make that modal or]]></summary>
-        <author>
-            <name>jabo Landry</name>
         </author>
     </entry>
     <entry>
@@ -986,21 +1009,6 @@ The 2026 Stack Overflow Developer Survey is now open (for human developers only)
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop - June 23, 2026 (#4696)]]></title>
-        <id>https://alvinashcraft.com/2026/06/23/dew-drop-june-23-2026-4696/</id>
-        <link href="https://alvinashcraft.com/2026/06/23/dew-drop-june-23-2026-4696/"/>
-        <updated>2026-06-23T10:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Azure SDK Release (May 2026) (Justin Bettencourt)
-How we built a Flutter-powered AI coffee shop (Craig Labenz)
-From pledge to practice: Building a more inclusive open source ecosystem (Natalie Guevara)
-Models don’t have preferences, they have context (Waldek Mastykarz)
-…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3]]></title>
         <id>https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/</id>
         <link href="https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/"/>
@@ -1045,16 +1053,6 @@ Note: This …
 Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Silvestar Bistrović</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database Performance: Making Entity Framework Queries Faster]]></title>
-        <id>https://dotnettips.com/?p=18140</id>
-        <link href="https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/"/>
-        <updated>2026-06-21T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The article discusses the advantages of using compiled queries in Entity Framework, especially for frequently executed and complex queries.]]></summary>
-        <author>
-            <name>David (dotNetDave) McCarter</name>
         </author>
     </entry>
 </feed>

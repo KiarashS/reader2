@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "http://css-tricks.com/?page_id=244261",
+          "author": "Mojtaba Seyedi",
+          "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+          "publishedOn": "2026-07-21T09:39:10.000Z",
+          "wordCount": 3045,
+          "title": "writing-mode",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
           "id": "http://css-tricks.com/?page_id=18170",
           "author": "Mojtaba Seyedi",
           "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -52,7 +62,7 @@
           "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field-sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-14/",
           "publishedOn": "2026-06-30T13:54:14.000Z",
-          "wordCount": 2553,
+          "wordCount": 2630,
           "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
@@ -134,12 +144,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
+          "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
+          "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+          "publishedOn": "2026-07-21T10:00:00.000Z",
+          "wordCount": 8090,
+          "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5076,
+          "wordCount": 5094,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -169,7 +194,7 @@
           "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
           "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
           "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5404,
+          "wordCount": 5399,
           "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
@@ -184,7 +209,7 @@
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6765,
+          "wordCount": 6763,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -229,7 +254,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7069,
+          "wordCount": 7066,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -275,6 +300,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a5faeb5d735fe8d9b8a5d84",
+          "author": "Mohammed Fahd Abrah",
+          "description": "When people think of Geoffrey Hinton, they usually think of backpropagation, Boltzmann Machines, Deep Belief Networks, or the deep learning revolution that transformed artificial intelligence. But few",
+          "link": "https://www.freecodecamp.org/news/relaxation-and-its-role-in-vision-the-1977-phd-thesis-that-helped-shape-modern-ai-research/",
+          "publishedOn": "2026-07-21T17:39:01.000Z",
+          "wordCount": 6060,
+          "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f1fe2707-f951-401a-9b08-54c5e1c2a3d9.png"
+        },
+        {
+          "id": "6a5e9c35892c69a16fdf27df",
+          "author": "Darsh Shah",
+          "description": "In this tutorial, I’ll show you how to serve a multi-user local AI agent as a REST API using FastAPI, then add a lightweight Streamlit UI on top. Instead of interacting with the agent through a termin",
+          "link": "https://www.freecodecamp.org/news/how-to-serve-a-multi-user-ai-agent-with-fastapi-and-streamlit/",
+          "publishedOn": "2026-07-20T22:07:49.000Z",
+          "wordCount": 3107,
+          "title": "How to Serve a Multi-User AI Agent with FastAPI and Streamlit",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e5bf4093-e618-4388-954c-f1a49bc87cfe.png"
+        },
         {
           "id": "6a5e92afe12aa31dae6e8a79",
           "author": "Balogun Wahab",
@@ -354,26 +399,6 @@
           "wordCount": 4922,
           "title": "How to Manage Secrets Securely with Azure Key Vault in Node.js",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5491b408-9c6b-4d4d-a53e-215119fb2d97.png"
-        },
-        {
-          "id": "6a5a98bcef0967f8fb858895",
-          "author": "Darsh Shah",
-          "description": "In this tutorial, I'll show you how to evaluate a local AI agent with a simple, repeatable evaluation harness. The harness runs the agent against a set of test cases, checks the results with both rule",
-          "link": "https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/",
-          "publishedOn": "2026-07-17T21:03:56.000Z",
-          "wordCount": 3089,
-          "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/43678778-ab94-4ad0-92af-888376bea668.png"
-        },
-        {
-          "id": "6a5a91c20842ed39785bc7c0",
-          "author": "jabo Landry",
-          "description": "Creating pop-ups and modals on your site can be a complicated process. And it often requires a lot of boilerplate code to get started. But the real challenge comes when you want to make that modal or",
-          "link": "https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/",
-          "publishedOn": "2026-07-17T20:34:10.000Z",
-          "wordCount": 2992,
-          "title": "How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e929b316-4b85-459b-9c40-1b7928518077.png"
         }
       ]
     },
@@ -415,7 +440,7 @@
           "description": "By default ASP.NET applies Controller Attribute Routes on concrete types. If you create a Controller class, the class and its routes are automatically recognized by ASP.NET during the startup process.\nASP.NET scans the startup assembly for any instance controllers and adds the routes it finds on them to the route table. If you have Controllers that live in another assembly you can get those to register as well, but you have to explicitly add the assembly to be scanned to the MVC startup configuration in your startup code:\nvar mvcBuilder = services.AddControllersWithViews()\n    // have to let MVC know we have an externally loaded controller\n    .AddApplicationPart(typeof(QmmApiController).Assembly);\n\nThings get more complicated when you want to inherit controllers as it's not always obvious…",
           "link": "https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core",
           "publishedOn": "2026-06-30T00:00:00.000Z",
-          "wordCount": 3008,
+          "wordCount": 3012,
           "title": "Getting Inherited Controller Routes to work in ASP.NET Core",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Getting-Inherited-Controller-Routes-to-work-and-ASP-NET-Core/Banner.jpg"
         },
@@ -442,7 +467,7 @@
           "description": "By default ASP.NET applies Controller Attribute Routes on concrete types. If you create a Controller class, the class and its routes are automatically recognized by ASP.NET during the startup process.\nASP.NET scans the startup assembly for any instance controllers and adds the routes it finds on them to the route table. If you have Controllers that live in another assembly you can get those to register as well, but you have to explicitly add the assembly to be scanned to the MVC startup configuration in your startup code:\nvar mvcBuilder = services.AddControllersWithViews()\n    // have to let MVC know we have an externally loaded controller\n    .AddApplicationPart(typeof(QmmApiController).Assembly);\n\nThings get more complicated when you want to inherit controllers as it's not always obvious…",
           "link": "https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core",
           "publishedOn": "2026-06-30T00:00:00.000Z",
-          "wordCount": 3008,
+          "wordCount": 3012,
           "title": "Getting Inherited Controller Routes to work in ASP.NET Core",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Getting-Inherited-Controller-Routes-to-work-and-ASP-NET-Core/Banner.jpg"
         },
@@ -452,7 +477,7 @@
           "description": "In my last post I described a WebPackageViewer tool tool that acts as a static Web site packager and self-contained Web site viewer all contained in a single Executable.\nOne feature of this single file tool is that it acts both as a GUI application (the Web site viewer) and as a CLI application (the package/unpackage tooling) from a single EXE. However, using both GUI and CLI interface from a single EXE is challenging and doesn't have a 100% clean solution. In this post I'll describe several options that make this dual mode operation work with an as clean as possible approach, as well as some alternatives that I've used in other applications.\nIf you think this is an off the wall concept, all of my commercial desktop applications Markdown Monster, WebSurge and Documentation Monster have a s…",
           "link": "https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications",
           "publishedOn": "2026-06-23T00:00:00.000Z",
-          "wordCount": 4249,
+          "wordCount": 4253,
           "title": "Creating Dual Use Windows GUI and Console Applications",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Creating-a-Windows-GUI-App-that-also-Doubles-as-a-CLI-App/GuiConsoleAppBanner.jpg"
         }
@@ -469,7 +494,7 @@
           "description": "Choosing between TCP and UDP is crucial for data transport. TCP ensures reliability and ordered delivery, making it ideal for critical applications, while UDP prioritizes speed and low latency, suited for real-time scenarios.",
           "link": "https://dotnettips.com/2026/07/19/tcp-vs-udp-in-net-speed-reliability-and-the-hidden-cost-of-performance/",
           "publishedOn": "2026-07-19T06:00:00.000Z",
-          "wordCount": 3355,
+          "wordCount": 3654,
           "title": "TCP vs. UDP in .NET: Speed, Reliability, and the Hidden Cost of Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-01_14_03-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -529,19 +554,9 @@
           "description": "dotNetDave will be speaking at SQL Saturday in Austin, Texas, on June 27, 2026, as part of the No Rest for the Wicked World Tour. His sessions, \"Röck Yoür Cäreer\" and \"Unleash Your Inner Rockstar,\" focus on valuable career insights for tech professionals and strategies for dynamic public speaking, promising actionable guidance and inspiration.",
           "link": "https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/",
           "publishedOn": "2026-06-26T16:01:23.000Z",
-          "wordCount": 4136,
+          "wordCount": 4292,
           "title": "dotNetDave Rocks .NET Day Switzerland 2026",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-10_51_36-AM.png?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://dotnettips.com/?p=18140",
-          "author": "David (dotNetDave) McCarter",
-          "description": "The article discusses the advantages of using compiled queries in Entity Framework, especially for frequently executed and complex queries.",
-          "link": "https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/",
-          "publishedOn": "2026-06-21T06:00:00.000Z",
-          "wordCount": 3212,
-          "title": "Database Performance: Making Entity Framework Queries Faster",
-          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-3-2026-10_01_25-AM.png?fit=1200%2C800&ssl=1"
         }
       ]
     },
@@ -711,6 +726,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/07/21/dew-drop-july-21-2026-4716/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nv7.7.0-preview.3 Release of PowerShell (jshigetomi)\nHeadless Agents (Rocky Lhotka)\nAnnouncing new Windows Insider builds for 20 July 2026 (Stephen Lines)\nT-SQL Hygiene: Introducing the Covering Index (Jerry Nixon)\n.NET MAUI v11.0.0-preview.6 Release Notes (kubaflo)\nReal…",
+          "link": "https://alvinashcraft.com/2026/07/21/dew-drop-july-21-2026-4716/",
+          "publishedOn": "2026-07-21T13:18:25.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - July 21, 2026 (#4716)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/07/20/dew-drop-july-20-2026-4715/",
           "author": "Alvin Ashcraft",
@@ -900,16 +925,6 @@
           "wordCount": 72,
           "title": "Dew Drop - June 24, 2026 (#4697)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/06/23/dew-drop-june-23-2026-4696/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nAzure SDK Release (May 2026) (Justin Bettencourt)\nHow we built a Flutter-powered AI coffee shop (Craig Labenz)\nFrom pledge to practice: Building a more inclusive open source ecosystem (Natalie Guevara)\nModels don’t have preferences, they have context (Waldek Mastykarz)\n…",
-          "link": "https://alvinashcraft.com/2026/06/23/dew-drop-june-23-2026-4696/",
-          "publishedOn": "2026-06-23T10:42:28.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - June 23, 2026 (#4696)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -959,22 +974,12 @@
       "siteUrl": "https://jaliyaudagedara.blogspot.com/",
       "articles": [
         {
-          "id": "https://jaliyaudagedara.blogspot.com/2026/07/c-15-brand-new-union-types.html",
-          "author": null,
-          "description": "In this post, let's have a look at Union types in C# and a subtle\n      difference you will notice when you migrate from a closed class hierarchy\n      to a union.\n    \n    \n    \n      Some time ago I blogged about\n      C# 15.0: Closed Class Hierarchies. There we used the closed keyword to model a fixed set of\n      Shape types and let the compiler enforce exhaustive pattern",
-          "link": "https://jaliyaudagedara.blogspot.com/2026/07/c-15-brand-new-union-types.html",
-          "publishedOn": "2026-07-21T02:30:03.861Z",
-          "wordCount": 4723,
-          "title": "C# 15: Brand New Union Types",
-          "imageUrl": null
-        },
-        {
           "id": "https://jaliyaudagedara.blogspot.com/2026/07/azure-content-understanding-classify.html",
           "author": null,
           "description": "In this post, let's have a look at how we can classify a document that\n    contains multiple document types, and route each part to a different\n    analyzer, using Azure AI Content Understanding and the .NET SDK.\n  \n\n  \n\n  \n    Say you receive a single PDF that contains an invoice, a bank statement and\n    a loan application, all combined together, something like this:",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/azure-content-understanding-classify.html",
           "publishedOn": "2026-07-19T08:57:00.000Z",
-          "wordCount": 5410,
+          "wordCount": 5402,
           "title": "Azure Content Understanding: Classify and Route to Different Analyzers",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiQmifA_b7Z4qKQb0z9Xg8J8AEdHx04ooPBDUF259IIzojp2b2fmz9H65fFqj5WSaWxCXy5sm36a-yzmtYBXsXPVmXwzWO0KiSCK2SxNZUIxKJuOS5Qb4KDx1cSZ00OXt0eCe-nuYPU9KdYQZ7z7AD4iHbpOmcJWY_JM0e8-r1pfeddgNjXZO2GenHE0iI=w1200-h630-p-k-no-nu"
         },
@@ -984,7 +989,7 @@
           "description": "In this post, let's have a look at asynchronous validation support for\n    Minimal APIs, which is going to be available in&nbsp;ASP.NET Core 11.0.\n  \n  \n  \n    Some time back, I blogged about\n    Validation Support for Minimal APIs\n    and\n    Custom Validation\n    in ASP.NET Core 10.0. This is a continuation of that, but this time the\n    validators run asynchronously.\n  \n  \n  \n    With",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html",
           "publishedOn": "2026-07-17T09:13:26.048Z",
-          "wordCount": 4580,
+          "wordCount": 4574,
           "title": "ASP.NET Core 11.0: Async Validation in Minimal APIs",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg_CdPcaP1CvU_7YdXMOaJF8G4vYoOh6KbkMz1mG2Fhe7ysFwFA1eDXiW1NsjAJZ8qr9tRZcP8MfbGeQK2-q3_GdlVrCBtjkiUl9NEUsfCcO5m-v9abKBfpF6IgNyEs1O-pl2WjnFymRosmBMBK-zJMMiswfmUrBVCZgpYWx8Z3h915WqaPrLjINyeU258=w1200-h630-p-k-no-nu"
         },
@@ -994,7 +999,7 @@
           "description": "I am humbled and honored once again to receive the precious Microsoft Most Valuable Professional (MVP) Award for the 13th consecutive year.As always looking forward to another great year on top of Microsoft Development Stack.Microsoft Most Valuable Professional (MVP)Thank you Microsoft for your appreciation and Thank you everyone for your continuous support.Happy Coding.Regards,Jaliya",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/received-microsoft-mvp-award-in.html",
           "publishedOn": "2026-07-16T00:55:27.383Z",
-          "wordCount": 4116,
+          "wordCount": 4110,
           "title": "Received Microsoft MVP Award in Developer Technologies",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieyAJ8Vkwu_wWCuDNOWZpJdPdFVcNEDErNTZp7oCzNmRkftXhDJsIYF6qwnyprYwBsWS0lQHt4lGekGops7hsJzALXyy5ujFlpx2vpKcbjHxt6lhzUbelZENwjOakPkE8bNpKjoR_Apz9RnG4GSkadADxNKVtCMpmnQ3GVcKNTA2KNQAecAITwn_K9Gn0/w1200-h630-p-k-no-nu/MVP_Logo_Horizontal_Secondary_Blue288_RGB_300ppi.png"
         },
@@ -1004,7 +1009,7 @@
           "description": "In this post, let's have a look at how we can validate options in\n    application startup in a .NET application.\n  \n  \n  \n    The Options pattern lets us bind a configuration section to a strongly-typed\n    class. On top of that, we can validate the bound values so that a\n    missing/incorrect configuration fails fast at application startup rather\n    than blowing up at some random point",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/net-options-validation-in-application.html",
           "publishedOn": "2026-07-02T19:22:45.259Z",
-          "wordCount": 4515,
+          "wordCount": 4509,
           "title": ".NET Options Validation in Application Startup",
           "imageUrl": null
         },
