@@ -12,64 +12,179 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=395508",
+          "id": "https://css-tricks.com/?p=382144",
+          "author": "Geoff Graham",
+          "description": "The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.\nState of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/state-of-css-2024-results/",
+          "publishedOn": "2024-10-30T16:43:55.000Z",
+          "wordCount": 2964,
+          "title": "State of CSS 2024 Results",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382144"
+        },
+        {
+          "id": "https://css-tricks.com/?p=382082",
+          "author": "Zell Liew",
+          "description": "What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices.\nTooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/tooltip-best-practices/",
+          "publishedOn": "2024-10-29T14:01:18.000Z",
+          "wordCount": 2171,
+          "title": "Tooltip Best Practices",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382082"
+        },
+        {
+          "id": "https://css-tricks.com/?p=382039",
+          "author": "Sara Joy",
+          "description": "You’d be forgiven for thinking coding up both a dark and a light mode at once is a lot of work. You have to remember @media queries based on prefers-color-scheme as well as extra complications that arise when letting visitors …\nCome to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/come-to-the-light-dark-side/",
+          "publishedOn": "2024-10-25T14:08:20.000Z",
+          "wordCount": 5418,
+          "title": "Come to the light-dark() Side",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382039"
+        },
+        {
+          "id": "http://css-tricks.com/?p=198099",
+          "author": "Geoff Graham",
+          "description": "A whole bunch of years ago, we posted on this idea here on CSS-Tricks. We figured it was time to update that and do the subject justice.\nImagine a scenario where you need to split a layout in half. Content …\nLeft Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/left-and-right/",
+          "publishedOn": "2024-10-25T11:51:02.000Z",
+          "wordCount": 3318,
+          "title": "Left Half and Right Half Layout – Many Different Ways",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/198099"
+        },
+        {
+          "id": "https://css-tricks.com/?p=382065",
+          "author": "Geoff Graham",
+          "description": "Terence Eden on using text-wrap: balance for more than headings:\nBut the name is, I think, slightly misleading. It doesn’t only work on text. It will work on any content. For example – I have a row of icons at \n…\nYou can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/",
+          "publishedOn": "2024-10-24T14:05:56.000Z",
+          "wordCount": 1480,
+          "title": "You can use text-wrap: balance; on icons",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382065"
+        },
+        {
+          "id": "https://css-tricks.com/?p=382008",
+          "author": "Zell Liew",
+          "description": "The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …\nClarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/",
+          "publishedOn": "2024-10-23T13:20:46.000Z",
+          "wordCount": 2480,
+          "title": "Clarifying the Relationship Between Popovers and Dialogs",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382008"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381992",
+          "author": "Geoff Graham",
+          "description": "There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …\nClamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/clamp-it-vs-code-extension/",
+          "publishedOn": "2024-10-23T13:15:20.000Z",
+          "wordCount": 1459,
+          "title": "Clamp it! VS Code extension",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/10/clamp-it_fng4a5.mp4",
+            "length": "549889",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381992"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381613",
+          "author": "Geoff Graham",
+          "description": "I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …\nUnleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/",
+          "publishedOn": "2024-10-21T13:50:53.000Z",
+          "wordCount": 5808,
+          "title": "Unleash the Power of Scroll-Driven Animations",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381613"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381832",
+          "author": "Ryan Trimble",
+          "description": "Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.\nIf you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …\nCombining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/combining-forces-gsap-webflow/",
+          "publishedOn": "2024-10-18T13:09:22.000Z",
+          "wordCount": 1667,
+          "title": "Combining forces, GSAP & Webflow!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381832"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381882",
+          "author": "Geoff Graham",
+          "description": "I totally get the goal here: make CSS more modular and scalable in WordPress. Put all your global WordPress theme styles in a single file, including variations. JSON offers a nicely structured syntax that’s easily consumable by JavaScript, thereby allowing …\nMastering theme.json: You might not need CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/mastering-theme-json-you-might-not-need-css/",
+          "publishedOn": "2024-10-18T11:36:04.000Z",
+          "wordCount": 1658,
+          "title": "Mastering theme.json: You might not need CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381882"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381763",
+          "author": "Zell Liew",
+          "description": "One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …\nSolving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/",
+          "publishedOn": "2024-10-17T15:24:02.000Z",
+          "wordCount": 1873,
+          "title": "Solving Background Overflow With Inherited Border Radii",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381817",
+          "author": "Preethi",
+          "description": "What’s in a word? Actions. In the realm of user interfaces, a word is construed as the telltale of a control’s action. Sometimes it points us in the correct direction, and sometimes it leads us astray. We talk a lot …\nClose, Exit, Cancel: How to End User Interactions Well originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/close-exit-cancel-how-to-end-user-interactions-well/",
+          "publishedOn": "2024-10-16T14:12:57.000Z",
+          "wordCount": 3648,
+          "title": "Close, Exit, Cancel: How to End User Interactions Well",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381817"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381773",
           "author": "Temani Afif",
-          "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-          "publishedOn": "2026-07-31T15:14:00.000Z",
-          "wordCount": 3920,
-          "title": "Get Ready For the Powerful CSS border-shape Property!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
+          "description": "CSS gradients have been so long that there’s no need to rehash what they are and how to use them. You have surely encountered them at some point in your front-end journey, and if you follow me, you also …\nCSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-tricks-that-use-only-one-gradient/",
+          "publishedOn": "2024-10-11T21:48:01.000Z",
+          "wordCount": 3461,
+          "title": "CSS Tricks That Use Only One Gradient",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381773"
         },
         {
-          "id": "https://css-tricks.com/?p=396295",
-          "author": "Daniel Schwarz",
-          "description": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\nWhat’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-16/",
-          "publishedOn": "2026-07-31T14:06:21.000Z",
-          "wordCount": 2265,
-          "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/07/CleanShot-2026-07-31-at-06.07.11.mp4",
-            "length": "219450",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi16.jpg"
+          "id": "https://css-tricks.com/?p=381752",
+          "author": "Geoff Graham",
+          "description": "It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.\nI’m …\nWPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic/",
+          "publishedOn": "2024-10-10T14:00:32.000Z",
+          "wordCount": 1465,
+          "title": "WPGraphQL Becomes a Canonical Plugin: My Move to Automattic",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381752"
         },
         {
-          "id": "http://css-tricks.com/?page_id=244261",
-          "author": "Mojtaba Seyedi",
-          "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-          "publishedOn": "2026-07-21T09:39:10.000Z",
-          "wordCount": 3046,
-          "title": "writing-mode",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+          "id": "https://css-tricks.com/?p=381678",
+          "author": "Juan Diego Rodríguez",
+          "description": "More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …\n2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/",
+          "publishedOn": "2024-10-09T14:10:33.000Z",
+          "wordCount": 2132,
+          "title": "2024: More CSS At-Rules Than the Past Decade Combined",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381678"
         },
         {
-          "id": "http://css-tricks.com/?page_id=18170",
-          "author": "Mojtaba Seyedi",
-          "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-          "publishedOn": "2026-07-15T19:57:51.000Z",
-          "wordCount": 5050,
-          "title": "pointer-events",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+          "id": "https://css-tricks.com/?p=381729",
+          "author": "Geoff Graham",
+          "description": "I sat down with Heydon Pickering in the most recent episode of the Smashing Hour. Full transparency: I was nervous as heck. I’ve admired Heydon’s work for years, and even though we run in similar circles, this was our first …\nSmashing Hour With Heydon Pickering originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/smashing-hour-with-heydon-pickering/",
+          "publishedOn": "2024-10-08T15:22:02.000Z",
+          "wordCount": 1562,
+          "title": "Smashing Hour With Heydon Pickering",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381729"
         },
         {
-          "id": "https://css-tricks.com/?p=396027",
-          "author": "Daniel Schwarz",
-          "description": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-15/",
-          "publishedOn": "2026-07-14T14:36:18.000Z",
-          "wordCount": 2377,
-          "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
-            "length": "163854",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi15.jpg"
+          "id": "https://css-tricks.com/?p=381674",
+          "author": "Juan Diego Rodríguez",
+          "description": "The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …\nRecipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/",
+          "publishedOn": "2024-10-07T19:46:07.000Z",
+          "wordCount": 2702,
+          "title": "Recipes for Detecting Support for CSS At-Rules",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381674"
         }
       ]
     },
@@ -114,7 +229,7 @@
           "description": "Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.",
           "link": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
           "publishedOn": "2026-07-28T10:00:00.000Z",
-          "wordCount": 3688,
+          "wordCount": null,
           "title": "Thinking Outside The Box: Digital Design In The AI Era",
           "enclosure": {
             "url": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg",
@@ -144,7 +259,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5092,
+          "wordCount": null,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -392,7 +507,7 @@
           "description": "The author critiques Buffer, a social media scheduling tool, after a transition from Twitter to Bluesky due to increased user friction. Key issues include inefficient scheduling interfaces, lack of character limit warnings during composition, and inadequate support for mentions and hashtags. The author expresses a need for improved user experience and considers alternative tools.",
           "link": "https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/",
           "publishedOn": "2026-07-29T06:00:00.000Z",
-          "wordCount": 6401,
+          "wordCount": 6227,
           "title": "UX Chronicles: Buffering the User Experience",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-28-2026-01_40_52-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -402,7 +517,7 @@
           "description": "HttpClientExtensions in the DotNetTips.Spargine.Extensions namespace streamline common HTTP operations for .NET developers. These extension methods simplify tasks such as sending requests, deserializing JSON, and managing streams, enhancing code readability and performance. They help minimize repetitive coding, making HTTP interactions more efficient and consistent across projects.",
           "link": "https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/",
           "publishedOn": "2026-07-26T06:00:00.000Z",
-          "wordCount": 4874,
+          "wordCount": 4881,
           "title": "Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-03_46_38-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -412,7 +527,7 @@
           "description": "Choosing between TCP and UDP is crucial for data transport. TCP ensures reliability and ordered delivery, making it ideal for critical applications, while UDP prioritizes speed and low latency, suited for real-time scenarios.",
           "link": "https://dotnettips.com/2026/07/19/tcp-vs-udp-in-net-speed-reliability-and-the-hidden-cost-of-performance/",
           "publishedOn": "2026-07-19T06:00:00.000Z",
-          "wordCount": 3355,
+          "wordCount": 3667,
           "title": "TCP vs. UDP in .NET: Speed, Reliability, and the Hidden Cost of Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-01_14_03-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -422,7 +537,7 @@
           "description": "I/O operations impact application responsiveness, scalability, and costs. Enhancing file access, HTTP requests, and networking improves user experience while reducing resource consumption. This chapter discusses techniques to optimize I/O performance in .NET, utilizing benchmark results and profilers to identify bottlenecks and improve efficiency in near-production environments.",
           "link": "https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/",
           "publishedOn": "2026-07-12T12:23:27.000Z",
-          "wordCount": 3873,
+          "wordCount": 4048,
           "title": "Optimizing I/O Performance in .NET",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-12-2026-07_06_19-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -432,7 +547,7 @@
           "description": "Modern .NET applications support three major HTTP versions: HTTP/1.1, HTTP/2, and HTTP/3, each with distinct characteristics. HTTP/3, utilizing QUIC over UDP, offers advantages like reduced latency and better performance on unstable networks.",
           "link": "https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/",
           "publishedOn": "2026-07-12T06:00:00.000Z",
-          "wordCount": 3371,
+          "wordCount": 3670,
           "title": "HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-15-2026-11_05_06-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -851,7 +966,7 @@
           "description": "In this post, let's have a look at Union types in C# and a subtle\n      difference you will notice when you migrate from a closed class hierarchy\n      to a union.\n    \n    \n    \n      Some time ago I blogged about\n      C# 15.0: Closed Class Hierarchies. There we used the closed keyword to model a fixed set of\n      Shape types and let the compiler enforce exhaustive pattern",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/c-15-brand-new-union-types.html",
           "publishedOn": "2026-07-21T02:30:03.861Z",
-          "wordCount": null,
+          "wordCount": 4731,
           "title": "C# 15: Brand New Union Types",
           "imageUrl": null
         },
@@ -871,9 +986,9 @@
           "description": "In this post, let's have a look at asynchronous validation support for\n    Minimal APIs, which is going to be available in&nbsp;ASP.NET Core 11.0.\n  \n  \n  \n    Some time back, I blogged about\n    Validation Support for Minimal APIs\n    and\n    Custom Validation\n    in ASP.NET Core 10.0. This is a continuation of that, but this time the\n    validators run asynchronously.\n  \n  \n  \n    With",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html",
           "publishedOn": "2026-07-17T09:13:26.048Z",
-          "wordCount": 4580,
+          "wordCount": null,
           "title": "ASP.NET Core 11.0: Async Validation in Minimal APIs",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg_CdPcaP1CvU_7YdXMOaJF8G4vYoOh6KbkMz1mG2Fhe7ysFwFA1eDXiW1NsjAJZ8qr9tRZcP8MfbGeQK2-q3_GdlVrCBtjkiUl9NEUsfCcO5m-v9abKBfpF6IgNyEs1O-pl2WjnFymRosmBMBK-zJMMiswfmUrBVCZgpYWx8Z3h915WqaPrLjINyeU258=w1200-h630-p-k-no-nu"
+          "imageUrl": null
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/07/received-microsoft-mvp-award-in.html",
@@ -901,12 +1016,6 @@
       "title": "manuelmeyer.net",
       "feedUrl": "https://www.manuelmeyer.net/feed/?x=1",
       "siteUrl": "https://www.manuelmeyer.net",
-      "articles": []
-    },
-    {
-      "title": "Michał Jankowski",
-      "feedUrl": "https://www.jankowskimichal.pl/en/feed/",
-      "siteUrl": "https://www.jankowskimichal.pl/en/",
       "articles": []
     },
     {
