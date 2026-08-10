@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-09T02:11:36.354Z</updated>
+    <updated>2026-08-10T02:19:48.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[.NET Threads: The Performance Trap Hiding in Your Code]]></title>
+        <id>https://dotnettips.com/?p=18270</id>
+        <link href="https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/"/>
+        <updated>2026-08-09T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Creating background tasks in .NET applications is crucial to maintain responsiveness. While dedicated threads can be used, they incur significant overhead.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Test AI Features in Flutter [Full Handbook]]]></title>
         <id>6a76024b50cf2dad7c8ef8c3</id>
@@ -811,39 +821,6 @@ Marketplace Ingestion MCP…]]></summary>
         <summary type="html"><![CDATA[If you have built event-driven systems for any length of time, you have probably internalized the mantra of at-least-once delivery : keep…]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction]]></title>
-        <id>https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/</id>
-        <link href="https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/"/>
-        <updated>2026-07-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Anastasia Sycheva)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - July 10, 2026 (#4709)]]></title>
-        <id>https://alvinashcraft.com/2026/07/10/dew-drop-july-10-2026-4709/</id>
-        <link href="https://alvinashcraft.com/2026/07/10/dew-drop-july-10-2026-4709/"/>
-        <updated>2026-07-10T10:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Modernize .NET applications in the GitHub Copilot app (Mika Dumont)
-GPT-5.6: Frontier intelligence that scales with your ambition and GPT-5.6 is now the preferred model in Microsoft 365 Copilot (OpenAI Team)
-3 GitHub Copilot automations every maintainer needs (Kayla Cin…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion]]></title>
-        <id>https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/</id>
-        <link href="https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/"/>
-        <updated>2026-07-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kat Homan)</name>
         </author>
     </entry>
 </feed>

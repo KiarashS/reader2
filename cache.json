@@ -129,7 +129,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4640,
+          "wordCount": 4647,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -144,7 +144,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5023,
+          "wordCount": 5028,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -174,7 +174,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8082,
+          "wordCount": 8189,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -189,7 +189,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5072,
+          "wordCount": 5075,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -212,36 +212,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
-          "author": "hello@smashingmagazine.com (Anastasia Sycheva)",
-          "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
-          "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
-          "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5394,
-          "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
-          "author": "hello@smashingmagazine.com (Kat Homan)",
-          "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
-          "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
-          "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6752,
-          "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg"
         }
       ]
     },
@@ -376,12 +346,22 @@
       "siteUrl": "https://dotnettips.com",
       "articles": [
         {
+          "id": "https://dotnettips.com/?p=18270",
+          "author": "David (dotNetDave) McCarter",
+          "description": "Creating background tasks in .NET applications is crucial to maintain responsiveness. While dedicated threads can be used, they incur significant overhead.",
+          "link": "https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/",
+          "publishedOn": "2026-08-09T06:00:00.000Z",
+          "wordCount": 3359,
+          "title": ".NET Threads: The Performance Trap Hiding in Your Code",
+          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-22-2026-10_34_11-AM.png?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://dotnettips.com/?p=18261",
           "author": "David (dotNetDave) McCarter",
           "description": "Is [LibraryImport] always faster than [DllImport]? Not necessarily.\nI benchmarked both across native Windows API calls, string marshalling, handles, out parameters, and allocation-heavy scenarios. The results may surprise you.",
           "link": "https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/",
           "publishedOn": "2026-08-02T06:00:00.000Z",
-          "wordCount": 3513,
+          "wordCount": 3523,
           "title": "P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-21-2026-06_22_01-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -711,16 +691,6 @@
           "wordCount": 72,
           "title": "Dew Drop - July 13, 2026 (#4710)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/07/10/dew-drop-july-10-2026-4709/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nModernize .NET applications in the GitHub Copilot app (Mika Dumont)\nGPT-5.6: Frontier intelligence that scales with your ambition and GPT-5.6 is now the preferred model in Microsoft 365 Copilot (OpenAI Team)\n3 GitHub Copilot automations every maintainer needs (Kayla Cin…",
-          "link": "https://alvinashcraft.com/2026/07/10/dew-drop-july-10-2026-4709/",
-          "publishedOn": "2026-07-10T10:30:57.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - July 10, 2026 (#4709)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -789,7 +759,7 @@
           "description": "In this post, let's have a look at Union types in C# and a subtle\n      difference you will notice when you migrate from a closed class hierarchy\n      to a union.\n    \n    \n    \n      Some time ago I blogged about\n      C# 15.0: Closed Class Hierarchies. There we used the closed keyword to model a fixed set of\n      Shape types and let the compiler enforce exhaustive pattern",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/c-15-brand-new-union-types.html",
           "publishedOn": "2026-07-21T02:30:03.861Z",
-          "wordCount": null,
+          "wordCount": 4731,
           "title": "C# 15: Brand New Union Types",
           "imageUrl": null
         },
@@ -799,9 +769,9 @@
           "description": "In this post, let's have a look at how we can classify a document that\n    contains multiple document types, and route each part to a different\n    analyzer, using Azure AI Content Understanding and the .NET SDK.\n  \n\n  \n\n  \n    Say you receive a single PDF that contains an invoice, a bank statement and\n    a loan application, all combined together, something like this:",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/azure-content-understanding-classify.html",
           "publishedOn": "2026-07-19T08:57:00.000Z",
-          "wordCount": null,
+          "wordCount": 5410,
           "title": "Azure Content Understanding: Classify and Route to Different Analyzers",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiQmifA_b7Z4qKQb0z9Xg8J8AEdHx04ooPBDUF259IIzojp2b2fmz9H65fFqj5WSaWxCXy5sm36a-yzmtYBXsXPVmXwzWO0KiSCK2SxNZUIxKJuOS5Qb4KDx1cSZ00OXt0eCe-nuYPU9KdYQZ7z7AD4iHbpOmcJWY_JM0e8-r1pfeddgNjXZO2GenHE0iI=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html",
@@ -809,9 +779,9 @@
           "description": "In this post, let's have a look at asynchronous validation support for\n    Minimal APIs, which is going to be available in&nbsp;ASP.NET Core 11.0.\n  \n  \n  \n    Some time back, I blogged about\n    Validation Support for Minimal APIs\n    and\n    Custom Validation\n    in ASP.NET Core 10.0. This is a continuation of that, but this time the\n    validators run asynchronously.\n  \n  \n  \n    With",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html",
           "publishedOn": "2026-07-17T09:13:26.048Z",
-          "wordCount": null,
+          "wordCount": 4580,
           "title": "ASP.NET Core 11.0: Async Validation in Minimal APIs",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg_CdPcaP1CvU_7YdXMOaJF8G4vYoOh6KbkMz1mG2Fhe7ysFwFA1eDXiW1NsjAJZ8qr9tRZcP8MfbGeQK2-q3_GdlVrCBtjkiUl9NEUsfCcO5m-v9abKBfpF6IgNyEs1O-pl2WjnFymRosmBMBK-zJMMiswfmUrBVCZgpYWx8Z3h915WqaPrLjINyeU258=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/07/received-microsoft-mvp-award-in.html",
