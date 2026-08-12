@@ -17,7 +17,7 @@
           "description": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\nAnimating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/animating-css-border-image/",
           "publishedOn": "2026-08-10T15:58:47.000Z",
-          "wordCount": 3772,
+          "wordCount": 3803,
           "title": "Animating CSS border-image",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
         },
@@ -129,12 +129,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+          "author": "hello@smashingmagazine.com (Alexey Kopytin)",
+          "description": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.",
+          "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+          "publishedOn": "2026-08-11T10:00:00.000Z",
+          "wordCount": 4329,
+          "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "author": "hello@smashingmagazine.com (Jad Joubran)",
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6286,
+          "wordCount": 6298,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -149,7 +164,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4654,
+          "wordCount": 4648,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -164,7 +179,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5028,
+          "wordCount": 5033,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -194,7 +209,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8080,
+          "wordCount": 8076,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -209,7 +224,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5076,
+          "wordCount": 5075,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -240,6 +255,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a7b522a304c202420dfd496",
+          "author": "Rudrendu Paul",
+          "description": "Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac",
+          "link": "https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/",
+          "publishedOn": "2026-08-11T16:47:38.000Z",
+          "wordCount": 8027,
+          "title": "Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2d445aeb-4ed9-40c4-9c91-c6e701a1325a.png"
+        },
+        {
+          "id": "6a7b52064ac8f18a2a936e46",
+          "author": "Atuoha Anthony",
+          "description": "Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/",
+          "publishedOn": "2026-08-11T16:47:02.000Z",
+          "wordCount": 8122,
+          "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/597b4887-5912-4a71-a0c2-ecbf8bdcfb4c.png"
+        },
+        {
+          "id": "6a7a662d92a5f4f663b525f9",
+          "author": "Rudrendu Paul",
+          "description": "Your AI product shipped an agent-mode opt-in six months ago. You ran a propensity analysis, adjusted for engagement tier and query confidence, and reported a clean +8 percentage-point lift in task com",
+          "link": "https://www.freecodecamp.org/news/doubly-robust-estimation-for-llm-product-experiments/",
+          "publishedOn": "2026-08-11T00:00:45.000Z",
+          "wordCount": 5329,
+          "title": "Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/37d63c81-8744-46ba-8dcd-da9371817913.png"
+        },
         {
           "id": "6a7a38d57c96966272403ab6",
           "author": "George Field",
@@ -309,36 +354,6 @@
           "wordCount": 3608,
           "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e4b5fb66-d353-4c78-adb3-ddc1f3d5594d.png"
-        },
-        {
-          "id": "6a74fe284ef5707f2879423d",
-          "author": "Ashutosh Krishna",
-          "description": "If you've ever built a web application or configured Spring Security, you've almost certainly encountered Cross-Site Request Forgery (CSRF). In my previous guide, How OAuth 2.0 Works: A Practical Guid",
-          "link": "https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/",
-          "publishedOn": "2026-08-06T21:35:36.000Z",
-          "wordCount": 8967,
-          "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/20e903c5-9011-4f14-b714-974e32d43f3c.png"
-        },
-        {
-          "id": "6a74fbb23d5ed45ab0356528",
-          "author": "Casmir Onyekani",
-          "description": "I still remember the first time I ran a Bell-state circuit on a quantum simulator. The code was only a few lines long, but it felt magical. Two qubits became entangled, and the simulator returned almo",
-          "link": "https://www.freecodecamp.org/news/why-2d-trapped-ion-quantum-computers-could-be-easier-to-scale-than-1d-architectures/",
-          "publishedOn": "2026-08-06T21:25:06.000Z",
-          "wordCount": 3077,
-          "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/be6df167-b53e-4e99-939d-ccd8fb150f32.png"
-        },
-        {
-          "id": "6a74c6e11a7e8d7040b2949f",
-          "author": "Reetain Raina",
-          "description": "For decades, recording an electrocardiogram (ECG) meant visiting a hospital or clinic. The doctors would place multiple electrodes on your chest and limbs to capture your heart's electrical activity.",
-          "link": "https://www.freecodecamp.org/news/how-smartwatch-ecg-works/",
-          "publishedOn": "2026-08-06T17:39:45.000Z",
-          "wordCount": 2661,
-          "title": "How an ECG on a Wrist Wearable Works and How It Compares to a Clinical Test",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c283c6cc-f094-47bd-83dd-c7361536a73f.png"
         }
       ]
     },
@@ -371,7 +386,7 @@
           "description": "Creating background tasks in .NET applications is crucial to maintain responsiveness. While dedicated threads can be used, they incur significant overhead.",
           "link": "https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/",
           "publishedOn": "2026-08-09T06:00:00.000Z",
-          "wordCount": 3658,
+          "wordCount": 3673,
           "title": ".NET Threads: The Performance Trap Hiding in Your Code",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-22-2026-10_34_11-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -381,7 +396,7 @@
           "description": "Is [LibraryImport] always faster than [DllImport]? Not necessarily.\nI benchmarked both across native Windows API calls, string marshalling, handles, out parameters, and allocation-heavy scenarios. The results may surprise you.",
           "link": "https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/",
           "publishedOn": "2026-08-02T06:00:00.000Z",
-          "wordCount": 3233,
+          "wordCount": 3208,
           "title": "P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-21-2026-06_22_01-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -391,7 +406,7 @@
           "description": "The author critiques Buffer, a social media scheduling tool, after a transition from Twitter to Bluesky due to increased user friction. Key issues include inefficient scheduling interfaces, lack of character limit warnings during composition, and inadequate support for mentions and hashtags. The author expresses a need for improved user experience and considers alternative tools.",
           "link": "https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/",
           "publishedOn": "2026-07-29T06:00:00.000Z",
-          "wordCount": 6260,
+          "wordCount": 6245,
           "title": "UX Chronicles: Buffering the User Experience",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-28-2026-01_40_52-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -401,7 +416,7 @@
           "description": "HttpClientExtensions in the DotNetTips.Spargine.Extensions namespace streamline common HTTP operations for .NET developers. These extension methods simplify tasks such as sending requests, deserializing JSON, and managing streams, enhancing code readability and performance. They help minimize repetitive coding, making HTTP interactions more efficient and consistent across projects.",
           "link": "https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/",
           "publishedOn": "2026-07-26T06:00:00.000Z",
-          "wordCount": 4881,
+          "wordCount": 4720,
           "title": "Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-03_46_38-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -411,96 +426,9 @@
           "description": "Choosing between TCP and UDP is crucial for data transport. TCP ensures reliability and ordered delivery, making it ideal for critical applications, while UDP prioritizes speed and low latency, suited for real-time scenarios.",
           "link": "https://dotnettips.com/2026/07/19/tcp-vs-udp-in-net-speed-reliability-and-the-hidden-cost-of-performance/",
           "publishedOn": "2026-07-19T06:00:00.000Z",
-          "wordCount": 3368,
+          "wordCount": 3377,
           "title": "TCP vs. UDP in .NET: Speed, Reliability, and the Hidden Cost of Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-01_14_03-PM.png?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://dotnettips.com/?p=18412",
-          "author": "David (dotNetDave) McCarter",
-          "description": "I/O operations impact application responsiveness, scalability, and costs. Enhancing file access, HTTP requests, and networking improves user experience while reducing resource consumption. This chapter discusses techniques to optimize I/O performance in .NET, utilizing benchmark results and profilers to identify bottlenecks and improve efficiency in near-production environments.",
-          "link": "https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/",
-          "publishedOn": "2026-07-12T12:23:27.000Z",
-          "wordCount": 3897,
-          "title": "Optimizing I/O Performance in .NET",
-          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-12-2026-07_06_19-AM.png?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://dotnettips.com/?p=18190",
-          "author": "David (dotNetDave) McCarter",
-          "description": "Modern .NET applications support three major HTTP versions: HTTP/1.1, HTTP/2, and HTTP/3, each with distinct characteristics. HTTP/3, utilizing QUIC over UDP, offers advantages like reduced latency and better performance on unstable networks.",
-          "link": "https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/",
-          "publishedOn": "2026-07-12T06:00:00.000Z",
-          "wordCount": 3395,
-          "title": "HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice",
-          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-15-2026-11_05_06-AM.png?fit=1200%2C800&ssl=1"
-        }
-      ]
-    },
-    {
-      "title": "ASPSnippets RSS Feed",
-      "feedUrl": "https://www.aspsnippets.com/RSS.ashx",
-      "siteUrl": "https://www.aspsnippets.com/RSS.ashx",
-      "articles": [
-        {
-          "id": "https://aspsnippets.com/Articles/Nested-GridView-Example-in-ASPNet-using-C-and-VBNet.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to build a Nested GridView i.e. GridView inside GridView in ASP.Net using C# and VB.Net.",
-          "link": "https://aspsnippets.com/Articles/Nested-GridView-Example-in-ASPNet-using-C-and-VBNet.aspx",
-          "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4586,
-          "title": "Nested GridView Example in ASP.Net using C# and VB.Net",
-          "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/309.webp"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/ASPNet-MVC-DropDownListFor-Default-Value-Set-Default-Selected-Value-for-DropDownList-in-ASPNet-MVC.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to set Default Selected Value for DropDownList using the DropDownListFor Helper method in ASP.Net MVC Razor.",
-          "link": "https://aspsnippets.com/Articles/ASPNet-MVC-DropDownListFor-Default-Value-Set-Default-Selected-Value-for-DropDownList-in-ASPNet-MVC.aspx",
-          "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4420,
-          "title": "ASP.Net MVC DropDownListFor Default Value: Set Default Selected Value for DropDownList in ASP.Net MVC",
-          "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/1682.webp"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/RegisterStartupScript-Call-JavaScript-function-with-parameters-in-ASPNet.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to call JavaScript function with parameters from Code-Behind using ClientScript.RegisterStartupScript method in ASP.Net using C# and VB.Net.",
-          "link": "https://aspsnippets.com/Articles/RegisterStartupScript-Call-JavaScript-function-with-parameters-in-ASPNet.aspx",
-          "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4262,
-          "title": "RegisterStartupScript: Call JavaScript function with parameters in ASP.Net",
-          "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Call-JavaScript-function-from-Code-Behind-on-Button-Click-in-ASPNet-using-C-and-VBNet.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained with an example, how to call JavaScript function from Code-Behind on Button Click in ASP.Net using C# and VB.Net.",
-          "link": "https://aspsnippets.com/Articles/Call-JavaScript-function-from-Code-Behind-on-Button-Click-in-ASPNet-using-C-and-VBNet.aspx",
-          "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4286,
-          "title": "Call JavaScript function from Code Behind on Button Click in ASP.Net using C# and VB.Net",
-          "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/1971.webp"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Ajax-Control-ToolKit-HoverMenuExtender-Tutorial-with-example-in-ASPNet.aspx",
-          "author": null,
-          "description": "Here Mudassar Khan has explained a simple tutorial with an example, how to implement ASP.Net  AJAX HoverMenuExtender control of the ASP.Net Ajax Control Toolkit Library using C# and VB.Net.",
-          "link": "https://aspsnippets.com/Articles/Ajax-Control-ToolKit-HoverMenuExtender-Tutorial-with-example-in-ASPNet.aspx",
-          "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4621,
-          "title": "Ajax Control ToolKit HoverMenuExtender Tutorial with example in ASP.Net",
-          "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/2023.webp"
-        },
-        {
-          "id": "https://aspsnippets.com/Articles/Net-48-ValidateRequest--false-not-working-in-ASPNet.aspx",
-          "author": null,
-          "description": "In this tutorial, we will walk through a practical example to solve the problem of ValidateRequest = 'false' not working in .Net 4.8 in ASP.Net.",
-          "link": "https://aspsnippets.com/Articles/Net-48-ValidateRequest--false-not-working-in-ASPNet.aspx",
-          "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4237,
-          "title": ".Net 4.8: ValidateRequest = 'false' not working in ASP.Net",
-          "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/5752.webp"
         }
       ]
     },
@@ -542,7 +470,7 @@
           "description": "Giving an AI agent access to a repository takes only a few lines of code. Giving it useful access without silently approving every command…",
           "link": "https://www.sahansera.dev/safe-repository-maintenance-agent-dotnet/",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2280,
+          "wordCount": 2289,
           "title": "Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in .NET",
           "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-dotnet.BfZGmc-O.jpg"
         },
@@ -552,7 +480,7 @@
           "description": "In the .NET tutorial , we built a repository agent that could inspect a checkout, propose a one-line repair, run its tests, and report the…",
           "link": "https://www.sahansera.dev/safe-repository-maintenance-agent-python/",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2346,
+          "wordCount": 2392,
           "title": "Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in Python",
           "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-python.DS0oPGvE.jpg"
         },
@@ -585,16 +513,6 @@
           "wordCount": 2749,
           "title": "When \"no healthy upstream\" isn't about the upstream you think",
           "imageUrl": "https://www.sahansera.dev/_astro/no-healthy-upstream.DgY4BGfE.jpg"
-        },
-        {
-          "id": "https://www.sahansera.dev/the-acknowledgment-gap/",
-          "author": null,
-          "description": "If you have built event-driven systems for any length of time, you have probably internalized the mantra of at-least-once delivery : keep…",
-          "link": "https://www.sahansera.dev/the-acknowledgment-gap/",
-          "publishedOn": "2026-07-12T00:00:00.000Z",
-          "wordCount": 3392,
-          "title": "The Acknowledgment Gap - How Event-Driven Systems Lose Messages Without Errors",
-          "imageUrl": "https://www.sahansera.dev/_astro/the-acknowledgment-gap.-LiW1dEK.jpg"
         }
       ]
     },
@@ -603,6 +521,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/08/11/dew-drop-august-11-2026-4730/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nBuilding Bookmark Studio: bookmarks that belong to the codebase (Mads Kristensen)\nPowerToys Preview v0.101.2211.0 Release (LegendaryBlair)\nGitHub Admin UI + Billing API: Better together for smarter spend decisions (Chris Noring)\nJimmy Bogard: AI-Driven Development - The…",
+          "link": "https://alvinashcraft.com/2026/08/11/dew-drop-august-11-2026-4730/",
+          "publishedOn": "2026-08-11T10:31:14.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - August 11, 2026 (#4730)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/08/10/dew-drop-august-10-2026-4729/",
           "author": "Alvin Ashcraft",
@@ -792,16 +720,6 @@
           "wordCount": 72,
           "title": "Dew Drop - July 14, 2026 (#4711)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/07/13/dew-drop-july-13-2026-4710/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nBetter tools made Copilot code review worse. Here's how we actually improved it. (Napalys Klicius)\nBetatalks, the Podcast Episode #134 - The Future of Software Development with AI Agents - with Burke Holland (Rick van den Bosch & Oscar van Tol)\nMarketplace Ingestion MCP…",
-          "link": "https://alvinashcraft.com/2026/07/13/dew-drop-july-13-2026-4710/",
-          "publishedOn": "2026-07-13T10:21:17.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - July 13, 2026 (#4710)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -838,12 +756,22 @@
       "siteUrl": "https://blog.maartenballiauw.be/",
       "articles": [
         {
+          "id": "https://blog.maartenballiauw.be/posts/2026-08-11-keyed-services-named-registrations-in-dotnet-service-provider/",
+          "author": null,
+          "description": "You have an IMessageSender interface, with two implementations: EmailMessageSender and SmsMessageSender. You register both, and now the question is which one gets injected into your OrderConfirmationService constructor. The answer, unhelpfully, is whichever was registered last. This may also introduce subtle, unexpected bugs when new services are registered.",
+          "link": "https://blog.maartenballiauw.be/posts/2026-08-11-keyed-services-named-registrations-in-dotnet-service-provider/",
+          "publishedOn": "2026-08-11T07:00:00.000Z",
+          "wordCount": 1936,
+          "title": "Keyed Services (Named registrations) in .NET Service Provider",
+          "imageUrl": "https://blog.maartenballiauw.be/posts/2026-08-11-keyed-services-named-registrations-in-dotnet-service-provider/index.png"
+        },
+        {
           "id": "https://blog.maartenballiauw.be/posts/2026-07-31-so-i-wrote-a-fiction-book-meet-the-side-project/",
           "author": null,
           "description": "For as long as I can remember, I’ve been writing non-fiction. Blog posts, documentation, technical guides, a couple of books about NuGet, and ASP.NET MVC 1.0 which still sells one copy per quarter, amazingly. Somewhere in the back of my mind, I have always thought I’d want to write fiction at some point. But about what? Early 2025, working on my own side project, I got the idea for a story, and… I wrote a novel!",
           "link": "https://blog.maartenballiauw.be/posts/2026-07-31-so-i-wrote-a-fiction-book-meet-the-side-project/",
           "publishedOn": "2026-07-31T03:44:05.000Z",
-          "wordCount": 2049,
+          "wordCount": 2059,
           "title": "So, I wrote a fiction book. Meet \"The Side Project\".",
           "imageUrl": "https://blog.maartenballiauw.be/posts/2026-07-31-so-i-wrote-a-fiction-book-meet-the-side-project/index.png"
         },
@@ -865,6 +793,16 @@
       "siteUrl": "https://jaliyaudagedara.blogspot.com/",
       "articles": [
         {
+          "id": "https://jaliyaudagedara.blogspot.com/2026/08/support-for-c-15-union-types-in-aspnet.html",
+          "author": null,
+          "description": "In this post, let's have a look at how Union types in C# 15 flow\n    through an ASP.NET Core minimal API and how they are described in\n    OpenAPI. This is a follow up to my previous post\n    C# 15: Brand New Union Types, so I will reuse the same Shape union.\n  \n  \n  \n    Everything here runs on .NET 11 Preview 6 (latest as of today, it\n    will change) and the",
+          "link": "https://jaliyaudagedara.blogspot.com/2026/08/support-for-c-15-union-types-in-aspnet.html",
+          "publishedOn": "2026-08-09T04:28:00.000Z",
+          "wordCount": null,
+          "title": "Support for C# 15 Union Types in ASP.NET Core",
+          "imageUrl": null
+        },
+        {
           "id": "https://jaliyaudagedara.blogspot.com/2026/07/c-15-brand-new-union-types.html",
           "author": null,
           "description": "In this post, let's have a look at Union types in C# and a subtle\n      difference you will notice when you migrate from a closed class hierarchy\n      to a union.\n    \n    \n    \n      Some time ago I blogged about\n      C# 15.0: Closed Class Hierarchies. There we used the closed keyword to model a fixed set of\n      Shape types and let the compiler enforce exhaustive pattern",
@@ -880,9 +818,9 @@
           "description": "In this post, let's have a look at how we can classify a document that\n    contains multiple document types, and route each part to a different\n    analyzer, using Azure AI Content Understanding and the .NET SDK.\n  \n\n  \n\n  \n    Say you receive a single PDF that contains an invoice, a bank statement and\n    a loan application, all combined together, something like this:",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/azure-content-understanding-classify.html",
           "publishedOn": "2026-07-19T08:57:00.000Z",
-          "wordCount": null,
+          "wordCount": 5413,
           "title": "Azure Content Understanding: Classify and Route to Different Analyzers",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiQmifA_b7Z4qKQb0z9Xg8J8AEdHx04ooPBDUF259IIzojp2b2fmz9H65fFqj5WSaWxCXy5sm36a-yzmtYBXsXPVmXwzWO0KiSCK2SxNZUIxKJuOS5Qb4KDx1cSZ00OXt0eCe-nuYPU9KdYQZ7z7AD4iHbpOmcJWY_JM0e8-r1pfeddgNjXZO2GenHE0iI=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html",
@@ -900,9 +838,9 @@
           "description": "I am humbled and honored once again to receive the precious Microsoft Most Valuable Professional (MVP) Award for the 13th consecutive year.As always looking forward to another great year on top of Microsoft Development Stack.Microsoft Most Valuable Professional (MVP)Thank you Microsoft for your appreciation and Thank you everyone for your continuous support.Happy Coding.Regards,Jaliya",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/received-microsoft-mvp-award-in.html",
           "publishedOn": "2026-07-16T00:55:27.383Z",
-          "wordCount": null,
+          "wordCount": 4119,
           "title": "Received Microsoft MVP Award in Developer Technologies",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieyAJ8Vkwu_wWCuDNOWZpJdPdFVcNEDErNTZp7oCzNmRkftXhDJsIYF6qwnyprYwBsWS0lQHt4lGekGops7hsJzALXyy5ujFlpx2vpKcbjHxt6lhzUbelZENwjOakPkE8bNpKjoR_Apz9RnG4GSkadADxNKVtCMpmnQ3GVcKNTA2KNQAecAITwn_K9Gn0/w1200-h630-p-k-no-nu/MVP_Logo_Horizontal_Secondary_Blue288_RGB_300ppi.png"
         }
       ]
     },

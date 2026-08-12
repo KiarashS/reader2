@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-11T02:10:27.442Z</updated>
+    <updated>2026-08-12T02:28:26.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features]]></title>
+        <id>6a7b522a304c202420dfd496</id>
+        <link href="https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/"/>
+        <updated>2026-08-11T16:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect]]></title>
+        <id>6a7b52064ac8f18a2a936e46</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/"/>
+        <updated>2026-08-11T16:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - August 11, 2026 (#4730)]]></title>
+        <id>https://alvinashcraft.com/2026/08/11/dew-drop-august-11-2026-4730/</id>
+        <link href="https://alvinashcraft.com/2026/08/11/dew-drop-august-11-2026-4730/"/>
+        <updated>2026-08-11T10:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Building Bookmark Studio: bookmarks that belong to the codebase (Mads Kristensen)
+PowerToys Preview v0.101.2211.0 Release (LegendaryBlair)
+GitHub Admin UI + Billing API: Better together for smarter spend decisions (Chris Noring)
+Jimmy Bogard: AI-Driven Development - The…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
+        <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
+        <link href="https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"/>
+        <updated>2026-08-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexey Kopytin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyed Services (Named registrations) in .NET Service Provider]]></title>
+        <id>https://blog.maartenballiauw.be/posts/2026-08-11-keyed-services-named-registrations-in-dotnet-service-provider/</id>
+        <link href="https://blog.maartenballiauw.be/posts/2026-08-11-keyed-services-named-registrations-in-dotnet-service-provider/"/>
+        <updated>2026-08-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You have an IMessageSender interface, with two implementations: EmailMessageSender and SmsMessageSender. You register both, and now the question is which one gets injected into your OrderConfirmationService constructor. The answer, unhelpfully, is whichever was registered last. This may also introduce subtle, unexpected bugs when new services are registered.]]></summary>
+        <author>
+            <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications]]></title>
+        <id>6a7a662d92a5f4f663b525f9</id>
+        <link href="https://www.freecodecamp.org/news/doubly-robust-estimation-for-llm-product-experiments/"/>
+        <updated>2026-08-11T00:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Your AI product shipped an agent-mode opt-in six months ago. You ran a propensity analysis, adjusted for engagement tier and query confidence, and reported a clean +8 percentage-point lift in task com]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Get Your Side Project Seen and Gain Paying Users]]></title>
         <id>6a7a38d57c96966272403ab6</id>
@@ -84,66 +148,6 @@ ZoomIt for Mac: How AI Po…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nested GridView Example in ASP.Net using C# and VB.Net]]></title>
-        <id>https://aspsnippets.com/Articles/Nested-GridView-Example-in-ASPNet-using-C-and-VBNet.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Nested-GridView-Example-in-ASPNet-using-C-and-VBNet.aspx"/>
-        <updated>2026-08-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to build a Nested GridView i.e. GridView inside GridView in ASP.Net using C# and VB.Net.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASP.Net MVC DropDownListFor Default Value: Set Default Selected Value for DropDownList in ASP.Net MVC]]></title>
-        <id>https://aspsnippets.com/Articles/ASPNet-MVC-DropDownListFor-Default-Value-Set-Default-Selected-Value-for-DropDownList-in-ASPNet-MVC.aspx</id>
-        <link href="https://aspsnippets.com/Articles/ASPNet-MVC-DropDownListFor-Default-Value-Set-Default-Selected-Value-for-DropDownList-in-ASPNet-MVC.aspx"/>
-        <updated>2026-08-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to set Default Selected Value for DropDownList using the DropDownListFor Helper method in ASP.Net MVC Razor.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RegisterStartupScript: Call JavaScript function with parameters in ASP.Net]]></title>
-        <id>https://aspsnippets.com/Articles/RegisterStartupScript-Call-JavaScript-function-with-parameters-in-ASPNet.aspx</id>
-        <link href="https://aspsnippets.com/Articles/RegisterStartupScript-Call-JavaScript-function-with-parameters-in-ASPNet.aspx"/>
-        <updated>2026-08-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to call JavaScript function with parameters from Code-Behind using ClientScript.RegisterStartupScript method in ASP.Net using C# and VB.Net.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call JavaScript function from Code Behind on Button Click in ASP.Net using C# and VB.Net]]></title>
-        <id>https://aspsnippets.com/Articles/Call-JavaScript-function-from-Code-Behind-on-Button-Click-in-ASPNet-using-C-and-VBNet.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Call-JavaScript-function-from-Code-Behind-on-Button-Click-in-ASPNet-using-C-and-VBNet.aspx"/>
-        <updated>2026-08-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to call JavaScript function from Code-Behind on Button Click in ASP.Net using C# and VB.Net.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ajax Control ToolKit HoverMenuExtender Tutorial with example in ASP.Net]]></title>
-        <id>https://aspsnippets.com/Articles/Ajax-Control-ToolKit-HoverMenuExtender-Tutorial-with-example-in-ASPNet.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Ajax-Control-ToolKit-HoverMenuExtender-Tutorial-with-example-in-ASPNet.aspx"/>
-        <updated>2026-08-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here Mudassar Khan has explained a simple tutorial with an example, how to implement ASP.Net  AJAX HoverMenuExtender control of the ASP.Net Ajax Control Toolkit Library using C# and VB.Net.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.Net 4.8: ValidateRequest = 'false' not working in ASP.Net]]></title>
-        <id>https://aspsnippets.com/Articles/Net-48-ValidateRequest--false-not-working-in-ASPNet.aspx</id>
-        <link href="https://aspsnippets.com/Articles/Net-48-ValidateRequest--false-not-working-in-ASPNet.aspx"/>
-        <updated>2026-08-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will walk through a practical example to solve the problem of ValidateRequest = 'false' not working in .Net 4.8 in ASP.Net.]]></summary>
-        <author>
-            <name>ASPSnippets RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in .NET]]></title>
         <id>https://www.sahansera.dev/safe-repository-maintenance-agent-dotnet/</id>
         <link href="https://www.sahansera.dev/safe-repository-maintenance-agent-dotnet/"/>
@@ -171,6 +175,24 @@ ZoomIt for Mac: How AI Po…]]></summary>
         <summary type="html"><![CDATA[Creating background tasks in .NET applications is crucial to maintain responsiveness. While dedicated threads can be used, they incur significant overhead.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Support for C# 15 Union Types in ASP.NET Core]]></title>
+        <id>https://jaliyaudagedara.blogspot.com/2026/08/support-for-c-15-union-types-in-aspnet.html</id>
+        <link href="https://jaliyaudagedara.blogspot.com/2026/08/support-for-c-15-union-types-in-aspnet.html"/>
+        <updated>2026-08-09T04:28:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, let's have a look at how Union types in C# 15 flow
+    through an ASP.NET Core minimal API and how they are described in
+    OpenAPI. This is a follow up to my previous post
+    C# 15: Brand New Union Types, so I will reuse the same Shape union.
+  
+  
+  
+    Everything here runs on .NET 11 Preview 6 (latest as of today, it
+    will change) and the]]></summary>
+        <author>
+            <name>Jaliya's Blog</name>
         </author>
     </entry>
     <entry>
@@ -236,36 +258,6 @@ Announcing t…]]></summary>
         <summary type="html"><![CDATA[Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de]]></summary>
         <author>
             <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]]]></title>
-        <id>6a74fe284ef5707f2879423d</id>
-        <link href="https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/"/>
-        <updated>2026-08-06T21:35:36.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever built a web application or configured Spring Security, you've almost certainly encountered Cross-Site Request Forgery (CSRF). In my previous guide, How OAuth 2.0 Works: A Practical Guid]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures]]></title>
-        <id>6a74fbb23d5ed45ab0356528</id>
-        <link href="https://www.freecodecamp.org/news/why-2d-trapped-ion-quantum-computers-could-be-easier-to-scale-than-1d-architectures/"/>
-        <updated>2026-08-06T21:25:06.000Z</updated>
-        <summary type="html"><![CDATA[I still remember the first time I ran a Bell-state circuit on a quantum simulator. The code was only a few lines long, but it felt magical. Two qubits became entangled, and the simulator returned almo]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How an ECG on a Wrist Wearable Works and How It Compares to a Clinical Test]]></title>
-        <id>6a74c6e11a7e8d7040b2949f</id>
-        <link href="https://www.freecodecamp.org/news/how-smartwatch-ecg-works/"/>
-        <updated>2026-08-06T17:39:45.000Z</updated>
-        <summary type="html"><![CDATA[For decades, recording an electrocardiogram (ECG) meant visiting a hospital or clinic. The doctors would place multiple electrodes on your chest and limbs to capture your heart's electrical activity.]]></summary>
-        <author>
-            <name>Reetain Raina</name>
         </author>
     </entry>
     <entry>
@@ -895,49 +887,6 @@ Debuggin…]]></summary>
         <updated>2026-07-14T00:00:00.000Z</updated>
         <author>
             <name>Code with Dan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - July 13, 2026 (#4710)]]></title>
-        <id>https://alvinashcraft.com/2026/07/13/dew-drop-july-13-2026-4710/</id>
-        <link href="https://alvinashcraft.com/2026/07/13/dew-drop-july-13-2026-4710/"/>
-        <updated>2026-07-13T10:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Better tools made Copilot code review worse. Here's how we actually improved it. (Napalys Klicius)
-Betatalks, the Podcast Episode #134 - The Future of Software Development with AI Agents - with Burke Holland (Rick van den Bosch & Oscar van Tol)
-Marketplace Ingestion MCP…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing I/O Performance in .NET]]></title>
-        <id>https://dotnettips.com/?p=18412</id>
-        <link href="https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/"/>
-        <updated>2026-07-12T12:23:27.000Z</updated>
-        <summary type="html"><![CDATA[I/O operations impact application responsiveness, scalability, and costs. Enhancing file access, HTTP requests, and networking improves user experience while reducing resource consumption. This chapter discusses techniques to optimize I/O performance in .NET, utilizing benchmark results and profilers to identify bottlenecks and improve efficiency in near-production environments.]]></summary>
-        <author>
-            <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice]]></title>
-        <id>https://dotnettips.com/?p=18190</id>
-        <link href="https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/"/>
-        <updated>2026-07-12T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern .NET applications support three major HTTP versions: HTTP/1.1, HTTP/2, and HTTP/3, each with distinct characteristics. HTTP/3, utilizing QUIC over UDP, offers advantages like reduced latency and better performance on unstable networks.]]></summary>
-        <author>
-            <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Acknowledgment Gap - How Event-Driven Systems Lose Messages Without Errors]]></title>
-        <id>https://www.sahansera.dev/the-acknowledgment-gap/</id>
-        <link href="https://www.sahansera.dev/the-acknowledgment-gap/"/>
-        <updated>2026-07-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you have built event-driven systems for any length of time, you have probably internalized the mantra of at-least-once delivery : keep…]]></summary>
-        <author>
-            <name>sahansera.dev RSS Feed</name>
         </author>
     </entry>
 </feed>
