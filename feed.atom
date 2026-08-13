@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-12T02:28:26.854Z</updated>
+    <updated>2026-08-13T02:29:49.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scaling an Agentic Coding SDK: What Concurrency Actually Costs]]></title>
+        <id>https://www.sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/</id>
+        <link href="https://www.sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/"/>
+        <updated>2026-08-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I previously wrote about building an AI-assisted dependency vulnerability fixer . It used the GitHub Copilot SDK to start a…]]></summary>
+        <author>
+            <name>sahansera.dev RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution]]></title>
+        <id>6a7ce718716450a8062b0352</id>
+        <link href="https://www.freecodecamp.org/news/ai-paper-review-generative-modeling-by-estimating-gradients-of-the-data-distribution/"/>
+        <updated>2026-08-12T21:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Today, diffusion models have become one of the most influential families of generative AI systems. They power applications ranging from image synthesis and editing to video generation, scientific disc]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Agent with Per-User OAuth Access [Full Handbook]]]></title>
+        <id>6a7c95758a35a7792fd567c3</id>
+        <link href="https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/"/>
+        <updated>2026-08-12T15:47:01.000Z</updated>
+        <summary type="html"><![CDATA[When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl]]></summary>
+        <author>
+            <name>Saif Ali Shaik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Filter Studio with JavaScript]]></title>
+        <id>6a7c94929716b929062beeb1</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/"/>
+        <updated>2026-08-12T15:43:14.000Z</updated>
+        <summary type="html"><![CDATA[PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong]]></title>
+        <id>https://css-tricks.com/?p=396255</id>
+        <link href="https://css-tricks.com/blocked-aria-hidden-fix/"/>
+        <updated>2026-08-12T13:43:56.000Z</updated>
+        <summary type="html"><![CDATA[The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.
+Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - August 12, 2026 (#4731)]]></title>
+        <id>https://alvinashcraft.com/2026/08/12/dew-drop-august-12-2026-4731/</id>
+        <link href="https://alvinashcraft.com/2026/08/12/dew-drop-august-12-2026-4731/"/>
+        <updated>2026-08-12T10:34:30.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+.NET 11 Preview 7 is now available! (.NET Team)
+Agentic Skills Demystified (Sam Basu)
+MAI-Code-1-Flash Highlights Microsoft’s Lower-Cost Approach to Coding AI (Ali Farhat)
+Today I will… manage Git Submodules without leaving the IDE (Harshada Hole)
+Scott & Mark Learn To.…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32]]></title>
+        <id>https://dotnettips.com/?p=18660</id>
+        <link href="https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/"/>
+        <updated>2026-08-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Crockford Base32, created by Douglas Crockford, is a human-friendly encoding method designed to represent binary data clearly, minimizing character confusion. It excludes easily mistaken characters, offers case-insensitive decoding, and avoids padding. Available in Spargine's DotNetTips.Spargine.Core, it simplifies generating identifiers and codes for improved readability and communication.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features]]></title>
         <id>6a7b522a304c202420dfd496</id>
@@ -148,6 +224,66 @@ ZoomIt for Mac: How AI Po…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nested GridView Example in ASP.Net using C# and VB.Net]]></title>
+        <id>https://aspsnippets.com/Articles/Nested-GridView-Example-in-ASPNet-using-C-and-VBNet.aspx</id>
+        <link href="https://aspsnippets.com/Articles/Nested-GridView-Example-in-ASPNet-using-C-and-VBNet.aspx"/>
+        <updated>2026-08-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to build a Nested GridView i.e. GridView inside GridView in ASP.Net using C# and VB.Net.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASP.Net MVC DropDownListFor Default Value: Set Default Selected Value for DropDownList in ASP.Net MVC]]></title>
+        <id>https://aspsnippets.com/Articles/ASPNet-MVC-DropDownListFor-Default-Value-Set-Default-Selected-Value-for-DropDownList-in-ASPNet-MVC.aspx</id>
+        <link href="https://aspsnippets.com/Articles/ASPNet-MVC-DropDownListFor-Default-Value-Set-Default-Selected-Value-for-DropDownList-in-ASPNet-MVC.aspx"/>
+        <updated>2026-08-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to set Default Selected Value for DropDownList using the DropDownListFor Helper method in ASP.Net MVC Razor.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RegisterStartupScript: Call JavaScript function with parameters in ASP.Net]]></title>
+        <id>https://aspsnippets.com/Articles/RegisterStartupScript-Call-JavaScript-function-with-parameters-in-ASPNet.aspx</id>
+        <link href="https://aspsnippets.com/Articles/RegisterStartupScript-Call-JavaScript-function-with-parameters-in-ASPNet.aspx"/>
+        <updated>2026-08-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to call JavaScript function with parameters from Code-Behind using ClientScript.RegisterStartupScript method in ASP.Net using C# and VB.Net.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call JavaScript function from Code Behind on Button Click in ASP.Net using C# and VB.Net]]></title>
+        <id>https://aspsnippets.com/Articles/Call-JavaScript-function-from-Code-Behind-on-Button-Click-in-ASPNet-using-C-and-VBNet.aspx</id>
+        <link href="https://aspsnippets.com/Articles/Call-JavaScript-function-from-Code-Behind-on-Button-Click-in-ASPNet-using-C-and-VBNet.aspx"/>
+        <updated>2026-08-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained with an example, how to call JavaScript function from Code-Behind on Button Click in ASP.Net using C# and VB.Net.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ajax Control ToolKit HoverMenuExtender Tutorial with example in ASP.Net]]></title>
+        <id>https://aspsnippets.com/Articles/Ajax-Control-ToolKit-HoverMenuExtender-Tutorial-with-example-in-ASPNet.aspx</id>
+        <link href="https://aspsnippets.com/Articles/Ajax-Control-ToolKit-HoverMenuExtender-Tutorial-with-example-in-ASPNet.aspx"/>
+        <updated>2026-08-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here Mudassar Khan has explained a simple tutorial with an example, how to implement ASP.Net  AJAX HoverMenuExtender control of the ASP.Net Ajax Control Toolkit Library using C# and VB.Net.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.Net 4.8: ValidateRequest = 'false' not working in ASP.Net]]></title>
+        <id>https://aspsnippets.com/Articles/Net-48-ValidateRequest--false-not-working-in-ASPNet.aspx</id>
+        <link href="https://aspsnippets.com/Articles/Net-48-ValidateRequest--false-not-working-in-ASPNet.aspx"/>
+        <updated>2026-08-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will walk through a practical example to solve the problem of ValidateRequest = 'false' not working in .Net 4.8 in ASP.Net.]]></summary>
+        <author>
+            <name>ASPSnippets RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in .NET]]></title>
         <id>https://www.sahansera.dev/safe-repository-maintenance-agent-dotnet/</id>
         <link href="https://www.sahansera.dev/safe-repository-maintenance-agent-dotnet/"/>
@@ -196,16 +332,6 @@ ZoomIt for Mac: How AI Po…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Test AI Features in Flutter [Full Handbook]]]></title>
-        <id>6a76024b50cf2dad7c8ef8c3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/"/>
-        <updated>2026-08-07T16:05:31.000Z</updated>
-        <summary type="html"><![CDATA[You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
         <id>https://css-tricks.com/?p=394753</id>
         <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
@@ -238,26 +364,6 @@ Improving GPT-5.6 Sol in ChatGPT—and expanding access for free users (OpenAI T
 Announcing t…]]></summary>
         <author>
             <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Harden GitHub Actions Permissions with Least Privilege by Default]]></title>
-        <id>6a750fe5b844b68f80e06098</id>
-        <link href="https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/"/>
-        <updated>2026-08-06T22:51:17.000Z</updated>
-        <summary type="html"><![CDATA[When a workflow has more permissions than it needs, a simple build job can become a path to repository changes, token misuse, or a wider blast radius than the team intended. The problem is easy to mis]]></summary>
-        <author>
-            <name>ILYAS RUFAI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript]]></title>
-        <id>6a750800a316383dcb915436</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/"/>
-        <updated>2026-08-06T22:17:36.000Z</updated>
-        <summary type="html"><![CDATA[Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
@@ -864,20 +970,6 @@ Give an LLM more than one or two callable tools, and a flat tool list stops work
 What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - July 14, 2026 (#4711)]]></title>
-        <id>https://alvinashcraft.com/2026/07/14/dew-drop-july-14-2026-4711/</id>
-        <link href="https://alvinashcraft.com/2026/07/14/dew-drop-july-14-2026-4711/"/>
-        <updated>2026-07-14T11:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-The Visual Studio Dev/Test Benefit: Freedom to Build, Test, and Experiment in Azure (James Rempt)
-Goodbye ValueConverters, Hello C# Expressions in .NET MAUI (Leomaris Reyes)
-Build and Deploy Your First AI Agent with Microsoft Foundry Toolkit (Bethany Jepchumba)
-Debuggin…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
         </author>
     </entry>
     <entry>
