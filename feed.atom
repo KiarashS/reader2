@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-15T01:38:45.815Z</updated>
+    <updated>2026-08-16T01:45:57.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
@@ -77,7 +77,7 @@ Explore What’s New in SkiaSharp 4.0 (Sam Basu)
         <id>https://www.sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/</id>
         <link href="https://www.sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/"/>
         <updated>2026-08-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This startup command looked fine while our application had one replica: Shell Copy Then we scaled the Deployment to three pods. All three…]]></summary>
+        <summary type="html"><![CDATA[Three replicas raced the same Prisma migration. A PostgreSQL advisory lock coordinator fixes it when your platform cannot run a pre-deploy Job.]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
         </author>
@@ -183,7 +183,7 @@ https://]]></summary>
         <id>https://www.sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/</id>
         <link href="https://www.sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/"/>
         <updated>2026-08-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I previously wrote about building an AI-assisted dependency vulnerability fixer . It used the GitHub Copilot SDK to start a…]]></summary>
+        <summary type="html"><![CDATA[Running agent jobs in parallel is not free. Measuring the real memory, process and shared-state costs of concurrency in an agentic coding SDK.]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
         </author>
@@ -561,7 +561,7 @@ My MVP Story: Curiosity, Community, and Baked Beans - Jeremy …]]></summary>
         <id>https://www.sahansera.dev/what-i-learned-growing-engineering-blog-463000-pageviews/</id>
         <link href="https://www.sahansera.dev/what-i-learned-growing-engineering-blog-463000-pageviews/"/>
         <updated>2026-08-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I published the first posts on this blog in December 2019. There was no launch campaign, existing audience, or reliable stream of visitors…]]></summary>
+        <summary type="html"><![CDATA[Seven years, 56 posts and 463,000 pageviews. Which articles actually earned the traffic, what the numbers hide, and what I would do differently.]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
         </author>
@@ -582,7 +582,7 @@ I benchmarked both across native Windows API calls, string marshalling, handles,
         <id>https://www.sahansera.dev/replacing-critical-data-path-without-flag-day/</id>
         <link href="https://www.sahansera.dev/replacing-critical-data-path-without-flag-day/"/>
         <updated>2026-08-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Replacing an API call is easy. Replacing the source of truth behind an automated decision is not. I was reminded of this while migrating a…]]></summary>
+        <summary type="html"><![CDATA[Shadow reads, a normalized comparison and a staged cutover: how to replace a data path in production without a single big-bang release.]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
         </author>
@@ -826,7 +826,7 @@ Display Name is for H…]]></summary>
         <id>https://www.sahansera.dev/no-healthy-upstream/</id>
         <link href="https://www.sahansera.dev/no-healthy-upstream/"/>
         <updated>2026-07-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[no healthy upstream is the kind of error that makes you expect wreckage. Then you open the dashboards and find… almost nothing. CPU is low.…]]></summary>
+        <summary type="html"><![CDATA[An Envoy error pointed at the upstream. The real cause was retries turning dependency latency into worker pool exhaustion behind the proxy.]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
         </author>
@@ -977,27 +977,6 @@ The Stack Overflow Podcast - Developers who move fast still need to do it togeth
         <summary type="html"><![CDATA[The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Received Microsoft MVP Award in Developer Technologies]]></title>
-        <id>https://jaliyaudagedara.blogspot.com/2026/07/received-microsoft-mvp-award-in.html</id>
-        <link href="https://jaliyaudagedara.blogspot.com/2026/07/received-microsoft-mvp-award-in.html"/>
-        <updated>2026-07-16T00:55:27.383Z</updated>
-        <summary type="html"><![CDATA[I am humbled and honored once again to receive the precious Microsoft Most Valuable Professional (MVP) Award for the 13th consecutive year.As always looking forward to another great year on top of Microsoft Development Stack.Microsoft Most Valuable Professional (MVP)Thank you Microsoft for your appreciation and Thank you everyone for your continuous support.Happy Coding.Regards,Jaliya]]></summary>
-        <author>
-            <name>Jaliya's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pointer-events]]></title>
-        <id>http://css-tricks.com/?page_id=18170</id>
-        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
-        <updated>2026-07-15T19:57:51.000Z</updated>
-        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
-pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
         </author>
     </entry>
 </feed>

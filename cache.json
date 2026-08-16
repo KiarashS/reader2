@@ -115,16 +115,6 @@
           "wordCount": 4083,
           "title": "writing-mode",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
-        },
-        {
-          "id": "http://css-tricks.com/?page_id=18170",
-          "author": "Mojtaba Seyedi",
-          "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-          "publishedOn": "2026-07-15T19:57:51.000Z",
-          "wordCount": 6087,
-          "title": "pointer-events",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         }
       ]
     },
@@ -169,7 +159,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6292,
+          "wordCount": 6394,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -184,7 +174,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4754,
+          "wordCount": 4641,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -199,7 +189,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5033,
+          "wordCount": 5020,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -229,7 +219,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8187,
+          "wordCount": 8072,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -244,7 +234,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5078,
+          "wordCount": 5080,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -560,22 +550,22 @@
         {
           "id": "https://www.sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/",
           "author": null,
-          "description": "This startup command looked fine while our application had one replica: Shell Copy Then we scaled the Deployment to three pods. All three…",
+          "description": "Three replicas raced the same Prisma migration. A PostgreSQL advisory lock coordinator fixes it when your platform cannot run a pre-deploy Job.",
           "link": "https://www.sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/",
           "publishedOn": "2026-08-14T00:00:00.000Z",
-          "wordCount": 1946,
+          "wordCount": 2019,
           "title": "When Three Kubernetes Pods Try to Run One Database Migration",
-          "imageUrl": "https://www.sahansera.dev/_astro/when-three-kubernetes-pods-try-to-run-one-database-migration.C81n9xlL.jpg"
+          "imageUrl": "https://www.sahansera.dev/_astro/when-three-kubernetes-pods-try-to-run-one-database-migration.C81n9xlL_Z1c2qyY.jpg"
         },
         {
           "id": "https://www.sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/",
           "author": null,
-          "description": "I previously wrote about building an AI-assisted dependency vulnerability fixer . It used the GitHub Copilot SDK to start a…",
+          "description": "Running agent jobs in parallel is not free. Measuring the real memory, process and shared-state costs of concurrency in an agentic coding SDK.",
           "link": "https://www.sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/",
           "publishedOn": "2026-08-13T00:00:00.000Z",
-          "wordCount": 2215,
+          "wordCount": 2269,
           "title": "Scaling an Agentic Coding SDK: What Concurrency Actually Costs",
-          "imageUrl": "https://www.sahansera.dev/_astro/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs.Dj9I0WWw.png"
+          "imageUrl": "https://www.sahansera.dev/_astro/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs.Dj9I0WWw_crwP7.jpg"
         },
         {
           "id": "https://www.sahansera.dev/safe-repository-maintenance-agent-dotnet/",
@@ -583,9 +573,9 @@
           "description": "Giving an AI agent access to a repository takes only a few lines of code. Giving it useful access without silently approving every command…",
           "link": "https://www.sahansera.dev/safe-repository-maintenance-agent-dotnet/",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2326,
+          "wordCount": 2407,
           "title": "Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in .NET",
-          "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-dotnet.BfZGmc-O.jpg"
+          "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-dotnet.BfZGmc-O_Z2fCwfz.jpg"
         },
         {
           "id": "https://www.sahansera.dev/safe-repository-maintenance-agent-python/",
@@ -593,39 +583,39 @@
           "description": "In the .NET tutorial , we built a repository agent that could inspect a checkout, propose a one-line repair, run its tests, and report the…",
           "link": "https://www.sahansera.dev/safe-repository-maintenance-agent-python/",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2426,
+          "wordCount": 2513,
           "title": "Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in Python",
-          "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-python.DS0oPGvE.jpg"
+          "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-python.DS0oPGvE_Zea7EF.jpg"
         },
         {
           "id": "https://www.sahansera.dev/what-i-learned-growing-engineering-blog-463000-pageviews/",
           "author": null,
-          "description": "I published the first posts on this blog in December 2019. There was no launch campaign, existing audience, or reliable stream of visitors…",
+          "description": "Seven years, 56 posts and 463,000 pageviews. Which articles actually earned the traffic, what the numbers hide, and what I would do differently.",
           "link": "https://www.sahansera.dev/what-i-learned-growing-engineering-blog-463000-pageviews/",
           "publishedOn": "2026-08-03T00:00:00.000Z",
-          "wordCount": 2591,
+          "wordCount": 2655,
           "title": "What I Learned Growing an Engineering Blog from 0 to 463,000 Pageviews",
-          "imageUrl": "https://www.sahansera.dev/_astro/engineering-blog-463000-pageviews-cover.CV8fdX7y.jpg"
+          "imageUrl": "https://www.sahansera.dev/_astro/engineering-blog-463000-pageviews-cover.CV8fdX7y_QhwqV.jpg"
         },
         {
           "id": "https://www.sahansera.dev/replacing-critical-data-path-without-flag-day/",
           "author": null,
-          "description": "Replacing an API call is easy. Replacing the source of truth behind an automated decision is not. I was reminded of this while migrating a…",
+          "description": "Shadow reads, a normalized comparison and a staged cutover: how to replace a data path in production without a single big-bang release.",
           "link": "https://www.sahansera.dev/replacing-critical-data-path-without-flag-day/",
           "publishedOn": "2026-08-02T00:00:00.000Z",
-          "wordCount": 2797,
+          "wordCount": 2871,
           "title": "Replacing a Critical Data Path Without a Flag Day",
-          "imageUrl": "https://www.sahansera.dev/_astro/replacing-critical-data-path-without-flag-day.D9_E1SIs.jpg"
+          "imageUrl": "https://www.sahansera.dev/_astro/replacing-critical-data-path-without-flag-day.D9_E1SIs_ZRYi1x.jpg"
         },
         {
           "id": "https://www.sahansera.dev/no-healthy-upstream/",
           "author": null,
-          "description": "no healthy upstream is the kind of error that makes you expect wreckage. Then you open the dashboards and find… almost nothing. CPU is low.…",
+          "description": "An Envoy error pointed at the upstream. The real cause was retries turning dependency latency into worker pool exhaustion behind the proxy.",
           "link": "https://www.sahansera.dev/no-healthy-upstream/",
           "publishedOn": "2026-07-22T00:00:00.000Z",
-          "wordCount": 2784,
+          "wordCount": 2860,
           "title": "When \"no healthy upstream\" isn't about the upstream you think",
-          "imageUrl": "https://www.sahansera.dev/_astro/no-healthy-upstream.DgY4BGfE.jpg"
+          "imageUrl": "https://www.sahansera.dev/_astro/no-healthy-upstream.DgY4BGfE_2dT2X9.jpg"
         }
       ]
     },
@@ -901,7 +891,7 @@
           "description": "In this post, let's see how we can move .NET clients from consuming Azure AI Language and Azure AI Translator&nbsp;resource onto a single Azure AI Foundry resource.I had some .NET code using TextAnalyticsClient (Azure.AI.TextAnalytics) and TextTranslationClient (Azure.AI.Translation.Text). These were pointing to two different Azure AI resources.\n// API Kind: TextAnalytics\nhttps://",
           "link": "https://jaliyaudagedara.blogspot.com/2026/08/using-azure-ai-foundry-resource-for-net.html",
           "publishedOn": "2026-08-13T06:28:37.735Z",
-          "wordCount": null,
+          "wordCount": 4757,
           "title": "Using Azure AI Foundry resource for .NET Azure.AI.TextAnalytics and Azure.AI.Translation.Text Clients",
           "imageUrl": null
         },
@@ -911,9 +901,9 @@
           "description": "In this post, let's have a look at how Union types in C# 15 flow\n    through an ASP.NET Core minimal API and how they are described in\n    OpenAPI. This is a follow up to my previous post\n    C# 15: Brand New Union Types, so I will reuse the same Shape union.\n  \n  \n  \n    Everything here runs on .NET 11 Preview 6 (latest as of today, it\n    will change) and the",
           "link": "https://jaliyaudagedara.blogspot.com/2026/08/support-for-c-15-union-types-in-aspnet.html",
           "publishedOn": "2026-08-09T04:28:00.000Z",
-          "wordCount": null,
+          "wordCount": 4492,
           "title": "Support for C# 15 Union Types in ASP.NET Core",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh2ua4UpMvy-6KrrxNGGosYSDlbtb3piowesz7yiiNDYKvkP0aR-nKPHefWWHeHivDUEsinFJFhI9CqYVRhfXX4hNjneRUk6FaQeyv_zoXlsyDDOe6fHrzaxET0ZrE4-abdz9wjG3FoyYgTADOOujybgZ4trcU8YwPuTu_6nCA5occRTPAFwt0xgxdjZyo=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/07/c-15-brand-new-union-types.html",
@@ -921,7 +911,7 @@
           "description": "In this post, let's have a look at Union types in C# and a subtle\n      difference you will notice when you migrate from a closed class hierarchy\n      to a union.\n    \n    \n    \n      Some time ago I blogged about\n      C# 15.0: Closed Class Hierarchies. There we used the closed keyword to model a fixed set of\n      Shape types and let the compiler enforce exhaustive pattern",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/c-15-brand-new-union-types.html",
           "publishedOn": "2026-07-21T02:30:03.861Z",
-          "wordCount": null,
+          "wordCount": 4736,
           "title": "C# 15: Brand New Union Types",
           "imageUrl": null
         },
@@ -931,9 +921,9 @@
           "description": "In this post, let's have a look at how we can classify a document that\n    contains multiple document types, and route each part to a different\n    analyzer, using Azure AI Content Understanding and the .NET SDK.\n  \n\n  \n\n  \n    Say you receive a single PDF that contains an invoice, a bank statement and\n    a loan application, all combined together, something like this:",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/azure-content-understanding-classify.html",
           "publishedOn": "2026-07-19T08:57:00.000Z",
-          "wordCount": null,
+          "wordCount": 5413,
           "title": "Azure Content Understanding: Classify and Route to Different Analyzers",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiQmifA_b7Z4qKQb0z9Xg8J8AEdHx04ooPBDUF259IIzojp2b2fmz9H65fFqj5WSaWxCXy5sm36a-yzmtYBXsXPVmXwzWO0KiSCK2SxNZUIxKJuOS5Qb4KDx1cSZ00OXt0eCe-nuYPU9KdYQZ7z7AD4iHbpOmcJWY_JM0e8-r1pfeddgNjXZO2GenHE0iI=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html",
@@ -941,19 +931,9 @@
           "description": "In this post, let's have a look at asynchronous validation support for\n    Minimal APIs, which is going to be available in&nbsp;ASP.NET Core 11.0.\n  \n  \n  \n    Some time back, I blogged about\n    Validation Support for Minimal APIs\n    and\n    Custom Validation\n    in ASP.NET Core 10.0. This is a continuation of that, but this time the\n    validators run asynchronously.\n  \n  \n  \n    With",
           "link": "https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html",
           "publishedOn": "2026-07-17T09:13:26.048Z",
-          "wordCount": null,
+          "wordCount": 4583,
           "title": "ASP.NET Core 11.0: Async Validation in Minimal APIs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jaliyaudagedara.blogspot.com/2026/07/received-microsoft-mvp-award-in.html",
-          "author": null,
-          "description": "I am humbled and honored once again to receive the precious Microsoft Most Valuable Professional (MVP) Award for the 13th consecutive year.As always looking forward to another great year on top of Microsoft Development Stack.Microsoft Most Valuable Professional (MVP)Thank you Microsoft for your appreciation and Thank you everyone for your continuous support.Happy Coding.Regards,Jaliya",
-          "link": "https://jaliyaudagedara.blogspot.com/2026/07/received-microsoft-mvp-award-in.html",
-          "publishedOn": "2026-07-16T00:55:27.383Z",
-          "wordCount": null,
-          "title": "Received Microsoft MVP Award in Developer Technologies",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg_CdPcaP1CvU_7YdXMOaJF8G4vYoOh6KbkMz1mG2Fhe7ysFwFA1eDXiW1NsjAJZ8qr9tRZcP8MfbGeQK2-q3_GdlVrCBtjkiUl9NEUsfCcO5m-v9abKBfpF6IgNyEs1O-pl2WjnFymRosmBMBK-zJMMiswfmUrBVCZgpYWx8Z3h915WqaPrLjINyeU258=w1200-h630-p-k-no-nu"
         }
       ]
     },
