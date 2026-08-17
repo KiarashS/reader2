@@ -174,7 +174,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4641,
+          "wordCount": 4644,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -189,7 +189,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5020,
+          "wordCount": 5030,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -219,7 +219,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8072,
+          "wordCount": 8076,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -227,21 +227,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
-          "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
-          "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5080,
-          "title": "When It Makes Sense To “Block” The Main Thread",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg"
         }
       ]
     },
@@ -387,12 +372,22 @@
       "siteUrl": "https://dotnettips.com",
       "articles": [
         {
+          "id": "https://dotnettips.com/?p=18325",
+          "author": "David (dotNetDave) McCarter",
+          "description": "The post discusses two methods for initializing objects in C#: traditional property assignment and object initializers. While the traditional method is slightly faster, object initializers enhance code readability. It recommends using object initializers for maintainability, reserving traditional assignments for performance-critical scenarios where benchmarks indicate a significant advantage.",
+          "link": "https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/",
+          "publishedOn": "2026-08-16T06:00:00.000Z",
+          "wordCount": 4652,
+          "title": "General Performance: Object Initializers – Readability Versus Performance",
+          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-06_53_05-AM.png?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://dotnettips.com/?p=18660",
           "author": "David (dotNetDave) McCarter",
           "description": "Crockford Base32, created by Douglas Crockford, is a human-friendly encoding method designed to represent binary data clearly, minimizing character confusion. It excludes easily mistaken characters, offers case-insensitive decoding, and avoids padding. Available in Spargine's DotNetTips.Spargine.Core, it simplifies generating identifiers and codes for improved readability and communication.",
           "link": "https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/",
           "publishedOn": "2026-08-12T06:00:00.000Z",
-          "wordCount": 4880,
+          "wordCount": 4889,
           "title": "Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-6-2026-02_11_03-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -459,7 +454,7 @@
           "description": "Here Mudassar Khan has explained with an example, how to build a Nested GridView i.e. GridView inside GridView in ASP.Net using C# and VB.Net.",
           "link": "https://aspsnippets.com/Articles/Nested-GridView-Example-in-ASPNet-using-C-and-VBNet.aspx",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4631,
+          "wordCount": 4739,
           "title": "Nested GridView Example in ASP.Net using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/309.webp"
         },
@@ -469,7 +464,7 @@
           "description": "Here Mudassar Khan has explained with an example, how to set Default Selected Value for DropDownList using the DropDownListFor Helper method in ASP.Net MVC Razor.",
           "link": "https://aspsnippets.com/Articles/ASPNet-MVC-DropDownListFor-Default-Value-Set-Default-Selected-Value-for-DropDownList-in-ASPNet-MVC.aspx",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4465,
+          "wordCount": 4573,
           "title": "ASP.Net MVC DropDownListFor Default Value: Set Default Selected Value for DropDownList in ASP.Net MVC",
           "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/1682.webp"
         },
@@ -479,7 +474,7 @@
           "description": "Here Mudassar Khan has explained with an example, how to call JavaScript function with parameters from Code-Behind using ClientScript.RegisterStartupScript method in ASP.Net using C# and VB.Net.",
           "link": "https://aspsnippets.com/Articles/RegisterStartupScript-Call-JavaScript-function-with-parameters-in-ASPNet.aspx",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4307,
+          "wordCount": 4415,
           "title": "RegisterStartupScript: Call JavaScript function with parameters in ASP.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
@@ -489,7 +484,7 @@
           "description": "Here Mudassar Khan has explained with an example, how to call JavaScript function from Code-Behind on Button Click in ASP.Net using C# and VB.Net.",
           "link": "https://aspsnippets.com/Articles/Call-JavaScript-function-from-Code-Behind-on-Button-Click-in-ASPNet-using-C-and-VBNet.aspx",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4331,
+          "wordCount": 4439,
           "title": "Call JavaScript function from Code Behind on Button Click in ASP.Net using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/1971.webp"
         },
@@ -499,7 +494,7 @@
           "description": "Here Mudassar Khan has explained a simple tutorial with an example, how to implement ASP.Net  AJAX HoverMenuExtender control of the ASP.Net Ajax Control Toolkit Library using C# and VB.Net.",
           "link": "https://aspsnippets.com/Articles/Ajax-Control-ToolKit-HoverMenuExtender-Tutorial-with-example-in-ASPNet.aspx",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4666,
+          "wordCount": 4774,
           "title": "Ajax Control ToolKit HoverMenuExtender Tutorial with example in ASP.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/2023.webp"
         },
@@ -509,7 +504,7 @@
           "description": "In this tutorial, we will walk through a practical example to solve the problem of ValidateRequest = 'false' not working in .Net 4.8 in ASP.Net.",
           "link": "https://aspsnippets.com/Articles/Net-48-ValidateRequest--false-not-working-in-ASPNet.aspx",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4282,
+          "wordCount": 4390,
           "title": ".Net 4.8: ValidateRequest = 'false' not working in ASP.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/5752.webp"
         }
@@ -553,7 +548,7 @@
           "description": "Three replicas raced the same Prisma migration. A PostgreSQL advisory lock coordinator fixes it when your platform cannot run a pre-deploy Job.",
           "link": "https://www.sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/",
           "publishedOn": "2026-08-14T00:00:00.000Z",
-          "wordCount": 2019,
+          "wordCount": 2202,
           "title": "When Three Kubernetes Pods Try to Run One Database Migration",
           "imageUrl": "https://www.sahansera.dev/_astro/when-three-kubernetes-pods-try-to-run-one-database-migration.C81n9xlL_Z1c2qyY.jpg"
         },
@@ -563,7 +558,7 @@
           "description": "Running agent jobs in parallel is not free. Measuring the real memory, process and shared-state costs of concurrency in an agentic coding SDK.",
           "link": "https://www.sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/",
           "publishedOn": "2026-08-13T00:00:00.000Z",
-          "wordCount": 2269,
+          "wordCount": 2452,
           "title": "Scaling an Agentic Coding SDK: What Concurrency Actually Costs",
           "imageUrl": "https://www.sahansera.dev/_astro/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs.Dj9I0WWw_crwP7.jpg"
         },
@@ -573,7 +568,7 @@
           "description": "Giving an AI agent access to a repository takes only a few lines of code. Giving it useful access without silently approving every command…",
           "link": "https://www.sahansera.dev/safe-repository-maintenance-agent-dotnet/",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2407,
+          "wordCount": 2590,
           "title": "Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in .NET",
           "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-dotnet.BfZGmc-O_Z2fCwfz.jpg"
         },
@@ -583,7 +578,7 @@
           "description": "In the .NET tutorial , we built a repository agent that could inspect a checkout, propose a one-line repair, run its tests, and report the…",
           "link": "https://www.sahansera.dev/safe-repository-maintenance-agent-python/",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2513,
+          "wordCount": 2696,
           "title": "Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in Python",
           "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-python.DS0oPGvE_Zea7EF.jpg"
         },
@@ -593,7 +588,7 @@
           "description": "Seven years, 56 posts and 463,000 pageviews. Which articles actually earned the traffic, what the numbers hide, and what I would do differently.",
           "link": "https://www.sahansera.dev/what-i-learned-growing-engineering-blog-463000-pageviews/",
           "publishedOn": "2026-08-03T00:00:00.000Z",
-          "wordCount": 2655,
+          "wordCount": 2838,
           "title": "What I Learned Growing an Engineering Blog from 0 to 463,000 Pageviews",
           "imageUrl": "https://www.sahansera.dev/_astro/engineering-blog-463000-pageviews-cover.CV8fdX7y_QhwqV.jpg"
         },
@@ -603,7 +598,7 @@
           "description": "Shadow reads, a normalized comparison and a staged cutover: how to replace a data path in production without a single big-bang release.",
           "link": "https://www.sahansera.dev/replacing-critical-data-path-without-flag-day/",
           "publishedOn": "2026-08-02T00:00:00.000Z",
-          "wordCount": 2871,
+          "wordCount": 3053,
           "title": "Replacing a Critical Data Path Without a Flag Day",
           "imageUrl": "https://www.sahansera.dev/_astro/replacing-critical-data-path-without-flag-day.D9_E1SIs_ZRYi1x.jpg"
         },
@@ -613,7 +608,7 @@
           "description": "An Envoy error pointed at the upstream. The real cause was retries turning dependency latency into worker pool exhaustion behind the proxy.",
           "link": "https://www.sahansera.dev/no-healthy-upstream/",
           "publishedOn": "2026-07-22T00:00:00.000Z",
-          "wordCount": 2860,
+          "wordCount": 3042,
           "title": "When \"no healthy upstream\" isn't about the upstream you think",
           "imageUrl": "https://www.sahansera.dev/_astro/no-healthy-upstream.DgY4BGfE_2dT2X9.jpg"
         }
@@ -813,16 +808,6 @@
           "wordCount": 72,
           "title": "Dew Drop - July 20, 2026 (#4715)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/07/17/dew-drop-july-17-2026-4714/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nVisual Studio Administrator? Join our Private Marketplace Preview! (Ruben Rios)\nThe Stack Overflow Podcast - Developers who move fast still need to do it together​​​​‌‍​‍​‍‌‍‌​‍‌‍‍‌‌‍‌‌‍‍‌‌‍‍​‍​‍​‍‍​‍​‍‌​‌‍​‌‌‍‍‌‍‍‌‌‌​‌‍‌​‍‍‌‍‍‌‌‍​‍​‍​‍​​‍​‍‌‍‍​‌​‍‌‍‌‌‌‍‌‍​‍​‍​‍‍​‍​‍‌‍‍…",
-          "link": "https://alvinashcraft.com/2026/07/17/dew-drop-july-17-2026-4714/",
-          "publishedOn": "2026-07-17T10:40:03.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - July 17, 2026 (#4714)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -924,16 +909,6 @@
           "wordCount": 5413,
           "title": "Azure Content Understanding: Classify and Route to Different Analyzers",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiQmifA_b7Z4qKQb0z9Xg8J8AEdHx04ooPBDUF259IIzojp2b2fmz9H65fFqj5WSaWxCXy5sm36a-yzmtYBXsXPVmXwzWO0KiSCK2SxNZUIxKJuOS5Qb4KDx1cSZ00OXt0eCe-nuYPU9KdYQZ7z7AD4iHbpOmcJWY_JM0e8-r1pfeddgNjXZO2GenHE0iI=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html",
-          "author": null,
-          "description": "In this post, let's have a look at asynchronous validation support for\n    Minimal APIs, which is going to be available in&nbsp;ASP.NET Core 11.0.\n  \n  \n  \n    Some time back, I blogged about\n    Validation Support for Minimal APIs\n    and\n    Custom Validation\n    in ASP.NET Core 10.0. This is a continuation of that, but this time the\n    validators run asynchronously.\n  \n  \n  \n    With",
-          "link": "https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html",
-          "publishedOn": "2026-07-17T09:13:26.048Z",
-          "wordCount": 4583,
-          "title": "ASP.NET Core 11.0: Async Validation in Minimal APIs",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg_CdPcaP1CvU_7YdXMOaJF8G4vYoOh6KbkMz1mG2Fhe7ysFwFA1eDXiW1NsjAJZ8qr9tRZcP8MfbGeQK2-q3_GdlVrCBtjkiUl9NEUsfCcO5m-v9abKBfpF6IgNyEs1O-pl2WjnFymRosmBMBK-zJMMiswfmUrBVCZgpYWx8Z3h915WqaPrLjINyeU258=w1200-h630-p-k-no-nu"
         }
       ]
     },

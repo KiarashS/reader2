@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-16T01:45:57.596Z</updated>
+    <updated>2026-08-17T01:43:45.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[General Performance: Object Initializers – Readability Versus Performance]]></title>
+        <id>https://dotnettips.com/?p=18325</id>
+        <link href="https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/"/>
+        <updated>2026-08-16T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The post discusses two methods for initializing objects in C#: traditional property assignment and object initializers. While the traditional method is slightly faster, object initializers enhance code readability. It recommends using object initializers for maintainability, reserving traditional assignments for performance-critical scenarios where benchmarks indicate a significant advantage.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python]]></title>
         <id>6a7f44fc58366ecdaf016624</id>
@@ -931,52 +941,6 @@ Introducing LM St…]]></summary>
         <summary type="html"><![CDATA[Choosing between TCP and UDP is crucial for data transport. TCP ensures reliability and ordered delivery, making it ideal for critical applications, while UDP prioritizes speed and low latency, suited for real-time scenarios.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - July 17, 2026 (#4714)]]></title>
-        <id>https://alvinashcraft.com/2026/07/17/dew-drop-july-17-2026-4714/</id>
-        <link href="https://alvinashcraft.com/2026/07/17/dew-drop-july-17-2026-4714/"/>
-        <updated>2026-07-17T10:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Visual Studio Administrator? Join our Private Marketplace Preview! (Ruben Rios)
-The Stack Overflow Podcast - Developers who move fast still need to do it together​​​​‌‍​‍​‍‌‍‌​‍‌‍‍‌‌‍‌‌‍‍‌‌‍‍​‍​‍​‍‍​‍​‍‌​‌‍​‌‌‍‍‌‍‍‌‌‌​‌‍‌​‍‍‌‍‍‌‌‍​‍​‍​‍​​‍​‍‌‍‍​‌​‍‌‍‌‌‌‍‌‍​‍​‍​‍‍​‍​‍‌‍‍…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASP.NET Core 11.0: Async Validation in Minimal APIs]]></title>
-        <id>https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html</id>
-        <link href="https://jaliyaudagedara.blogspot.com/2026/07/aspnet-core-110-async-validation-in.html"/>
-        <updated>2026-07-17T09:13:26.048Z</updated>
-        <summary type="html"><![CDATA[In this post, let's have a look at asynchronous validation support for
-    Minimal APIs, which is going to be available in&nbsp;ASP.NET Core 11.0.
-  
-  
-  
-    Some time back, I blogged about
-    Validation Support for Minimal APIs
-    and
-    Custom Validation
-    in ASP.NET Core 10.0. This is a continuation of that, but this time the
-    validators run asynchronously.
-  
-  
-  
-    With]]></summary>
-        <author>
-            <name>Jaliya's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
-        <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
-        <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
-        <updated>2026-07-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
         </author>
     </entry>
 </feed>
