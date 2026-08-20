@@ -12,12 +12,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396428",
+          "author": "Geoff Graham",
+          "description": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\nCSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+          "publishedOn": "2026-08-19T14:44:41.000Z",
+          "wordCount": 3540,
+          "title": "CSS Navigation Matching, Early Days",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396623",
+          "author": "Geoff Graham",
+          "description": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.\nWordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/wordpress-student-plan/",
+          "publishedOn": "2026-08-19T08:50:00.000Z",
+          "wordCount": 2828,
+          "title": "WordPress.com Student Plan",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=396545",
           "author": "Geoff Graham",
           "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
           "publishedOn": "2026-08-17T14:15:50.000Z",
-          "wordCount": 3586,
+          "wordCount": 3652,
           "title": "Dark mode toggles: two states are enough",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
         },
@@ -27,7 +47,7 @@
           "description": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\nWhat’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/whats-important-17/",
           "publishedOn": "2026-08-14T14:01:51.000Z",
-          "wordCount": 3535,
+          "wordCount": 3544,
           "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
         },
@@ -169,7 +189,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6291,
+          "wordCount": 6283,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -184,7 +204,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4639,
+          "wordCount": 4644,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -199,7 +219,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5022,
+          "wordCount": 5033,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -229,7 +249,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8186,
+          "wordCount": 8073,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -245,6 +265,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a85bc8787783a8685665353",
+          "author": "Beau Carnes",
+          "description": "High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the",
+          "link": "https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/",
+          "publishedOn": "2026-08-19T14:24:07.000Z",
+          "wordCount": 1154,
+          "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e79ad075-fa06-4d0e-bc4a-ee1a8ecee9b1.jpg"
+        },
+        {
+          "id": "6a84d268fa401f6597cd200e",
+          "author": "Vineeth Pawar",
+          "description": "React is great at many things. But if you've ever tried pushing thousands of data points per second through it, you'll quickly learn that React isn't a firehose. It's more like a garden hose. Try forc",
+          "link": "https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas/",
+          "publishedOn": "2026-08-18T21:45:12.000Z",
+          "wordCount": 7312,
+          "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c3ffaae8-51d5-4add-9a9e-e49443e49746.png"
+        },
         {
           "id": "6a848de33638e739c70ebce3",
           "author": "Md. Fahim Bin Amin",
@@ -324,26 +364,6 @@
           "wordCount": 10127,
           "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f0e9a966-883b-463b-b560-09f3b4c57880.png"
-        },
-        {
-          "id": "6a7f3cb20046634bbe645e53",
-          "author": "Shradha Puri",
-          "description": "I can recall the time when I first put on the Oura Ring and checked my readiness score the next morning as if I were checking an exam score. I saw something like 62 and I really started to panic. Was",
-          "link": "https://www.freecodecamp.org/news/why-your-wearable-needs-weeks-of-data-before-it-becomes-useful/",
-          "publishedOn": "2026-08-14T16:05:06.000Z",
-          "wordCount": 2569,
-          "title": "Why Your Wearable Needs Weeks of Data Before It Becomes Useful",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c734589e-3fd6-4e8c-996d-743aa5be276e.png"
-        },
-        {
-          "id": "6a7f3af6a3acdf7f3110d046",
-          "author": "Bhavin Sheth",
-          "description": "Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g",
-          "link": "https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/",
-          "publishedOn": "2026-08-14T15:57:42.000Z",
-          "wordCount": 3402,
-          "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c167a675-fcdd-4f28-9489-e42c3fe98d9d.png"
         }
       ]
     },
@@ -352,6 +372,16 @@
       "feedUrl": "https://blog.peterritchie.com/feed.atom",
       "siteUrl": "http://blog.peterritchie.com/",
       "articles": [
+        {
+          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-august-17-2026",
+          "author": null,
+          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
+          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-august-17-2026",
+          "publishedOn": "2026-08-19T00:00:00.000Z",
+          "wordCount": 540,
+          "title": "Things That Caught My Attention Last Week - August 17",
+          "imageUrl": null
+        },
         {
           "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-august-10-2026",
           "author": null,
@@ -382,12 +412,22 @@
       "siteUrl": "https://dotnettips.com",
       "articles": [
         {
+          "id": "https://dotnettips.com/?p=18666",
+          "author": "David (dotNetDave) McCarter",
+          "description": "Spargine's SocketExtensions simplifies .NET socket programming by offering reusable extension methods that enhance control over networking tasks. It reduces boilerplate code related to port binding, buffer configuration, keep-alive settings, and timeouts. This package streamlines socket operations, making code cleaner and easier to maintain for various applications.",
+          "link": "https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/",
+          "publishedOn": "2026-08-19T06:00:00.000Z",
+          "wordCount": 5045,
+          "title": "Boost Your .NET Networking with Spargine: SocketExtensions That Röck",
+          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-7-2026-08_33_44-AM.png?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://dotnettips.com/?p=18325",
           "author": "David (dotNetDave) McCarter",
           "description": "The post discusses two methods for initializing objects in C#: traditional property assignment and object initializers. While the traditional method is slightly faster, object initializers enhance code readability. It recommends using object initializers for maintainability, reserving traditional assignments for performance-critical scenarios where benchmarks indicate a significant advantage.",
           "link": "https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/",
           "publishedOn": "2026-08-16T06:00:00.000Z",
-          "wordCount": 4828,
+          "wordCount": 4731,
           "title": "General Performance: Object Initializers – Readability Versus Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-06_53_05-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -397,7 +437,7 @@
           "description": "Crockford Base32, created by Douglas Crockford, is a human-friendly encoding method designed to represent binary data clearly, minimizing character confusion. It excludes easily mistaken characters, offers case-insensitive decoding, and avoids padding. Available in Spargine's DotNetTips.Spargine.Core, it simplifies generating identifiers and codes for improved readability and communication.",
           "link": "https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/",
           "publishedOn": "2026-08-12T06:00:00.000Z",
-          "wordCount": 4880,
+          "wordCount": 5061,
           "title": "Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-6-2026-02_11_03-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -407,7 +447,7 @@
           "description": "Creating background tasks in .NET applications is crucial to maintain responsiveness. While dedicated threads can be used, they incur significant overhead.",
           "link": "https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/",
           "publishedOn": "2026-08-09T06:00:00.000Z",
-          "wordCount": 3667,
+          "wordCount": 3966,
           "title": ".NET Threads: The Performance Trap Hiding in Your Code",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-22-2026-10_34_11-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -417,7 +457,7 @@
           "description": "Is [LibraryImport] always faster than [DllImport]? Not necessarily.\nI benchmarked both across native Windows API calls, string marshalling, handles, out parameters, and allocation-heavy scenarios. The results may surprise you.",
           "link": "https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/",
           "publishedOn": "2026-08-02T06:00:00.000Z",
-          "wordCount": 3514,
+          "wordCount": 3519,
           "title": "P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-21-2026-06_22_01-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -427,7 +467,7 @@
           "description": "The author critiques Buffer, a social media scheduling tool, after a transition from Twitter to Bluesky due to increased user friction. Key issues include inefficient scheduling interfaces, lack of character limit warnings during composition, and inadequate support for mentions and hashtags. The author expresses a need for improved user experience and considers alternative tools.",
           "link": "https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/",
           "publishedOn": "2026-07-29T06:00:00.000Z",
-          "wordCount": 6541,
+          "wordCount": 6546,
           "title": "UX Chronicles: Buffering the User Experience",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-28-2026-01_40_52-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -437,7 +477,7 @@
           "description": "HttpClientExtensions in the DotNetTips.Spargine.Extensions namespace streamline common HTTP operations for .NET developers. These extension methods simplify tasks such as sending requests, deserializing JSON, and managing streams, enhancing code readability and performance. They help minimize repetitive coding, making HTTP interactions more efficient and consistent across projects.",
           "link": "https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/",
           "publishedOn": "2026-07-26T06:00:00.000Z",
-          "wordCount": 5016,
+          "wordCount": 5021,
           "title": "Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-03_46_38-PM.png?fit=1200%2C800&ssl=1"
         }
@@ -548,9 +588,9 @@
           "description": "Three replicas raced the same Prisma migration. A PostgreSQL advisory lock coordinator fixes it when your platform cannot run a pre-deploy Job.",
           "link": "https://www.sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/",
           "publishedOn": "2026-08-14T00:00:00.000Z",
-          "wordCount": 2375,
+          "wordCount": null,
           "title": "When Three Kubernetes Pods Try to Run One Database Migration",
-          "imageUrl": "https://www.sahansera.dev/_astro/when-three-kubernetes-pods-try-to-run-one-database-migration.C81n9xlL_Z1c2qyY.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/",
@@ -558,7 +598,7 @@
           "description": "Running agent jobs in parallel is not free. Measuring the real memory, process and shared-state costs of concurrency in an agentic coding SDK.",
           "link": "https://www.sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/",
           "publishedOn": "2026-08-13T00:00:00.000Z",
-          "wordCount": 2495,
+          "wordCount": 2526,
           "title": "Scaling an Agentic Coding SDK: What Concurrency Actually Costs",
           "imageUrl": "https://www.sahansera.dev/_astro/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs.Dj9I0WWw_crwP7.jpg"
         },
@@ -568,7 +608,7 @@
           "description": "Giving an AI agent access to a repository takes only a few lines of code. Giving it useful access without silently approving every command…",
           "link": "https://www.sahansera.dev/safe-repository-maintenance-agent-dotnet/",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2633,
+          "wordCount": 2664,
           "title": "Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in .NET",
           "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-dotnet.BfZGmc-O_Z2fCwfz.jpg"
         },
@@ -578,7 +618,7 @@
           "description": "In the .NET tutorial , we built a repository agent that could inspect a checkout, propose a one-line repair, run its tests, and report the…",
           "link": "https://www.sahansera.dev/safe-repository-maintenance-agent-python/",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2739,
+          "wordCount": 2770,
           "title": "Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in Python",
           "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-python.DS0oPGvE_Zea7EF.jpg"
         },
@@ -588,7 +628,7 @@
           "description": "Seven years, 56 posts and 463,000 pageviews. Which articles actually earned the traffic, what the numbers hide, and what I would do differently.",
           "link": "https://www.sahansera.dev/what-i-learned-growing-engineering-blog-463000-pageviews/",
           "publishedOn": "2026-08-03T00:00:00.000Z",
-          "wordCount": 2881,
+          "wordCount": 2912,
           "title": "What I Learned Growing an Engineering Blog from 0 to 463,000 Pageviews",
           "imageUrl": "https://www.sahansera.dev/_astro/engineering-blog-463000-pageviews-cover.CV8fdX7y_QhwqV.jpg"
         },
@@ -598,7 +638,7 @@
           "description": "Shadow reads, a normalized comparison and a staged cutover: how to replace a data path in production without a single big-bang release.",
           "link": "https://www.sahansera.dev/replacing-critical-data-path-without-flag-day/",
           "publishedOn": "2026-08-02T00:00:00.000Z",
-          "wordCount": 3096,
+          "wordCount": 3127,
           "title": "Replacing a Critical Data Path Without a Flag Day",
           "imageUrl": "https://www.sahansera.dev/_astro/replacing-critical-data-path-without-flag-day.D9_E1SIs_ZRYi1x.jpg"
         },
@@ -608,7 +648,7 @@
           "description": "An Envoy error pointed at the upstream. The real cause was retries turning dependency latency into worker pool exhaustion behind the proxy.",
           "link": "https://www.sahansera.dev/no-healthy-upstream/",
           "publishedOn": "2026-07-22T00:00:00.000Z",
-          "wordCount": 3085,
+          "wordCount": 3116,
           "title": "When \"no healthy upstream\" isn't about the upstream you think",
           "imageUrl": "https://www.sahansera.dev/_astro/no-healthy-upstream.DgY4BGfE_2dT2X9.jpg"
         }
@@ -619,6 +659,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/08/19/dew-drop-august-19-2026-4736/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nAspire 13.5: Fresh pixels and better workflows (Maddy Montaquila)\nAnnouncing AppxManifest IntelliSense Support in the WinApp VS Code Extension (Chiara Mooney)\nWhat’s a PFN? (Howard Kapustein)\n.NET Developer Productivity with AI | On .NET (Sam Basu & Matt Soucoup)\nSpec-D…",
+          "link": "https://alvinashcraft.com/2026/08/19/dew-drop-august-19-2026-4736/",
+          "publishedOn": "2026-08-19T10:31:48.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - August 19, 2026 (#4736)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/08/18/dew-drop-august-18-2026-4735/",
           "author": "Alvin Ashcraft",
@@ -808,16 +858,6 @@
           "wordCount": 72,
           "title": "Dew Drop - July 22, 2026 (#4717)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/07/21/dew-drop-july-21-2026-4716/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nv7.7.0-preview.3 Release of PowerShell (jshigetomi)\nHeadless Agents (Rocky Lhotka)\nAnnouncing new Windows Insider builds for 20 July 2026 (Stephen Lines)\nT-SQL Hygiene: Introducing the Covering Index (Jerry Nixon)\n.NET MAUI v11.0.0-preview.6 Release Notes (kubaflo)\nReal…",
-          "link": "https://alvinashcraft.com/2026/07/21/dew-drop-july-21-2026-4716/",
-          "publishedOn": "2026-07-21T13:18:25.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - July 21, 2026 (#4716)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -844,12 +884,22 @@
       "siteUrl": "https://blog.maartenballiauw.be/",
       "articles": [
         {
+          "id": "https://blog.maartenballiauw.be/posts/2026-08-19-hosting-aspire-dashboard-standalone-in-azure-web-apps/",
+          "author": null,
+          "description": "Sometimes you just want a simple way to look at your traces, metrics, and logs without setting up a full observability stack. Just a UI where you can see what your applications are doing, without having to setup Azure Monitor, Grafana, Prometheus, Jaeger, etc. You don’t always need durability or complex infrastructure.",
+          "link": "https://blog.maartenballiauw.be/posts/2026-08-19-hosting-aspire-dashboard-standalone-in-azure-web-apps/",
+          "publishedOn": "2026-08-19T07:00:00.000Z",
+          "wordCount": 1530,
+          "title": "Hosting the .NET Aspire Dashboard as a Standalone Container in Azure Web Apps",
+          "imageUrl": "https://blog.maartenballiauw.be/posts/2026-08-19-hosting-aspire-dashboard-standalone-in-azure-web-apps/index.png"
+        },
+        {
           "id": "https://blog.maartenballiauw.be/posts/2026-08-11-keyed-services-named-registrations-in-dotnet-service-provider/",
           "author": null,
           "description": "You have an IMessageSender interface, with two implementations: EmailMessageSender and SmsMessageSender. You register both, and now the question is which one gets injected into your OrderConfirmationService constructor. The answer, unhelpfully, is whichever was registered last. This may also introduce subtle, unexpected bugs when new services are registered.",
           "link": "https://blog.maartenballiauw.be/posts/2026-08-11-keyed-services-named-registrations-in-dotnet-service-provider/",
           "publishedOn": "2026-08-11T07:00:00.000Z",
-          "wordCount": 1936,
+          "wordCount": 1951,
           "title": "Keyed Services (Named registrations) in .NET Service Provider",
           "imageUrl": "https://blog.maartenballiauw.be/posts/2026-08-11-keyed-services-named-registrations-in-dotnet-service-provider/index.png"
         },
