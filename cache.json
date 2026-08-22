@@ -199,7 +199,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5713,
+          "wordCount": 5714,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -239,7 +239,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6283,
+          "wordCount": 6290,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -254,7 +254,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4651,
+          "wordCount": 4647,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -269,7 +269,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5029,
+          "wordCount": 5024,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -301,6 +301,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a88b8d9225da88c02eee6f5",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Every system, at some point, ends up with a function that nobody wants to touch. It starts small: a simple validation check, an if statement here, another there. Then requirements grow and more condit",
+          "link": "https://www.freecodecamp.org/news/chain-of-responsibility-design-pattern-decoupling-complex-business-rules/",
+          "publishedOn": "2026-08-21T20:45:13.000Z",
+          "wordCount": 4351,
+          "title": "Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/779882b9-29ec-4337-b3ab-96ccf752638c.png"
+        },
+        {
+          "id": "6a888912ca3910a01e7c2f66",
+          "author": "Abdul Talha",
+          "description": "Odoo is an open-source enterprise resource planning (ERP) platform that helps businesses manage operations such as sales, customer relationship management (CRM), inventory, accounting, human resources",
+          "link": "https://www.freecodecamp.org/news/how-to-host-odoo/",
+          "publishedOn": "2026-08-21T17:21:22.000Z",
+          "wordCount": 2995,
+          "title": "How to Host Odoo: Self-Hosted vs Managed Hosting",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/30766bac-af3a-4c24-a544-75846002ce99.png"
+        },
+        {
+          "id": "6a888892029633fd14697876",
+          "author": "Hugo Teijiz",
+          "description": "The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with",
+          "link": "https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/",
+          "publishedOn": "2026-08-21T17:19:14.000Z",
+          "wordCount": 4383,
+          "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7d94c780-37eb-4bd6-a1e2-da6e25bdfdcb.png"
+        },
+        {
+          "id": "6a88812be09a3c3682f4fe95",
+          "author": "Ayobami Adejumo",
+          "description": "Here's something that most Kubernetes tutorials won't tell you: most engineers can run kubectl expose. Fewer than 10% understand what happens when they do. I've debugged Kubernetes networking issues a",
+          "link": "https://www.freecodecamp.org/news/kubernetes-networking-explained-from-clusterip-to-cilium-service-mesh/",
+          "publishedOn": "2026-08-21T16:47:39.000Z",
+          "wordCount": 4528,
+          "title": "Kubernetes Networking Explained: From ClusterIP to Cilium Service Mesh",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/425eabfd-bd40-4c0d-b6c3-4f1f7bd53caa.png"
+        },
+        {
+          "id": "6a887ddeb55a70d585eec152",
+          "author": "Reetain Raina",
+          "description": "A smartwatch can tell you that your heart rate is 78 beats per minute, that you've walked 6,421 steps, or that you slept for 7 hours last night. All of these numbers appear simple on the screen, but b",
+          "link": "https://www.freecodecamp.org/news/how-sensors-collect-process-and-track-data-in-wearables/",
+          "publishedOn": "2026-08-21T16:33:34.000Z",
+          "wordCount": 3045,
+          "title": "How Sensors Collect, Process, and Track Data in Wearable Devices",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e0ee25a6-436d-48d6-abca-9519b531707a.png"
+        },
+        {
+          "id": "6a887c9d3045236aefcb4a94",
+          "author": "Hamdaan Ali",
+          "description": "Some of the most dangerous native failures are produced by programs that appear to be working correctly. The cryptographic operation returns the right ciphertext. The parser rejects malformed input. T",
+          "link": "https://www.freecodecamp.org/news/the-sanitizers-handbook/",
+          "publishedOn": "2026-08-21T16:28:13.000Z",
+          "wordCount": 20051,
+          "title": "The Sanitizers Handbook: Memory, Initialization, and Races",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b4ab5b91-c6a8-488d-847e-7ca1e52e5db9.png"
+        },
+        {
+          "id": "6a887bfc3e750c6752406141",
+          "author": "Shradha Puri",
+          "description": "A few months ago I was sitting in a convention center about to deliver a keynote at an event, watching my Oura Ring throw up the same heart rate pattern it shows me when I’m at my Pilates class. Simil",
+          "link": "https://www.freecodecamp.org/news/how-wearables-confuse-different-emotions/",
+          "publishedOn": "2026-08-21T16:25:32.000Z",
+          "wordCount": 2273,
+          "title": "Why Two Emotions Can Produce the Exact Same Biometric Signal",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/415c689f-4087-4b79-b75c-cdc14b9950fc.png"
+        },
+        {
           "id": "6a8743695756ffe127b1cd35",
           "author": "Vahe Aslanyan",
           "description": "This book is a capability-led field guide to the architectures that make modern AI agents actually work. It includes code, failure modes, and illustrative composite case studies for every pattern. Abo",
@@ -329,76 +399,6 @@
           "wordCount": 4641,
           "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50037557-d27e-4f8c-bbb0-b9bc78582a5b.png"
-        },
-        {
-          "id": "6a870880307f2374f57c4a18",
-          "author": "Beau Carnes",
-          "description": "Building a basic AI demo with a single completion prompt and simple RAG pipeline is easy, but taking agentic systems into production requires robust system design, reliability engineering, and failure",
-          "link": "https://www.freecodecamp.org/news/learn-system-design-for-ai-agents-build-a-production-ready-multi-agent-pr-reviewer/",
-          "publishedOn": "2026-08-20T14:00:32.000Z",
-          "wordCount": 1137,
-          "title": "Learn System Design for AI Agents: Build a Production-Ready Multi-Agent PR Reviewer",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e6e59c65-63d6-4d50-b417-9896dcf0edb8.jpg"
-        },
-        {
-          "id": "6a86dfe3a8ecebd3a44ff2f0",
-          "author": "Beau Carnes",
-          "description": "Learning Data Structures and Algorithms (DSA) often feels like facing an challenging wall of complex jargon, syntax, and heavy mathematics. But don't worry because we just posted a course on the freeC",
-          "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-visually/",
-          "publishedOn": "2026-08-20T11:07:15.000Z",
-          "wordCount": 1144,
-          "title": "Learn Data Structures and Algorithms Visually",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6b20ee79-20b4-4665-b940-37f3d307835c.jpg"
-        },
-        {
-          "id": "6a85bc8787783a8685665353",
-          "author": "Beau Carnes",
-          "description": "High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the",
-          "link": "https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/",
-          "publishedOn": "2026-08-19T14:24:07.000Z",
-          "wordCount": 1154,
-          "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/31457501-744f-42b6-8528-c0c13e54f538.jpg"
-        },
-        {
-          "id": "6a84d268fa401f6597cd200e",
-          "author": "Vineeth Pawar",
-          "description": "React is great at many things. But if you've ever tried pushing thousands of data points per second through it, you'll quickly learn that React isn't a firehose. It's more like a garden hose. Try forc",
-          "link": "https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas/",
-          "publishedOn": "2026-08-18T21:45:12.000Z",
-          "wordCount": 7312,
-          "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c3ffaae8-51d5-4add-9a9e-e49443e49746.png"
-        },
-        {
-          "id": "6a848de33638e739c70ebce3",
-          "author": "Md. Fahim Bin Amin",
-          "description": "I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is",
-          "link": "https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/",
-          "publishedOn": "2026-08-18T16:52:51.000Z",
-          "wordCount": 2624,
-          "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58b79fa2-e0a0-4172-b07f-e3446413eca8.png"
-        },
-        {
-          "id": "6a84895dd197512208831afc",
-          "author": "Aiyedogbon Abraham",
-          "description": "A website can look polished, work perfectly with a mouse, and still be difficult for some people to use. A form might use colour as the only indication that something went wrong. A sticky header might",
-          "link": "https://www.freecodecamp.org/news/how-to-build-more-accessible-websites-with-wcag-2-2/",
-          "publishedOn": "2026-08-18T16:33:33.000Z",
-          "wordCount": 6528,
-          "title": "How to Build More Accessible Websites with WCAG 2.2",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5cb22632-e793-40cc-9ded-4b813430e708.png"
-        },
-        {
-          "id": "6a8482d8953b2a189a16bd2c",
-          "author": "Atuoha Anthony",
-          "description": "Earlier this year, I published Decoupling Material and Cupertino in Flutter, which covered what was then a preview feature: Flutter's plan to separate the Material and Cupertino design libraries from",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-material-and-cupertino-decoupling-in-flutter-full-handbook/",
-          "publishedOn": "2026-08-18T16:05:44.000Z",
-          "wordCount": 6936,
-          "title": "How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/341d236f-85ed-43be-871d-bf4b3647fa22.png"
         }
       ]
     },
@@ -462,7 +462,7 @@
           "description": "The post discusses two methods for initializing objects in C#: traditional property assignment and object initializers. While the traditional method is slightly faster, object initializers enhance code readability. It recommends using object initializers for maintainability, reserving traditional assignments for performance-critical scenarios where benchmarks indicate a significant advantage.",
           "link": "https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/",
           "publishedOn": "2026-08-16T06:00:00.000Z",
-          "wordCount": 4732,
+          "wordCount": 4772,
           "title": "General Performance: Object Initializers – Readability Versus Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-06_53_05-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -472,7 +472,7 @@
           "description": "Crockford Base32, created by Douglas Crockford, is a human-friendly encoding method designed to represent binary data clearly, minimizing character confusion. It excludes easily mistaken characters, offers case-insensitive decoding, and avoids padding. Available in Spargine's DotNetTips.Spargine.Core, it simplifies generating identifiers and codes for improved readability and communication.",
           "link": "https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/",
           "publishedOn": "2026-08-12T06:00:00.000Z",
-          "wordCount": 4891,
+          "wordCount": 4895,
           "title": "Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-6-2026-02_11_03-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -482,7 +482,7 @@
           "description": "Creating background tasks in .NET applications is crucial to maintain responsiveness. While dedicated threads can be used, they incur significant overhead.",
           "link": "https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/",
           "publishedOn": "2026-08-09T06:00:00.000Z",
-          "wordCount": 3669,
+          "wordCount": 3667,
           "title": ".NET Threads: The Performance Trap Hiding in Your Code",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-22-2026-10_34_11-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -492,7 +492,7 @@
           "description": "Is [LibraryImport] always faster than [DllImport]? Not necessarily.\nI benchmarked both across native Windows API calls, string marshalling, handles, out parameters, and allocation-heavy scenarios. The results may surprise you.",
           "link": "https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/",
           "publishedOn": "2026-08-02T06:00:00.000Z",
-          "wordCount": 3516,
+          "wordCount": 3520,
           "title": "P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-21-2026-06_22_01-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -502,7 +502,7 @@
           "description": "The author critiques Buffer, a social media scheduling tool, after a transition from Twitter to Bluesky due to increased user friction. Key issues include inefficient scheduling interfaces, lack of character limit warnings during composition, and inadequate support for mentions and hashtags. The author expresses a need for improved user experience and considers alternative tools.",
           "link": "https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/",
           "publishedOn": "2026-07-29T06:00:00.000Z",
-          "wordCount": 6543,
+          "wordCount": 6541,
           "title": "UX Chronicles: Buffering the User Experience",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-28-2026-01_40_52-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -512,7 +512,7 @@
           "description": "HttpClientExtensions in the DotNetTips.Spargine.Extensions namespace streamline common HTTP operations for .NET developers. These extension methods simplify tasks such as sending requests, deserializing JSON, and managing streams, enhancing code readability and performance. They help minimize repetitive coding, making HTTP interactions more efficient and consistent across projects.",
           "link": "https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/",
           "publishedOn": "2026-07-26T06:00:00.000Z",
-          "wordCount": 5018,
+          "wordCount": 5022,
           "title": "Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-03_46_38-PM.png?fit=1200%2C800&ssl=1"
         }
@@ -529,7 +529,7 @@
           "description": "Here Mudassar Khan has explained with an example, how to build a Nested GridView i.e. GridView inside GridView in ASP.Net using C# and VB.Net.",
           "link": "https://aspsnippets.com/Articles/Nested-GridView-Example-in-ASPNet-using-C-and-VBNet.aspx",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4739,
+          "wordCount": 4496,
           "title": "Nested GridView Example in ASP.Net using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/309.webp"
         },
@@ -539,7 +539,7 @@
           "description": "Here Mudassar Khan has explained with an example, how to set Default Selected Value for DropDownList using the DropDownListFor Helper method in ASP.Net MVC Razor.",
           "link": "https://aspsnippets.com/Articles/ASPNet-MVC-DropDownListFor-Default-Value-Set-Default-Selected-Value-for-DropDownList-in-ASPNet-MVC.aspx",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4573,
+          "wordCount": 4330,
           "title": "ASP.Net MVC DropDownListFor Default Value: Set Default Selected Value for DropDownList in ASP.Net MVC",
           "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/1682.webp"
         },
@@ -549,7 +549,7 @@
           "description": "Here Mudassar Khan has explained with an example, how to call JavaScript function with parameters from Code-Behind using ClientScript.RegisterStartupScript method in ASP.Net using C# and VB.Net.",
           "link": "https://aspsnippets.com/Articles/RegisterStartupScript-Call-JavaScript-function-with-parameters-in-ASPNet.aspx",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4415,
+          "wordCount": 4172,
           "title": "RegisterStartupScript: Call JavaScript function with parameters in ASP.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/img/lotus45.png"
         },
@@ -559,7 +559,7 @@
           "description": "Here Mudassar Khan has explained with an example, how to call JavaScript function from Code-Behind on Button Click in ASP.Net using C# and VB.Net.",
           "link": "https://aspsnippets.com/Articles/Call-JavaScript-function-from-Code-Behind-on-Button-Click-in-ASPNet-using-C-and-VBNet.aspx",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4439,
+          "wordCount": 4196,
           "title": "Call JavaScript function from Code Behind on Button Click in ASP.Net using C# and VB.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/1971.webp"
         },
@@ -569,7 +569,7 @@
           "description": "Here Mudassar Khan has explained a simple tutorial with an example, how to implement ASP.Net  AJAX HoverMenuExtender control of the ASP.Net Ajax Control Toolkit Library using C# and VB.Net.",
           "link": "https://aspsnippets.com/Articles/Ajax-Control-ToolKit-HoverMenuExtender-Tutorial-with-example-in-ASPNet.aspx",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4774,
+          "wordCount": 4531,
           "title": "Ajax Control ToolKit HoverMenuExtender Tutorial with example in ASP.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/2023.webp"
         },
@@ -579,7 +579,7 @@
           "description": "In this tutorial, we will walk through a practical example to solve the problem of ValidateRequest = 'false' not working in .Net 4.8 in ASP.Net.",
           "link": "https://aspsnippets.com/Articles/Net-48-ValidateRequest--false-not-working-in-ASPNet.aspx",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 4390,
+          "wordCount": 4147,
           "title": ".Net 4.8: ValidateRequest = 'false' not working in ASP.Net",
           "imageUrl": "https://www.aspsnippets.com/assets/Thumbnails/5752.webp"
         }
@@ -623,9 +623,9 @@
           "description": "A production-only SVG failure exposed a hidden Sharp dependency, a broken fallback, and why I replaced the rasteriser with resvg WASM.",
           "link": "https://www.sahansera.dev/replacing-sharp-with-wasm-hidden-svg-dependency/",
           "publishedOn": "2026-08-20T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3371,
           "title": "Replacing Sharp with WASM: How a Hidden SVG Dependency Broke Our Rendering Pipeline",
-          "imageUrl": null
+          "imageUrl": "https://www.sahansera.dev/_astro/replacing-sharp-with-wasm-hidden-svg-dependency.DdUtoCtj_Z2nI3GW.jpg"
         },
         {
           "id": "https://www.sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/",
@@ -686,16 +686,6 @@
           "wordCount": 3152,
           "title": "Replacing a Critical Data Path Without a Flag Day",
           "imageUrl": "https://www.sahansera.dev/_astro/replacing-critical-data-path-without-flag-day.D9_E1SIs_ZRYi1x.jpg"
-        },
-        {
-          "id": "https://www.sahansera.dev/no-healthy-upstream/",
-          "author": null,
-          "description": "An Envoy error pointed at the upstream. The real cause was retries turning dependency latency into worker pool exhaustion behind the proxy.",
-          "link": "https://www.sahansera.dev/no-healthy-upstream/",
-          "publishedOn": "2026-07-22T00:00:00.000Z",
-          "wordCount": 3128,
-          "title": "When \"no healthy upstream\" isn't about the upstream you think",
-          "imageUrl": "https://www.sahansera.dev/_astro/no-healthy-upstream.DgY4BGfE_2dT2X9.jpg"
         }
       ]
     },
@@ -704,6 +694,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nWPF Hot Reload in Rider | JetBrains (Michael Hawker)\nGitHub: The August 17 outage, and the work ahead (Vlad Fedorov)\nterminal-code - VS Code Inside Your Terminal (Rob Pruzan) - Source on GitHub here\nThe Hanselminutes Podcast - Compile after Class Crossover Episode (Scot…",
+          "link": "https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/",
+          "publishedOn": "2026-08-21T10:37:28.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - August 21, 2026 (#4738)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/",
           "author": "Alvin Ashcraft",
@@ -893,16 +893,6 @@
           "wordCount": 72,
           "title": "Dew Drop - July 24, 2026 (#4719)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/07/23/dew-drop-july-23-2026-4718/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nCopilot vs. raw API access: What are you actually paying for? (Andrea Griffiths)\nVisual Studio Code 1.131 (Insiders) (Visual Studio Code Team)\nBuilding Agents that Act on Your Behalf with Toolboxes in Foundry (Linda Li & Maria Naggaga)\n.NET Rocks! - Commercial Open Sour…",
-          "link": "https://alvinashcraft.com/2026/07/23/dew-drop-july-23-2026-4718/",
-          "publishedOn": "2026-07-23T12:13:04.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - July 23, 2026 (#4718)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -957,16 +947,6 @@
           "wordCount": 2059,
           "title": "So, I wrote a fiction book. Meet \"The Side Project\".",
           "imageUrl": "https://blog.maartenballiauw.be/posts/2026-07-31-so-i-wrote-a-fiction-book-meet-the-side-project/index.png"
-        },
-        {
-          "id": "https://blog.maartenballiauw.be/posts/2026-07-22-timeprovider-and-the-end-of-untestable-datetime-now/",
-          "author": null,
-          "description": "DateTime.Now is one of those calls that looks harmless until you try to write a test around it. It’s a static property that reads the system clock, and there’s no way to control what it returns without wrapping it in something injectable. I have wrapped it in codebases, and others have too. Unfortunately, everyone wrapped it their way. Since .NET 8, we can all stop reinventing the same abstraction and use TimeProvider instead.",
-          "link": "https://blog.maartenballiauw.be/posts/2026-07-22-timeprovider-and-the-end-of-untestable-datetime-now/",
-          "publishedOn": "2026-07-22T03:44:05.000Z",
-          "wordCount": 2050,
-          "title": "TimeProvider and the End of Untestable DateTime.Now",
-          "imageUrl": "https://blog.maartenballiauw.be/posts/2026-07-22-timeprovider-and-the-end-of-untestable-datetime-now/index.png"
         }
       ]
     },
@@ -1126,7 +1106,7 @@
           "description": "Back in December I introduced the MLX Integration Library for Agent Framework, a small library that lets you plug local MLX models into Agent Framework applications as a regular chat client, sitting right next to your cloud-backed agents. Agent Framework has been moving quickly since then, and rather than letting the library drift behind, I spent some time catching up and, in the process, added one of the features people kept asking me about: tool calling.",
           "link": "https://www.strathweb.com/2026/07/agent-framework-mlx-tool-calling-and-more/",
           "publishedOn": "2026-07-30T08:00:00.000Z",
-          "wordCount": 1586,
+          "wordCount": 1583,
           "title": "What's new in agent-framework-mlx: Tool Calling, Agent Framework 1.12.1 and more",
           "imageUrl": null
         }
