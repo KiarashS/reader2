@@ -159,7 +159,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5709,
+          "wordCount": 5715,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -199,7 +199,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6293,
+          "wordCount": 6401,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -214,7 +214,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4646,
+          "wordCount": 4639,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -229,7 +229,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5027,
+          "wordCount": 5034,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -407,12 +407,22 @@
       "siteUrl": "https://dotnettips.com",
       "articles": [
         {
+          "id": "https://dotnettips.com/?p=18333",
+          "author": "David (dotNetDave) McCarter",
+          "description": "To sort a List efficiently, use CollectionsMarshal.AsSpan() to access its internal storage, then apply the Sort() function.",
+          "link": "https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/",
+          "publishedOn": "2026-08-23T06:00:00.000Z",
+          "wordCount": 3696,
+          "title": "Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan()",
+          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-12_27_32-PM.png?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://dotnettips.com/?p=18666",
           "author": "David (dotNetDave) McCarter",
           "description": "Spargine's SocketExtensions simplifies .NET socket programming by offering reusable extension methods that enhance control over networking tasks. It reduces boilerplate code related to port binding, buffer configuration, keep-alive settings, and timeouts. This package streamlines socket operations, making code cleaner and easier to maintain for various applications.",
           "link": "https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/",
           "publishedOn": "2026-08-19T06:00:00.000Z",
-          "wordCount": 5045,
+          "wordCount": 5049,
           "title": "Boost Your .NET Networking with Spargine: SocketExtensions That Röck",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-7-2026-08_33_44-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -422,7 +432,7 @@
           "description": "The post discusses two methods for initializing objects in C#: traditional property assignment and object initializers. While the traditional method is slightly faster, object initializers enhance code readability. It recommends using object initializers for maintainability, reserving traditional assignments for performance-critical scenarios where benchmarks indicate a significant advantage.",
           "link": "https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/",
           "publishedOn": "2026-08-16T06:00:00.000Z",
-          "wordCount": 4772,
+          "wordCount": 4906,
           "title": "General Performance: Object Initializers – Readability Versus Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-06_53_05-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -432,7 +442,7 @@
           "description": "Crockford Base32, created by Douglas Crockford, is a human-friendly encoding method designed to represent binary data clearly, minimizing character confusion. It excludes easily mistaken characters, offers case-insensitive decoding, and avoids padding. Available in Spargine's DotNetTips.Spargine.Core, it simplifies generating identifiers and codes for improved readability and communication.",
           "link": "https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/",
           "publishedOn": "2026-08-12T06:00:00.000Z",
-          "wordCount": 4880,
+          "wordCount": 4894,
           "title": "Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-6-2026-02_11_03-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -442,7 +452,7 @@
           "description": "Creating background tasks in .NET applications is crucial to maintain responsiveness. While dedicated threads can be used, they incur significant overhead.",
           "link": "https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/",
           "publishedOn": "2026-08-09T06:00:00.000Z",
-          "wordCount": 3713,
+          "wordCount": 3672,
           "title": ".NET Threads: The Performance Trap Hiding in Your Code",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-22-2026-10_34_11-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -452,7 +462,7 @@
           "description": "Is [LibraryImport] always faster than [DllImport]? Not necessarily.\nI benchmarked both across native Windows API calls, string marshalling, handles, out parameters, and allocation-heavy scenarios. The results may surprise you.",
           "link": "https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/",
           "publishedOn": "2026-08-02T06:00:00.000Z",
-          "wordCount": 3514,
+          "wordCount": 3519,
           "title": "P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-21-2026-06_22_01-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -462,7 +472,7 @@
           "description": "The author critiques Buffer, a social media scheduling tool, after a transition from Twitter to Bluesky due to increased user friction. Key issues include inefficient scheduling interfaces, lack of character limit warnings during composition, and inadequate support for mentions and hashtags. The author expresses a need for improved user experience and considers alternative tools.",
           "link": "https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/",
           "publishedOn": "2026-07-29T06:00:00.000Z",
-          "wordCount": 6587,
+          "wordCount": 6546,
           "title": "UX Chronicles: Buffering the User Experience",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-28-2026-01_40_52-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -472,7 +482,7 @@
           "description": "HttpClientExtensions in the DotNetTips.Spargine.Extensions namespace streamline common HTTP operations for .NET developers. These extension methods simplify tasks such as sending requests, deserializing JSON, and managing streams, enhancing code readability and performance. They help minimize repetitive coding, making HTTP interactions more efficient and consistent across projects.",
           "link": "https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/",
           "publishedOn": "2026-07-26T06:00:00.000Z",
-          "wordCount": 5016,
+          "wordCount": 5021,
           "title": "Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-03_46_38-PM.png?fit=1200%2C800&ssl=1"
         }
@@ -583,7 +593,7 @@
           "description": "A production-only SVG failure exposed a hidden Sharp dependency, a broken fallback, and why I replaced the rasteriser with resvg WASM.",
           "link": "https://www.sahansera.dev/replacing-sharp-with-wasm-hidden-svg-dependency/",
           "publishedOn": "2026-08-20T00:00:00.000Z",
-          "wordCount": 3371,
+          "wordCount": 3413,
           "title": "Replacing Sharp with WASM: How a Hidden SVG Dependency Broke Our Rendering Pipeline",
           "imageUrl": "https://www.sahansera.dev/_astro/replacing-sharp-with-wasm-hidden-svg-dependency.DdUtoCtj_Z2nI3GW.jpg"
         },
@@ -593,7 +603,7 @@
           "description": "Three replicas raced the same Prisma migration. A PostgreSQL advisory lock coordinator fixes it when your platform cannot run a pre-deploy Job.",
           "link": "https://www.sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/",
           "publishedOn": "2026-08-14T00:00:00.000Z",
-          "wordCount": 2419,
+          "wordCount": 2463,
           "title": "When Three Kubernetes Pods Try to Run One Database Migration",
           "imageUrl": "https://www.sahansera.dev/_astro/when-three-kubernetes-pods-try-to-run-one-database-migration.C81n9xlL_Z1c2qyY.jpg"
         },
@@ -603,7 +613,7 @@
           "description": "Running agent jobs in parallel is not free. Measuring the real memory, process and shared-state costs of concurrency in an agentic coding SDK.",
           "link": "https://www.sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/",
           "publishedOn": "2026-08-13T00:00:00.000Z",
-          "wordCount": 2526,
+          "wordCount": 2570,
           "title": "Scaling an Agentic Coding SDK: What Concurrency Actually Costs",
           "imageUrl": "https://www.sahansera.dev/_astro/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs.Dj9I0WWw_crwP7.jpg"
         },
@@ -613,7 +623,7 @@
           "description": "Giving an AI agent access to a repository takes only a few lines of code. Giving it useful access without silently approving every command…",
           "link": "https://www.sahansera.dev/safe-repository-maintenance-agent-dotnet/",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2664,
+          "wordCount": 2708,
           "title": "Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in .NET",
           "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-dotnet.BfZGmc-O_Z2fCwfz.jpg"
         },
@@ -623,7 +633,7 @@
           "description": "In the .NET tutorial , we built a repository agent that could inspect a checkout, propose a one-line repair, run its tests, and report the…",
           "link": "https://www.sahansera.dev/safe-repository-maintenance-agent-python/",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2770,
+          "wordCount": 2814,
           "title": "Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in Python",
           "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-python.DS0oPGvE_Zea7EF.jpg"
         },
@@ -633,7 +643,7 @@
           "description": "Seven years, 56 posts and 463,000 pageviews. Which articles actually earned the traffic, what the numbers hide, and what I would do differently.",
           "link": "https://www.sahansera.dev/what-i-learned-growing-engineering-blog-463000-pageviews/",
           "publishedOn": "2026-08-03T00:00:00.000Z",
-          "wordCount": 2912,
+          "wordCount": 2956,
           "title": "What I Learned Growing an Engineering Blog from 0 to 463,000 Pageviews",
           "imageUrl": "https://www.sahansera.dev/_astro/engineering-blog-463000-pageviews-cover.CV8fdX7y_QhwqV.jpg"
         },
@@ -643,7 +653,7 @@
           "description": "Shadow reads, a normalized comparison and a staged cutover: how to replace a data path in production without a single big-bang release.",
           "link": "https://www.sahansera.dev/replacing-critical-data-path-without-flag-day/",
           "publishedOn": "2026-08-02T00:00:00.000Z",
-          "wordCount": 3152,
+          "wordCount": 3196,
           "title": "Replacing a Critical Data Path Without a Flag Day",
           "imageUrl": "https://www.sahansera.dev/_astro/replacing-critical-data-path-without-flag-day.D9_E1SIs_ZRYi1x.jpg"
         }
@@ -843,16 +853,6 @@
           "wordCount": 72,
           "title": "Dew Drop - July 28, 2026 (#4720)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/07/24/dew-drop-july-24-2026-4719/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nNative Agent Memory for Microsoft Agent Framework, Powered by Azure Cosmos DB (Theo van Kraay)\nIntroducing MAI-Image-2.5 Pro and MAI-Voice-2 Flash in Microsoft Foundry (Naomi Moneypenny)\nMove Agent Orchestration/Workflows out of Code with Agent Framework Declarative Wor…",
-          "link": "https://alvinashcraft.com/2026/07/24/dew-drop-july-24-2026-4719/",
-          "publishedOn": "2026-07-24T12:31:53.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - July 24, 2026 (#4719)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -916,12 +916,22 @@
       "siteUrl": "https://jaliyaudagedara.blogspot.com/",
       "articles": [
         {
+          "id": "https://jaliyaudagedara.blogspot.com/2026/08/azure-devops-copy-azure-container.html",
+          "author": null,
+          "description": "Consider a scenario where an App Service running in an external tenant needs\n    to pull an image from our own ACR. The lazy way is to share our ACR\n    credentials (username/password) with the external party, so they can set\n    DOCKER_REGISTRY_SERVER_USERNAME and\n    DOCKER_REGISTRY_SERVER_PASSWORD.\n  \n  \n  \n    But obviously that's not something we should be doing. We can't be handing",
+          "link": "https://jaliyaudagedara.blogspot.com/2026/08/azure-devops-copy-azure-container.html",
+          "publishedOn": "2026-08-23T09:34:11.715Z",
+          "wordCount": 5298,
+          "title": "Azure DevOps: Copy Azure Container Registry (ACR) Images to an External Tenant's ACR",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjsWskFO-TwUXIHLRmOawoROyOSeggDbA0pbHYBCaEok0ycZbB6QzP74AkEz5hnP5IC5T8T0niCqc9U4l1gvbFC5P-iIeSaesuATx6fnXC6Zd3rbFF4GkOJAlz5JqZJBpd51GHwWeoxrsO9Kvgnx2_uPyaLrLD4lVY8mlI7fQItHCNt9QZ0uVEfMqcWBOc=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://jaliyaudagedara.blogspot.com/2026/08/use-of-azuretokencredentials-in.html",
           "author": null,
           "description": "In this post, let's have a look at the\n    AZURE_TOKEN_CREDENTIALS environment variable in\n    Azure.Identity. I only came across it recently, and it has removed something that used to annoy me every single day.\n  \n\n  \n\n  \n    We all know why we should be authenticating to Azure services with Microsoft\n    Entra ID rather than with keys, connection strings or passwords.&nbsp;",
           "link": "https://jaliyaudagedara.blogspot.com/2026/08/use-of-azuretokencredentials-in.html",
           "publishedOn": "2026-08-20T11:11:30.025Z",
-          "wordCount": 4772,
+          "wordCount": null,
           "title": "Use of AZURE_TOKEN_CREDENTIALS in Azure.Identity",
           "imageUrl": null
         },
@@ -931,7 +941,7 @@
           "description": "In this post, let's see how we can move .NET clients from consuming Azure AI Language and Azure AI Translator&nbsp;resource onto a single Azure AI Foundry resource.I had some .NET code using TextAnalyticsClient (Azure.AI.TextAnalytics) and TextTranslationClient (Azure.AI.Translation.Text). These were pointing to two different Azure AI resources.\n// API Kind: TextAnalytics\nhttps://",
           "link": "https://jaliyaudagedara.blogspot.com/2026/08/using-azure-ai-foundry-resource-for-net.html",
           "publishedOn": "2026-08-13T06:28:37.735Z",
-          "wordCount": 4764,
+          "wordCount": null,
           "title": "Using Azure AI Foundry resource for .NET Azure.AI.TextAnalytics and Azure.AI.Translation.Text Clients",
           "imageUrl": null
         },
@@ -941,9 +951,9 @@
           "description": "In this post, let's have a look at how Union types in C# 15 flow\n    through an ASP.NET Core minimal API and how they are described in\n    OpenAPI. This is a follow up to my previous post\n    C# 15: Brand New Union Types, so I will reuse the same Shape union.\n  \n  \n  \n    Everything here runs on .NET 11 Preview 6 (latest as of today, it\n    will change) and the",
           "link": "https://jaliyaudagedara.blogspot.com/2026/08/support-for-c-15-union-types-in-aspnet.html",
           "publishedOn": "2026-08-09T04:28:00.000Z",
-          "wordCount": 4497,
+          "wordCount": null,
           "title": "Support for C# 15 Union Types in ASP.NET Core",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh2ua4UpMvy-6KrrxNGGosYSDlbtb3piowesz7yiiNDYKvkP0aR-nKPHefWWHeHivDUEsinFJFhI9CqYVRhfXX4hNjneRUk6FaQeyv_zoXlsyDDOe6fHrzaxET0ZrE4-abdz9wjG3FoyYgTADOOujybgZ4trcU8YwPuTu_6nCA5occRTPAFwt0xgxdjZyo=w1200-h630-p-k-no-nu"
+          "imageUrl": null
         }
       ]
     },
@@ -990,7 +1000,18 @@
       "title": "Scott Hanselman's Blog",
       "feedUrl": "http://feeds.hanselman.com/ScottHanselman",
       "siteUrl": "https://www.hanselman.com/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.hanselman.com/blog/post/bfae81c0-7b82-4188-b51a-fc41faeaf414",
+          "author": null,
+          "description": "I’ve had a Synology NAS for a very long time, and recently I started moving its contents to a new Ubiquiti UniFi UNAS Pro 8. This seemed like it ought to be a fairly boring operation. Both devices speak SMB, I have a fast network (recently upgraded to 10 gigabit internally), and Windows has had tools for copying files reliably between machines for decades. Naturally, it turned into a whole evening of learning things I thought I already knew, which is why I started a blog lol.\n\r\nThere was a nice bit of history here for me because back in 2007 (good lord!) I wrote a post called “XCopy considered harmful - Robocopy or XXCopy or SyncBack.” My argument at the time was basically that once you are moving enough files, Explorer stops being the move and Robocopy starts looking pretty good. I even u…",
+          "link": "http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps",
+          "publishedOn": "2026-08-23T19:23:42.000Z",
+          "wordCount": 3375,
+          "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
+        }
+      ]
     },
     {
       "title": "Thomas Levesque's .NET Blog",

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-23T01:47:46.261Z</updated>
+    <updated>2026-08-24T01:45:44.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps]]></title>
+        <id>https://www.hanselman.com/blog/post/bfae81c0-7b82-4188-b51a-fc41faeaf414</id>
+        <link href="http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps"/>
+        <updated>2026-08-23T19:23:42.000Z</updated>
+        <summary type="html"><![CDATA[I’ve had a Synology NAS for a very long time, and recently I started moving its contents to a new Ubiquiti UniFi UNAS Pro 8. This seemed like it ought to be a fairly boring operation. Both devices speak SMB, I have a fast network (recently upgraded to 10 gigabit internally), and Windows has had tools for copying files reliably between machines for decades. Naturally, it turned into a whole evening of learning things I thought I already knew, which is why I started a blog lol.
+
+There was a nice bit of history here for me because back in 2007 (good lord!) I wrote a post called “XCopy considered harmful - Robocopy or XXCopy or SyncBack.” My argument at the time was basically that once you are moving enough files, Explorer stops being the move and Robocopy starts looking pretty good. I even u…]]></summary>
+        <author>
+            <name>Scott Hanselman's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure DevOps: Copy Azure Container Registry (ACR) Images to an External Tenant's ACR]]></title>
+        <id>https://jaliyaudagedara.blogspot.com/2026/08/azure-devops-copy-azure-container.html</id>
+        <link href="https://jaliyaudagedara.blogspot.com/2026/08/azure-devops-copy-azure-container.html"/>
+        <updated>2026-08-23T09:34:11.715Z</updated>
+        <summary type="html"><![CDATA[Consider a scenario where an App Service running in an external tenant needs
+    to pull an image from our own ACR. The lazy way is to share our ACR
+    credentials (username/password) with the external party, so they can set
+    DOCKER_REGISTRY_SERVER_USERNAME and
+    DOCKER_REGISTRY_SERVER_PASSWORD.
+  
+  
+  
+    But obviously that's not something we should be doing. We can't be handing]]></summary>
+        <author>
+            <name>Jaliya's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan()]]></title>
+        <id>https://dotnettips.com/?p=18333</id>
+        <link href="https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/"/>
+        <updated>2026-08-23T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To sort a List efficiently, use CollectionsMarshal.AsSpan() to access its internal storage, then apply the Sort() function.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neural Networks Explained: What They Are and How to Build One in Python]]></title>
         <id>6a88c8b8c9a055790ae586e7</id>
@@ -960,19 +1000,6 @@ An agent loop looks simple on a whiteboard: observe, decide, act, observe again.
         <summary type="html"><![CDATA[HttpClientExtensions in the DotNetTips.Spargine.Extensions namespace streamline common HTTP operations for .NET developers. These extension methods simplify tasks such as sending requests, deserializing JSON, and managing streams, enhancing code readability and performance. They help minimize repetitive coding, making HTTP interactions more efficient and consistent across projects.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - July 24, 2026 (#4719)]]></title>
-        <id>https://alvinashcraft.com/2026/07/24/dew-drop-july-24-2026-4719/</id>
-        <link href="https://alvinashcraft.com/2026/07/24/dew-drop-july-24-2026-4719/"/>
-        <updated>2026-07-24T12:31:53.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Native Agent Memory for Microsoft Agent Framework, Powered by Azure Cosmos DB (Theo van Kraay)
-Introducing MAI-Image-2.5 Pro and MAI-Voice-2 Flash in Microsoft Foundry (Naomi Moneypenny)
-Move Agent Orchestration/Workflows out of Code with Agent Framework Declarative Wor…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
         </author>
     </entry>
 </feed>
