@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396665",
+          "author": "Geoff Graham",
+          "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+          "publishedOn": "2026-08-25T14:10:34.000Z",
+          "wordCount": 3049,
+          "title": "MicroLighter: Syntax Highlighter",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=395401",
           "author": "Fränk Klein",
           "description": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.\nWordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -164,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+          "author": "hello@smashingmagazine.com (Pierre Burgy)",
+          "description": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
+          "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+          "publishedOn": "2026-08-25T08:00:00.000Z",
+          "wordCount": 4229,
+          "title": "Why Your Website Should Never Stop Changing",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "author": "hello@smashingmagazine.com (Johan Grobler)",
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5714,
+          "wordCount": 5711,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -179,7 +204,7 @@
           "description": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
           "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
           "publishedOn": "2026-08-13T10:00:00.000Z",
-          "wordCount": 3968,
+          "wordCount": null,
           "title": "New EU Guidelines For AI Labelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
@@ -209,7 +234,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6292,
+          "wordCount": 6288,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -239,7 +264,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5032,
+          "wordCount": 5027,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -270,6 +295,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a8ddd55902e76128f1985bb",
+          "author": "Eva J Patel",
+          "description": "Imagine this: you're working late, your code finally works, and you're ready to push it to GitHub. You run: git add . git commit -m \"Fix API integration\" git push A few minutes later, you notice some",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-a-leaked-api-key/",
+          "publishedOn": "2026-08-25T18:22:13.000Z",
+          "wordCount": 4682,
+          "title": "How to Fix a Leaked API Key: A Developer’s Guide to Git Security",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0903575c-822b-481b-af12-07b864bebc67.png"
+        },
+        {
+          "id": "6a8db9c20b9b2c87b7c4049f",
+          "author": "Daniel García Solla",
+          "description": "Today, data has become a particularly valuable resource. It allows companies to compete in the market and drive innovation, improving the quality of products and services offered. Data processing lets",
+          "link": "https://www.freecodecamp.org/news/understanding-data-management-with-a-real-world-use-case-book/",
+          "publishedOn": "2026-08-25T15:50:26.000Z",
+          "wordCount": 33986,
+          "title": "From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b9817dc0-f0dc-4ccf-a8f7-2e7b47783360.png"
+        },
+        {
+          "id": "6a8cac4b80ffa6e1b9da795b",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Medical imaging papers are full of familiar-looking terms: normalization, labels, validation, annotation, and preprocessing. If you come from general machine learning, you may think you already know w",
+          "link": "https://www.freecodecamp.org/news/what-happens-to-a-medical-image-before-and-after-a-model-sees-it/",
+          "publishedOn": "2026-08-24T20:40:43.000Z",
+          "wordCount": 4114,
+          "title": "What Happens to a Medical Image Before and After a Model Sees It",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9014bf41-16ea-4661-926a-4444a53484f8.png"
+        },
         {
           "id": "6a8c8383ca0d5a1002b19fa3",
           "author": "Chidozie Managwu",
@@ -339,36 +394,6 @@
           "wordCount": 4351,
           "title": "Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/779882b9-29ec-4337-b3ab-96ccf752638c.png"
-        },
-        {
-          "id": "6a888912ca3910a01e7c2f66",
-          "author": "Abdul Talha",
-          "description": "Odoo is an open-source enterprise resource planning (ERP) platform that helps businesses manage operations such as sales, customer relationship management (CRM), inventory, accounting, human resources",
-          "link": "https://www.freecodecamp.org/news/how-to-host-odoo/",
-          "publishedOn": "2026-08-21T17:21:22.000Z",
-          "wordCount": 2995,
-          "title": "How to Host Odoo: Self-Hosted vs Managed Hosting",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/30766bac-af3a-4c24-a544-75846002ce99.png"
-        },
-        {
-          "id": "6a888892029633fd14697876",
-          "author": "Hugo Teijiz",
-          "description": "The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with",
-          "link": "https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/",
-          "publishedOn": "2026-08-21T17:19:14.000Z",
-          "wordCount": 4383,
-          "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7d94c780-37eb-4bd6-a1e2-da6e25bdfdcb.png"
-        },
-        {
-          "id": "6a88812be09a3c3682f4fe95",
-          "author": "Ayobami Adejumo",
-          "description": "Here's something that most Kubernetes tutorials won't tell you: most engineers can run kubectl expose. Fewer than 10% understand what happens when they do. I've debugged Kubernetes networking issues a",
-          "link": "https://www.freecodecamp.org/news/kubernetes-networking-explained-from-clusterip-to-cilium-service-mesh/",
-          "publishedOn": "2026-08-21T16:47:39.000Z",
-          "wordCount": 4528,
-          "title": "Kubernetes Networking Explained: From ClusterIP to Cilium Service Mesh",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/425eabfd-bd40-4c0d-b6c3-4f1f7bd53caa.png"
         }
       ]
     },
@@ -422,7 +447,7 @@
           "description": "To sort a List efficiently, use CollectionsMarshal.AsSpan() to access its internal storage, then apply the Sort() function.",
           "link": "https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/",
           "publishedOn": "2026-08-23T06:00:00.000Z",
-          "wordCount": 3696,
+          "wordCount": 3995,
           "title": "Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan()",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-12_27_32-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -432,7 +457,7 @@
           "description": "Spargine's SocketExtensions simplifies .NET socket programming by offering reusable extension methods that enhance control over networking tasks. It reduces boilerplate code related to port binding, buffer configuration, keep-alive settings, and timeouts. This package streamlines socket operations, making code cleaner and easier to maintain for various applications.",
           "link": "https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/",
           "publishedOn": "2026-08-19T06:00:00.000Z",
-          "wordCount": 5097,
+          "wordCount": 4919,
           "title": "Boost Your .NET Networking with Spargine: SocketExtensions That Röck",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-7-2026-08_33_44-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -462,7 +487,7 @@
           "description": "Creating background tasks in .NET applications is crucial to maintain responsiveness. While dedicated threads can be used, they incur significant overhead.",
           "link": "https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/",
           "publishedOn": "2026-08-09T06:00:00.000Z",
-          "wordCount": 3713,
+          "wordCount": 3673,
           "title": ".NET Threads: The Performance Trap Hiding in Your Code",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-22-2026-10_34_11-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -482,19 +507,9 @@
           "description": "The author critiques Buffer, a social media scheduling tool, after a transition from Twitter to Bluesky due to increased user friction. Key issues include inefficient scheduling interfaces, lack of character limit warnings during composition, and inadequate support for mentions and hashtags. The author expresses a need for improved user experience and considers alternative tools.",
           "link": "https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/",
           "publishedOn": "2026-07-29T06:00:00.000Z",
-          "wordCount": 6587,
+          "wordCount": 6547,
           "title": "UX Chronicles: Buffering the User Experience",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-28-2026-01_40_52-PM.png?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://dotnettips.com/?p=18253",
-          "author": "David (dotNetDave) McCarter",
-          "description": "HttpClientExtensions in the DotNetTips.Spargine.Extensions namespace streamline common HTTP operations for .NET developers. These extension methods simplify tasks such as sending requests, deserializing JSON, and managing streams, enhancing code readability and performance. They help minimize repetitive coding, making HTTP interactions more efficient and consistent across projects.",
-          "link": "https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/",
-          "publishedOn": "2026-07-26T06:00:00.000Z",
-          "wordCount": 5062,
-          "title": "Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions",
-          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-03_46_38-PM.png?fit=1200%2C800&ssl=1"
         }
       ]
     },
@@ -571,12 +586,22 @@
       "siteUrl": "https://andrewlock.net/",
       "articles": [
         {
+          "id": "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/",
+          "author": "Andrew Lock",
+          "description": "In this post I show how to find the total number of logical CPUs on a host (not just those available to a process); something that isn't exposed in modern .NET",
+          "link": "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/",
+          "publishedOn": "2026-08-25T10:00:00.000Z",
+          "wordCount": 2535,
+          "title": "Finding the total number of processors on a machine with .NET",
+          "imageUrl": "https://andrewlock.net/content/images/2026/cpus.webp"
+        },
+        {
           "id": "https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/",
           "author": "Andrew Lock",
           "description": "In this post I describe the new Cross-Site Request Forgery protection added to ASP.NET Core that uses Fetch Metadata HTTP headers instead of antiforgery tokens",
           "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/",
           "publishedOn": "2026-08-04T09:00:00.000Z",
-          "wordCount": 3540,
+          "wordCount": 3552,
           "title": "Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6",
           "imageUrl": "https://andrewlock.net/content/images/2026/csrf_banner.webp"
         },
@@ -598,14 +623,24 @@
       "siteUrl": "https://www.sahansera.dev/",
       "articles": [
         {
+          "id": "https://www.sahansera.dev/when-imemorycache-stops-scaling-redis-aspire/",
+          "author": null,
+          "description": "See why IMemoryCache breaks down across multiple app instances, then move shared cache state to Redis and wire it with .NET Aspire.",
+          "link": "https://www.sahansera.dev/when-imemorycache-stops-scaling-redis-aspire/",
+          "publishedOn": "2026-08-25T00:00:00.000Z",
+          "wordCount": 3001,
+          "title": "When IMemoryCache Stops Scaling: Moving to Redis with .NET Aspire",
+          "imageUrl": "https://www.sahansera.dev/_astro/when-imemorycache-stops-scaling-redis-aspire.CgQpFrfk_Z1XtCge.jpg"
+        },
+        {
           "id": "https://www.sahansera.dev/replacing-sharp-with-wasm-hidden-svg-dependency/",
           "author": null,
           "description": "A production-only SVG failure exposed a hidden Sharp dependency, a broken fallback, and why I replaced the rasteriser with resvg WASM.",
           "link": "https://www.sahansera.dev/replacing-sharp-with-wasm-hidden-svg-dependency/",
           "publishedOn": "2026-08-20T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3423,
           "title": "Replacing Sharp with WASM: How a Hidden SVG Dependency Broke Our Rendering Pipeline",
-          "imageUrl": null
+          "imageUrl": "https://www.sahansera.dev/_astro/replacing-sharp-with-wasm-hidden-svg-dependency.DdUtoCtj_Z2nI3GW.jpg"
         },
         {
           "id": "https://www.sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/",
@@ -613,9 +648,9 @@
           "description": "Three replicas raced the same Prisma migration. A PostgreSQL advisory lock coordinator fixes it when your platform cannot run a pre-deploy Job.",
           "link": "https://www.sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/",
           "publishedOn": "2026-08-14T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2463,
           "title": "When Three Kubernetes Pods Try to Run One Database Migration",
-          "imageUrl": null
+          "imageUrl": "https://www.sahansera.dev/_astro/when-three-kubernetes-pods-try-to-run-one-database-migration.C81n9xlL_Z1c2qyY.jpg"
         },
         {
           "id": "https://www.sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/",
@@ -633,7 +668,7 @@
           "description": "Giving an AI agent access to a repository takes only a few lines of code. Giving it useful access without silently approving every command…",
           "link": "https://www.sahansera.dev/safe-repository-maintenance-agent-dotnet/",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2708,
+          "wordCount": 2788,
           "title": "Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in .NET",
           "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-dotnet.BfZGmc-O_Z2fCwfz.jpg"
         },
@@ -643,7 +678,7 @@
           "description": "In the .NET tutorial , we built a repository agent that could inspect a checkout, propose a one-line repair, run its tests, and report the…",
           "link": "https://www.sahansera.dev/safe-repository-maintenance-agent-python/",
           "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2814,
+          "wordCount": 2894,
           "title": "Build a Safe Repository Maintenance Agent with GitHub Copilot and Microsoft Agent Framework in Python",
           "imageUrl": "https://www.sahansera.dev/_astro/safe-repository-maintenance-agent-python.DS0oPGvE_Zea7EF.jpg"
         },
@@ -653,9 +688,9 @@
           "description": "Seven years, 56 posts and 463,000 pageviews. Which articles actually earned the traffic, what the numbers hide, and what I would do differently.",
           "link": "https://www.sahansera.dev/what-i-learned-growing-engineering-blog-463000-pageviews/",
           "publishedOn": "2026-08-03T00:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 2956,
           "title": "What I Learned Growing an Engineering Blog from 0 to 463,000 Pageviews",
-          "imageUrl": null
+          "imageUrl": "https://www.sahansera.dev/_astro/engineering-blog-463000-pageviews-cover.CV8fdX7y_QhwqV.jpg"
         },
         {
           "id": "https://www.sahansera.dev/replacing-critical-data-path-without-flag-day/",
@@ -941,9 +976,9 @@
           "description": "Consider a scenario where an App Service running in an external tenant needs\n    to pull an image from our own ACR. The lazy way is to share our ACR\n    credentials (username/password) with the external party, so they can set\n    DOCKER_REGISTRY_SERVER_USERNAME and\n    DOCKER_REGISTRY_SERVER_PASSWORD.\n  \n  \n  \n    But obviously that's not something we should be doing. We can't be handing",
           "link": "https://jaliyaudagedara.blogspot.com/2026/08/azure-devops-copy-azure-container.html",
           "publishedOn": "2026-08-24T10:34:00.000Z",
-          "wordCount": 5298,
+          "wordCount": null,
           "title": "Azure DevOps: Copy Azure Container Registry (ACR) Images to an External Tenant's ACR",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjsWskFO-TwUXIHLRmOawoROyOSeggDbA0pbHYBCaEok0ycZbB6QzP74AkEz5hnP5IC5T8T0niCqc9U4l1gvbFC5P-iIeSaesuATx6fnXC6Zd3rbFF4GkOJAlz5JqZJBpd51GHwWeoxrsO9Kvgnx2_uPyaLrLD4lVY8mlI7fQItHCNt9QZ0uVEfMqcWBOc=w1200-h630-p-k-no-nu"
+          "imageUrl": null
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/08/use-of-azuretokencredentials-in.html",
@@ -951,7 +986,7 @@
           "description": "In this post, let's have a look at the\n    AZURE_TOKEN_CREDENTIALS environment variable in\n    Azure.Identity. I only came across it recently, and it has removed something that used to annoy me every single day.\n  \n\n  \n\n  \n    We all know why we should be authenticating to Azure services with Microsoft\n    Entra ID rather than with keys, connection strings or passwords.&nbsp;",
           "link": "https://jaliyaudagedara.blogspot.com/2026/08/use-of-azuretokencredentials-in.html",
           "publishedOn": "2026-08-20T11:11:30.025Z",
-          "wordCount": 4782,
+          "wordCount": null,
           "title": "Use of AZURE_TOKEN_CREDENTIALS in Azure.Identity",
           "imageUrl": null
         },
@@ -961,7 +996,7 @@
           "description": "In this post, let's see how we can move .NET clients from consuming Azure AI Language and Azure AI Translator&nbsp;resource onto a single Azure AI Foundry resource.I had some .NET code using TextAnalyticsClient (Azure.AI.TextAnalytics) and TextTranslationClient (Azure.AI.Translation.Text). These were pointing to two different Azure AI resources.\n// API Kind: TextAnalytics\nhttps://",
           "link": "https://jaliyaudagedara.blogspot.com/2026/08/using-azure-ai-foundry-resource-for-net.html",
           "publishedOn": "2026-08-13T06:28:37.735Z",
-          "wordCount": 4772,
+          "wordCount": null,
           "title": "Using Azure AI Foundry resource for .NET Azure.AI.TextAnalytics and Azure.AI.Translation.Text Clients",
           "imageUrl": null
         },
@@ -971,9 +1006,9 @@
           "description": "In this post, let's have a look at how Union types in C# 15 flow\n    through an ASP.NET Core minimal API and how they are described in\n    OpenAPI. This is a follow up to my previous post\n    C# 15: Brand New Union Types, so I will reuse the same Shape union.\n  \n  \n  \n    Everything here runs on .NET 11 Preview 6 (latest as of today, it\n    will change) and the",
           "link": "https://jaliyaudagedara.blogspot.com/2026/08/support-for-c-15-union-types-in-aspnet.html",
           "publishedOn": "2026-08-09T04:28:00.000Z",
-          "wordCount": 4505,
+          "wordCount": null,
           "title": "Support for C# 15 Union Types in ASP.NET Core",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh2ua4UpMvy-6KrrxNGGosYSDlbtb3piowesz7yiiNDYKvkP0aR-nKPHefWWHeHivDUEsinFJFhI9CqYVRhfXX4hNjneRUk6FaQeyv_zoXlsyDDOe6fHrzaxET0ZrE4-abdz9wjG3FoyYgTADOOujybgZ4trcU8YwPuTu_6nCA5occRTPAFwt0xgxdjZyo=w1200-h630-p-k-no-nu"
+          "imageUrl": null
         }
       ]
     },
@@ -1129,12 +1164,22 @@
       "siteUrl": "https://www.strathweb.com/posts/",
       "articles": [
         {
+          "id": "https://www.strathweb.com/2026/08/qsharp-community-textmate-grammar-now-part-of-qdk-extension/",
+          "author": null,
+          "description": "Back in 2022 I announced a new Q# community project - a proper, standalone TextMate grammar for Q#, built with a real build pipeline, test suite and multiple output formats, rather than the handful of regular expressions that the QDK extension shipped with at the time. It has quietly lived in the qsharp-community organization ever since.\nToday I’m happy to report that the grammar has “graduated” - a snapshot of it is now officially vendored into the QDK extension itself, replacing the original hand-written grammar the extension used to ship with, and it already shipped in v1.31.",
+          "link": "https://www.strathweb.com/2026/08/qsharp-community-textmate-grammar-now-part-of-qdk-extension/",
+          "publishedOn": "2026-08-25T08:00:00.000Z",
+          "wordCount": 1042,
+          "title": "The Q# Community TextMate Grammar Is Now Part of the QDK Extension",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.strathweb.com/2026/07/agent-framework-mlx-tool-calling-and-more/",
           "author": null,
           "description": "Back in December I introduced the MLX Integration Library for Agent Framework, a small library that lets you plug local MLX models into Agent Framework applications as a regular chat client, sitting right next to your cloud-backed agents. Agent Framework has been moving quickly since then, and rather than letting the library drift behind, I spent some time catching up and, in the process, added one of the features people kept asking me about: tool calling.",
           "link": "https://www.strathweb.com/2026/07/agent-framework-mlx-tool-calling-and-more/",
           "publishedOn": "2026-07-30T08:00:00.000Z",
-          "wordCount": 1583,
+          "wordCount": 1586,
           "title": "What's new in agent-framework-mlx: Tool Calling, Agent Framework 1.12.1 and more",
           "imageUrl": null
         }
