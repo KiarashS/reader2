@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?page_id=394713",
+          "author": "Saleh Mubashar",
+          "description": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+          "publishedOn": "2026-08-26T15:38:41.000Z",
+          "wordCount": 4417,
+          "title": "animation-trigger",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=396665",
           "author": "Geoff Graham",
           "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
           "publishedOn": "2026-08-25T14:10:34.000Z",
-          "wordCount": 3049,
+          "wordCount": 3272,
           "title": "MicroLighter: Syntax Highlighter",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
         },
@@ -150,21 +160,6 @@
           "wordCount": 5019,
           "title": "Get Ready For the Powerful CSS border-shape Property!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396295",
-          "author": "Daniel Schwarz",
-          "description": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\nWhat’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-16/",
-          "publishedOn": "2026-07-31T14:06:21.000Z",
-          "wordCount": 3435,
-          "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/07/CleanShot-2026-07-31-at-06.07.11.mp4",
-            "length": "219450",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi16.jpg"
         }
       ]
     },
@@ -173,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+          "author": "hello@smashingmagazine.com (Meriem Benhabiles)",
+          "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
+          "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+          "publishedOn": "2026-08-26T13:00:00.000Z",
+          "wordCount": 5904,
+          "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
           "author": "hello@smashingmagazine.com (Pierre Burgy)",
@@ -194,7 +204,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5711,
+          "wordCount": 5709,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -204,7 +214,7 @@
           "description": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
           "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
           "publishedOn": "2026-08-13T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3968,
           "title": "New EU Guidelines For AI Labelling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
@@ -234,7 +244,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6288,
+          "wordCount": 6285,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -249,7 +259,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4643,
+          "wordCount": 4647,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -264,7 +274,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5027,
+          "wordCount": 5034,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -295,6 +305,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a8f84afb0c3d8eedbfb8fec",
+          "author": "Chudi Nnorukam",
+          "description": "Your Search Console report says a page earned 3,068 impressions on the first page of Google over 90 days. But it earned zero clicks in that same time period. The usual reading is that the page has a c",
+          "link": "https://www.freecodecamp.org/news/how-to-tell-if-search-console-impressions-are-human-or-machine/",
+          "publishedOn": "2026-08-27T00:28:31.000Z",
+          "wordCount": 5242,
+          "title": "How to Tell If Your Search Console Impressions Came From a Human or a Machine",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7143b3f8-2a39-4095-bcde-6abb456a6a6f.png"
+        },
+        {
+          "id": "6a8f567e6f14ba82479b5901",
+          "author": "Nikhil Adithyan",
+          "description": "Historical market data usually arrives as a completed dataset. That's convenient for analysis, but very different from the way trading software experiences a live market. In production, events arrive",
+          "link": "https://www.freecodecamp.org/news/build-a-market-time-machine-replay-trading-sessions-with-python-and-websockets/",
+          "publishedOn": "2026-08-26T21:11:26.000Z",
+          "wordCount": 8743,
+          "title": "Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ac2c7aca-36c9-4f25-9872-3f5fb44c70a6.png"
+        },
+        {
+          "id": "6a8f26c8d7f59479db2c21fd",
+          "author": "David Aniebo",
+          "description": "If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/",
+          "publishedOn": "2026-08-26T17:47:52.000Z",
+          "wordCount": 5429,
+          "title": "How to Build a Flashcard Study App with Next.js and MongoDB",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ed3602f9-f68c-4917-bc61-338d3ffba6e7.png"
+        },
+        {
+          "id": "6a8f26a0d7f59479db2c2023",
+          "author": "Daniel Nwaneri",
+          "description": "I signed off a hallucination fix as verified. We now had zero out of five fabricated responses, clean run, done. Then I ran it again under harder conditions and got 66.7%. The number I'd trusted enoug",
+          "link": "https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-fake-their-own-tests/",
+          "publishedOn": "2026-08-26T17:47:12.000Z",
+          "wordCount": 2987,
+          "title": "How to Stop Letting AI Agents Fake Their Own Tests",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/183633e3-b5fb-44cf-a0cb-32fd566ebc33.png"
+        },
         {
           "id": "6a8ddd55902e76128f1985bb",
           "author": "Eva J Patel",
@@ -354,46 +404,6 @@
           "wordCount": 3987,
           "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/61896a64-69bb-46cb-87dd-0076c4aa1b50.png"
-        },
-        {
-          "id": "6a8c4f18dbeb4eb3a4b2ed0d",
-          "author": "Chinedu Otutu",
-          "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
-          "link": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
-          "publishedOn": "2026-08-24T14:03:04.000Z",
-          "wordCount": 4528,
-          "title": "How to Build Type-Safe APIs with Hono and Zod",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ce251811-43ad-4e2f-9761-83b6240f718e.jpg"
-        },
-        {
-          "id": "6a8c4969642222471a04f943",
-          "author": "Purity Udeh",
-          "description": "Modern applications often expose metrics at a /metrics endpoint using the Prometheus format. Among these metrics, histograms are particularly useful. They show how often values fall into different ran",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
-          "publishedOn": "2026-08-22T03:00:00.000Z",
-          "wordCount": 2660,
-          "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3dccb28f-d024-4c7a-9ac7-353594572842.png"
-        },
-        {
-          "id": "6a88c8b8c9a055790ae586e7",
-          "author": "Eva J Patel",
-          "description": "Have you ever wondered how a computer can recognize a handwritten number, predict whether an email is spam, recommend a video, or understand a sentence? A lot of modern AI systems rely on something ca",
-          "link": "https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/",
-          "publishedOn": "2026-08-21T21:52:56.000Z",
-          "wordCount": 7168,
-          "title": "Neural Networks Explained: What They Are and How to Build One in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e140594f-daab-4c39-8b59-91bc794d6430.png"
-        },
-        {
-          "id": "6a88b8d9225da88c02eee6f5",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "Every system, at some point, ends up with a function that nobody wants to touch. It starts small: a simple validation check, an if statement here, another there. Then requirements grow and more condit",
-          "link": "https://www.freecodecamp.org/news/chain-of-responsibility-design-pattern-decoupling-complex-business-rules/",
-          "publishedOn": "2026-08-21T20:45:13.000Z",
-          "wordCount": 4351,
-          "title": "Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/779882b9-29ec-4337-b3ab-96ccf752638c.png"
         }
       ]
     },
@@ -442,12 +452,22 @@
       "siteUrl": "https://dotnettips.com",
       "articles": [
         {
+          "id": "https://dotnettips.com/?p=18682",
+          "author": "David (dotNetDave) McCarter",
+          "description": "DbContextExtensions, part of the DotNetTips.Spargine.Extensions project, offers reusable methods for common Entity Framework Core data-access patterns. It reduces repetitive code and enhances consistency by providing methods for adding, deleting, and managing entities, executing transactions, and performing existence checks. This centralization minimizes maintenance costs and improves code clarity.",
+          "link": "https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/",
+          "publishedOn": "2026-08-26T06:00:00.000Z",
+          "wordCount": 5126,
+          "title": "Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions",
+          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-9-2026-10_26_40-AM.png?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://dotnettips.com/?p=18333",
           "author": "David (dotNetDave) McCarter",
           "description": "To sort a List efficiently, use CollectionsMarshal.AsSpan() to access its internal storage, then apply the Sort() function.",
           "link": "https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/",
           "publishedOn": "2026-08-23T06:00:00.000Z",
-          "wordCount": 3995,
+          "wordCount": 4008,
           "title": "Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan()",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-12_27_32-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -457,7 +477,7 @@
           "description": "Spargine's SocketExtensions simplifies .NET socket programming by offering reusable extension methods that enhance control over networking tasks. It reduces boilerplate code related to port binding, buffer configuration, keep-alive settings, and timeouts. This package streamlines socket operations, making code cleaner and easier to maintain for various applications.",
           "link": "https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/",
           "publishedOn": "2026-08-19T06:00:00.000Z",
-          "wordCount": 4919,
+          "wordCount": 4927,
           "title": "Boost Your .NET Networking with Spargine: SocketExtensions That Röck",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-7-2026-08_33_44-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -487,7 +507,7 @@
           "description": "Creating background tasks in .NET applications is crucial to maintain responsiveness. While dedicated threads can be used, they incur significant overhead.",
           "link": "https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/",
           "publishedOn": "2026-08-09T06:00:00.000Z",
-          "wordCount": 3673,
+          "wordCount": 3713,
           "title": ".NET Threads: The Performance Trap Hiding in Your Code",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-22-2026-10_34_11-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -507,7 +527,7 @@
           "description": "The author critiques Buffer, a social media scheduling tool, after a transition from Twitter to Bluesky due to increased user friction. Key issues include inefficient scheduling interfaces, lack of character limit warnings during composition, and inadequate support for mentions and hashtags. The author expresses a need for improved user experience and considers alternative tools.",
           "link": "https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/",
           "publishedOn": "2026-07-29T06:00:00.000Z",
-          "wordCount": 6547,
+          "wordCount": 6587,
           "title": "UX Chronicles: Buffering the User Experience",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-28-2026-01_40_52-PM.png?fit=1200%2C800&ssl=1"
         }
@@ -710,6 +730,16 @@
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
         {
+          "id": "https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nExplore new features available in C# 15 preview (Bill Wagner)\n.NET Conf 2026 (Jon Galloway)\nUnlocking the Power of AI for Every Developer in Visual Studio with Bring your Own Model (Tanmayee Kamath)\nFrom dotnet run to Foundry Hosted Agent in 3 lines of C# (Bruno Capuano…",
+          "link": "https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/",
+          "publishedOn": "2026-08-26T04:49:02.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - August 26, 2026 (#4740)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
+        {
           "id": "https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/",
           "author": "Alvin Ashcraft",
           "description": "Top Links\nToday I will… Modernize a .NET application (Matt Soucoup & Pablo Lopes)\nThe New MCP Roadmap (David Soria Parra & Den Delimarsky)\nMicrosoft Agent Framework for .NET v1.19.0 Release (Roger Barreto)\nBuild AI agents without leaving VS Code, join our 3-part Reactor Series (b…",
@@ -898,16 +928,6 @@
           "wordCount": 72,
           "title": "Dew Drop - July 29, 2026 (#4721)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/07/28/dew-drop-july-28-2026-4720/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nA new way to bring native Windows APIs to JavaScript – introducing dynamic API projections for Node.js (Leilei Zhang)\nAnalyze MSBuild Binary Logs with Copilot in VS Code (Yuliia Kovalova & Jan Krivanek)\nClaude Opus 5 is available today in Microsoft Foundry (Amar Badal)\n…",
-          "link": "https://alvinashcraft.com/2026/07/28/dew-drop-july-28-2026-4720/",
-          "publishedOn": "2026-07-28T10:46:04.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - July 28, 2026 (#4720)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -976,9 +996,9 @@
           "description": "Consider a scenario where an App Service running in an external tenant needs\n    to pull an image from our own ACR. The lazy way is to share our ACR\n    credentials (username/password) with the external party, so they can set\n    DOCKER_REGISTRY_SERVER_USERNAME and\n    DOCKER_REGISTRY_SERVER_PASSWORD.\n  \n  \n  \n    But obviously that's not something we should be doing. We can't be handing",
           "link": "https://jaliyaudagedara.blogspot.com/2026/08/azure-devops-copy-azure-container.html",
           "publishedOn": "2026-08-24T10:34:00.000Z",
-          "wordCount": null,
+          "wordCount": 5298,
           "title": "Azure DevOps: Copy Azure Container Registry (ACR) Images to an External Tenant's ACR",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjsWskFO-TwUXIHLRmOawoROyOSeggDbA0pbHYBCaEok0ycZbB6QzP74AkEz5hnP5IC5T8T0niCqc9U4l1gvbFC5P-iIeSaesuATx6fnXC6Zd3rbFF4GkOJAlz5JqZJBpd51GHwWeoxrsO9Kvgnx2_uPyaLrLD4lVY8mlI7fQItHCNt9QZ0uVEfMqcWBOc=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/08/use-of-azuretokencredentials-in.html",
