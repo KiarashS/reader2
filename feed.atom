@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-27T08:47:55.480Z</updated>
+    <updated>2026-08-28T11:00:46.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When “Authorized Testing” Becomes the Attack Vector: What Agentic AI’s Latest Signals Mean for Enterprise Governance]]></title>
+        <id>https://www.jankowskimichal.pl/?p=4420</id>
+        <link href="https://www.jankowskimichal.pl/en/2026/08/when-authorized-testing-becomes-the-attack-vector-what-agentic-ais-latest-signals-mean-for-enterprise-governance/"/>
+        <updated>2026-08-28T05:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Three things happened at roughly the same time this month, and none of them are unrelated. An AI agent swarm mapped and breached a government network in four days. AI overtook every other stated reason for tech layoffs. And two well-funded startups both decided the next thing to own is the pipeline that runs coding  [...]
+Artykuł When “Authorized Testing” Becomes the Attack Vector: What Agentic AI’s Latest Signals Mean for Enterprise Governance pochodzi z serwisu Michał Jankowski.]]></summary>
+        <author>
+            <name>Michał Jankowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved]]></title>
+        <id>6a90aca9476c6bda8e12cfef</id>
+        <link href="https://www.freecodecamp.org/news/from-mixtral-to-kimi-k3-how-mixture-of-experts-models-evolved/"/>
+        <updated>2026-08-27T21:31:21.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll discuss how Mixture-of-Experts models grew from a handful of experts to nearly 900 per layer, and the compression and stability mechanisms that keep such a sparse design trainab]]></summary>
+        <author>
+            <name>Botao Deng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.]]></title>
+        <id>6a9088cbfe512a7250d45587</id>
+        <link href="https://www.freecodecamp.org/news/cdn-cache-made-my-site-slower/"/>
+        <updated>2026-08-27T18:58:19.000Z</updated>
+        <summary type="html"><![CDATA[Last week I put a CDN cache in front of a static site, expecting it to get faster. But instead, it got measurably slower. Not subtly: an independent crawler that had flagged 38 slow pages before the c]]></summary>
+        <author>
+            <name>Javeed Shaik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Reliable Structured Data Out of an LLM]]></title>
+        <id>6a908843ac9ce68300a83a4c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/"/>
+        <updated>2026-08-27T18:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Most tutorials about calling a language model end at JSON.parse(response.content). That line works on your first ten test cases. Then you ship, and somewhere around request four hundred the model retu]]></summary>
+        <author>
+            <name>Vineeth Pawar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained]]></title>
+        <id>6a9058fc56e6415ec14cba57</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-flutter-apps-unit-widget-golden-and-integration-tests-explained/"/>
+        <updated>2026-08-27T15:34:20.000Z</updated>
+        <summary type="html"><![CDATA[The first time I was asked "what's your test coverage?" in a technical interview, I didn't have a good answer. I had shipped a couple of real Flutter apps by then. They worked and users were using the]]></summary>
+        <author>
+            <name>Gidudu Nicholas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits]]></title>
+        <id>https://www.hanselman.com/blog/post/a2a687b7-45ce-46fb-aa23-bd2a8cf810b5</id>
+        <link href="http://feeds.hanselman.com/~/968351264/0/scotthanselman~Debugging-my-new-network-when-Gigabit-Ethernet-Runs-at-Megabits"/>
+        <updated>2026-08-27T15:25:48.000Z</updated>
+        <summary type="html"><![CDATA[I've been moving my home storage over to a UniFi UNAS Pro 8 as part of a larger homelab moderization. My main IRONHEART (the ultimate PC from a few years back) desktop now has an Intel E610-XT2 10GbE card, the NAS is on 10GbE, and there's a Minisforum MS-01 miniPC on the same network with a 10GbE SFP+ connection running Immich and Portainer and a few other things.
+
+Everything says 10 gigabit. Windows says 10 gigabit. UniFi says 10 gigabit. SMB copies are using the correct NIC but my file copies are running at around 100 to 200 megabits per second which is sad making.
+
+Naturally, I blamed the NAS, and the spinning rust within. The UNAS has six 16 TB spinning disks in RAID 6 and a pair of NVMe SSDs being used as cache. I'm also running Immich on the MS-01, with its photo library living on …]]></summary>
+        <author>
+            <name>Scott Hanselman's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
+        <id>https://css-tricks.com/?p=395259</id>
+        <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
+        <updated>2026-08-27T14:41:06.000Z</updated>
+        <summary type="html"><![CDATA[The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.
+Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build AI Agents, APIs, and Full-Stack Apps with Meta Muse Code & Muse Spark]]></title>
+        <id>6a9042325a2ad19bd8e4a514</id>
+        <link href="https://www.freecodecamp.org/news/build-ai-agents-apis-and-full-stack-apps-with-meta-muse-code-muse-spark/"/>
+        <updated>2026-08-27T13:57:06.000Z</updated>
+        <summary type="html"><![CDATA[As AI developer tooling expands, vertically integrated ecosystems offer powerful alternatives for building software. In this comprehensive three-hour course on the freeCodeCamp.org YouTube channel, in]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Building AI Slop: Build High-End Web Apps with AI]]></title>
+        <id>6a90413617d143757c5d8455</id>
+        <link href="https://www.freecodecamp.org/news/stop-building-ai-slop-build-high-end-web-apps-with-ai/"/>
+        <updated>2026-08-27T13:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Many developers use AI coding tools to generate generic, cookie-cutter interfaces that feel uninspired and incomplete. In our latest full course on the freeCodeCamp.org YouTube channel, instructor Eri]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Paper That Created Modern AI: The Story Behind the Transformer]]></title>
+        <id>6a903fa674d5ca289496b60d</id>
+        <link href="https://www.freecodecamp.org/news/the-paper-that-created-modern-ai-the-story-behind-the-transformer/"/>
+        <updated>2026-08-27T13:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Every time you interact with a modern AI model you are relying on an architecture born from a single 2017 research paper titled "Attention Is All You Need." Our latest video on the freeCodeCamp.org Yo]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - August 27, 2026 (#4741)]]></title>
+        <id>https://alvinashcraft.com/2026/08/27/dew-drop-august-27-2026-4741/</id>
+        <link href="https://alvinashcraft.com/2026/08/27/dew-drop-august-27-2026-4741/"/>
+        <updated>2026-08-27T10:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Repeating the Same AI Prompts? The Agent Skills Handbook Helps You Build Reusable Skills (Suchitha Ramesh)
+Copilot Code Reviews for Azure Repos (public preview) (Dan Hellem)
+Visual Studio Code 1.136 (Insiders) (Visual Studio Code Team)
+.NET Rocks! - Arguing about AI wit…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Tell If Your Search Console Impressions Came From a Human or a Machine]]></title>
         <id>6a8f84afb0c3d8eedbfb8fec</id>
@@ -34,16 +154,6 @@
         <summary type="html"><![CDATA[If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t]]></summary>
         <author>
             <name>David Aniebo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stop Letting AI Agents Fake Their Own Tests]]></title>
-        <id>6a8f26a0d7f59479db2c2023</id>
-        <link href="https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-fake-their-own-tests/"/>
-        <updated>2026-08-26T17:47:12.000Z</updated>
-        <summary type="html"><![CDATA[I signed off a hallucination fix as verified. We now had zero out of five fabricated responses, clean run, done. Then I ran it again under harder conditions and got 66.7%. The number I'd trusted enoug]]></summary>
-        <author>
-            <name>Daniel Nwaneri</name>
         </author>
     </entry>
     <entry>
@@ -89,26 +199,6 @@ Unlocking the Power of AI for Every Developer in Visual Studio with Bring your O
 From dotnet run to Foundry Hosted Agent in 3 lines of C# (Bruno Capuano…]]></summary>
         <author>
             <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix a Leaked API Key: A Developer’s Guide to Git Security]]></title>
-        <id>6a8ddd55902e76128f1985bb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-a-leaked-api-key/"/>
-        <updated>2026-08-25T18:22:13.000Z</updated>
-        <summary type="html"><![CDATA[Imagine this: you're working late, your code finally works, and you're ready to push it to GitHub. You run: git add . git commit -m "Fix API integration" git push A few minutes later, you notice some]]></summary>
-        <author>
-            <name>Eva J Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]]]></title>
-        <id>6a8db9c20b9b2c87b7c4049f</id>
-        <link href="https://www.freecodecamp.org/news/understanding-data-management-with-a-real-world-use-case-book/"/>
-        <updated>2026-08-25T15:50:26.000Z</updated>
-        <summary type="html"><![CDATA[Today, data has become a particularly valuable resource. It allows companies to compete in the market and drive innovation, improving the quality of products and services offered. Data processing lets]]></summary>
-        <author>
-            <name>Daniel García Solla</name>
         </author>
     </entry>
     <entry>
@@ -161,46 +251,6 @@ Today I’m happy to report that the grammar has “graduated” - a snapshot of
         <summary type="html"><![CDATA[See why IMemoryCache breaks down across multiple app instances, then move shared cache state to Redis and wire it with .NET Aspire.]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens to a Medical Image Before and After a Model Sees It]]></title>
-        <id>6a8cac4b80ffa6e1b9da795b</id>
-        <link href="https://www.freecodecamp.org/news/what-happens-to-a-medical-image-before-and-after-a-model-sees-it/"/>
-        <updated>2026-08-24T20:40:43.000Z</updated>
-        <summary type="html"><![CDATA[Medical imaging papers are full of familiar-looking terms: normalization, labels, validation, annotation, and preprocessing. If you come from general machine learning, you may think you already know w]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Referral-Aware Split Payment Flows in Django]]></title>
-        <id>6a8c8383ca0d5a1002b19fa3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-referral-aware-split-payment-flows-in-django/"/>
-        <updated>2026-08-24T17:46:43.000Z</updated>
-        <summary type="html"><![CDATA[When a product has a single checkout, payment logic is usually simple: charge the user, mark the order as paid, and move on. But once the business model includes a deposit now, a balance later, and re]]></summary>
-        <author>
-            <name>Chidozie Managwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile Background Execution: iOS Background Modes, Android WorkManager, and Background Services in Dart]]></title>
-        <id>6a8c831fe5597860d219d150</id>
-        <link href="https://www.freecodecamp.org/news/mobile-background-execution-ios-background-modes-android-workmanager-and-background-services-in-dart/"/>
-        <updated>2026-08-24T17:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Every mobile developer eventually hits the same wall: the app works perfectly when the user is looking at it. But the moment they press the home button, everything stops. A sync that should have compl]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test Conversational AI: A Practical Guide for QA Engineers]]></title>
-        <id>6a8c5708cc6859117f26da4f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-conversational-ai-practical-guide-for-qa-engineers/"/>
-        <updated>2026-08-24T14:36:56.000Z</updated>
-        <summary type="html"><![CDATA[When I first started learning about conversational AI testing, one question kept bothering me: Where is the expected result? Coming from traditional software testing, I was used to a familiar pattern.]]></summary>
-        <author>
-            <name>GAYATHRI BOLINENI</name>
         </author>
     </entry>
     <entry>
@@ -942,17 +992,6 @@ I benchmarked both across native Windows API calls, string marshalling, handles,
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
-        <id>https://css-tricks.com/?p=395508</id>
-        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
-        <updated>2026-07-31T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
-Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dew Drop - July 31, 2026 (#4723)]]></title>
         <id>https://alvinashcraft.com/2026/07/31/dew-drop-july-31-2026-4723/</id>
         <link href="https://alvinashcraft.com/2026/07/31/dew-drop-july-31-2026-4723/"/>
@@ -1021,20 +1060,6 @@ Tool search: Finding the right tool at the right time (Viswajeeet Balaji …]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop - July 29, 2026 (#4721)]]></title>
-        <id>https://alvinashcraft.com/2026/07/29/dew-drop-july-29-2026-4721/</id>
-        <link href="https://alvinashcraft.com/2026/07/29/dew-drop-july-29-2026-4721/"/>
-        <updated>2026-07-29T10:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Visual Studio July Update — Meet the New Agent, Powered by the GitHub Copilot SDK (Mark Downie)
-Refactor your database with SQL projects in VS Code (Drew Skwiers-Koballa)
-Find any commit in seconds: Commit Search comes to Azure DevOps (Alex Pysanets)
-The 2026-07-28 Mode…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends]]></title>
         <id>https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/</id>
         <link href="https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/"/>
@@ -1052,41 +1077,6 @@ The 2026-07-28 Mode…]]></summary>
         <summary type="html"><![CDATA[The author critiques Buffer, a social media scheduling tool, after a transition from Twitter to Bluesky due to increased user friction. Key issues include inefficient scheduling interfaces, lack of character limit warnings during composition, and inadequate support for mentions and hashtags. The author expresses a need for improved user experience and considers alternative tools.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Infrastructure Is Being Rebuilt for Agents. Your Governance Framework Isn’t.]]></title>
-        <id>https://www.jankowskimichal.pl/?p=4416</id>
-        <link href="https://www.jankowskimichal.pl/en/2026/07/the-infrastructure-is-being-rebuilt-for-agents-your-governance-framework-isnt/"/>
-        <updated>2026-07-28T19:14:56.000Z</updated>
-        <summary type="html"><![CDATA[Payment networks, git hosts, and enterprise reporting tools spent the last few weeks announcing the same quiet pivot: they are re-architecting for machines, not humans, as the primary user. At the same time, Anthropic published a method for reading what a model privately thinks before it acts. Put those two trends together and you get  [...]
-Artykuł The Infrastructure Is Being Rebuilt for Agents. Your Governance Framework Isn’t. pochodzi z serwisu Michał Jankowski.]]></summary>
-        <author>
-            <name>Michał Jankowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinking Outside The Box: Digital Design In The AI Era]]></title>
-        <id>https://smashingmagazine.com/2026/07/digital-design-ai-era/</id>
-        <link href="https://smashingmagazine.com/2026/07/digital-design-ai-era/"/>
-        <updated>2026-07-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Autonomous AI Agents Break: A Field Guide]]></title>
-        <id>https://asp.net-hacker.rocks/2026/07/28/ai-breaking-agents.html</id>
-        <link href="https://asp.net-hacker.rocks/2026/07/28/ai-breaking-agents.html"/>
-        <updated>2026-07-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Back in my last post, I walked through a planner/specialist pattern for LLM tool-calling in .NET, and I ended it with a short list of the things that make the clean version of that pattern harder in practice: ambiguous results, timeouts, non-determinism. I said I'd come back to those with real solutions instead of just naming them. This post is that follow-through - a field guide to where these systems actually break, and what I do about each one.
-
-About the problem
-
-An agent loop looks simple on a whiteboard: observe, decide, act, observe again. In code, every one of those four words hides a place where something can go wrong, and none of them fail the way a normal function call fails. A function either returns or throws. A step in an agent loop can return something that's technically s…]]></summary>
-        <author>
-            <name>Jürgen Gutsch</name>
         </author>
     </entry>
 </feed>
