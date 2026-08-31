@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-08-30T04:59:07.217Z</updated>
+    <updated>2026-08-31T05:04:39.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Collection Performance: Use Caution when using Range Expressions in Hot Paths when Collection Slicing]]></title>
+        <id>https://dotnettips.com/?p=18361</id>
+        <link href="https://dotnettips.com/2026/08/30/collection-performance-use-caution-when-using-range-expressions-in-hot-paths-when-collection-slicing/"/>
+        <updated>2026-08-30T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Range expressions make collection slicing concise, but they can introduce unexpected overhead in hot paths. This subscriber-only article compares several ways to create slices with `Memory`, `Span`, `ReadOnlyMemory`, and `ReadOnlySpan`—and explains when using start-and-length overloads may be the smarter performance choice.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Cut GPU Power from 18 W to 4 W on an Omarchy MacBook Pro with GitHub Copilot CLI]]></title>
+        <id>https://blog.codewithdan.com/how-i-cut-gpu-power-from-18-w-to-4-w-on-an-omarchy-macbook-pro-with-github-copilot-cli/</id>
+        <link href="https://blog.codewithdan.com/how-i-cut-gpu-power-from-18-w-to-4-w-on-an-omarchy-macbook-pro-with-github-copilot-cli/"/>
+        <updated>2026-08-30T00:00:00.000Z</updated>
+        <author>
+            <name>Code with Dan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Automate Your Tests in Express Using Vitest]]></title>
         <id>6a91aa2c85465e213741c4de</id>
@@ -28,6 +47,17 @@ AI Skills Navigator is now available in Microsoft Copilot (Matt Erni)
 GitHub Copilot CLI v1.0.81 Release (copi…]]></summary>
         <author>
             <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When “Authorized Testing” Becomes the Attack Vector: What Agentic AI’s Latest Signals Mean for Enterprise Governance]]></title>
+        <id>https://www.jankowskimichal.pl/?p=4420</id>
+        <link href="https://www.jankowskimichal.pl/en/2026/08/when-authorized-testing-becomes-the-attack-vector-what-agentic-ais-latest-signals-mean-for-enterprise-governance/"/>
+        <updated>2026-08-28T05:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Three things happened at roughly the same time this month, and none of them are unrelated. An AI agent swarm mapped and breached a government network in four days. AI overtook every other stated reason for tech layoffs. And two well-funded startups both decided the next thing to own is the pipeline that runs coding  [...]
+Artykuł When “Authorized Testing” Becomes the Attack Vector: What Agentic AI’s Latest Signals Mean for Enterprise Governance pochodzi z serwisu Michał Jankowski.]]></summary>
+        <author>
+            <name>Michał Jankowski</name>
         </author>
     </entry>
     <entry>
@@ -82,6 +112,17 @@ Everything says 10 gigabit. Windows says 10 gigabit. UniFi says 10 gigabit. SMB 
 Naturally, I blamed the NAS, and the spinning rust within. The UNAS has six 16 TB spinning disks in RAID 6 and a pair of NVMe SSDs being used as cache. I'm also running Immich on the MS-01, with its photo library living on …]]></summary>
         <author>
             <name>Scott Hanselman's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
+        <id>https://css-tricks.com/?p=395259</id>
+        <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
+        <updated>2026-08-27T14:41:06.000Z</updated>
+        <summary type="html"><![CDATA[The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.
+Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -149,6 +190,17 @@ Visual Studio Code 1.136 (Insiders) (Visual Studio Code Team)
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[animation-trigger]]></title>
+        <id>https://css-tricks.com/?page_id=394713</id>
+        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
+        <updated>2026-08-26T15:38:41.000Z</updated>
+        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
+animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Saleh Mubashar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions]]></title>
         <id>https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/</id>
         <link href="https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"/>
@@ -180,6 +232,17 @@ Unlocking the Power of AI for Every Developer in Visual Studio with Bring your O
 From dotnet run to Foundry Hosted Agent in 3 lines of C# (Bruno Capuano…]]></summary>
         <author>
             <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicroLighter: Syntax Highlighter]]></title>
+        <id>https://css-tricks.com/?p=396665</id>
+        <link href="https://css-tricks.com/microlighter-syntax-highlighter/"/>
+        <updated>2026-08-25T14:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.
+MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -221,6 +284,17 @@ Today I’m happy to report that the grammar has “graduated” - a snapshot of
         <summary type="html"><![CDATA[See why IMemoryCache breaks down across multiple app instances, then move shared cache state to Redis and wire it with .NET Aspire.]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress PHP-Only Block Registration]]></title>
+        <id>https://css-tricks.com/?p=395401</id>
+        <link href="https://css-tricks.com/wordpress-php-block-registration/"/>
+        <updated>2026-08-24T13:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.
+WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Fränk Klein</name>
         </author>
     </entry>
     <entry>
@@ -275,6 +349,17 @@ There was a nice bit of history here for me because back in 2007 (good lord!) I 
         <summary type="html"><![CDATA[To sort a List efficiently, use CollectionsMarshal.AsSpan() to access its internal storage, then apply the Sort() function.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
+        <id>https://css-tricks.com/?p=396644</id>
+        <link href="https://css-tricks.com/resolved-css-class-prefix-selector/"/>
+        <updated>2026-08-21T15:13:03.000Z</updated>
+        <summary type="html"><![CDATA[A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.
+Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -345,6 +430,17 @@ GitHub Copilot app for Beginners: Managing your work (Christopher Harrison)
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS Navigation Matching, Early Days]]></title>
+        <id>https://css-tricks.com/?p=396428</id>
+        <link href="https://css-tricks.com/css-navigation-matching-early-days/"/>
+        <updated>2026-08-19T14:44:41.000Z</updated>
+        <summary type="html"><![CDATA[Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.
+CSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dew Drop - August 19, 2026 (#4736)]]></title>
         <id>https://alvinashcraft.com/2026/08/19/dew-drop-august-19-2026-4736/</id>
         <link href="https://alvinashcraft.com/2026/08/19/dew-drop-august-19-2026-4736/"/>
@@ -357,6 +453,17 @@ What’s a PFN? (Howard Kapustein)
 Spec-D…]]></summary>
         <author>
             <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress.com Student Plan]]></title>
+        <id>https://css-tricks.com/?p=396623</id>
+        <link href="https://css-tricks.com/wordpress-student-plan/"/>
+        <updated>2026-08-19T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.
+WordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -416,6 +523,17 @@ How to bring your software delivery workflow into GitHub with agent a…]]></sum
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dark mode toggles: two states are enough]]></title>
+        <id>https://css-tricks.com/?p=396545</id>
+        <link href="https://css-tricks.com/dark-mode-toggles-two-states-are-enough/"/>
+        <updated>2026-08-17T14:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.
+Dark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[General Performance: Object Initializers – Readability Versus Performance]]></title>
         <id>https://dotnettips.com/?p=18325</id>
         <link href="https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/"/>
@@ -423,6 +541,17 @@ How to bring your software delivery workflow into GitHub with agent a…]]></sum
         <summary type="html"><![CDATA[The post discusses two methods for initializing objects in C#: traditional property assignment and object initializers. While the traditional method is slightly faster, object initializers enhance code readability. It recommends using object initializers for maintainability, reserving traditional assignments for performance-critical scenarios where benchmarks indicate a significant advantage.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More]]></title>
+        <id>https://css-tricks.com/?p=396557</id>
+        <link href="https://css-tricks.com/whats-important-17/"/>
+        <updated>2026-08-14T14:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.
+What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -506,6 +635,17 @@ https://]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong]]></title>
+        <id>https://css-tricks.com/?p=396255</id>
+        <link href="https://css-tricks.com/blocked-aria-hidden-fix/"/>
+        <updated>2026-08-12T13:43:56.000Z</updated>
+        <summary type="html"><![CDATA[The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.
+Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Durgesh Rajubhai Pawar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dew Drop - August 12, 2026 (#4731)]]></title>
         <id>https://alvinashcraft.com/2026/08/12/dew-drop-august-12-2026-4731/</id>
         <link href="https://alvinashcraft.com/2026/08/12/dew-drop-august-12-2026-4731/"/>
@@ -562,6 +702,28 @@ Jimmy Bogard: AI-Driven Development - The…]]></summary>
         <summary type="html"><![CDATA[You have an IMessageSender interface, with two implementations: EmailMessageSender and SmsMessageSender. You register both, and now the question is which one gets injected into your OrderConfirmationService constructor. The answer, unhelpfully, is whichever was registered last. This may also introduce subtle, unexpected bugs when new services are registered.]]></summary>
         <author>
             <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animating CSS border-image]]></title>
+        <id>https://css-tricks.com/?p=394978</id>
+        <link href="https://css-tricks.com/animating-css-border-image/"/>
+        <updated>2026-08-10T15:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.
+Animating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmashingConf Freiburg 2026, September 7-10]]></title>
+        <id>https://css-tricks.com/?p=396506</id>
+        <link href="https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/"/>
+        <updated>2026-08-10T15:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.
+SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -698,6 +860,17 @@ ZoomIt for Mac: How AI Po…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
+        <id>https://css-tricks.com/?p=394753</id>
+        <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
+        <updated>2026-08-07T14:06:43.000Z</updated>
+        <summary type="html"><![CDATA[There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.
+Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Baseline Can Help You Ship Less JavaScript]]></title>
         <id>https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/</id>
         <link href="https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"/>
@@ -722,6 +895,17 @@ Announcing t…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2026 State of CSS, Devs Surveys]]></title>
+        <id>https://css-tricks.com/?p=396471</id>
+        <link href="https://css-tricks.com/2026-state-of-css-devs-surveys/"/>
+        <updated>2026-08-06T15:54:52.000Z</updated>
+        <summary type="html"><![CDATA[A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!
+2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dew Drop - August 6, 2026 (#4727)]]></title>
         <id>https://alvinashcraft.com/2026/08/06/dew-drop-august-6-2026-4727/</id>
         <link href="https://alvinashcraft.com/2026/08/06/dew-drop-august-6-2026-4727/"/>
@@ -733,6 +917,17 @@ Build Faster with Syncfusion AI Coding Assistant Tools: Agent Skills and the MCP
 .NET Rock…]]></summary>
         <author>
             <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Governance Just Got a Real-World Stress Test]]></title>
+        <id>https://www.jankowskimichal.pl/?p=4413</id>
+        <link href="https://www.jankowskimichal.pl/en/2026/08/ai-governance-just-got-a-real-world-stress-test/"/>
+        <updated>2026-08-05T19:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Two frontier labs disclosed that their models broke out of sealed test environments and touched production systems that were never supposed to be in scope. In the same stretch, Poland finalized the legal body that will investigate exactly this kind of incident domestically, code review orthodoxy got a public obituary, and a controlled study showed  [...]
+Artykuł AI Governance Just Got a Real-World Stress Test pochodzi z serwisu Michał Jankowski.]]></summary>
+        <author>
+            <name>Michał Jankowski</name>
         </author>
     </entry>
     <entry>
@@ -771,6 +966,17 @@ Announcing Azure…]]></summary>
         <summary type="html"><![CDATA[In this post I describe the new Cross-Site Request Forgery protection added to ASP.NET Core that uses Fetch Metadata HTTP headers instead of antiforgery tokens]]></summary>
         <author>
             <name>Andrew Lock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gap Decorations Are Now Available, Here’s What’s New]]></title>
+        <id>https://css-tricks.com/?p=396204</id>
+        <link href="https://css-tricks.com/css-gap-decorations-now-available/"/>
+        <updated>2026-08-03T15:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.
+Gap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sam Davis Omekarajr</name>
         </author>
     </entry>
     <entry>
@@ -816,232 +1022,6 @@ I benchmarked both across native Windows API calls, string marshalling, handles,
         <summary type="html"><![CDATA[Shadow reads, a normalized comparison and a staged cutover: how to replace a data path in production without a single big-bang release.]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - July 31, 2026 (#4723)]]></title>
-        <id>https://alvinashcraft.com/2026/07/31/dew-drop-july-31-2026-4723/</id>
-        <link href="https://alvinashcraft.com/2026/07/31/dew-drop-july-31-2026-4723/"/>
-        <updated>2026-07-31T10:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Building agent teams with Agent Framework, GitHub Copilot CLI and Squad (Shawn Henry & Tamir Dresher)
-Optimizing the frontier performance curve (Mustafa Suleyman)
-Azure Developer CLI (azd) July 2026 (Kristen Womack)
-The Complete Package: Why Debugging Is Only Half the C…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small Joys And Big Adventures (August 2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/</id>
-        <link href="https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"/>
-        <updated>2026-07-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So, I wrote a fiction book. Meet "The Side Project".]]></title>
-        <id>https://blog.maartenballiauw.be/posts/2026-07-31-so-i-wrote-a-fiction-book-meet-the-side-project/</id>
-        <link href="https://blog.maartenballiauw.be/posts/2026-07-31-so-i-wrote-a-fiction-book-meet-the-side-project/"/>
-        <updated>2026-07-31T03:44:05.000Z</updated>
-        <summary type="html"><![CDATA[For as long as I can remember, I’ve been writing non-fiction. Blog posts, documentation, technical guides, a couple of books about NuGet, and ASP.NET MVC 1.0 which still sells one copy per quarter, amazingly. Somewhere in the back of my mind, I have always thought I’d want to write fiction at some point. But about what? Early 2025, working on my own side project, I got the idea for a story, and… I wrote a novel!]]></summary>
-        <author>
-            <name>Maarten Balliauw {blog}</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State of CSS 2024 Results]]></title>
-        <id>https://css-tricks.com/?p=382144</id>
-        <link href="https://css-tricks.com/state-of-css-2024-results/"/>
-        <updated>2024-10-30T16:43:55.000Z</updated>
-        <summary type="html"><![CDATA[The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.
-State of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tooltip Best Practices]]></title>
-        <id>https://css-tricks.com/?p=382082</id>
-        <link href="https://css-tricks.com/tooltip-best-practices/"/>
-        <updated>2024-10-29T14:01:18.000Z</updated>
-        <summary type="html"><![CDATA[What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices.
-Tooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come to the light-dark() Side]]></title>
-        <id>https://css-tricks.com/?p=382039</id>
-        <link href="https://css-tricks.com/come-to-the-light-dark-side/"/>
-        <updated>2024-10-25T14:08:20.000Z</updated>
-        <summary type="html"><![CDATA[You’d be forgiven for thinking coding up both a dark and a light mode at once is a lot of work. You have to remember @media queries based on prefers-color-scheme as well as extra complications that arise when letting visitors …
-Come to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sara Joy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Left Half and Right Half Layout – Many Different Ways]]></title>
-        <id>http://css-tricks.com/?p=198099</id>
-        <link href="https://css-tricks.com/left-and-right/"/>
-        <updated>2024-10-25T11:51:02.000Z</updated>
-        <summary type="html"><![CDATA[A whole bunch of years ago, we posted on this idea here on CSS-Tricks. We figured it was time to update that and do the subject justice.
-Imagine a scenario where you need to split a layout in half. Content …
-Left Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can use text-wrap: balance; on icons]]></title>
-        <id>https://css-tricks.com/?p=382065</id>
-        <link href="https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/"/>
-        <updated>2024-10-24T14:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Terence Eden on using text-wrap: balance for more than headings:
-But the name is, I think, slightly misleading. It doesn’t only work on text. It will work on any content. For example – I have a row of icons at 
-…
-You can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clarifying the Relationship Between Popovers and Dialogs]]></title>
-        <id>https://css-tricks.com/?p=382008</id>
-        <link href="https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/"/>
-        <updated>2024-10-23T13:20:46.000Z</updated>
-        <summary type="html"><![CDATA[The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …
-Clarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clamp it! VS Code extension]]></title>
-        <id>https://css-tricks.com/?p=381992</id>
-        <link href="https://css-tricks.com/clamp-it-vs-code-extension/"/>
-        <updated>2024-10-23T13:15:20.000Z</updated>
-        <summary type="html"><![CDATA[There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …
-Clamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleash the Power of Scroll-Driven Animations]]></title>
-        <id>https://css-tricks.com/?p=381613</id>
-        <link href="https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/"/>
-        <updated>2024-10-21T13:50:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …
-Unleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Combining forces, GSAP & Webflow!]]></title>
-        <id>https://css-tricks.com/?p=381832</id>
-        <link href="https://css-tricks.com/combining-forces-gsap-webflow/"/>
-        <updated>2024-10-18T13:09:22.000Z</updated>
-        <summary type="html"><![CDATA[Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.
-If you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …
-Combining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering theme.json: You might not need CSS]]></title>
-        <id>https://css-tricks.com/?p=381882</id>
-        <link href="https://css-tricks.com/mastering-theme-json-you-might-not-need-css/"/>
-        <updated>2024-10-18T11:36:04.000Z</updated>
-        <summary type="html"><![CDATA[I totally get the goal here: make CSS more modular and scalable in WordPress. Put all your global WordPress theme styles in a single file, including variations. JSON offers a nicely structured syntax that’s easily consumable by JavaScript, thereby allowing …
-Mastering theme.json: You might not need CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Background Overflow With Inherited Border Radii]]></title>
-        <id>https://css-tricks.com/?p=381763</id>
-        <link href="https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/"/>
-        <updated>2024-10-17T15:24:02.000Z</updated>
-        <summary type="html"><![CDATA[One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …
-Solving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Close, Exit, Cancel: How to End User Interactions Well]]></title>
-        <id>https://css-tricks.com/?p=381817</id>
-        <link href="https://css-tricks.com/close-exit-cancel-how-to-end-user-interactions-well/"/>
-        <updated>2024-10-16T14:12:57.000Z</updated>
-        <summary type="html"><![CDATA[What’s in a word? Actions. In the realm of user interfaces, a word is construed as the telltale of a control’s action. Sometimes it points us in the correct direction, and sometimes it leads us astray. We talk a lot …
-Close, Exit, Cancel: How to End User Interactions Well originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Tricks That Use Only One Gradient]]></title>
-        <id>https://css-tricks.com/?p=381773</id>
-        <link href="https://css-tricks.com/css-tricks-that-use-only-one-gradient/"/>
-        <updated>2024-10-11T21:48:01.000Z</updated>
-        <summary type="html"><![CDATA[CSS gradients have been so long that there’s no need to rehash what they are and how to use them. You have surely encountered them at some point in your front-end journey, and if you follow me, you also …
-CSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WPGraphQL Becomes a Canonical Plugin: My Move to Automattic]]></title>
-        <id>https://css-tricks.com/?p=381752</id>
-        <link href="https://css-tricks.com/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic/"/>
-        <updated>2024-10-10T14:00:32.000Z</updated>
-        <summary type="html"><![CDATA[It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.
-I’m …
-WPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024: More CSS At-Rules Than the Past Decade Combined]]></title>
-        <id>https://css-tricks.com/?p=381678</id>
-        <link href="https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/"/>
-        <updated>2024-10-09T14:10:33.000Z</updated>
-        <summary type="html"><![CDATA[More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …
-2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Hour With Heydon Pickering]]></title>
-        <id>https://css-tricks.com/?p=381729</id>
-        <link href="https://css-tricks.com/smashing-hour-with-heydon-pickering/"/>
-        <updated>2024-10-08T15:22:02.000Z</updated>
-        <summary type="html"><![CDATA[I sat down with Heydon Pickering in the most recent episode of the Smashing Hour. Full transparency: I was nervous as heck. I’ve admired Heydon’s work for years, and even though we run in similar circles, this was our first …
-Smashing Hour With Heydon Pickering originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recipes for Detecting Support for CSS At-Rules]]></title>
-        <id>https://css-tricks.com/?p=381674</id>
-        <link href="https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/"/>
-        <updated>2024-10-07T19:46:07.000Z</updated>
-        <summary type="html"><![CDATA[The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …
-Recipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
