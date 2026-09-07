@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-09-06T04:09:24.235Z</updated>
+    <updated>2026-09-07T04:08:21.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[.NET Object Pooling: Reducing Allocation Costs and GC Pressure]]></title>
+        <id>https://dotnettips.com/?p=18403</id>
+        <link href="https://dotnettips.com/2026/09/06/net-object-pooling-reducing-allocation-costs-and-gc-pressure/"/>
+        <updated>2026-09-06T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Object pooling can reduce allocations, lower GC pressure, and improve .NET performance—but only when used for the right workloads.
+
+In my latest subscriber article, I compare custom object pools with DefaultObjectPool and explain when pooling makes sense.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When Cached State Isn't Enough: Adding PostgreSQL with .NET Aspire]]></title>
         <id>https://sahansera.dev/when-cached-state-isnt-enough-postgresql-aspire/</id>
@@ -1048,41 +1060,6 @@ ZoomIt for Mac: How AI Po…]]></summary>
         <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
         <author>
             <name>Peter Ritchie's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
-        <id>https://css-tricks.com/?p=394753</id>
-        <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
-        <updated>2026-08-07T14:06:43.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.
-Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Baseline Can Help You Ship Less JavaScript]]></title>
-        <id>https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/</id>
-        <link href="https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"/>
-        <updated>2026-08-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jad Joubran)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - August 7, 2026 (#4728)]]></title>
-        <id>https://alvinashcraft.com/2026/08/07/dew-drop-august-7-2026-4728/</id>
-        <link href="https://alvinashcraft.com/2026/08/07/dew-drop-august-7-2026-4728/"/>
-        <updated>2026-08-07T10:40:52.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Control iOS and Android Emulators Inside GitHub Copilot app Canvas (James Montemagno)
-Test reporting in Microsoft.Testing.Platform: from red build to root cause (Amaury Levé)
-Improving GPT-5.6 Sol in ChatGPT—and expanding access for free users (OpenAI Team)
-Announcing t…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
         </author>
     </entry>
 </feed>
