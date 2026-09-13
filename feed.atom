@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-09-12T04:11:49.577Z</updated>
+    <updated>2026-09-13T05:04:59.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to find LM Studio plugins and MCP servers]]></title>
+        <id>https://sahansera.dev/finding-lm-studio-plugins/</id>
+        <link href="https://sahansera.dev/finding-lm-studio-plugins/"/>
+        <updated>2026-09-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Browse native LM Studio plugins and MCP servers, find tools by capability, and check what you need before adding them to your local setup.]]></summary>
+        <author>
+            <name>sahansera.dev RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide]]></title>
         <id>6aa47c59141bdd8e9f05b331</id>
@@ -899,61 +909,6 @@ Explore What’s New in SkiaSharp 4.0 (Sam Basu)
         <summary type="html"><![CDATA[Three replicas raced the same Prisma migration. A PostgreSQL advisory lock coordinator fixes it when your platform cannot run a pre-deploy Job.]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - August 13, 2026 (#4732)]]></title>
-        <id>https://alvinashcraft.com/2026/08/13/dew-drop-august-13-2026-4732/</id>
-        <link href="https://alvinashcraft.com/2026/08/13/dew-drop-august-13-2026-4732/"/>
-        <updated>2026-08-13T10:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Write your first prompt with the GitHub Copilot app (Kayla Cinnamon)
-Instructions Hygiene – What Frontier Models Still Need You to Say (Wendy Breiding)
-Introducing Fisher: Sqlite Backed Document Db & Event Store Critter (Jeremy D. Miller)
-From Sync APIs to support for t…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New EU Guidelines For AI Labelling]]></title>
-        <id>https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/</id>
-        <link href="https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"/>
-        <updated>2026-08-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Azure AI Foundry resource for .NET Azure.AI.TextAnalytics and Azure.AI.Translation.Text Clients]]></title>
-        <id>https://jaliyaudagedara.blogspot.com/2026/08/using-azure-ai-foundry-resource-for-net.html</id>
-        <link href="https://jaliyaudagedara.blogspot.com/2026/08/using-azure-ai-foundry-resource-for-net.html"/>
-        <updated>2026-08-13T06:28:37.735Z</updated>
-        <summary type="html"><![CDATA[In this post, let's see how we can move .NET clients from consuming Azure AI Language and Azure AI Translator&nbsp;resource onto a single Azure AI Foundry resource.I had some .NET code using TextAnalyticsClient (Azure.AI.TextAnalytics) and TextTranslationClient (Azure.AI.Translation.Text). These were pointing to two different Azure AI resources.
-// API Kind: TextAnalytics
-https://]]></summary>
-        <author>
-            <name>Jaliya's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling an Agentic Coding SDK: What Concurrency Actually Costs]]></title>
-        <id>https://sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/</id>
-        <link href="https://sahansera.dev/scaling-an-agentic-coding-sdk-what-concurrency-actually-costs/"/>
-        <updated>2026-08-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Running agent jobs in parallel is not free. Measuring the real memory, process and shared-state costs of concurrency in an agentic coding SDK.]]></summary>
-        <author>
-            <name>sahansera.dev RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trading Keyboards for Keyboards: A Look Back at My Recording Studio Days]]></title>
-        <id>https://blog.codewithdan.com/trading-keyboards-for-keyboards/</id>
-        <link href="https://blog.codewithdan.com/trading-keyboards-for-keyboards/"/>
-        <updated>2026-08-13T00:00:00.000Z</updated>
-        <author>
-            <name>Code with Dan</name>
         </author>
     </entry>
 </feed>
