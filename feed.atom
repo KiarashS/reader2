@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-09-13T05:04:59.617Z</updated>
+    <updated>2026-09-14T04:31:04.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Task vs. ValueTask: Reducing Async Allocations and Boosting Performance]]></title>
+        <id>https://dotnettips.com/?p=18454</id>
+        <link href="https://dotnettips.com/2026/09/13/task-vs-valuetask-reducing-async-allocations-and-boosting-performance/"/>
+        <updated>2026-09-13T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When writing asynchronous methods, consider returning ValueTask instead of Task for performance-sensitive scenarios, especially when methods frequently complete synchronously. ValueTask can improve speed and reduce memory allocation, but it comes with usage restrictions. Use Task as a default while applying ValueTask selectively after proper testing.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to find LM Studio plugins and MCP servers]]></title>
         <id>https://sahansera.dev/finding-lm-studio-plugins/</id>
@@ -873,42 +883,6 @@ Dark mode toggles: two states are enough originally handwritten and published wi
         <summary type="html"><![CDATA[The post discusses two methods for initializing objects in C#: traditional property assignment and object initializers. While the traditional method is slightly faster, object initializers enhance code readability. It recommends using object initializers for maintainability, reserving traditional assignments for performance-critical scenarios where benchmarks indicate a significant advantage.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More]]></title>
-        <id>https://css-tricks.com/?p=396557</id>
-        <link href="https://css-tricks.com/whats-important-17/"/>
-        <updated>2026-08-14T14:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.
-What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - August 14, 2026 (#4733)]]></title>
-        <id>https://alvinashcraft.com/2026/08/14/dew-drop-august-14-2026-4733/</id>
-        <link href="https://alvinashcraft.com/2026/08/14/dew-drop-august-14-2026-4733/"/>
-        <updated>2026-08-14T10:34:25.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Microsoft Copilot app – one app, new name, new icon, new URL! (Vesa Nopanen)
-Who spent all the tokens? Real-time, run-scoped cost control for AI agents (Tisha Chawla & Susheem Koul)
-Windows App SDK v2.4.0 Release (agniuks)
-Explore What’s New in SkiaSharp 4.0 (Sam Basu)
-…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Three Kubernetes Pods Try to Run One Database Migration]]></title>
-        <id>https://sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/</id>
-        <link href="https://sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/"/>
-        <updated>2026-08-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Three replicas raced the same Prisma migration. A PostgreSQL advisory lock coordinator fixes it when your platform cannot run a pre-deploy Job.]]></summary>
-        <author>
-            <name>sahansera.dev RSS Feed</name>
         </author>
     </entry>
 </feed>

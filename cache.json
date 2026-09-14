@@ -110,16 +110,6 @@
           "wordCount": 3873,
           "title": "Dark mode toggles: two states are enough",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396557",
-          "author": "Daniel Schwarz",
-          "description": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\nWhat’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-17/",
-          "publishedOn": "2026-08-14T14:01:51.000Z",
-          "wordCount": 3699,
-          "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
         }
       ]
     },
@@ -134,7 +124,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5454,
+          "wordCount": 5453,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -149,7 +139,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4574,
+          "wordCount": 4571,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -164,7 +154,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4762,
+          "wordCount": 4749,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -179,7 +169,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5912,
+          "wordCount": 5910,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -209,7 +199,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5716,
+          "wordCount": 5711,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         }
@@ -256,7 +246,7 @@
           "description": "Here's a program restricting itself, then trying to read two files: without landlock:   read /etc/hostname            ok   read /tmp/secret.txt          ok with landlock, /etc allowed:   read",
           "link": "https://www.freecodecamp.org/news/how-to-sandbox-a-linux-process-with-landlock-no-root-required/",
           "publishedOn": "2026-09-11T21:42:27.000Z",
-          "wordCount": 3336,
+          "wordCount": 3337,
           "title": "How to Sandbox a Linux Process with Landlock, No Root Required",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d2e4d0c7-23b4-4d74-a41c-8102fa298e6a.png"
         },
@@ -399,12 +389,22 @@
       "siteUrl": "https://dotnettips.com",
       "articles": [
         {
+          "id": "https://dotnettips.com/?p=18454",
+          "author": "David (dotNetDave) McCarter",
+          "description": "When writing asynchronous methods, consider returning ValueTask instead of Task for performance-sensitive scenarios, especially when methods frequently complete synchronously. ValueTask can improve speed and reduce memory allocation, but it comes with usage restrictions. Use Task as a default while applying ValueTask selectively after proper testing.",
+          "link": "https://dotnettips.com/2026/09/13/task-vs-valuetask-reducing-async-allocations-and-boosting-performance/",
+          "publishedOn": "2026-09-13T06:00:00.000Z",
+          "wordCount": 3570,
+          "title": "Task vs. ValueTask: Reducing Async Allocations and Boosting Performance",
+          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-16-2026-10_11_06-AM.png?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://dotnettips.com/?p=18964",
           "author": "David (dotNetDave) McCarter",
           "description": "The TaskExtensions class in DotNetTips.Spargine.Extensions simplifies asynchronous programming in .NET by offering concise methods for managing common tasks like fire-and-forget operations, exception handling, and timeouts. These extensions enhance code clarity and reduce repetitive patterns, allowing developers to handle background tasks and errors more effectively while maintaining readability.",
           "link": "https://dotnettips.com/2026/09/09/boost-your-net-projects-with-spargine-safer-and-simpler-async-code-with-taskextensions/",
           "publishedOn": "2026-09-09T06:00:00.000Z",
-          "wordCount": 4849,
+          "wordCount": 5029,
           "title": "Boost Your .NET Projects with Spargine: Safer and Simpler Async Code with TaskExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-4-2026-09_10_52-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -414,7 +414,7 @@
           "description": "Object pooling can reduce allocations, lower GC pressure, and improve .NET performance—but only when used for the right workloads.\n\nIn my latest subscriber article, I compare custom object pools with DefaultObjectPool and explain when pooling makes sense.",
           "link": "https://dotnettips.com/2026/09/06/net-object-pooling-reducing-allocation-costs-and-gc-pressure/",
           "publishedOn": "2026-09-06T06:00:00.000Z",
-          "wordCount": 3279,
+          "wordCount": 3564,
           "title": ".NET Object Pooling: Reducing Allocation Costs and GC Pressure",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-12-2026-06_39_12-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -484,7 +484,7 @@
           "description": "The post discusses two methods for initializing objects in C#: traditional property assignment and object initializers. While the traditional method is slightly faster, object initializers enhance code readability. It recommends using object initializers for maintainability, reserving traditional assignments for performance-critical scenarios where benchmarks indicate a significant advantage.",
           "link": "https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/",
           "publishedOn": "2026-08-16T06:00:00.000Z",
-          "wordCount": 4488,
+          "wordCount": 4662,
           "title": "General Performance: Object Initializers – Readability Versus Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-06_53_05-AM.png?fit=1200%2C800&ssl=1"
         }
@@ -567,16 +567,6 @@
           "wordCount": 3476,
           "title": "Replacing Sharp with WASM: How a Hidden SVG Dependency Broke Our Rendering Pipeline",
           "imageUrl": "https://sahansera.dev/_astro/replacing-sharp-with-wasm-hidden-svg-dependency.DdUtoCtj_Z2nI3GW.jpg"
-        },
-        {
-          "id": "https://sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/",
-          "author": null,
-          "description": "Three replicas raced the same Prisma migration. A PostgreSQL advisory lock coordinator fixes it when your platform cannot run a pre-deploy Job.",
-          "link": "https://sahansera.dev/when-three-kubernetes-pods-try-to-run-one-database-migration/",
-          "publishedOn": "2026-08-14T00:00:00.000Z",
-          "wordCount": 3005,
-          "title": "When Three Kubernetes Pods Try to Run One Database Migration",
-          "imageUrl": "https://sahansera.dev/_astro/when-three-kubernetes-pods-try-to-run-one-database-migration.C81n9xlL_Z1c2qyY.jpg"
         }
       ]
     },
@@ -764,16 +754,6 @@
           "wordCount": 72,
           "title": "Dew Drop - August 17, 2026 (#4734)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/08/14/dew-drop-august-14-2026-4733/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nMicrosoft Copilot app – one app, new name, new icon, new URL! (Vesa Nopanen)\nWho spent all the tokens? Real-time, run-scoped cost control for AI agents (Tisha Chawla & Susheem Koul)\nWindows App SDK v2.4.0 Release (agniuks)\nExplore What’s New in SkiaSharp 4.0 (Sam Basu)\n…",
-          "link": "https://alvinashcraft.com/2026/08/14/dew-drop-august-14-2026-4733/",
-          "publishedOn": "2026-08-14T10:34:25.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - August 14, 2026 (#4733)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -821,7 +801,7 @@
           "description": ".NET 11 Release Candidate 1 is out, and that means we are getting really close to the finish line. Next month we should get RC2, and then in November the GA release at .NET Conf 2026. You can read more about RC1 here: Announcing .NET 11 Release Candidate 1.\n\nIn this post, let's have a look at some of the nice improvements that are coming to EF Core 11.0 Migrations. There are quite a few of them,",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/ef-core-110-whats-new-with-migrations.html",
           "publishedOn": "2026-09-11T10:33:48.448Z",
-          "wordCount": 5076,
+          "wordCount": null,
           "title": "EF Core 11.0: What's New with Migrations",
           "imageUrl": null
         },
@@ -1008,7 +988,7 @@
           "description": "Back in 2022 I announced a new Q# community project - a proper, standalone TextMate grammar for Q#, built with a real build pipeline, test suite and multiple output formats, rather than the handful of regular expressions that the QDK extension shipped with at the time. It has quietly lived in the qsharp-community organization ever since.\nToday I’m happy to report that the grammar has “graduated” - a snapshot of it is now officially vendored into the QDK extension itself, replacing the original hand-written grammar the extension used to ship with, and it already shipped in v1.31.",
           "link": "https://www.strathweb.com/2026/08/qsharp-community-textmate-grammar-now-part-of-qdk-extension/",
           "publishedOn": "2026-08-25T08:00:00.000Z",
-          "wordCount": 1042,
+          "wordCount": null,
           "title": "The Q# Community TextMate Grammar Is Now Part of the QDK Extension",
           "imageUrl": null
         }
