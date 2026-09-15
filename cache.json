@@ -124,7 +124,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5453,
+          "wordCount": 5443,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -139,7 +139,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4571,
+          "wordCount": 4574,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -154,7 +154,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4749,
+          "wordCount": 4867,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -169,7 +169,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5910,
+          "wordCount": 5914,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -199,7 +199,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5711,
+          "wordCount": 5714,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         }
@@ -210,6 +210,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aa873c5c1f02b411d54db2f",
+          "author": "Umair Mirza",
+          "description": "Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia",
+          "link": "https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/",
+          "publishedOn": "2026-09-14T22:23:01.000Z",
+          "wordCount": 2692,
+          "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1443bfb4-581b-457b-afc3-7a85dd5fb3be.png"
+        },
+        {
+          "id": "6aa8200e59dfce663a0e73bd",
+          "author": "Hugo Teijiz",
+          "description": "The most dangerous moment in a legacy migration isn't necessarily when you start writing the new implementation. It's when the new implementation looks finished. The code compiles, the tests pass, the",
+          "link": "https://www.freecodecamp.org/news/differential-testing-legacy-migration/",
+          "publishedOn": "2026-09-14T16:25:50.000Z",
+          "wordCount": 5317,
+          "title": "How to Use Differential Testing During a Legacy Migration",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6717bbb6-16b9-4fc1-8bfe-7381a3024f73.png"
+        },
+        {
+          "id": "6aa80baffb20ceef80e8afa4",
+          "author": "Abisoye Alli-Balogun",
+          "description": "Feature flags are one of the most powerful tools in a team's deployment arsenal. They decouple deployment from release, meaning your CI/CD pipeline can push code to production servers on every merge,",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/",
+          "publishedOn": "2026-09-14T14:58:55.000Z",
+          "wordCount": 3704,
+          "title": "How to Implement Feature Flags for Safe and Gradual Rollouts",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c454c134-d09d-4d92-b0ba-99cbf685fe67.png"
+        },
+        {
+          "id": "6aa7fd8e205aecde15149ec4",
+          "author": "Anamol Rajbhandari",
+          "description": "American shoppers spent about $29 billion on gift cards over the 2025 holiday season, and 43 percent of them bought at least one. This put gift cards at the top of what people said they wanted accordi",
+          "link": "https://www.freecodecamp.org/news/how-to-design-gifting-features-people-actually-use-evidence-from-58-apps/",
+          "publishedOn": "2026-09-14T13:58:38.000Z",
+          "wordCount": 6335,
+          "title": "How to Design Gifting Features People Actually Use: Evidence from 58 Apps",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/94d818a8-6ce2-4335-8d55-5f93907186de.png"
+        },
         {
           "id": "6aa47c59141bdd8e9f05b331",
           "author": "Solomon Amos",
@@ -269,46 +309,6 @@
           "wordCount": 6776,
           "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6e470b44-a02d-440b-a576-e12de96a3b68.png"
-        },
-        {
-          "id": "6aa41cc6739dc5dd502bad21",
-          "author": "Manish Shivanandhan",
-          "description": "Malware used to be simple to describe. A virus attached itself to a file, and antivirus software removed it. That world is gone. Today, a single attack can steal your passwords, lock up your photos, w",
-          "link": "https://www.freecodecamp.org/news/how-ai-is-changing-malware-detection/",
-          "publishedOn": "2026-09-11T15:22:46.000Z",
-          "wordCount": 2854,
-          "title": "How AI Is Changing Malware Detection: From Traditional Antivirus to Next-Gen Protection",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/891dc84b-49d3-4823-bf82-fc5acac84c43.png"
-        },
-        {
-          "id": "6aa41b2dad98007dc3d90177",
-          "author": "Shradha Puri",
-          "description": "Your birthday tells you how many years you've been alive. But it doesn't necessarily tell you how your body is aging. Two people can be the same age and still have very different levels of cardiovascu",
-          "link": "https://www.freecodecamp.org/news/apple-watch-health-age-whats-it-actually-measuring/",
-          "publishedOn": "2026-09-11T15:15:57.000Z",
-          "wordCount": 3956,
-          "title": "Apple Watch Can Now Estimate Your Health Age, But What's It Actually Measuring?",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c264e43d-417a-47f2-bb5d-46ca7ced815e.png"
-        },
-        {
-          "id": "6aa419635b994140774d7f9c",
-          "author": "Atuoha Anthony",
-          "description": "Almost everyone has snapped two LEGO bricks together at some point, even without owning a single set as an adult. You press one brick down onto another, feel it click, and it holds. You likely never o",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-lego-architecture-in-flutter-handbook/",
-          "publishedOn": "2026-09-11T15:08:19.000Z",
-          "wordCount": 8400,
-          "title": "How to Implement LEGO Architecture in Flutter [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b53122ab-f3d5-4b7e-a4d1-6e42e01cbe02.png"
-        },
-        {
-          "id": "6aa41926c7a41a4b7462a57d",
-          "author": "Rudrendu Paul",
-          "description": "On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa",
-          "link": "https://www.freecodecamp.org/news/what-is-an-agent-harness/",
-          "publishedOn": "2026-09-11T15:07:18.000Z",
-          "wordCount": 5692,
-          "title": "What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c85a5e6e-104a-49a0-984d-e7c2dd141d22.png"
         }
       ]
     },
@@ -355,6 +355,16 @@
       "siteUrl": "https://weblog.west-wind.com/",
       "articles": [
         {
+          "id": "29ve0fkm6v0k",
+          "author": "(Rick Strahl)",
+          "description": "In many of my applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat exa…",
+          "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
+          "publishedOn": "2026-09-14T11:32:46.000Z",
+          "wordCount": 2224,
+          "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
+        },
+        {
           "id": "u33738s1e975",
           "author": "(Rick Strahl)",
           "description": "Classic native Date values in JavaScript are internally represented as UTC dates. However, when you display values they are by default shown as local date/time values. I've run into this recently again with an application that was returning a mix of UTC and non-UTC dates from the server to the browser, causing some confusion. At that point I realized I was being inconsistent with my use of the my date display functions, and here I am reviewing various Date formatting and Date conversion operations.\nJavaScript's core behavior is consistent once you separate two different concepts:\nThe instant represented by a Date\nThe timezone used to display that instant\nAn instant is essentially an instant in time expressed in an offset since the Unix Epoch:\nJanuary 1, 1970 00:00:00 UTC\nThe instant is rep…",
@@ -371,6 +381,16 @@
       "feedUrl": "https://feeds.feedburner.com/RickStrahl",
       "siteUrl": "https://weblog.west-wind.com/",
       "articles": [
+        {
+          "id": "29ve0fkm6v0k",
+          "author": "(Rick Strahl)",
+          "description": "In many of my applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat exa…",
+          "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
+          "publishedOn": "2026-09-14T11:32:46.000Z",
+          "wordCount": 2220,
+          "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
+          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
+        },
         {
           "id": "u33738s1e975",
           "author": "(Rick Strahl)",
@@ -404,7 +424,7 @@
           "description": "The TaskExtensions class in DotNetTips.Spargine.Extensions simplifies asynchronous programming in .NET by offering concise methods for managing common tasks like fire-and-forget operations, exception handling, and timeouts. These extensions enhance code clarity and reduce repetitive patterns, allowing developers to handle background tasks and errors more effectively while maintaining readability.",
           "link": "https://dotnettips.com/2026/09/09/boost-your-net-projects-with-spargine-safer-and-simpler-async-code-with-taskextensions/",
           "publishedOn": "2026-09-09T06:00:00.000Z",
-          "wordCount": 5029,
+          "wordCount": 4849,
           "title": "Boost Your .NET Projects with Spargine: Safer and Simpler Async Code with TaskExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-4-2026-09_10_52-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -414,7 +434,7 @@
           "description": "Object pooling can reduce allocations, lower GC pressure, and improve .NET performance—but only when used for the right workloads.\n\nIn my latest subscriber article, I compare custom object pools with DefaultObjectPool and explain when pooling makes sense.",
           "link": "https://dotnettips.com/2026/09/06/net-object-pooling-reducing-allocation-costs-and-gc-pressure/",
           "publishedOn": "2026-09-06T06:00:00.000Z",
-          "wordCount": 3564,
+          "wordCount": 3279,
           "title": ".NET Object Pooling: Reducing Allocation Costs and GC Pressure",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-12-2026-06_39_12-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -434,7 +454,7 @@
           "description": "Spargine's ThreadPoolHelper simplifies concurrent execution in .NET applications by providing reusable APIs that manage thread pool operations. It supports single and batch operations, bounded concurrency, timeout management, cooperative cancellation, and non-throwing execution. By centralizing common patterns, ThreadPoolHelper enhances maintainability and reduces repetitive infrastructure code for developers.",
           "link": "https://dotnettips.com/2026/09/02/boost-your-net-projects-with-spargine-simplify-thread-pool-execution-with-threadpoolhelper/",
           "publishedOn": "2026-09-02T06:00:00.000Z",
-          "wordCount": 4993,
+          "wordCount": 5027,
           "title": "Boost Your .NET Projects with Spargine: Simplify Thread Pool Execution with ThreadPoolHelper",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-8-2026-09_24_41-AM.png?fit=1200%2C801&ssl=1"
         },
@@ -484,7 +504,7 @@
           "description": "The post discusses two methods for initializing objects in C#: traditional property assignment and object initializers. While the traditional method is slightly faster, object initializers enhance code readability. It recommends using object initializers for maintainability, reserving traditional assignments for performance-critical scenarios where benchmarks indicate a significant advantage.",
           "link": "https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/",
           "publishedOn": "2026-08-16T06:00:00.000Z",
-          "wordCount": 4662,
+          "wordCount": 4488,
           "title": "General Performance: Object Initializers – Readability Versus Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-06_53_05-AM.png?fit=1200%2C800&ssl=1"
         }
@@ -801,7 +821,7 @@
           "description": ".NET 11 Release Candidate 1 is out, and that means we are getting really close to the finish line. Next month we should get RC2, and then in November the GA release at .NET Conf 2026. You can read more about RC1 here: Announcing .NET 11 Release Candidate 1.\n\nIn this post, let's have a look at some of the nice improvements that are coming to EF Core 11.0 Migrations. There are quite a few of them,",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/ef-core-110-whats-new-with-migrations.html",
           "publishedOn": "2026-09-11T10:33:48.448Z",
-          "wordCount": null,
+          "wordCount": 5076,
           "title": "EF Core 11.0: What's New with Migrations",
           "imageUrl": null
         },
@@ -988,7 +1008,7 @@
           "description": "Back in 2022 I announced a new Q# community project - a proper, standalone TextMate grammar for Q#, built with a real build pipeline, test suite and multiple output formats, rather than the handful of regular expressions that the QDK extension shipped with at the time. It has quietly lived in the qsharp-community organization ever since.\nToday I’m happy to report that the grammar has “graduated” - a snapshot of it is now officially vendored into the QDK extension itself, replacing the original hand-written grammar the extension used to ship with, and it already shipped in v1.31.",
           "link": "https://www.strathweb.com/2026/08/qsharp-community-textmate-grammar-now-part-of-qdk-extension/",
           "publishedOn": "2026-08-25T08:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 1042,
           "title": "The Q# Community TextMate Grammar Is Now Part of the QDK Extension",
           "imageUrl": null
         }
