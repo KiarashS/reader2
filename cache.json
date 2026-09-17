@@ -100,16 +100,6 @@
           "wordCount": 3250,
           "title": "WordPress.com Student Plan",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396545",
-          "author": "Geoff Graham",
-          "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
-          "publishedOn": "2026-08-17T14:15:50.000Z",
-          "wordCount": 3873,
-          "title": "Dark mode toggles: two states are enough",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
         }
       ]
     },
@@ -119,12 +109,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
+          "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+          "publishedOn": "2026-09-16T13:00:00.000Z",
+          "wordCount": 5021,
+          "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "author": "hello@smashingmagazine.com (Alex Williams)",
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5451,
+          "wordCount": 5560,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -139,7 +144,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4570,
+          "wordCount": 4568,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -154,7 +159,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4744,
+          "wordCount": 4755,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -169,7 +174,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5913,
+          "wordCount": 5909,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -199,7 +204,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5720,
+          "wordCount": 5721,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         }
@@ -210,6 +215,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aaab59285cf18b4c5072002",
+          "author": "Beau Carnes",
+          "description": "Taking a web application from local development to a live, secure production environment can be daunting if you've never looked under the hood. We just published a comprehensive course on the freeCode",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/",
+          "publishedOn": "2026-09-16T15:28:18.000Z",
+          "wordCount": 1224,
+          "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/4fe6aa9d-d362-495b-9100-417e8f9e0323.jpg"
+        },
         {
           "id": "6aa9b46181fb07630380c2e8",
           "author": "Chris Roy",
@@ -299,16 +314,6 @@
           "wordCount": 6335,
           "title": "How to Design Gifting Features People Actually Use: Evidence from 58 Apps",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/94d818a8-6ce2-4335-8d55-5f93907186de.png"
-        },
-        {
-          "id": "6aa47c59141bdd8e9f05b331",
-          "author": "Solomon Amos",
-          "description": "If you write software for anyone who pays UK tax, sooner or later you'll need to talk to HMRC. Making Tax Digital (MTD) for Income Tax went live on 6 April 2026, and it's already mandatory for self-em",
-          "link": "https://www.freecodecamp.org/news/how-to-connect-to-hmrc-making-tax-digital-api/",
-          "publishedOn": "2026-09-11T22:10:33.000Z",
-          "wordCount": 3326,
-          "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3dd244f7-30e5-484e-8552-3938d1555bf3.png"
         }
       ]
     },
@@ -370,7 +375,7 @@
           "description": "In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
           "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": 2432,
+          "wordCount": 2428,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
         },
@@ -397,7 +402,7 @@
           "description": "In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
           "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": 2428,
+          "wordCount": 2432,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
         },
@@ -424,7 +429,7 @@
           "description": "When writing asynchronous methods, consider returning ValueTask instead of Task for performance-sensitive scenarios, especially when methods frequently complete synchronously. ValueTask can improve speed and reduce memory allocation, but it comes with usage restrictions. Use Task as a default while applying ValueTask selectively after proper testing.",
           "link": "https://dotnettips.com/2026/09/13/task-vs-valuetask-reducing-async-allocations-and-boosting-performance/",
           "publishedOn": "2026-09-13T06:00:00.000Z",
-          "wordCount": 3271,
+          "wordCount": 3570,
           "title": "Task vs. ValueTask: Reducing Async Allocations and Boosting Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-16-2026-10_11_06-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -434,7 +439,7 @@
           "description": "The TaskExtensions class in DotNetTips.Spargine.Extensions simplifies asynchronous programming in .NET by offering concise methods for managing common tasks like fire-and-forget operations, exception handling, and timeouts. These extensions enhance code clarity and reduce repetitive patterns, allowing developers to handle background tasks and errors more effectively while maintaining readability.",
           "link": "https://dotnettips.com/2026/09/09/boost-your-net-projects-with-spargine-safer-and-simpler-async-code-with-taskextensions/",
           "publishedOn": "2026-09-09T06:00:00.000Z",
-          "wordCount": 4849,
+          "wordCount": 5029,
           "title": "Boost Your .NET Projects with Spargine: Safer and Simpler Async Code with TaskExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-4-2026-09_10_52-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -474,7 +479,7 @@
           "description": "Range expressions make collection slicing concise, but they can introduce unexpected overhead in hot paths. This subscriber-only article compares several ways to create slices with `Memory`, `Span`, `ReadOnlyMemory`, and `ReadOnlySpan.",
           "link": "https://dotnettips.com/2026/08/30/collection-performance-use-caution-when-using-range-expressions-in-hot-paths-when-collection-slicing/",
           "publishedOn": "2026-08-30T06:00:00.000Z",
-          "wordCount": 3149,
+          "wordCount": 3454,
           "title": "Collection Performance: Use Caution when using Range Expressions in Hot Paths when Collection Slicing",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Jul-2-2026-11_24_43-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -484,7 +489,7 @@
           "description": "DbContextExtensions, part of the DotNetTips.Spargine.Extensions project, offers reusable methods for common Entity Framework Core data-access patterns. It reduces repetitive code and enhances consistency by providing methods for adding, deleting, and managing entities, executing transactions, and performing existence checks. This centralization minimizes maintenance costs and improves code clarity.",
           "link": "https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/",
           "publishedOn": "2026-08-26T06:00:00.000Z",
-          "wordCount": 4707,
+          "wordCount": 4877,
           "title": "Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-9-2026-10_26_40-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -605,6 +610,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/09/16/dew-drop-september-16-2026-4752/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nAspire 13.5.4 (Aspire Team)\nPerformance Improvements in .NET 11 (Stephen Toub)\nIntelligent Terminal 0.2.2572: Faster, Smoother, and More Reliable (Hamza Usmani)\nShare your .NET story with the community (Luis Quintanilla)\nRider and ReSharper 2026.2.2 Are Out! (Alexander …",
+          "link": "https://alvinashcraft.com/2026/09/16/dew-drop-september-16-2026-4752/",
+          "publishedOn": "2026-09-16T18:15:04.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - September 16, 2026 (#4752)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/09/11/dew-drop-september-11-2026-4751/",
           "author": "Alvin Ashcraft",
@@ -774,16 +789,6 @@
           "wordCount": 72,
           "title": "Dew Drop - August 18, 2026 (#4735)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/08/17/dew-drop-august-17-2026-4734/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nWindows App Development CLI v0.6 – create new WinUI applications, sign packages with Azure, and more (Zachary Teutsch) - *Release notes available on *GitHub\nUno Apps Inside of Uno Apps (Steve Bilogan)\nHow to bring your software delivery workflow into GitHub with agent a…",
-          "link": "https://alvinashcraft.com/2026/08/17/dew-drop-august-17-2026-4734/",
-          "publishedOn": "2026-08-17T14:45:31.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - August 17, 2026 (#4734)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -799,12 +804,22 @@
       "siteUrl": "https://blog.maartenballiauw.be/",
       "articles": [
         {
+          "id": "https://blog.maartenballiauw.be/posts/2026-09-16-device-bound-session-credentials-in-aspnet-core/",
+          "author": null,
+          "description": "A session cookie is a bearer token, which is a polite way of saying that whoever holds it is you. Copy the cookie, replay it from another machine, and the server happily serves your account. Nothing about the request proves which device it came from, so a cookie lifted by malware, an XSS payload, or a stray database backup keeps working until it expires. For a long-lived session, that can be weeks.",
+          "link": "https://blog.maartenballiauw.be/posts/2026-09-16-device-bound-session-credentials-in-aspnet-core/",
+          "publishedOn": "2026-09-16T07:00:00.000Z",
+          "wordCount": 2606,
+          "title": "Device Bound Session Credentials in ASP.NET Core",
+          "imageUrl": "https://blog.maartenballiauw.be/posts/2026-09-16-device-bound-session-credentials-in-aspnet-core/index.png"
+        },
+        {
           "id": "https://blog.maartenballiauw.be/posts/2026-09-01-building-a-supply-chain-attack-with-dotnet-and-nuget/",
           "author": null,
           "description": "Every time npm has a supply chain incident, it’s tempting to think “haha, npm had yet another supply chain attack!” and feel safe in .NET land. But the tools to do the same thing in .NET, or at least similar things, are all there. Module initializers, source generators, MSBuild targets, startup hooks. A number of techniques exist to smuggle code into someone’s codebase, and most of them run before your application’s Main method is even called.",
           "link": "https://blog.maartenballiauw.be/posts/2026-09-01-building-a-supply-chain-attack-with-dotnet-and-nuget/",
           "publishedOn": "2026-09-01T06:00:00.000Z",
-          "wordCount": 4299,
+          "wordCount": 4308,
           "title": "Building a Supply Chain Attack with .NET and NuGet",
           "imageUrl": "https://blog.maartenballiauw.be/posts/2026-09-01-building-a-supply-chain-attack-with-dotnet-and-nuget/index.png"
         },
@@ -879,12 +894,22 @@
       "siteUrl": "https://www.jankowskimichal.pl/en/",
       "articles": [
         {
+          "id": "https://www.jankowskimichal.pl/?p=4427",
+          "author": "Michał Jankowski",
+          "description": "Three signals landed close together this cycle, and they all point the same direction: the gap between what agents can do and what organizations can verify is widening faster than most governance frameworks assume. One lab is proposing to slow itself down. One user found out the hard way what an unsupervised agent will do  [...]\nArtykuł Agent autonomy is outrunning governance, and the labs know it pochodzi z serwisu Michał Jankowski.",
+          "link": "https://www.jankowskimichal.pl/en/2026/09/agent-autonomy-is-outrunning-governance-and-the-labs-know-it/",
+          "publishedOn": "2026-09-16T19:06:39.000Z",
+          "wordCount": 3644,
+          "title": "Agent autonomy is outrunning governance, and the labs know it",
+          "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/09/AgentAutonomy.png"
+        },
+        {
           "id": "https://www.jankowskimichal.pl/?p=4424",
           "author": "Michał Jankowski",
           "description": "Two AI agent swarms self-organized without a single line of code authorizing it, within the same month. One surfaced inside OpenAI's own evaluation infrastructure and ended up attacking Hugging Face. The other hit Taiwan's nuclear safety agency, a government email system, and seven energy companies, days earlier. Neither was supposed to happen. Both did, using  [...]\nArtykuł The Isolation Assumption That’s Quietly Breaking Your Agentic AI Roadmap pochodzi z serwisu Michał Jankowski.",
           "link": "https://www.jankowskimichal.pl/en/2026/09/the-isolation-assumption-thats-quietly-breaking-your-agentic-ai-roadmap/",
           "publishedOn": "2026-09-10T05:54:38.000Z",
-          "wordCount": 3249,
+          "wordCount": 3250,
           "title": "The Isolation Assumption That’s Quietly Breaking Your Agentic AI Roadmap",
           "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/09/The-Isolation-Assumption-Thats-Quietly-Breaking-Your-Agentic-AI-Roadmap.png"
         },
@@ -1028,7 +1053,7 @@
           "description": "Back in 2022 I announced a new Q# community project - a proper, standalone TextMate grammar for Q#, built with a real build pipeline, test suite and multiple output formats, rather than the handful of regular expressions that the QDK extension shipped with at the time. It has quietly lived in the qsharp-community organization ever since.\nToday I’m happy to report that the grammar has “graduated” - a snapshot of it is now officially vendored into the QDK extension itself, replacing the original hand-written grammar the extension used to ship with, and it already shipped in v1.31.",
           "link": "https://www.strathweb.com/2026/08/qsharp-community-textmate-grammar-now-part-of-qdk-extension/",
           "publishedOn": "2026-08-25T08:00:00.000Z",
-          "wordCount": 1042,
+          "wordCount": null,
           "title": "The Q# Community TextMate Grammar Is Now Part of the QDK Extension",
           "imageUrl": null
         }
