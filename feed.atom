@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-09-18T04:17:42.720Z</updated>
+    <updated>2026-09-19T04:14:09.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Turn a RECIST Line into a 3D Tumor Segmentation Mask]]></title>
+        <id>6aadae08b3c208add9878388</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-a-recist-line-into-a-3d-tumor-segmentation-mask/"/>
+        <updated>2026-09-18T21:32:56.000Z</updated>
+        <summary type="html"><![CDATA[A radiologist can mark a tumor on a CT scan by drawing a straight line across it. Creating a complete 3D segmentation requires outlining the tumor across the slices where it appears, which is more tim]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Coding Assistants Can Help You Debug Without Writing the Code for You]]></title>
+        <id>6aadadc0f205881df958e884</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/"/>
+        <updated>2026-09-18T21:31:44.000Z</updated>
+        <summary type="html"><![CDATA[AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth]]></summary>
+        <author>
+            <name>GAYATHRI BOLINENI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prevent Poisoned GitHub Actions Dependencies]]></title>
+        <id>6aad60c103851fe98f2df4a2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/"/>
+        <updated>2026-09-18T16:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Your workflow uses actions/checkout@v4. Today, that tag points to a vetted release. Tomorrow, a compromised maintainer or attacker moves the tag to malicious code. Your pipeline runs it with access to]]></summary>
+        <author>
+            <name>ILYAS RUFAI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript]]></title>
+        <id>6aad5cf52b32e1bee69c90a8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/"/>
+        <updated>2026-09-18T15:47:01.000Z</updated>
+        <summary type="html"><![CDATA[High-resolution images look great, but they can significantly slow down page load times and consume massive amounts of storage. While backend compression tools are common, building a client-side image]]></summary>
+        <author>
+            <name>Bansidhar Kadiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite]]></title>
+        <id>6aac7747d406d7c207351312</id>
+        <link href="https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/"/>
+        <updated>2026-09-17T23:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy]]></title>
         <id>6aac2aabd02a5d838577063a</id>
@@ -103,26 +153,6 @@ Rider and ReSharper 2026.2.2 Are Out! (Alexander …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's New in macOS 27 for Developers?]]></title>
-        <id>6aa9b21e85e19ac0f866ed24</id>
-        <link href="https://www.freecodecamp.org/news/whats-new-in-macos-27-for-developers/"/>
-        <updated>2026-09-15T21:01:18.000Z</updated>
-        <summary type="html"><![CDATA[macOS 27 Golden Gate is here. Apple released it September 14, 2026, as a free upgrade for every Mac that can run it. I'll show you what actually changes for developers in macOS 27, how to upgrade with]]></summary>
-        <author>
-            <name>Daniel Kehoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff]]></title>
-        <id>6aa96af3f2afbe5bd755abd1</id>
-        <link href="https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/"/>
-        <updated>2026-09-15T15:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Web Real-Time Communication (or WebRTC) is the open standard browsers use to send audio, video, and data straight to each other. There's no plugin or native app, nothing beyond an API that every brows]]></summary>
-        <author>
-            <name>Karan Pratap Singh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[C#: Using TimeProvider and FakeTimeProvider]]></title>
         <id>https://jaliyaudagedara.blogspot.com/2026/09/c-using-timeprovider-and.html</id>
         <link href="https://jaliyaudagedara.blogspot.com/2026/09/c-using-timeprovider-and.html"/>
@@ -164,36 +194,6 @@ Rider and ReSharper 2026.2.2 Are Out! (Alexander …]]></summary>
         <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
         <author>
             <name>Peter Ritchie's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests]]></title>
-        <id>6aa873c5c1f02b411d54db2f</id>
-        <link href="https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/"/>
-        <updated>2026-09-14T22:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia]]></summary>
-        <author>
-            <name>Umair Mirza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Differential Testing During a Legacy Migration]]></title>
-        <id>6aa8200e59dfce663a0e73bd</id>
-        <link href="https://www.freecodecamp.org/news/differential-testing-legacy-migration/"/>
-        <updated>2026-09-14T16:25:50.000Z</updated>
-        <summary type="html"><![CDATA[The most dangerous moment in a legacy migration isn't necessarily when you start writing the new implementation. It's when the new implementation looks finished. The code compiles, the tests pass, the]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Feature Flags for Safe and Gradual Rollouts]]></title>
-        <id>6aa80baffb20ceef80e8afa4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/"/>
-        <updated>2026-09-14T14:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Feature flags are one of the most powerful tools in a team's deployment arsenal. They decouple deployment from release, meaning your CI/CD pipeline can push code to production servers on every merge,]]></summary>
-        <author>
-            <name>Abisoye Alli-Balogun</name>
         </author>
     </entry>
     <entry>
@@ -615,6 +615,20 @@ Artykuł When “Authorized Testing” Becomes the Attack Vector: What Agentic A
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits]]></title>
+        <id>https://www.hanselman.com/blog/post/a2a687b7-45ce-46fb-aa23-bd2a8cf810b5</id>
+        <link href="http://feeds.hanselman.com/~/968351264/0/scotthanselman~Debugging-my-new-network-when-Gigabit-Ethernet-Runs-at-Megabits"/>
+        <updated>2026-08-27T15:25:48.000Z</updated>
+        <summary type="html"><![CDATA[I've been moving my home storage over to a UniFi UNAS Pro 8 as part of a larger homelab moderization. My main IRONHEART (the ultimate PC from a few years back) desktop now has an Intel E610-XT2 10GbE card, the NAS is on 10GbE, and there's a Minisforum MS-01 miniPC on the same network with a 10GbE SFP+ connection running Immich and Portainer and a few other things.
+
+Everything says 10 gigabit. Windows says 10 gigabit. UniFi says 10 gigabit. SMB copies are using the correct NIC but my file copies are running at around 100 to 200 megabits per second which is sad making.
+
+Naturally, I blamed the NAS, and the spinning rust within. The UNAS has six 16 TB spinning disks in RAID 6 and a pair of NVMe SSDs being used as cache. I'm also running Immich on the MS-01, with its photo library living on …]]></summary>
+        <author>
+            <name>Scott Hanselman's Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
         <id>https://css-tricks.com/?p=395259</id>
         <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
@@ -780,6 +794,18 @@ Build AI agents without leaving VS Code, join our 3-part Reactor Series (b…]]>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps]]></title>
+        <id>https://www.hanselman.com/blog/post/bfae81c0-7b82-4188-b51a-fc41faeaf414</id>
+        <link href="http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps"/>
+        <updated>2026-08-23T19:23:42.000Z</updated>
+        <summary type="html"><![CDATA[I’ve had a Synology NAS for a very long time, and recently I started moving its contents to a new Ubiquiti UniFi UNAS Pro 8. This seemed like it ought to be a fairly boring operation. Both devices speak SMB, I have a fast network (recently upgraded to 10 gigabit internally), and Windows has had tools for copying files reliably between machines for decades. Naturally, it turned into a whole evening of learning things I thought I already knew, which is why I started a blog lol.
+
+There was a nice bit of history here for me because back in 2007 (good lord!) I wrote a post called “XCopy considered harmful - Robocopy or XXCopy or SyncBack.” My argument at the time was basically that once you are moving enough files, Explorer stops being the move and Robocopy starts looking pretty good. I even u…]]></summary>
+        <author>
+            <name>Scott Hanselman's Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan()]]></title>
         <id>https://dotnettips.com/?p=18333</id>
         <link href="https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/"/>
@@ -865,73 +891,6 @@ GitHub Copilot app for Beginners: Managing your work (Christopher Harrison)
         <summary type="html"><![CDATA[A production-only SVG failure exposed a hidden Sharp dependency, a broken fallback, and why I replaced the rasteriser with resvg WASM.]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Navigation Matching, Early Days]]></title>
-        <id>https://css-tricks.com/?p=396428</id>
-        <link href="https://css-tricks.com/css-navigation-matching-early-days/"/>
-        <updated>2026-08-19T14:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.
-CSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - August 19, 2026 (#4736)]]></title>
-        <id>https://alvinashcraft.com/2026/08/19/dew-drop-august-19-2026-4736/</id>
-        <link href="https://alvinashcraft.com/2026/08/19/dew-drop-august-19-2026-4736/"/>
-        <updated>2026-08-19T10:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Aspire 13.5: Fresh pixels and better workflows (Maddy Montaquila)
-Announcing AppxManifest IntelliSense Support in the WinApp VS Code Extension (Chiara Mooney)
-What’s a PFN? (Howard Kapustein)
-.NET Developer Productivity with AI | On .NET (Sam Basu & Matt Soucoup)
-Spec-D…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress.com Student Plan]]></title>
-        <id>https://css-tricks.com/?p=396623</id>
-        <link href="https://css-tricks.com/wordpress-student-plan/"/>
-        <updated>2026-08-19T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.
-WordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hosting the .NET Aspire Dashboard as a Standalone Container in Azure Web Apps]]></title>
-        <id>https://blog.maartenballiauw.be/posts/2026-08-19-hosting-aspire-dashboard-standalone-in-azure-web-apps/</id>
-        <link href="https://blog.maartenballiauw.be/posts/2026-08-19-hosting-aspire-dashboard-standalone-in-azure-web-apps/"/>
-        <updated>2026-08-19T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you just want a simple way to look at your traces, metrics, and logs without setting up a full observability stack. Just a UI where you can see what your applications are doing, without having to setup Azure Monitor, Grafana, Prometheus, Jaeger, etc. You don’t always need durability or complex infrastructure.]]></summary>
-        <author>
-            <name>Maarten Balliauw {blog}</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boost Your .NET Networking with Spargine: SocketExtensions That Röck]]></title>
-        <id>https://dotnettips.com/?p=18666</id>
-        <link href="https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/"/>
-        <updated>2026-08-19T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Spargine's SocketExtensions simplifies .NET socket programming by offering reusable extension methods that enhance control over networking tasks. It reduces boilerplate code related to port binding, buffer configuration, keep-alive settings, and timeouts. This package streamlines socket operations, making code cleaner and easier to maintain for various applications.]]></summary>
-        <author>
-            <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things That Caught My Attention Last Week - August 17]]></title>
-        <id>http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-august-17-2026</id>
-        <link href="http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-august-17-2026"/>
-        <updated>2026-08-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
-        <author>
-            <name>Peter Ritchie's Blog</name>
         </author>
     </entry>
 </feed>
