@@ -94,7 +94,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5020,
+          "wordCount": 5025,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -109,7 +109,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5446,
+          "wordCount": 5439,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -124,7 +124,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4570,
+          "wordCount": 4571,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -139,7 +139,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4755,
+          "wordCount": 4758,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -154,7 +154,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5913,
+          "wordCount": 5908,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -177,16 +177,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
-          "author": "hello@smashingmagazine.com (Johan Grobler)",
-          "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
-          "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
-          "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5718,
-          "title": "Timing Charts: A Blueprint For SMIL Animations",
-          "imageUrl": "https:null"
         }
       ]
     },
@@ -195,6 +185,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aaec6a4bd97d368f64a3819",
+          "author": "RONI DAS",
+          "description": "Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/",
+          "publishedOn": "2026-09-19T17:30:12.000Z",
+          "wordCount": 77135,
+          "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3a3e0991-8574-4569-91b3-b68fbc58a210.png"
+        },
+        {
+          "id": "6aaec60b559dfa1d9e4f1ddc",
+          "author": "Kayode Adeniyi",
+          "description": "Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos",
+          "link": "https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/",
+          "publishedOn": "2026-09-19T17:27:39.000Z",
+          "wordCount": 7363,
+          "title": "How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f1cfd03f-8ff0-4dcb-8282-f7fac7c5fe04.png"
+        },
+        {
+          "id": "6aaec3412b999a8f7cf63f8f",
+          "author": "Farouq Seriki",
+          "description": "Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th",
+          "link": "https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/",
+          "publishedOn": "2026-09-19T17:15:45.000Z",
+          "wordCount": 14221,
+          "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6e58f5f5-1bf1-4030-b3d2-f9b1617637c1.png"
+        },
         {
           "id": "6aadae08b3c208add9878388",
           "author": "Lakshmi Mahabaleshwara",
@@ -264,36 +284,6 @@
           "wordCount": 1211,
           "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/4fe6aa9d-d362-495b-9100-417e8f9e0323.jpg"
-        },
-        {
-          "id": "6aa9b46181fb07630380c2e8",
-          "author": "Chris Roy",
-          "description": "A Linux kernel module is a small piece of code that can be loaded into the running kernel without rebuilding the entire kernel. That sounds simple enough, but even a minimal module produces a surprisi",
-          "link": "https://www.freecodecamp.org/news/how-to-write-a-linux-kernel-module-that-actually-builds/",
-          "publishedOn": "2026-09-15T21:10:57.000Z",
-          "wordCount": 4105,
-          "title": "How to Write a Linux Kernel Module That Actually Builds",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f8a7aabd-8494-42d5-86a1-e1eb51c2d0a7.png"
-        },
-        {
-          "id": "6aa9b393e892e731e337e0e3",
-          "author": "Manish Shivanandhan",
-          "description": "Your online presence often gives potential employers, clients, partners, and recruiters their first impression of you. It's likely what they see before they ever meet you. They search your name, read",
-          "link": "https://www.freecodecamp.org/news/the-7-essential-parts-of-your-online-presence/",
-          "publishedOn": "2026-09-15T21:07:31.000Z",
-          "wordCount": 2514,
-          "title": "The 7 Essential Parts of Your Online Presence",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1858aeea-9446-48d3-abeb-225f14aae371.png"
-        },
-        {
-          "id": "6aa9b28d96b8eb1b8b1475f0",
-          "author": "Alex Tray",
-          "description": "A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down \"just f",
-          "link": "https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/",
-          "publishedOn": "2026-09-15T21:03:09.000Z",
-          "wordCount": 4273,
-          "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4a1cf15f-7d3a-48d2-8fdd-b53ceb1dd0e7.png"
         }
       ]
     },
@@ -552,16 +542,6 @@
           "wordCount": 3094,
           "title": "When IMemoryCache Stops Scaling: Moving to Redis with .NET Aspire",
           "imageUrl": "https://sahansera.dev/_astro/when-imemorycache-stops-scaling-redis-aspire.CgQpFrfk_Z1XtCge.jpg"
-        },
-        {
-          "id": "https://sahansera.dev/replacing-sharp-with-wasm-hidden-svg-dependency/",
-          "author": null,
-          "description": "A production-only SVG failure exposed a hidden Sharp dependency, a broken fallback, and why I replaced the rasteriser with resvg WASM.",
-          "link": "https://sahansera.dev/replacing-sharp-with-wasm-hidden-svg-dependency/",
-          "publishedOn": "2026-08-20T00:00:00.000Z",
-          "wordCount": 3476,
-          "title": "Replacing Sharp with WASM: How a Hidden SVG Dependency Broke Our Rendering Pipeline",
-          "imageUrl": "https://sahansera.dev/_astro/replacing-sharp-with-wasm-hidden-svg-dependency.DdUtoCtj_Z2nI3GW.jpg"
         }
       ]
     },
@@ -719,16 +699,6 @@
           "wordCount": 72,
           "title": "Dew Drop - August 21, 2026 (#4738)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nMSSQL Extension for VS Code: SQL Formatter, Azure SQL Database Provisioning, and More (Yo-Lei Chen)\nRider 2026.2.1 and ReSharper 2026.2.1 Are Here! (Alexander Kurakin)\nGitHub Copilot app for Beginners: Managing your work (Christopher Harrison)\n.NET MAUI in 2026 - How AI…",
-          "link": "https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/",
-          "publishedOn": "2026-08-20T10:23:50.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - August 20, 2026 (#4737)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -799,16 +769,6 @@
           "wordCount": 5303,
           "title": "Azure DevOps: Copy Azure Container Registry (ACR) Images to an External Tenant's ACR",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjsWskFO-TwUXIHLRmOawoROyOSeggDbA0pbHYBCaEok0ycZbB6QzP74AkEz5hnP5IC5T8T0niCqc9U4l1gvbFC5P-iIeSaesuATx6fnXC6Zd3rbFF4GkOJAlz5JqZJBpd51GHwWeoxrsO9Kvgnx2_uPyaLrLD4lVY8mlI7fQItHCNt9QZ0uVEfMqcWBOc=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://jaliyaudagedara.blogspot.com/2026/08/use-of-azuretokencredentials-in.html",
-          "author": null,
-          "description": "In this post, let's have a look at the\n    AZURE_TOKEN_CREDENTIALS environment variable in\n    Azure.Identity. I only came across it recently, and it has removed something that used to annoy me every single day.\n  \n\n  \n\n  \n    We all know why we should be authenticating to Azure services with Microsoft\n    Entra ID rather than with keys, connection strings or passwords.&nbsp;",
-          "link": "https://jaliyaudagedara.blogspot.com/2026/08/use-of-azuretokencredentials-in.html",
-          "publishedOn": "2026-08-20T11:11:30.025Z",
-          "wordCount": 4785,
-          "title": "Use of AZURE_TOKEN_CREDENTIALS in Azure.Identity",
-          "imageUrl": null
         }
       ]
     },
@@ -983,7 +943,7 @@
           "description": "Back in 2022 I announced a new Q# community project - a proper, standalone TextMate grammar for Q#, built with a real build pipeline, test suite and multiple output formats, rather than the handful of regular expressions that the QDK extension shipped with at the time. It has quietly lived in the qsharp-community organization ever since.\nToday I’m happy to report that the grammar has “graduated” - a snapshot of it is now officially vendored into the QDK extension itself, replacing the original hand-written grammar the extension used to ship with, and it already shipped in v1.31.",
           "link": "https://www.strathweb.com/2026/08/qsharp-community-textmate-grammar-now-part-of-qdk-extension/",
           "publishedOn": "2026-08-25T08:00:00.000Z",
-          "wordCount": 1042,
+          "wordCount": null,
           "title": "The Q# Community TextMate Grammar Is Now Part of the QDK Extension",
           "imageUrl": null
         }

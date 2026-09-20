@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-09-19T04:14:09.057Z</updated>
+    <updated>2026-09-20T04:33:19.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphRAG System with Python, Neo4j and ServiceNow]]></title>
+        <id>6aaec6a4bd97d368f64a3819</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/"/>
+        <updated>2026-09-19T17:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has]]></summary>
+        <author>
+            <name>RONI DAS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph]]></title>
+        <id>6aaec60b559dfa1d9e4f1ddc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/"/>
+        <updated>2026-09-19T17:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native]]></title>
+        <id>6aaec3412b999a8f7cf63f8f</id>
+        <link href="https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/"/>
+        <updated>2026-09-19T17:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th]]></summary>
+        <author>
+            <name>Farouq Seriki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Turn a RECIST Line into a 3D Tumor Segmentation Mask]]></title>
         <id>6aadae08b3c208add9878388</id>
@@ -120,36 +150,6 @@ Rider and ReSharper 2026.2.2 Are Out! (Alexander …]]></summary>
         <summary type="html"><![CDATA[A session cookie is a bearer token, which is a polite way of saying that whoever holds it is you. Copy the cookie, replay it from another machine, and the server happily serves your account. Nothing about the request proves which device it came from, so a cookie lifted by malware, an XSS payload, or a stray database backup keeps working until it expires. For a long-lived session, that can be weeks.]]></summary>
         <author>
             <name>Maarten Balliauw {blog}</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write a Linux Kernel Module That Actually Builds]]></title>
-        <id>6aa9b46181fb07630380c2e8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-linux-kernel-module-that-actually-builds/"/>
-        <updated>2026-09-15T21:10:57.000Z</updated>
-        <summary type="html"><![CDATA[A Linux kernel module is a small piece of code that can be loaded into the running kernel without rebuilding the entire kernel. That sounds simple enough, but even a minimal module produces a surprisi]]></summary>
-        <author>
-            <name>Chris Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 7 Essential Parts of Your Online Presence]]></title>
-        <id>6aa9b393e892e731e337e0e3</id>
-        <link href="https://www.freecodecamp.org/news/the-7-essential-parts-of-your-online-presence/"/>
-        <updated>2026-09-15T21:07:31.000Z</updated>
-        <summary type="html"><![CDATA[Your online presence often gives potential employers, clients, partners, and recruiters their first impression of you. It's likely what they see before they ever meet you. They search your name, read]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team]]></title>
-        <id>6aa9b28d96b8eb1b8b1475f0</id>
-        <link href="https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/"/>
-        <updated>2026-09-15T21:03:09.000Z</updated>
-        <summary type="html"><![CDATA[A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down "just f]]></summary>
-        <author>
-            <name>Alex Tray</name>
         </author>
     </entry>
     <entry>
@@ -838,59 +838,6 @@ terminal-code - VS Code Inside Your Terminal (Rob Pruzan) - Source on GitHub her
 The Hanselminutes Podcast - Compile after Class Crossover Episode (Scot…]]></summary>
         <author>
             <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timing Charts: A Blueprint For SMIL Animations]]></title>
-        <id>https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/</id>
-        <link href="https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"/>
-        <updated>2026-08-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Johan Grobler)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use of AZURE_TOKEN_CREDENTIALS in Azure.Identity]]></title>
-        <id>https://jaliyaudagedara.blogspot.com/2026/08/use-of-azuretokencredentials-in.html</id>
-        <link href="https://jaliyaudagedara.blogspot.com/2026/08/use-of-azuretokencredentials-in.html"/>
-        <updated>2026-08-20T11:11:30.025Z</updated>
-        <summary type="html"><![CDATA[In this post, let's have a look at the
-    AZURE_TOKEN_CREDENTIALS environment variable in
-    Azure.Identity. I only came across it recently, and it has removed something that used to annoy me every single day.
-  
-
-  
-
-  
-    We all know why we should be authenticating to Azure services with Microsoft
-    Entra ID rather than with keys, connection strings or passwords.&nbsp;]]></summary>
-        <author>
-            <name>Jaliya's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - August 20, 2026 (#4737)]]></title>
-        <id>https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/</id>
-        <link href="https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/"/>
-        <updated>2026-08-20T10:23:50.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-MSSQL Extension for VS Code: SQL Formatter, Azure SQL Database Provisioning, and More (Yo-Lei Chen)
-Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! (Alexander Kurakin)
-GitHub Copilot app for Beginners: Managing your work (Christopher Harrison)
-.NET MAUI in 2026 - How AI…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replacing Sharp with WASM: How a Hidden SVG Dependency Broke Our Rendering Pipeline]]></title>
-        <id>https://sahansera.dev/replacing-sharp-with-wasm-hidden-svg-dependency/</id>
-        <link href="https://sahansera.dev/replacing-sharp-with-wasm-hidden-svg-dependency/"/>
-        <updated>2026-08-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A production-only SVG failure exposed a hidden Sharp dependency, a broken fallback, and why I replaced the rasteriser with resvg WASM.]]></summary>
-        <author>
-            <name>sahansera.dev RSS Feed</name>
         </author>
     </entry>
 </feed>
