@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-09-20T04:33:19.762Z</updated>
+    <updated>2026-09-21T04:31:23.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Boost Your .NET Projects with Spargine: Monitor and Log HTTP Traffic]]></title>
+        <id>https://dotnettips.com/?p=18464</id>
+        <link href="https://dotnettips.com/2026/09/20/boost-your-net-projects-with-spargine-monitor-and-log-http-traffic/"/>
+        <updated>2026-09-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Logging is crucial for app monitoring, extending beyond exceptions to include diagnostic events like request timing and connection details. Spargine offers three HTTP listeners—HttpEventListener, HttpEventListenerAsyncLocal, and HttpRequestsObserver—each providing various levels of detail to help troubleshoot performance issues and improve logging for .NET applications.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a GraphRAG System with Python, Neo4j and ServiceNow]]></title>
         <id>6aaec6a4bd97d368f64a3819</id>
@@ -34,6 +44,26 @@
         <summary type="html"><![CDATA[Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th]]></summary>
         <author>
             <name>Farouq Seriki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET]]></title>
+        <id>https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html</id>
+        <link href="https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html"/>
+        <updated>2026-09-19T00:57:00.000Z</updated>
+        <summary type="html"><![CDATA[<!--Title: Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET-->
+
+  
+    In this post, let's have a look at prompt agents in
+    Microsoft Foundry, and how we can create and run them with
+    Microsoft Agent Framework.
+  
+  
+  
+    Some time back I blogged about
+    Getting Started with Microsoft Agent Framework 1.0.0 in .NET. There, the agent was created in code, it lived]]></summary>
+        <author>
+            <name>Jaliya's Blog</name>
         </author>
     </entry>
     <entry>
@@ -615,20 +645,6 @@ Artykuł When “Authorized Testing” Becomes the Attack Vector: What Agentic A
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits]]></title>
-        <id>https://www.hanselman.com/blog/post/a2a687b7-45ce-46fb-aa23-bd2a8cf810b5</id>
-        <link href="http://feeds.hanselman.com/~/968351264/0/scotthanselman~Debugging-my-new-network-when-Gigabit-Ethernet-Runs-at-Megabits"/>
-        <updated>2026-08-27T15:25:48.000Z</updated>
-        <summary type="html"><![CDATA[I've been moving my home storage over to a UniFi UNAS Pro 8 as part of a larger homelab moderization. My main IRONHEART (the ultimate PC from a few years back) desktop now has an Intel E610-XT2 10GbE card, the NAS is on 10GbE, and there's a Minisforum MS-01 miniPC on the same network with a 10GbE SFP+ connection running Immich and Portainer and a few other things.
-
-Everything says 10 gigabit. Windows says 10 gigabit. UniFi says 10 gigabit. SMB copies are using the correct NIC but my file copies are running at around 100 to 200 megabits per second which is sad making.
-
-Naturally, I blamed the NAS, and the spinning rust within. The UNAS has six 16 TB spinning disks in RAID 6 and a pair of NVMe SSDs being used as cache. I'm also running Immich on the MS-01, with its photo library living on …]]></summary>
-        <author>
-            <name>Scott Hanselman's Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
         <id>https://css-tricks.com/?p=395259</id>
         <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
@@ -794,18 +810,6 @@ Build AI agents without leaving VS Code, join our 3-part Reactor Series (b…]]>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps]]></title>
-        <id>https://www.hanselman.com/blog/post/bfae81c0-7b82-4188-b51a-fc41faeaf414</id>
-        <link href="http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps"/>
-        <updated>2026-08-23T19:23:42.000Z</updated>
-        <summary type="html"><![CDATA[I’ve had a Synology NAS for a very long time, and recently I started moving its contents to a new Ubiquiti UniFi UNAS Pro 8. This seemed like it ought to be a fairly boring operation. Both devices speak SMB, I have a fast network (recently upgraded to 10 gigabit internally), and Windows has had tools for copying files reliably between machines for decades. Naturally, it turned into a whole evening of learning things I thought I already knew, which is why I started a blog lol.
-
-There was a nice bit of history here for me because back in 2007 (good lord!) I wrote a post called “XCopy considered harmful - Robocopy or XXCopy or SyncBack.” My argument at the time was basically that once you are moving enough files, Explorer stops being the move and Robocopy starts looking pretty good. I even u…]]></summary>
-        <author>
-            <name>Scott Hanselman's Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan()]]></title>
         <id>https://dotnettips.com/?p=18333</id>
         <link href="https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/"/>
@@ -813,31 +817,6 @@ There was a nice bit of history here for me because back in 2007 (good lord!) I 
         <summary type="html"><![CDATA[To sort a List efficiently, use CollectionsMarshal.AsSpan() to access its internal storage, then apply the Sort() function.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
-        <id>https://css-tricks.com/?p=396644</id>
-        <link href="https://css-tricks.com/resolved-css-class-prefix-selector/"/>
-        <updated>2026-08-21T15:13:03.000Z</updated>
-        <summary type="html"><![CDATA[A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.
-Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - August 21, 2026 (#4738)]]></title>
-        <id>https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/</id>
-        <link href="https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/"/>
-        <updated>2026-08-21T10:37:28.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-WPF Hot Reload in Rider | JetBrains (Michael Hawker)
-GitHub: The August 17 outage, and the work ahead (Vlad Fedorov)
-terminal-code - VS Code Inside Your Terminal (Rob Pruzan) - Source on GitHub here
-The Hanselminutes Podcast - Compile after Class Crossover Episode (Scot…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
         </author>
     </entry>
 </feed>
