@@ -84,7 +84,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5020,
+          "wordCount": 5031,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -99,7 +99,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5441,
+          "wordCount": 5449,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -114,7 +114,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4568,
+          "wordCount": 4572,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -129,7 +129,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4753,
+          "wordCount": 4743,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -144,7 +144,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5904,
+          "wordCount": 5912,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -176,13 +176,33 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ab19a268fed0cf1f0fe1645",
+          "author": "brooklyn",
+          "description": "I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/",
+          "publishedOn": "2026-09-21T20:57:10.000Z",
+          "wordCount": 5235,
+          "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1691ded5-fe4e-405e-aa70-19cd95a700da.png"
+        },
+        {
+          "id": "6ab11bd3c0a4b6fb82bc1891",
+          "author": "Caleb Mintoumba",
+          "description": "The explosion of generative AI has pushed thousands of web developers to add intelligent features to their apps. The first instinct is usually to call the Gemini API's SDK directly from the browser. T",
+          "link": "https://www.freecodecamp.org/news/why-you-should-never-embed-your-gemini-api-key-in-client-code-and-how-firebase-ai-logic-fixes-it/",
+          "publishedOn": "2026-09-21T11:58:11.000Z",
+          "wordCount": 3716,
+          "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3a42885a-9cac-4fbc-8fac-affbafd7785c.png"
+        },
+        {
           "id": "6aaec6a4bd97d368f64a3819",
           "author": "RONI DAS",
           "description": "Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has",
           "link": "https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/",
           "publishedOn": "2026-09-19T17:30:12.000Z",
-          "wordCount": 77135,
-          "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
+          "wordCount": 77141,
+          "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3a3e0991-8574-4569-91b3-b68fbc58a210.png"
         },
         {
@@ -254,26 +274,6 @@
           "wordCount": 5310,
           "title": "How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/086653d6-268e-4d13-8f7d-b42c92847361.png"
-        },
-        {
-          "id": "6aac2aabd02a5d838577063a",
-          "author": "Beau Carnes",
-          "description": "Geoffrey Hinton is known as the \"the Godfather of AI\". We just published a course on the freeCodeCamp.org YouTube channel that will help you master modern neural networks by recreating the groundbreak",
-          "link": "https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy/",
-          "publishedOn": "2026-09-17T18:00:11.000Z",
-          "wordCount": 1179,
-          "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/004baebc-30c8-45fb-8565-45162d46ef13.jpg"
-        },
-        {
-          "id": "6aaab59285cf18b4c5072002",
-          "author": "Beau Carnes",
-          "description": "Taking a web application from local development to a live, secure production environment can be daunting if you've never looked under the hood. We just published a comprehensive course on the freeCode",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/",
-          "publishedOn": "2026-09-16T15:28:18.000Z",
-          "wordCount": 1211,
-          "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/4fe6aa9d-d362-495b-9100-417e8f9e0323.jpg"
         }
       ]
     },
@@ -325,7 +325,7 @@
           "description": "In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
           "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": 2437,
+          "wordCount": 2430,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "Classic native Date values in JavaScript are internally represented as UTC dates. However, when you display values they are by default shown as local date/time values. I've run into this recently again with an application that was returning a mix of UTC and non-UTC dates from the server to the browser, causing some confusion. At that point I realized I was being inconsistent with my use of the my date display functions, and here I am reviewing various Date formatting and Date conversion operations.\nJavaScript's core behavior is consistent once you separate two different concepts:\nThe instant represented by a Date\nThe timezone used to display that instant\nAn instant is essentially an instant in time expressed in an offset since the Unix Epoch:\nJanuary 1, 1970 00:00:00 UTC\nThe instant is rep…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones",
           "publishedOn": "2026-09-01T00:00:00.000Z",
-          "wordCount": 2054,
+          "wordCount": 2058,
           "title": "Back to Basics: JavaScript and Timezones",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/JavaScript-and-Timezones/TimeZoneBanner.jpg"
         }
@@ -352,7 +352,7 @@
           "description": "In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
           "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": 2433,
+          "wordCount": 2430,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
         },
@@ -551,6 +551,16 @@
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
         {
+          "id": "https://alvinashcraft.com/2026/09/21/dew-drop-september-21-2026-4753/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nTechBash 2026 Fast Approaching (Jason Gaylord)\nIntroducing Previews: Storybook for .NET (Sam Basu)\n.NET Rocks! Podcast - Post-Quantum Crypto with Michael Howard (Carl Franklin & Richard Campbell)\nUno Extensions: MSAL Auth Across Platforms (Steve Bilogan)\nCulture Matters…",
+          "link": "https://alvinashcraft.com/2026/09/21/dew-drop-september-21-2026-4753/",
+          "publishedOn": "2026-09-21T11:00:44.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - September 21, 2026 (#4753)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
+        {
           "id": "https://alvinashcraft.com/2026/09/16/dew-drop-september-16-2026-4752/",
           "author": "Alvin Ashcraft",
           "description": "Top Links\nAspire 13.5.4 (Aspire Team)\nPerformance Improvements in .NET 11 (Stephen Toub)\nIntelligent Terminal 0.2.2572: Faster, Smoother, and More Reliable (Hamza Usmani)\nShare your .NET story with the community (Luis Quintanilla)\nRider and ReSharper 2026.2.2 Are Out! (Alexander …",
@@ -731,12 +741,22 @@
       "siteUrl": "https://jaliyaudagedara.blogspot.com/",
       "articles": [
         {
+          "id": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html",
+          "author": null,
+          "description": "In this post, let's see how we can take an agent written with\n  Microsoft Agent Framework and let Microsoft Foundry host it, as\n  a hosted agent.\n\n\n\n  A while back I blogged about\n  Microsoft Agent Framework: Agents on Azure Functions with .NET, where we hosted the agent ourselves. And in the last post,\n  Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET, we looked at",
+          "link": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html",
+          "publishedOn": "2026-09-21T08:33:24.611Z",
+          "wordCount": 5231,
+          "title": "Microsoft Agent Framework: Hosted Agents in Microsoft Foundry with .NET",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgRYk0xsmwchIkh5ooamA3Mz-B_vk43hJWz_nA0KsPhq3KNuIvsrVhaJGT8a_-hHdT-3ILiTAfSPfc8Fnhs-vUww1smT3mj1kKilqBIQYgiJw5W2OBR0zowpKsuk5_rEDLPphHiPw4jvLbZT5BCnllT9Il6yXPU1CZtCDQO7SnvfVBuzHiromgeAxEmnBI=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html",
           "author": null,
           "description": "<!--Title: Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET-->\n\n  \n    In this post, let's have a look at prompt agents in\n    Microsoft Foundry, and how we can create and run them with\n    Microsoft Agent Framework.\n  \n  \n  \n    Some time back I blogged about\n    Getting Started with Microsoft Agent Framework 1.0.0 in .NET. There, the agent was created in code, it lived",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html",
           "publishedOn": "2026-09-19T00:57:00.000Z",
-          "wordCount": 5073,
+          "wordCount": 5082,
           "title": "Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEifKsOiObYvp8uvOZ7qNVXfYWJx9GTw0SIfHNpVHqPfhpnaWK7x3m3XMGnFbKD1i2DVFZepqtsbvls-h3QwPeMLl0Wsq3lIMeiFyHBA75kQaCqrmsKlu32ohOVE4soIaVybP0IdH_6vinN15lVXRM0aF5pk6jKbxqj3oL-tR8UDyLo_Khoqz-KwlKemgn0=w1200-h630-p-k-no-nu"
         },
@@ -746,7 +766,7 @@
           "description": "In this post, let's have a look at\n    TimeProvider\n    in C#.&nbsp;\n  \n  \n  \n    I have seen this abstract class around for a while (it was introduced with\n    .NET 8), but I haven't really used it up until very recently. I just\n    love it.\n  \n  \n  \n    Before\n    TimeProvider, whenever I needed to control time in tests, I had to write my own\n    abstraction, something like",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/c-using-timeprovider-and.html",
           "publishedOn": "2026-09-15T10:48:29.164Z",
-          "wordCount": 4265,
+          "wordCount": 4272,
           "title": "C#: Using TimeProvider and FakeTimeProvider",
           "imageUrl": null
         },
@@ -756,7 +776,7 @@
           "description": ".NET 11 Release Candidate 1 is out, and that means we are getting really close to the finish line. Next month we should get RC2, and then in November the GA release at .NET Conf 2026. You can read more about RC1 here: Announcing .NET 11 Release Candidate 1.\n\nIn this post, let's have a look at some of the nice improvements that are coming to EF Core 11.0 Migrations. There are quite a few of them,",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/ef-core-110-whats-new-with-migrations.html",
           "publishedOn": "2026-09-11T10:33:48.448Z",
-          "wordCount": 5094,
+          "wordCount": 5101,
           "title": "EF Core 11.0: What's New with Migrations",
           "imageUrl": null
         },
@@ -820,6 +840,33 @@
       "feedUrl": "http://www.allenconway.net/feeds/posts/default?alt=rss",
       "siteUrl": "http://www.allenconway.net/",
       "articles": []
+    },
+    {
+      "title": "Scott Hanselman's Blog",
+      "feedUrl": "http://feeds.hanselman.com/ScottHanselman",
+      "siteUrl": "https://www.hanselman.com/blog/",
+      "articles": [
+        {
+          "id": "https://www.hanselman.com/blog/post/a2a687b7-45ce-46fb-aa23-bd2a8cf810b5",
+          "author": null,
+          "description": "I've been moving my home storage over to a UniFi UNAS Pro 8 as part of a larger homelab moderization. My main IRONHEART (the ultimate PC from a few years back) desktop now has an Intel E610-XT2 10GbE card, the NAS is on 10GbE, and there's a Minisforum MS-01 miniPC on the same network with a 10GbE SFP+ connection running Immich and Portainer and a few other things.\n\r\nEverything says 10 gigabit. Windows says 10 gigabit. UniFi says 10 gigabit. SMB copies are using the correct NIC but my file copies are running at around 100 to 200 megabits per second which is sad making.\n\r\nNaturally, I blamed the NAS, and the spinning rust within. The UNAS has six 16 TB spinning disks in RAID 6 and a pair of NVMe SSDs being used as cache. I'm also running Immich on the MS-01, with its photo library living on …",
+          "link": "http://feeds.hanselman.com/~/968351264/0/scotthanselman~Debugging-my-new-network-when-Gigabit-Ethernet-Runs-at-Megabits",
+          "publishedOn": "2026-08-27T15:25:48.000Z",
+          "wordCount": 1356,
+          "title": "Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
+        },
+        {
+          "id": "https://www.hanselman.com/blog/post/bfae81c0-7b82-4188-b51a-fc41faeaf414",
+          "author": null,
+          "description": "I’ve had a Synology NAS for a very long time, and recently I started moving its contents to a new Ubiquiti UniFi UNAS Pro 8. This seemed like it ought to be a fairly boring operation. Both devices speak SMB, I have a fast network (recently upgraded to 10 gigabit internally), and Windows has had tools for copying files reliably between machines for decades. Naturally, it turned into a whole evening of learning things I thought I already knew, which is why I started a blog lol.\n\r\nThere was a nice bit of history here for me because back in 2007 (good lord!) I wrote a post called “XCopy considered harmful - Robocopy or XXCopy or SyncBack.” My argument at the time was basically that once you are moving enough files, Explorer stops being the move and Robocopy starts looking pretty good. I even u…",
+          "link": "http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps",
+          "publishedOn": "2026-08-23T19:23:42.000Z",
+          "wordCount": 3414,
+          "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
+        }
+      ]
     },
     {
       "title": "Thomas Levesque's .NET Blog",
@@ -911,12 +958,22 @@
       "siteUrl": "https://www.strathweb.com/posts/",
       "articles": [
         {
+          "id": "https://www.strathweb.com/2026/09/where-to-cut-a-hamiltonian-composite-qdrift-with-qsharp/",
+          "author": null,
+          "description": "Hamiltonian simulation is the application for which quantum computers were originally proposed, and the question of how many gates it costs to simulate a given Hamiltonian to a given accuracy is one of the oldest in the field. For a long time the folklore has been that the accuracy dependence can be made logarithmic, since query-based methods such as qubitization and quantum signal processing reach an error $\\epsilon$ with $O(\\log(1/\\epsilon))$ queries to a block encoding of the Hamiltonian.\nA recent paper by Alexander Zlokapa, Jarrod Allen and Aram Harrow (the last of whom is a towering figure in quantum algorithms, of HHL fame), Optimal Lower Bounds for Hamiltonian Simulation (arXiv:2607.19852, 2026), argues that for many physical Hamiltonians this is simply not achievable in the gate model, and that the true cost is polynomial in $1/\\epsilon$.\nIn this post we will take the central object of that paper, a cost function that says where a Hamiltonian should be cut between a deterministic and a randomized simulation method, implement the corresponding algorithm in Q#, and measure on a 6 qubit system whether the cost function predicts what actually happens.",
+          "link": "https://www.strathweb.com/2026/09/where-to-cut-a-hamiltonian-composite-qdrift-with-qsharp/",
+          "publishedOn": "2026-09-21T07:00:00.000Z",
+          "wordCount": 3497,
+          "title": "Where to Cut a Hamiltonian: Composite qDRIFT with Q#",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.strathweb.com/2026/08/qsharp-community-textmate-grammar-now-part-of-qdk-extension/",
           "author": null,
           "description": "Back in 2022 I announced a new Q# community project - a proper, standalone TextMate grammar for Q#, built with a real build pipeline, test suite and multiple output formats, rather than the handful of regular expressions that the QDK extension shipped with at the time. It has quietly lived in the qsharp-community organization ever since.\nToday I’m happy to report that the grammar has “graduated” - a snapshot of it is now officially vendored into the QDK extension itself, replacing the original hand-written grammar the extension used to ship with, and it already shipped in v1.31.",
           "link": "https://www.strathweb.com/2026/08/qsharp-community-textmate-grammar-now-part-of-qdk-extension/",
           "publishedOn": "2026-08-25T08:00:00.000Z",
-          "wordCount": 1042,
+          "wordCount": 1038,
           "title": "The Q# Community TextMate Grammar Is Now Part of the QDK Extension",
           "imageUrl": null
         }
