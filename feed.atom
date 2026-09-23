@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-09-22T04:26:49.080Z</updated>
+    <updated>2026-09-23T04:23:27.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - September 22, 2026 (#4754)]]></title>
+        <id>https://alvinashcraft.com/2026/09/22/dew-drop-september-22-2026-4754/</id>
+        <link href="https://alvinashcraft.com/2026/09/22/dew-drop-september-22-2026-4754/"/>
+        <updated>2026-09-22T10:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Introducing XAML.io v0.9: Build .NET Apps From a Prompt, in Your Browser (XAML.io Team)
+Single Day Tickets Now Available for TechBash 2026 (TechBash Team)
+New in Edge for developers – Create better components and make your site agent-ready (Patrick Brosset)
+7 Document A…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8]]></title>
+        <id>https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/</id>
+        <link href="https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/"/>
+        <updated>2026-09-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I look at the new experimental support for DBSC provided by the Microsoft.AspNetCore.Authentication.DeviceBoundSessions package]]></summary>
+        <author>
+            <name>Andrew Lock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It]]></title>
         <id>6ab19a268fed0cf1f0fe1645</id>
@@ -878,16 +902,6 @@ Build AI agents without leaving VS Code, join our 3-part Reactor Series (b…]]>
 There was a nice bit of history here for me because back in 2007 (good lord!) I wrote a post called “XCopy considered harmful - Robocopy or XXCopy or SyncBack.” My argument at the time was basically that once you are moving enough files, Explorer stops being the move and Robocopy starts looking pretty good. I even u…]]></summary>
         <author>
             <name>Scott Hanselman's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan()]]></title>
-        <id>https://dotnettips.com/?p=18333</id>
-        <link href="https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/"/>
-        <updated>2026-08-23T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To sort a List efficiently, use CollectionsMarshal.AsSpan() to access its internal storage, then apply the Sort() function.]]></summary>
-        <author>
-            <name>David (dotNetDave) McCarter</name>
         </author>
     </entry>
 </feed>
