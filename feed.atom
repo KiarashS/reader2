@@ -2,12 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-09-25T04:31:43.220Z</updated>
+    <updated>2026-09-26T04:35:56.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Inside SeaHack: 24 Hours to Build an AI Startup]]></title>
+        <title type="html"><![CDATA[Dew Drop - September 25, 2026 (#4757)]]></title>
+        <id>https://alvinashcraft.com/2026/09/25/dew-drop-september-25-2026-4757/</id>
+        <link href="https://alvinashcraft.com/2026/09/25/dew-drop-september-25-2026-4757/"/>
+        <updated>2026-09-25T10:38:45.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+From Chatbots to Automated Agents: Routines in Microsoft Foundry Are Now Generally Available (Linda Li)
+winapp CLI Release v0.7.0 (Alexandre Zollinger Chohfi)
+Control where your hosted agent connects with network egress in Foundry Agent Service (Muzz Imam)
+Migrating Rea…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloning is as Hard as Learning - Stabilizer States in QDK & Q#]]></title>
+        <id>https://www.strathweb.com/2026/09/cloning-is-as-hard-as-learning-stabilizer-states-with-qsharp/</id>
+        <link href="https://www.strathweb.com/2026/09/cloning-is-as-hard-as-learning-stabilizer-states-with-qsharp/"/>
+        <updated>2026-09-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The no-cloning theorem is usually stated as an impossibility, namely that there is no machine which takes one copy of an unknown quantum state and returns two of them. The more interesting question, posed by Reinhard Werner in 1998 in a brilliant paper on optimal cloning, is the quantitative one, that is, how well we can produce $t+1$ copies of an unknown pure state when we are given $t$ of them. The answer for arbitrary states is rather sobering, since approximate cloning turns out to need as many copies as full state tomography does, which for $n$ qubits is exponential in $n$.
+Modern quantum learning theory rarely deals with arbitrary states, however. It deals with structured classes, and for some of them learning is cheap. Stabilizer states are the canonical example, since an $n$-qubit stabilizer state can be learned from $O(n)$ copies. This raises the natural question of whether the structure that makes learning easy makes cloning easier still, and a recent paper by Nikhil Bansal, Matthias Caro and Gaurav Mahajan, Cloning is as Hard as Learning for Stabilizer States (arXiv:2604.15269, 2026), answers it in the negative, since the optimal sample complexity of cloning stabilizer states turns out to be $\Theta(n)$, the same as that of learning them.
+In this post we shall implement the learner in Q#, run it on the QDK’s stabilizer simulator for up to 128 qubits, and measure the mechanism behind the paper’s lower bound, which turns out to be a single fact about random vectors over $\mathbb{Z}_2$.]]></summary>
+        <author>
+            <name>Archive on Strathweb. A free flowing tech monologue.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside a Hong Kong Hackathon [Full freeCodeCamp Documentary]]]></title>
         <id>6ab571b05974dad13c5d246d</id>
         <link href="https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/"/>
         <updated>2026-09-24T18:53:36.000Z</updated>
@@ -780,6 +806,20 @@ Artykuł When “Authorized Testing” Becomes the Attack Vector: What Agentic A
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits]]></title>
+        <id>https://www.hanselman.com/blog/post/a2a687b7-45ce-46fb-aa23-bd2a8cf810b5</id>
+        <link href="http://feeds.hanselman.com/~/968351264/0/scotthanselman~Debugging-my-new-network-when-Gigabit-Ethernet-Runs-at-Megabits"/>
+        <updated>2026-08-27T15:25:48.000Z</updated>
+        <summary type="html"><![CDATA[I've been moving my home storage over to a UniFi UNAS Pro 8 as part of a larger homelab moderization. My main IRONHEART (the ultimate PC from a few years back) desktop now has an Intel E610-XT2 10GbE card, the NAS is on 10GbE, and there's a Minisforum MS-01 miniPC on the same network with a 10GbE SFP+ connection running Immich and Portainer and a few other things.
+
+Everything says 10 gigabit. Windows says 10 gigabit. UniFi says 10 gigabit. SMB copies are using the correct NIC but my file copies are running at around 100 to 200 megabits per second which is sad making.
+
+Naturally, I blamed the NAS, and the spinning rust within. The UNAS has six 16 TB spinning disks in RAID 6 and a pair of NVMe SSDs being used as cache. I'm also running Immich on the MS-01, with its photo library living on …]]></summary>
+        <author>
+            <name>Scott Hanselman's Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
         <id>https://css-tricks.com/?p=395259</id>
         <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
@@ -800,41 +840,6 @@ Repeating the Same AI Prompts? The Agent Skills Handbook Helps You Build Reusabl
 Copilot Code Reviews for Azure Repos (public preview) (Dan Hellem)
 Visual Studio Code 1.136 (Insiders) (Visual Studio Code Team)
 .NET Rocks! - Arguing about AI wit…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[animation-trigger]]></title>
-        <id>https://css-tricks.com/?page_id=394713</id>
-        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
-        <updated>2026-08-26T15:38:41.000Z</updated>
-        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
-animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions]]></title>
-        <id>https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/</id>
-        <link href="https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"/>
-        <updated>2026-08-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Meriem Benhabiles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - August 26, 2026 (#4740)]]></title>
-        <id>https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/</id>
-        <link href="https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/"/>
-        <updated>2026-08-26T04:49:02.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Explore new features available in C# 15 preview (Bill Wagner)
-.NET Conf 2026 (Jon Galloway)
-Unlocking the Power of AI for Every Developer in Visual Studio with Bring your Own Model (Tanmayee Kamath)
-From dotnet run to Foundry Hosted Agent in 3 lines of C# (Bruno Capuano…]]></summary>
         <author>
             <name>Alvin Ashcraft</name>
         </author>
