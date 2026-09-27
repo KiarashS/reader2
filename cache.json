@@ -30,16 +30,6 @@
           "wordCount": 3739,
           "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395259",
-          "author": "Daniel Schwarz",
-          "description": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-          "publishedOn": "2026-08-27T14:41:06.000Z",
-          "wordCount": 4165,
-          "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/framed-image.png"
         }
       ]
     },
@@ -54,7 +44,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5128,
+          "wordCount": 5131,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -69,7 +59,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5446,
+          "wordCount": 5452,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -84,7 +74,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4571,
+          "wordCount": 4576,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -99,7 +89,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4752,
+          "wordCount": 4754,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -265,7 +255,7 @@
           "description": "In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
           "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": 2434,
+          "wordCount": 2430,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
         },
@@ -275,7 +265,7 @@
           "description": "Classic native Date values in JavaScript are internally represented as UTC dates. However, when you display values they are by default shown as local date/time values. I've run into this recently again with an application that was returning a mix of UTC and non-UTC dates from the server to the browser, causing some confusion. At that point I realized I was being inconsistent with my use of the my date display functions, and here I am reviewing various Date formatting and Date conversion operations.\nJavaScript's core behavior is consistent once you separate two different concepts:\nThe instant represented by a Date\nThe timezone used to display that instant\nAn instant is essentially an instant in time expressed in an offset since the Unix Epoch:\nJanuary 1, 1970 00:00:00 UTC\nThe instant is rep…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones",
           "publishedOn": "2026-09-01T00:00:00.000Z",
-          "wordCount": 2058,
+          "wordCount": 2054,
           "title": "Back to Basics: JavaScript and Timezones",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/JavaScript-and-Timezones/TimeZoneBanner.jpg"
         }
@@ -329,7 +319,7 @@
           "description": "David McCarter, also known as dotNetDave, will speak at .NET Developer Days 2026 in Warsaw on October 20-21. His sessions focus on performance benchmarking using BenchmarkDotNet and software engineering principles likened to rock music. Attendees will gain insights on effective code measurement, testing, and embracing engineering judgment.",
           "link": "https://dotnettips.com/2026/09/24/dotnetdave-rocks-net-developer-days-2026-warsaw/",
           "publishedOn": "2026-09-24T15:53:09.000Z",
-          "wordCount": 4341,
+          "wordCount": 4185,
           "title": "dotNetDave Rocks .NET Developer Days 2026 Warsaw",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-24-2026-10_47_49-AM-1.png?fit=1200%2C800&ssl=1"
         },
@@ -649,16 +639,6 @@
           "wordCount": 72,
           "title": "Dew Drop - August 28, 2026 (#4742)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/08/27/dew-drop-august-27-2026-4741/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nRepeating the Same AI Prompts? The Agent Skills Handbook Helps You Build Reusable Skills (Suchitha Ramesh)\nCopilot Code Reviews for Azure Repos (public preview) (Dan Hellem)\nVisual Studio Code 1.136 (Insiders) (Visual Studio Code Team)\n.NET Rocks! - Arguing about AI wit…",
-          "link": "https://alvinashcraft.com/2026/08/27/dew-drop-august-27-2026-4741/",
-          "publishedOn": "2026-08-27T10:46:24.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - August 27, 2026 (#4741)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -706,9 +686,9 @@
           "description": "In this post, let's see how we can take an agent written with\n  Microsoft Agent Framework and let Microsoft Foundry host it, as\n  a hosted agent.\n\n\n\n  A while back I blogged about\n  Microsoft Agent Framework: Agents on Azure Functions with .NET, where we hosted the agent ourselves. And in the last post,\n  Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET, we looked at",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html",
           "publishedOn": "2026-09-21T08:33:24.611Z",
-          "wordCount": null,
+          "wordCount": 5231,
           "title": "Microsoft Agent Framework: Hosted Agents in Microsoft Foundry with .NET",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgRYk0xsmwchIkh5ooamA3Mz-B_vk43hJWz_nA0KsPhq3KNuIvsrVhaJGT8a_-hHdT-3ILiTAfSPfc8Fnhs-vUww1smT3mj1kKilqBIQYgiJw5W2OBR0zowpKsuk5_rEDLPphHiPw4jvLbZT5BCnllT9Il6yXPU1CZtCDQO7SnvfVBuzHiromgeAxEmnBI=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html",
@@ -736,7 +716,7 @@
           "description": ".NET 11 Release Candidate 1 is out, and that means we are getting really close to the finish line. Next month we should get RC2, and then in November the GA release at .NET Conf 2026. You can read more about RC1 here: Announcing .NET 11 Release Candidate 1.\n\nIn this post, let's have a look at some of the nice improvements that are coming to EF Core 11.0 Migrations. There are quite a few of them,",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/ef-core-110-whats-new-with-migrations.html",
           "publishedOn": "2026-09-11T10:33:48.448Z",
-          "wordCount": 5101,
+          "wordCount": null,
           "title": "EF Core 11.0: What's New with Migrations",
           "imageUrl": null
         }
@@ -795,18 +775,7 @@
       "title": "Scott Hanselman's Blog",
       "feedUrl": "http://feeds.hanselman.com/ScottHanselman",
       "siteUrl": "https://www.hanselman.com/blog/",
-      "articles": [
-        {
-          "id": "https://www.hanselman.com/blog/post/a2a687b7-45ce-46fb-aa23-bd2a8cf810b5",
-          "author": null,
-          "description": "I've been moving my home storage over to a UniFi UNAS Pro 8 as part of a larger homelab moderization. My main IRONHEART (the ultimate PC from a few years back) desktop now has an Intel E610-XT2 10GbE card, the NAS is on 10GbE, and there's a Minisforum MS-01 miniPC on the same network with a 10GbE SFP+ connection running Immich and Portainer and a few other things.\n\r\nEverything says 10 gigabit. Windows says 10 gigabit. UniFi says 10 gigabit. SMB copies are using the correct NIC but my file copies are running at around 100 to 200 megabits per second which is sad making.\n\r\nNaturally, I blamed the NAS, and the spinning rust within. The UNAS has six 16 TB spinning disks in RAID 6 and a pair of NVMe SSDs being used as cache. I'm also running Immich on the MS-01, with its photo library living on …",
-          "link": "http://feeds.hanselman.com/~/968351264/0/scotthanselman~Debugging-my-new-network-when-Gigabit-Ethernet-Runs-at-Megabits",
-          "publishedOn": "2026-08-27T15:25:48.000Z",
-          "wordCount": 1356,
-          "title": "Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",
-          "imageUrl": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Thomas Levesque's .NET Blog",

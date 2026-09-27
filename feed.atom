@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-09-26T04:35:56.758Z</updated>
+    <updated>2026-09-27T04:55:52.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
@@ -803,45 +803,6 @@ GitHub Copilot CLI v1.0.81 Release (copi…]]></summary>
 Artykuł When “Authorized Testing” Becomes the Attack Vector: What Agentic AI’s Latest Signals Mean for Enterprise Governance pochodzi z serwisu Michał Jankowski.]]></summary>
         <author>
             <name>Michał Jankowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits]]></title>
-        <id>https://www.hanselman.com/blog/post/a2a687b7-45ce-46fb-aa23-bd2a8cf810b5</id>
-        <link href="http://feeds.hanselman.com/~/968351264/0/scotthanselman~Debugging-my-new-network-when-Gigabit-Ethernet-Runs-at-Megabits"/>
-        <updated>2026-08-27T15:25:48.000Z</updated>
-        <summary type="html"><![CDATA[I've been moving my home storage over to a UniFi UNAS Pro 8 as part of a larger homelab moderization. My main IRONHEART (the ultimate PC from a few years back) desktop now has an Intel E610-XT2 10GbE card, the NAS is on 10GbE, and there's a Minisforum MS-01 miniPC on the same network with a 10GbE SFP+ connection running Immich and Portainer and a few other things.
-
-Everything says 10 gigabit. Windows says 10 gigabit. UniFi says 10 gigabit. SMB copies are using the correct NIC but my file copies are running at around 100 to 200 megabits per second which is sad making.
-
-Naturally, I blamed the NAS, and the spinning rust within. The UNAS has six 16 TB spinning disks in RAID 6 and a pair of NVMe SSDs being used as cache. I'm also running Immich on the MS-01, with its photo library living on …]]></summary>
-        <author>
-            <name>Scott Hanselman's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
-        <id>https://css-tricks.com/?p=395259</id>
-        <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
-        <updated>2026-08-27T14:41:06.000Z</updated>
-        <summary type="html"><![CDATA[The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.
-Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - August 27, 2026 (#4741)]]></title>
-        <id>https://alvinashcraft.com/2026/08/27/dew-drop-august-27-2026-4741/</id>
-        <link href="https://alvinashcraft.com/2026/08/27/dew-drop-august-27-2026-4741/"/>
-        <updated>2026-08-27T10:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Repeating the Same AI Prompts? The Agent Skills Handbook Helps You Build Reusable Skills (Suchitha Ramesh)
-Copilot Code Reviews for Azure Repos (public preview) (Dan Hellem)
-Visual Studio Code 1.136 (Insiders) (Visual Studio Code Team)
-.NET Rocks! - Arguing about AI wit…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
         </author>
     </entry>
 </feed>
