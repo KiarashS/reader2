@@ -44,7 +44,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5021,
+          "wordCount": 5030,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -59,7 +59,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5456,
+          "wordCount": 5457,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -74,7 +74,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4566,
+          "wordCount": 4573,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -89,7 +89,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4763,
+          "wordCount": 4747,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -106,12 +106,82 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6abbcab8bf5e373dfc4ceff1",
+          "author": "Beau Carnes",
+          "description": "We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using",
+          "link": "https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/",
+          "publishedOn": "2026-09-29T14:27:04.000Z",
+          "wordCount": 1359,
+          "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6fcf5557-9b44-40d4-93ec-bad5151625be.png"
+        },
+        {
+          "id": "6abbc1526882db86928eaf11",
+          "author": "Chidozie Managwu",
+          "description": "Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/",
+          "publishedOn": "2026-09-29T13:46:58.000Z",
+          "wordCount": 3312,
+          "title": "How to Build a Reliable AI Assistant with the Claude API",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c4c96758-54f5-4b88-9f00-639ecff705f9.png"
+        },
+        {
+          "id": "6abbbdbe89f93b150a3b95f4",
+          "author": "Alex Oliinyk",
+          "description": "Sooner or later, most front-end developers hit the same request: \"Can this take up the whole screen?\" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje",
+          "link": "https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/",
+          "publishedOn": "2026-09-29T13:31:42.000Z",
+          "wordCount": 4487,
+          "title": "How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/32fd0d68-ea3d-40c2-8653-449de3d514f1.png"
+        },
+        {
+          "id": "6abb5c6f814bf2c63668f9fc",
+          "author": "Hackita",
+          "description": "A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz",
+          "link": "https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/",
+          "publishedOn": "2026-09-29T06:36:31.000Z",
+          "wordCount": 3034,
+          "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9e1f15e5-de00-4533-8349-70620154f7ef.png"
+        },
+        {
+          "id": "6abb5959f5b6d1ca628c8ee5",
+          "author": "Sharvin Shah",
+          "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
+          "publishedOn": "2026-09-29T06:23:21.000Z",
+          "wordCount": 20170,
+          "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8a1735b1-52f1-42d9-b3f9-afb097277200.png"
+        },
+        {
+          "id": "6abb5903c40275b1ceb5b613",
+          "author": "Kayode Adeniyi",
+          "description": "Modern models generate syntactically correct code nearly 100% of the time. Veracode's 2026 report puts it plainly: \"Syntax is effectively solved.\" That reads like a milestone, but it's the reason you",
+          "link": "https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/",
+          "publishedOn": "2026-09-29T06:21:55.000Z",
+          "wordCount": 9106,
+          "title": "How to Govern AI-Generated Infrastructure with Policy as Code and OPA [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4208eef0-1dac-4b7d-89d7-28622a4d7825.png"
+        },
+        {
+          "id": "6abb57d97eb0e171af50644b",
+          "author": "Hugo Teijiz",
+          "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
+          "link": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
+          "publishedOn": "2026-09-29T06:16:57.000Z",
+          "wordCount": 4120,
+          "title": "Why Software Automation Needs a Layer Between Intent and Execution",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eb21a403-1e0d-46a4-a8b5-2dbb98095cdd.png"
+        },
+        {
           "id": "6ab8cc5b58666cf6e3b71086",
           "author": "Casmir Onyekani",
           "description": "Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha",
           "link": "https://www.freecodecamp.org/news/how-to-level-up-your-portfolio-in-the-ai-era-from-technical-writer-to-developer-educator/",
           "publishedOn": "2026-09-27T07:57:15.000Z",
-          "wordCount": 5534,
+          "wordCount": 5538,
           "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d611049d-c9ed-4083-b3bc-f203ba7b42ff.png"
         },
@@ -121,7 +191,7 @@
           "description": "We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge",
           "link": "https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/",
           "publishedOn": "2026-09-24T18:53:36.000Z",
-          "wordCount": 1647,
+          "wordCount": 1615,
           "title": "Inside a Hong Kong Hackathon [Full freeCodeCamp Documentary]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/db9790c4-39b4-457d-9748-213dbc1c7de8.jpg"
         },
@@ -134,76 +204,6 @@
           "wordCount": 4458,
           "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1f1ae0c4-da67-46b6-ae60-c22aa29fc517.png"
-        },
-        {
-          "id": "6ab48545d92eea5d2a3fdd77",
-          "author": "Beau Carnes",
-          "description": "Managing massive, rapidly growing datasets efficiently is a critical skill for modern developers. Whether you are tracking API request logs, monitoring IoT fleet telemetry, or building dashboards for",
-          "link": "https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/",
-          "publishedOn": "2026-09-24T02:04:53.000Z",
-          "wordCount": 1513,
-          "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7f80f393-8745-47c8-b5ad-03cceb530a1f.jpg"
-        },
-        {
-          "id": "6ab4839814d7392aab4c52af",
-          "author": "Beau Carnes",
-          "description": "Are you a software engineer looking to master building production-ready AI applications and agentic workflows? We've just published a brand new, comprehensive course on the freeCodeCamp.org YouTube ch",
-          "link": "https://www.freecodecamp.org/news/unlock-the-power-of-ai-agents-with-the-new-claude-certified-developer-foundations-course/",
-          "publishedOn": "2026-09-24T01:57:44.000Z",
-          "wordCount": 1456,
-          "title": "Unlock the Power of AI Agents with the New Claude Certified Developer Foundations Course",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/a839fb34-5683-45bf-a3ea-138ac12b79ec.jpg"
-        },
-        {
-          "id": "6ab43e2cfffa4387fa43a9db",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then",
-          "link": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
-          "publishedOn": "2026-09-23T21:01:32.000Z",
-          "wordCount": 4222,
-          "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/eedcb9fa-4e77-430d-afea-9b2b76565dbf.png"
-        },
-        {
-          "id": "6ab19a268fed0cf1f0fe1645",
-          "author": "brooklyn",
-          "description": "I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/",
-          "publishedOn": "2026-09-21T20:57:10.000Z",
-          "wordCount": 5582,
-          "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1691ded5-fe4e-405e-aa70-19cd95a700da.png"
-        },
-        {
-          "id": "6ab11bd3c0a4b6fb82bc1891",
-          "author": "Caleb Mintoumba",
-          "description": "The explosion of generative AI has pushed thousands of web developers to add intelligent features to their apps. The first instinct is usually to call the Gemini API's SDK directly from the browser. T",
-          "link": "https://www.freecodecamp.org/news/why-you-should-never-embed-your-gemini-api-key-in-client-code-and-how-firebase-ai-logic-fixes-it/",
-          "publishedOn": "2026-09-21T11:58:11.000Z",
-          "wordCount": 4039,
-          "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3a42885a-9cac-4fbc-8fac-affbafd7785c.png"
-        },
-        {
-          "id": "6aaec6a4bd97d368f64a3819",
-          "author": "RONI DAS",
-          "description": "Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/",
-          "publishedOn": "2026-09-19T17:30:12.000Z",
-          "wordCount": 77481,
-          "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3a3e0991-8574-4569-91b3-b68fbc58a210.png"
-        },
-        {
-          "id": "6aaec60b559dfa1d9e4f1ddc",
-          "author": "Kayode Adeniyi",
-          "description": "Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos",
-          "link": "https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/",
-          "publishedOn": "2026-09-19T17:27:39.000Z",
-          "wordCount": 7676,
-          "title": "How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f1cfd03f-8ff0-4dcb-8282-f7fac7c5fe04.png"
         }
       ]
     },
@@ -265,7 +265,7 @@
           "description": "In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
           "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": 2433,
+          "wordCount": 2434,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "Classic native Date values in JavaScript are internally represented as UTC dates. However, when you display values they are by default shown as local date/time values. I've run into this recently again with an application that was returning a mix of UTC and non-UTC dates from the server to the browser, causing some confusion. At that point I realized I was being inconsistent with my use of the my date display functions, and here I am reviewing various Date formatting and Date conversion operations.\nJavaScript's core behavior is consistent once you separate two different concepts:\nThe instant represented by a Date\nThe timezone used to display that instant\nAn instant is essentially an instant in time expressed in an offset since the Unix Epoch:\nJanuary 1, 1970 00:00:00 UTC\nThe instant is rep…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones",
           "publishedOn": "2026-09-01T00:00:00.000Z",
-          "wordCount": 2054,
+          "wordCount": 2058,
           "title": "Back to Basics: JavaScript and Timezones",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/JavaScript-and-Timezones/TimeZoneBanner.jpg"
         }
@@ -292,7 +292,7 @@
           "description": "In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
           "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": 2437,
+          "wordCount": 2434,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
         },
@@ -302,7 +302,7 @@
           "description": "Classic native Date values in JavaScript are internally represented as UTC dates. However, when you display values they are by default shown as local date/time values. I've run into this recently again with an application that was returning a mix of UTC and non-UTC dates from the server to the browser, causing some confusion. At that point I realized I was being inconsistent with my use of the my date display functions, and here I am reviewing various Date formatting and Date conversion operations.\nJavaScript's core behavior is consistent once you separate two different concepts:\nThe instant represented by a Date\nThe timezone used to display that instant\nAn instant is essentially an instant in time expressed in an offset since the Unix Epoch:\nJanuary 1, 1970 00:00:00 UTC\nThe instant is rep…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones",
           "publishedOn": "2026-09-01T00:00:00.000Z",
-          "wordCount": 2054,
+          "wordCount": 2058,
           "title": "Back to Basics: JavaScript and Timezones",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/JavaScript-and-Timezones/TimeZoneBanner.jpg"
         }
@@ -329,7 +329,7 @@
           "description": "dotNetDave's No Rest for the Wicked World Tour will arrive in Milan for Codemotion Milan 2026 on October 28th-29th. This marks his first speaking engagement in Italy, where he will present \"Unleash Your Inner Rockstar: The 5 Steps to Dynamic Public Speaking!\" Join to enhance your public speaking skills and career.",
           "link": "https://dotnettips.com/2026/09/24/dotnetdave-rocks-codemotion-milan-2026/",
           "publishedOn": "2026-09-24T15:58:39.000Z",
-          "wordCount": 3932,
+          "wordCount": 3922,
           "title": "dotNetDave Rocks Codemotion Milan 2026",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-24-2026-10_47_49-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -490,6 +490,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/09/29/dew-drop-september-29-2026-4759/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nBuild Agentic UI with the new Blazor AI components (Daniel Roth)\nClaude Sonnet 5.5 is now available in Microsoft Foundry (Amar Badal)\nMSSQL Extension for VS Code: New Getting Started Page, Agent skills, SQL Formatter, and more (Yo-Lei Chen)\nGet started with the GitHub C…",
+          "link": "https://alvinashcraft.com/2026/09/29/dew-drop-september-29-2026-4759/",
+          "publishedOn": "2026-09-29T12:35:54.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - September 29, 2026 (#4759)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/09/28/dew-drop-september-28-2026-4758/",
           "author": "Alvin Ashcraft",
@@ -696,9 +706,9 @@
           "description": "In this post, let's see how we can take an agent written with\n  Microsoft Agent Framework and let Microsoft Foundry host it, as\n  a hosted agent.\n\n\n\n  A while back I blogged about\n  Microsoft Agent Framework: Agents on Azure Functions with .NET, where we hosted the agent ourselves. And in the last post,\n  Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET, we looked at",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html",
           "publishedOn": "2026-09-21T08:33:24.611Z",
-          "wordCount": 5231,
+          "wordCount": null,
           "title": "Microsoft Agent Framework: Hosted Agents in Microsoft Foundry with .NET",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgRYk0xsmwchIkh5ooamA3Mz-B_vk43hJWz_nA0KsPhq3KNuIvsrVhaJGT8a_-hHdT-3ILiTAfSPfc8Fnhs-vUww1smT3mj1kKilqBIQYgiJw5W2OBR0zowpKsuk5_rEDLPphHiPw4jvLbZT5BCnllT9Il6yXPU1CZtCDQO7SnvfVBuzHiromgeAxEmnBI=w1200-h630-p-k-no-nu"
+          "imageUrl": null
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html",
@@ -706,9 +716,9 @@
           "description": "<!--Title: Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET-->\n\n  \n    In this post, let's have a look at prompt agents in\n    Microsoft Foundry, and how we can create and run them with\n    Microsoft Agent Framework.\n  \n  \n  \n    Some time back I blogged about\n    Getting Started with Microsoft Agent Framework 1.0.0 in .NET. There, the agent was created in code, it lived",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html",
           "publishedOn": "2026-09-19T00:57:00.000Z",
-          "wordCount": 5082,
+          "wordCount": null,
           "title": "Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEifKsOiObYvp8uvOZ7qNVXfYWJx9GTw0SIfHNpVHqPfhpnaWK7x3m3XMGnFbKD1i2DVFZepqtsbvls-h3QwPeMLl0Wsq3lIMeiFyHBA75kQaCqrmsKlu32ohOVE4soIaVybP0IdH_6vinN15lVXRM0aF5pk6jKbxqj3oL-tR8UDyLo_Khoqz-KwlKemgn0=w1200-h630-p-k-no-nu"
+          "imageUrl": null
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/09/c-using-timeprovider-and.html",
@@ -716,7 +726,7 @@
           "description": "In this post, let's have a look at\n    TimeProvider\n    in C#.&nbsp;\n  \n  \n  \n    I have seen this abstract class around for a while (it was introduced with\n    .NET 8), but I haven't really used it up until very recently. I just\n    love it.\n  \n  \n  \n    Before\n    TimeProvider, whenever I needed to control time in tests, I had to write my own\n    abstraction, something like",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/c-using-timeprovider-and.html",
           "publishedOn": "2026-09-15T10:48:29.164Z",
-          "wordCount": 4272,
+          "wordCount": null,
           "title": "C#: Using TimeProvider and FakeTimeProvider",
           "imageUrl": null
         },
@@ -726,7 +736,7 @@
           "description": ".NET 11 Release Candidate 1 is out, and that means we are getting really close to the finish line. Next month we should get RC2, and then in November the GA release at .NET Conf 2026. You can read more about RC1 here: Announcing .NET 11 Release Candidate 1.\n\nIn this post, let's have a look at some of the nice improvements that are coming to EF Core 11.0 Migrations. There are quite a few of them,",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/ef-core-110-whats-new-with-migrations.html",
           "publishedOn": "2026-09-11T10:33:48.448Z",
-          "wordCount": 5101,
+          "wordCount": null,
           "title": "EF Core 11.0: What's New with Migrations",
           "imageUrl": null
         }
@@ -894,24 +904,24 @@
       "siteUrl": "https://blog.codewithdan.com/",
       "articles": [
         {
+          "id": "https://blog.codewithdan.com/how-we-built-a-course-with-humans-in-the-loop-and-agents-in-the-workflow/",
+          "author": null,
+          "description": "",
+          "link": "https://blog.codewithdan.com/how-we-built-a-course-with-humans-in-the-loop-and-agents-in-the-workflow/",
+          "publishedOn": "2026-09-29T00:00:00.000Z",
+          "wordCount": 1696,
+          "title": "How we built a course with humans in the loop and agents in the workflow",
+          "imageUrl": "https://blog.codewithdan.com/images/blog/how-we-built-a-course-with-humans-in-the-loop-and-agents-in-the-workflow/cover.webp"
+        },
+        {
           "id": "https://blog.codewithdan.com/github-copilot-app-for-beginners/",
           "author": null,
           "description": "",
           "link": "https://blog.codewithdan.com/github-copilot-app-for-beginners/",
           "publishedOn": "2026-09-23T00:00:00.000Z",
-          "wordCount": 1459,
+          "wordCount": 1450,
           "title": "Get started with the GitHub Copilot app: A free, hands-on course",
           "imageUrl": "https://blog.codewithdan.com/images/blog/github-copilot-app-for-beginners/course-hero-command-center.webp"
-        },
-        {
-          "id": "https://blog.codewithdan.com/how-i-cut-gpu-power-from-18-w-to-4-w-on-an-omarchy-macbook-pro-with-github-copilot-cli/",
-          "author": null,
-          "description": "",
-          "link": "https://blog.codewithdan.com/how-i-cut-gpu-power-from-18-w-to-4-w-on-an-omarchy-macbook-pro-with-github-copilot-cli/",
-          "publishedOn": "2026-08-30T00:00:00.000Z",
-          "wordCount": 4452,
-          "title": "How I Cut GPU Power from 18 W to 4 W on an Omarchy MacBook Pro with GitHub Copilot CLI",
-          "imageUrl": "https://blog.codewithdan.com/images/blog/how-i-cut-gpu-power-from-18-w-to-4-w-on-an-omarchy-macbook-pro-with-github-copilot-cli/omarchy-gpu-power-cover.webp"
         }
       ]
     }
