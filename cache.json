@@ -10,28 +10,7 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=396630",
-          "author": "Lee Meyer",
-          "description": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-random-function-polyfill/",
-          "publishedOn": "2026-08-31T15:12:19.000Z",
-          "wordCount": 6517,
-          "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396738",
-          "author": "Daniel Schwarz",
-          "description": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.\nWhat’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-18/",
-          "publishedOn": "2026-08-31T14:08:55.000Z",
-          "wordCount": 3739,
-          "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
@@ -39,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
+          "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+          "publishedOn": "2026-09-30T13:30:00.000Z",
+          "wordCount": 4643,
+          "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5030,
+          "wordCount": 5023,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -59,7 +53,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5457,
+          "wordCount": 5452,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -74,7 +68,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4573,
+          "wordCount": 4570,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -82,21 +76,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
-          "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4747,
-          "title": "The Many Faces Of September (2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png"
         }
       ]
     },
@@ -105,6 +84,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6abca43ca3fbe2215db75ecf",
+          "author": "Bansidhar Kadiya",
+          "description": "Whether you're writing an essay, a tweet, or a blog post, keeping track of your word and character count is very important. In this tutorial, you'll build a fully functional, real-time Word Counter to",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-real-time-word-counter-tool-with-html-css-and-javascript/",
+          "publishedOn": "2026-09-30T05:55:08.000Z",
+          "wordCount": 2541,
+          "title": "How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d32feb51-3930-4bd7-be76-9a9150d069d1.png"
+        },
+        {
+          "id": "6abca2f9f944d026311c7f7b",
+          "author": "Gursimar Singh",
+          "description": "It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod",
+          "link": "https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/",
+          "publishedOn": "2026-09-30T05:49:45.000Z",
+          "wordCount": 5119,
+          "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4ab24802-80a3-43bb-a432-28f18d1f777e.png"
+        },
         {
           "id": "6abbcab8bf5e373dfc4ceff1",
           "author": "Beau Carnes",
@@ -171,7 +170,7 @@
           "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
           "link": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
           "publishedOn": "2026-09-29T06:16:57.000Z",
-          "wordCount": 4120,
+          "wordCount": 4122,
           "title": "Why Software Automation Needs a Layer Between Intent and Execution",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eb21a403-1e0d-46a4-a8b5-2dbb98095cdd.png"
         },
@@ -181,29 +180,9 @@
           "description": "Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha",
           "link": "https://www.freecodecamp.org/news/how-to-level-up-your-portfolio-in-the-ai-era-from-technical-writer-to-developer-educator/",
           "publishedOn": "2026-09-27T07:57:15.000Z",
-          "wordCount": 5538,
+          "wordCount": 5534,
           "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d611049d-c9ed-4083-b3bc-f203ba7b42ff.png"
-        },
-        {
-          "id": "6ab571b05974dad13c5d246d",
-          "author": "Beau Carnes",
-          "description": "We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge",
-          "link": "https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/",
-          "publishedOn": "2026-09-24T18:53:36.000Z",
-          "wordCount": 1615,
-          "title": "Inside a Hong Kong Hackathon [Full freeCodeCamp Documentary]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/db9790c4-39b4-457d-9748-213dbc1c7de8.jpg"
-        },
-        {
-          "id": "6ab54b145ca9fc6a257ae996",
-          "author": "Hugo Teijiz",
-          "description": "Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat",
-          "link": "https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/",
-          "publishedOn": "2026-09-24T16:08:52.000Z",
-          "wordCount": 4458,
-          "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1f1ae0c4-da67-46b6-ae60-c22aa29fc517.png"
         }
       ]
     },
@@ -241,16 +220,6 @@
           "wordCount": 484,
           "title": "Things That Caught My Attention Last Week - September 7",
           "imageUrl": null
-        },
-        {
-          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-august-31-2026",
-          "author": null,
-          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
-          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-august-31-2026",
-          "publishedOn": "2026-08-31T00:00:00.000Z",
-          "wordCount": 538,
-          "title": "Things That Caught My Attention Last Week - August 31",
-          "imageUrl": null
         }
       ]
     },
@@ -265,7 +234,7 @@
           "description": "In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
           "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": 2434,
+          "wordCount": 2430,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
         },
@@ -275,7 +244,7 @@
           "description": "Classic native Date values in JavaScript are internally represented as UTC dates. However, when you display values they are by default shown as local date/time values. I've run into this recently again with an application that was returning a mix of UTC and non-UTC dates from the server to the browser, causing some confusion. At that point I realized I was being inconsistent with my use of the my date display functions, and here I am reviewing various Date formatting and Date conversion operations.\nJavaScript's core behavior is consistent once you separate two different concepts:\nThe instant represented by a Date\nThe timezone used to display that instant\nAn instant is essentially an instant in time expressed in an offset since the Unix Epoch:\nJanuary 1, 1970 00:00:00 UTC\nThe instant is rep…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones",
           "publishedOn": "2026-09-01T00:00:00.000Z",
-          "wordCount": 2058,
+          "wordCount": 2054,
           "title": "Back to Basics: JavaScript and Timezones",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/JavaScript-and-Timezones/TimeZoneBanner.jpg"
         }
@@ -314,12 +283,22 @@
       "siteUrl": "https://dotnettips.com",
       "articles": [
         {
+          "id": "https://dotnettips.com/?p=19177",
+          "author": "David (dotNetDave) McCarter",
+          "description": "The HttpRequestExtensions class in DotNetTips.Spargine.Extensions offers reusable methods to streamline HTTP request handling, enhancing code maintainability and consistency. Key functions include reading request bodies, managing headers, extracting bearer tokens, and validating content types. This utility supports input validation and unit testing, improving code quality in applications.",
+          "link": "https://dotnettips.com/2026/09/30/simplify-directory-file-operations-in-net-with-spargines-directoryinfoextensions/",
+          "publishedOn": "2026-09-30T06:00:00.000Z",
+          "wordCount": 4272,
+          "title": "Simplify Directory File Operations in .NET with Spargine’s  DirectoryInfoExtensions",
+          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-28-2026-04_13_09-PM.png?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://dotnettips.com/?p=18486",
           "author": "David (dotNetDave) McCarter",
           "description": "Disabling keep-alive in HttpClient can severely degrade application performance, as it prevents connection reuse. While it may be justified in rare cases, such as for legacy systems or troubleshooting, most reasons are misguided. Instead, maintain keep-alive for efficiency and configure PooledConnectionLifetime to manage connections effectively.",
           "link": "https://dotnettips.com/2026/09/27/httpclient-keep-alive-why-disabling-connection-reuse-can-destroy-performance/",
           "publishedOn": "2026-09-27T06:00:00.000Z",
-          "wordCount": 3561,
+          "wordCount": 3262,
           "title": "HttpClient Keep-Alive: Why Disabling Connection Reuse Can Destroy Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-20-2026-10_36_49-AM.png?fit=1200%2C801&ssl=1"
         },
@@ -329,7 +308,7 @@
           "description": "dotNetDave's No Rest for the Wicked World Tour will arrive in Milan for Codemotion Milan 2026 on October 28th-29th. This marks his first speaking engagement in Italy, where he will present \"Unleash Your Inner Rockstar: The 5 Steps to Dynamic Public Speaking!\" Join to enhance your public speaking skills and career.",
           "link": "https://dotnettips.com/2026/09/24/dotnetdave-rocks-codemotion-milan-2026/",
           "publishedOn": "2026-09-24T15:58:39.000Z",
-          "wordCount": 3922,
+          "wordCount": 3932,
           "title": "dotNetDave Rocks Codemotion Milan 2026",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-24-2026-10_47_49-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -369,7 +348,7 @@
           "description": "When writing asynchronous methods, consider returning ValueTask instead of Task for performance-sensitive scenarios, especially when methods frequently complete synchronously. ValueTask can improve speed and reduce memory allocation, but it comes with usage restrictions. Use Task as a default while applying ValueTask selectively after proper testing.",
           "link": "https://dotnettips.com/2026/09/13/task-vs-valuetask-reducing-async-allocations-and-boosting-performance/",
           "publishedOn": "2026-09-13T06:00:00.000Z",
-          "wordCount": 3283,
+          "wordCount": 3301,
           "title": "Task vs. ValueTask: Reducing Async Allocations and Boosting Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-16-2026-10_11_06-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -402,16 +381,6 @@
           "wordCount": 4031,
           "title": "dotNetDave Rocks SpiceWorld – Austin 2026",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-3-2026-03_27_29-PM.png?fit=1200%2C801&ssl=1"
-        },
-        {
-          "id": "https://dotnettips.com/?p=18673",
-          "author": "David (dotNetDave) McCarter",
-          "description": "Spargine's ThreadPoolHelper simplifies concurrent execution in .NET applications by providing reusable APIs that manage thread pool operations. It supports single and batch operations, bounded concurrency, timeout management, cooperative cancellation, and non-throwing execution. By centralizing common patterns, ThreadPoolHelper enhances maintainability and reduces repetitive infrastructure code for developers.",
-          "link": "https://dotnettips.com/2026/09/02/boost-your-net-projects-with-spargine-simplify-thread-pool-execution-with-threadpoolhelper/",
-          "publishedOn": "2026-09-02T06:00:00.000Z",
-          "wordCount": 5027,
-          "title": "Boost Your .NET Projects with Spargine: Simplify Thread Pool Execution with ThreadPoolHelper",
-          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-8-2026-09_24_41-AM.png?fit=1200%2C801&ssl=1"
         }
       ]
     },
@@ -490,6 +459,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/09/30/dew-drop-september-30-2026-4760/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nAspire 13.6: Your dashboard gets memory (Maddy Montaquila)\nWSL containers is now generally available (Logan Iyer)\nIntroducing GPT-6.1 Sol in Microsoft Foundry: Advanced intelligence, optimized for production agents (Naomi Moneypenny)\nEnabling Consistent AI-Assisted Engi…",
+          "link": "https://alvinashcraft.com/2026/09/30/dew-drop-september-30-2026-4760/",
+          "publishedOn": "2026-09-30T12:37:19.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - September 30, 2026 (#4760)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/09/29/dew-drop-september-29-2026-4759/",
           "author": "Alvin Ashcraft",
@@ -649,16 +628,6 @@
           "wordCount": 72,
           "title": "Dew Drop - September 1, 2026 (#4744)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/08/31/dew-drop-august-31-2026-4743/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nWinUI OSS Update: Phased Rollout Toward Open Collaboration (Beth Pan) - Rollout complete\nTechBash 2026 - Communication Workshop Spotlight (plus don't miss out on Labor Day registration savings) (TechBash Team)\nWhat were the biggest technical shifts in Visual Studio and …",
-          "link": "https://alvinashcraft.com/2026/08/31/dew-drop-august-31-2026-4743/",
-          "publishedOn": "2026-08-31T10:29:10.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - August 31, 2026 (#4743)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -736,7 +705,7 @@
           "description": ".NET 11 Release Candidate 1 is out, and that means we are getting really close to the finish line. Next month we should get RC2, and then in November the GA release at .NET Conf 2026. You can read more about RC1 here: Announcing .NET 11 Release Candidate 1.\n\nIn this post, let's have a look at some of the nice improvements that are coming to EF Core 11.0 Migrations. There are quite a few of them,",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/ef-core-110-whats-new-with-migrations.html",
           "publishedOn": "2026-09-11T10:33:48.448Z",
-          "wordCount": null,
+          "wordCount": 5101,
           "title": "EF Core 11.0: What's New with Migrations",
           "imageUrl": null
         }
@@ -754,12 +723,22 @@
       "siteUrl": "https://www.jankowskimichal.pl/en/",
       "articles": [
         {
+          "id": "https://www.jankowskimichal.pl/?p=4432",
+          "author": "Michał Jankowski",
+          "description": "The same pattern runs through every story below. Agents are gaining authority over systems, money and code faster than organizations build controls around them. That gap now comes with incident reports, invoices and executive orders. Your Agent Will Find the Workaround. The Question Is Who Notices First. On June 18, an OpenAI agent on an  [...]\nArtykuł Your AI Agent Will Find the Workaround: What Rogue Agents, Agent Payments and Rising AI Bills Mean for Enterprise Governance pochodzi z serwisu Michał Jankowski.",
+          "link": "https://www.jankowskimichal.pl/en/2026/09/your-ai-agent-will-find-the-workaround-what-rogue-agents-agent-payments-and-rising-ai-bills-mean-for-enterprise-governance/",
+          "publishedOn": "2026-09-30T12:50:51.000Z",
+          "wordCount": 3445,
+          "title": "Your AI Agent Will Find the Workaround: What Rogue Agents, Agent Payments and Rising AI Bills Mean for Enterprise Governance",
+          "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/09/YourAIAgentWillFindtheWorkaround.png"
+        },
+        {
           "id": "https://www.jankowskimichal.pl/?p=4427",
           "author": "Michał Jankowski",
           "description": "Three signals landed close together this cycle, and they all point the same direction: the gap between what agents can do and what organizations can verify is widening faster than most governance frameworks assume. One lab is proposing to slow itself down. One user found out the hard way what an unsupervised agent will do  [...]\nArtykuł Agent autonomy is outrunning governance, and the labs know it pochodzi z serwisu Michał Jankowski.",
           "link": "https://www.jankowskimichal.pl/en/2026/09/agent-autonomy-is-outrunning-governance-and-the-labs-know-it/",
           "publishedOn": "2026-09-16T19:06:39.000Z",
-          "wordCount": 3644,
+          "wordCount": 3651,
           "title": "Agent autonomy is outrunning governance, and the labs know it",
           "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/09/AgentAutonomy.png"
         },
@@ -769,7 +748,7 @@
           "description": "Two AI agent swarms self-organized without a single line of code authorizing it, within the same month. One surfaced inside OpenAI's own evaluation infrastructure and ended up attacking Hugging Face. The other hit Taiwan's nuclear safety agency, a government email system, and seven energy companies, days earlier. Neither was supposed to happen. Both did, using  [...]\nArtykuł The Isolation Assumption That’s Quietly Breaking Your Agentic AI Roadmap pochodzi z serwisu Michał Jankowski.",
           "link": "https://www.jankowskimichal.pl/en/2026/09/the-isolation-assumption-thats-quietly-breaking-your-agentic-ai-roadmap/",
           "publishedOn": "2026-09-10T05:54:38.000Z",
-          "wordCount": 3250,
+          "wordCount": 3256,
           "title": "The Isolation Assumption That’s Quietly Breaking Your Agentic AI Roadmap",
           "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/09/The-Isolation-Assumption-Thats-Quietly-Breaking-Your-Agentic-AI-Roadmap.png"
         }
