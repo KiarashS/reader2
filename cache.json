@@ -23,7 +23,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4643,
+          "wordCount": 4654,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -38,7 +38,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5023,
+          "wordCount": 5025,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -53,7 +53,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5452,
+          "wordCount": 5447,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -85,12 +85,92 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6abe78a1cc111926f9c7fc82",
+          "author": "Beau Carnes",
+          "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
+          "link": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
+          "publishedOn": "2026-10-01T15:13:37.000Z",
+          "wordCount": 1437,
+          "title": "Build and Publish a Full-Stack Mobile App with AI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e3b03940-c761-4da1-9fe0-7ca07ec88550.png"
+        },
+        {
+          "id": "6abe6aefe2bfb6c3545bb583",
+          "author": "Nikheel Vishwas Savant",
+          "description": "A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t",
+          "link": "https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/",
+          "publishedOn": "2026-10-01T14:15:11.000Z",
+          "wordCount": 5521,
+          "title": "How to Stop Your Android App from Draining the Battery with Wake Locks",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f08ae713-8957-4954-b29f-0efc696b0de8.png"
+        },
+        {
+          "id": "6abe3dc913d662f7af15bf03",
+          "author": "Praneeth Kodumagulla",
+          "description": "You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po",
+          "link": "https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/",
+          "publishedOn": "2026-10-01T11:02:33.000Z",
+          "wordCount": 3989,
+          "title": "How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3864c1c8-994c-4f98-9833-47a9bb34e15d.png"
+        },
+        {
+          "id": "6abe3d817fd604967ed16903",
+          "author": "Otobong Peter",
+          "description": "Modern codebases are becoming increasingly difficult to navigate. This isn't necessarily because developers are writing more code themselves. It's mostly because coding assistants are generating hundr",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-code-graph-in-typescript-using-vs-code-language-apis/",
+          "publishedOn": "2026-10-01T11:01:21.000Z",
+          "wordCount": 5574,
+          "title": "How to Build a Code Graph in TypeScript Using VS Code's Language APIs",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2101c28a-d568-4841-95e6-ab066d2cf27f.png"
+        },
+        {
+          "id": "6abe2c47229f69b03c107a96",
+          "author": "Oluwatobi Sofela",
+          "description": "Node.js is a runtime environment for executing JavaScript outside the web browser. From small scripts to large-scale back-end applications, Node.js provides the APIs and tools you need to build JavaSc",
+          "link": "https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/",
+          "publishedOn": "2026-10-01T09:47:51.000Z",
+          "wordCount": 12269,
+          "title": "The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/da9c2a49-21e8-4b9a-8dc3-adac2dcf82d0.png"
+        },
+        {
+          "id": "6abdfdcf1585eb815aed0e73",
+          "author": "Manish Shivanandhan",
+          "description": "Building AI for clinical settings is harder than it looks. It takes more than picking a good model or tuning the right parameters. When engineers enter a hospital ecosystem, they quickly discover that",
+          "link": "https://www.freecodecamp.org/news/healthcare-ai-won-t-work-until-you-fix-your-data/",
+          "publishedOn": "2026-10-01T06:29:35.000Z",
+          "wordCount": 3285,
+          "title": "Healthcare AI Won't Work Until You Fix Your Data",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3306532c-8aae-4b82-8529-77387b8dba04.png"
+        },
+        {
+          "id": "6abdfb67cd92a8a7d5eb9c7c",
+          "author": "Reetain Raina",
+          "description": "Smartwatches have made health data easier to access. A quick glance at your wrist can reveal your heart rate, step count, sleep duration and even estimated recovery. But displaying all this informatio",
+          "link": "https://www.freecodecamp.org/news/are-screenless-wearables-better-for-health-tracking/",
+          "publishedOn": "2026-10-01T06:19:19.000Z",
+          "wordCount": 3308,
+          "title": "Does No Screen Mean Better Data? The 101 on Screenless Wearables",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/12cd1799-8baf-4272-a5b9-a2dcaf669b07.png"
+        },
+        {
+          "id": "6abdfcd2e3ca1b6f34c584aa",
+          "author": "Ayman Eldawy",
+          "description": "What happens when a page has 150 content-heavy cards, but the user can only see the first few? You might expect the browser to only worry about what's currently visible. But this isn't exactly what ha",
+          "link": "https://www.freecodecamp.org/news/css-content-visibility-rendering-performance/",
+          "publishedOn": "2026-10-01T06:00:00.000Z",
+          "wordCount": 3791,
+          "title": "How CSS content-visibility Works and How It Can Improve Rendering Performance",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f11711dc-ac4a-43f0-b312-4d89c6f7f989.png"
+        },
+        {
           "id": "6abca43ca3fbe2215db75ecf",
           "author": "Bansidhar Kadiya",
           "description": "Whether you're writing an essay, a tweet, or a blog post, keeping track of your word and character count is very important. In this tutorial, you'll build a fully functional, real-time Word Counter to",
           "link": "https://www.freecodecamp.org/news/how-to-build-a-real-time-word-counter-tool-with-html-css-and-javascript/",
           "publishedOn": "2026-09-30T05:55:08.000Z",
-          "wordCount": 2541,
+          "wordCount": 2521,
           "title": "How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d32feb51-3930-4bd7-be76-9a9150d069d1.png"
         },
@@ -100,89 +180,9 @@
           "description": "It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod",
           "link": "https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/",
           "publishedOn": "2026-09-30T05:49:45.000Z",
-          "wordCount": 5119,
+          "wordCount": 5109,
           "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4ab24802-80a3-43bb-a432-28f18d1f777e.png"
-        },
-        {
-          "id": "6abbcab8bf5e373dfc4ceff1",
-          "author": "Beau Carnes",
-          "description": "We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using",
-          "link": "https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/",
-          "publishedOn": "2026-09-29T14:27:04.000Z",
-          "wordCount": 1359,
-          "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6fcf5557-9b44-40d4-93ec-bad5151625be.png"
-        },
-        {
-          "id": "6abbc1526882db86928eaf11",
-          "author": "Chidozie Managwu",
-          "description": "Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/",
-          "publishedOn": "2026-09-29T13:46:58.000Z",
-          "wordCount": 3312,
-          "title": "How to Build a Reliable AI Assistant with the Claude API",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c4c96758-54f5-4b88-9f00-639ecff705f9.png"
-        },
-        {
-          "id": "6abbbdbe89f93b150a3b95f4",
-          "author": "Alex Oliinyk",
-          "description": "Sooner or later, most front-end developers hit the same request: \"Can this take up the whole screen?\" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje",
-          "link": "https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/",
-          "publishedOn": "2026-09-29T13:31:42.000Z",
-          "wordCount": 4487,
-          "title": "How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/32fd0d68-ea3d-40c2-8653-449de3d514f1.png"
-        },
-        {
-          "id": "6abb5c6f814bf2c63668f9fc",
-          "author": "Hackita",
-          "description": "A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz",
-          "link": "https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/",
-          "publishedOn": "2026-09-29T06:36:31.000Z",
-          "wordCount": 3034,
-          "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9e1f15e5-de00-4533-8349-70620154f7ef.png"
-        },
-        {
-          "id": "6abb5959f5b6d1ca628c8ee5",
-          "author": "Sharvin Shah",
-          "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
-          "publishedOn": "2026-09-29T06:23:21.000Z",
-          "wordCount": 20170,
-          "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8a1735b1-52f1-42d9-b3f9-afb097277200.png"
-        },
-        {
-          "id": "6abb5903c40275b1ceb5b613",
-          "author": "Kayode Adeniyi",
-          "description": "Modern models generate syntactically correct code nearly 100% of the time. Veracode's 2026 report puts it plainly: \"Syntax is effectively solved.\" That reads like a milestone, but it's the reason you",
-          "link": "https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/",
-          "publishedOn": "2026-09-29T06:21:55.000Z",
-          "wordCount": 9106,
-          "title": "How to Govern AI-Generated Infrastructure with Policy as Code and OPA [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4208eef0-1dac-4b7d-89d7-28622a4d7825.png"
-        },
-        {
-          "id": "6abb57d97eb0e171af50644b",
-          "author": "Hugo Teijiz",
-          "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
-          "link": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
-          "publishedOn": "2026-09-29T06:16:57.000Z",
-          "wordCount": 4122,
-          "title": "Why Software Automation Needs a Layer Between Intent and Execution",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eb21a403-1e0d-46a4-a8b5-2dbb98095cdd.png"
-        },
-        {
-          "id": "6ab8cc5b58666cf6e3b71086",
-          "author": "Casmir Onyekani",
-          "description": "Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha",
-          "link": "https://www.freecodecamp.org/news/how-to-level-up-your-portfolio-in-the-ai-era-from-technical-writer-to-developer-educator/",
-          "publishedOn": "2026-09-27T07:57:15.000Z",
-          "wordCount": 5534,
-          "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d611049d-c9ed-4083-b3bc-f203ba7b42ff.png"
         }
       ]
     },
@@ -237,16 +237,6 @@
           "wordCount": 2430,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
-        },
-        {
-          "id": "u33738s1e975",
-          "author": "(Rick Strahl)",
-          "description": "Classic native Date values in JavaScript are internally represented as UTC dates. However, when you display values they are by default shown as local date/time values. I've run into this recently again with an application that was returning a mix of UTC and non-UTC dates from the server to the browser, causing some confusion. At that point I realized I was being inconsistent with my use of the my date display functions, and here I am reviewing various Date formatting and Date conversion operations.\nJavaScript's core behavior is consistent once you separate two different concepts:\nThe instant represented by a Date\nThe timezone used to display that instant\nAn instant is essentially an instant in time expressed in an offset since the Unix Epoch:\nJanuary 1, 1970 00:00:00 UTC\nThe instant is rep…",
-          "link": "https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones",
-          "publishedOn": "2026-09-01T00:00:00.000Z",
-          "wordCount": 2054,
-          "title": "Back to Basics: JavaScript and Timezones",
-          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/JavaScript-and-Timezones/TimeZoneBanner.jpg"
         }
       ]
     },
@@ -264,16 +254,6 @@
           "wordCount": 2434,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
-        },
-        {
-          "id": "u33738s1e975",
-          "author": "(Rick Strahl)",
-          "description": "Classic native Date values in JavaScript are internally represented as UTC dates. However, when you display values they are by default shown as local date/time values. I've run into this recently again with an application that was returning a mix of UTC and non-UTC dates from the server to the browser, causing some confusion. At that point I realized I was being inconsistent with my use of the my date display functions, and here I am reviewing various Date formatting and Date conversion operations.\nJavaScript's core behavior is consistent once you separate two different concepts:\nThe instant represented by a Date\nThe timezone used to display that instant\nAn instant is essentially an instant in time expressed in an offset since the Unix Epoch:\nJanuary 1, 1970 00:00:00 UTC\nThe instant is rep…",
-          "link": "https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones",
-          "publishedOn": "2026-09-01T00:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Back to Basics: JavaScript and Timezones",
-          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/JavaScript-and-Timezones/TimeZoneBanner.jpg"
         }
       ]
     },
@@ -283,12 +263,22 @@
       "siteUrl": "https://dotnettips.com",
       "articles": [
         {
+          "id": "https://dotnettips.com/?p=19099",
+          "author": "David (dotNetDave) McCarter",
+          "description": "Spargine 10 (v2026.10.7.1), released on July 1, 2026, introduces NuGet packages for .NET 10, featuring new types, methods, and performance enhancements. The update allows for trimmable libraries, reducing application sizes and improving startup times. Community contributions are encouraged, and detailed benchmarks are available on GitHub.",
+          "link": "https://dotnettips.com/2026/10/01/coding-faster-with-dotnettips-com-spargine-10-october-2026-release/",
+          "publishedOn": "2026-10-01T06:00:00.000Z",
+          "wordCount": 5549,
+          "title": "Coding Faster with dotNetTips.com Spargine 10: October 2026 Release",
+          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-18-2026-08_23_14-AM.png?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://dotnettips.com/?p=19177",
           "author": "David (dotNetDave) McCarter",
           "description": "The HttpRequestExtensions class in DotNetTips.Spargine.Extensions offers reusable methods to streamline HTTP request handling, enhancing code maintainability and consistency. Key functions include reading request bodies, managing headers, extracting bearer tokens, and validating content types. This utility supports input validation and unit testing, improving code quality in applications.",
           "link": "https://dotnettips.com/2026/09/30/simplify-directory-file-operations-in-net-with-spargines-directoryinfoextensions/",
           "publishedOn": "2026-09-30T06:00:00.000Z",
-          "wordCount": 4272,
+          "wordCount": 4455,
           "title": "Simplify Directory File Operations in .NET with Spargine’s  DirectoryInfoExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-28-2026-04_13_09-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -298,7 +288,7 @@
           "description": "Disabling keep-alive in HttpClient can severely degrade application performance, as it prevents connection reuse. While it may be justified in rare cases, such as for legacy systems or troubleshooting, most reasons are misguided. Instead, maintain keep-alive for efficiency and configure PooledConnectionLifetime to manage connections effectively.",
           "link": "https://dotnettips.com/2026/09/27/httpclient-keep-alive-why-disabling-connection-reuse-can-destroy-performance/",
           "publishedOn": "2026-09-27T06:00:00.000Z",
-          "wordCount": 3262,
+          "wordCount": 3581,
           "title": "HttpClient Keep-Alive: Why Disabling Connection Reuse Can Destroy Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-20-2026-10_36_49-AM.png?fit=1200%2C801&ssl=1"
         },
@@ -348,7 +338,7 @@
           "description": "When writing asynchronous methods, consider returning ValueTask instead of Task for performance-sensitive scenarios, especially when methods frequently complete synchronously. ValueTask can improve speed and reduce memory allocation, but it comes with usage restrictions. Use Task as a default while applying ValueTask selectively after proper testing.",
           "link": "https://dotnettips.com/2026/09/13/task-vs-valuetask-reducing-async-allocations-and-boosting-performance/",
           "publishedOn": "2026-09-13T06:00:00.000Z",
-          "wordCount": 3301,
+          "wordCount": 3283,
           "title": "Task vs. ValueTask: Reducing Async Allocations and Boosting Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-16-2026-10_11_06-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -371,16 +361,6 @@
           "wordCount": 3279,
           "title": ".NET Object Pooling: Reducing Allocation Costs and GC Pressure",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-12-2026-06_39_12-AM.png?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://dotnettips.com/?p=18959",
-          "author": "David (dotNetDave) McCarter",
-          "description": "The dotNetDave No Rest for the Wicked World Tour arrives in Austin on November 13, 2026, during SpiceWorld, featuring a session titled \"Röck Yoür Cäreer.\" Attendees can expect valuable insights from a seasoned software engineer, focusing on building sustainable tech careers, developing learning habits, and balancing work-life without compromising growth.",
-          "link": "https://dotnettips.com/2026/09/03/dotnetdave-rocks-spiceworld-austin-2026/",
-          "publishedOn": "2026-09-03T20:36:57.000Z",
-          "wordCount": 4031,
-          "title": "dotNetDave Rocks SpiceWorld – Austin 2026",
-          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-3-2026-03_27_29-PM.png?fit=1200%2C801&ssl=1"
         }
       ]
     },
@@ -414,16 +394,6 @@
           "wordCount": 2391,
           "title": "Understanding Device Bound Session Credentials (DBSC)",
           "imageUrl": "https://andrewlock.net/content/images/2026/dbsc_banner.webp"
-        },
-        {
-          "id": "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/",
-          "author": "Andrew Lock",
-          "description": "In this post I discuss the System.Text.Json support for unions and closed hierarchies coming in .NET 11, the decisions made, and some of the sharp edges I hit",
-          "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/",
-          "publishedOn": "2026-09-01T10:00:00.000Z",
-          "wordCount": 3734,
-          "title": "The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7",
-          "imageUrl": "https://andrewlock.net/content/images/2026/system_text_json_union_banner.png"
         }
       ]
     },
@@ -459,6 +429,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/10/01/dew-drop-october-1-2026-4761/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nUpdates to Copilot Code Reviews for Azure Repos (Dan Hellem)\nTechBash 2026 Kicks Off in Two Weeks! (TechBash Team)\n.NET Rocks! - Controlling your Digital Legacy with Mattias Karlsson (Carl Franklin & Richard Campbell)\nBring your plugin to Microsoft Copilot with Work IQ …",
+          "link": "https://alvinashcraft.com/2026/10/01/dew-drop-october-1-2026-4761/",
+          "publishedOn": "2026-10-01T12:07:06.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - October 1, 2026 (#4761)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/09/30/dew-drop-september-30-2026-4760/",
           "author": "Alvin Ashcraft",
@@ -618,16 +598,6 @@
           "wordCount": 72,
           "title": "Dew Drop - September 2, 2026 (#4745)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/09/01/dew-drop-september-1-2026-4744/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nOpenClaw 2.0, Accidentally (Hannes Rudolph)\nAdding Full-Text Search to Blazor WebAssembly with Pagefind (David Pine)\nMerge Conflict Episode #530 - WinUI Goes Open Source & Mac Mini/Studio Upgrades! (James Montemagno & Frank Kreuger)\nFrom Leaderboards to Model Profiles: …",
-          "link": "https://alvinashcraft.com/2026/09/01/dew-drop-september-1-2026-4744/",
-          "publishedOn": "2026-09-01T10:31:50.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - September 1, 2026 (#4744)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -643,24 +613,24 @@
       "siteUrl": "https://blog.maartenballiauw.be/",
       "articles": [
         {
+          "id": "https://blog.maartenballiauw.be/posts/2026-10-01-using-aspnet-core-passkeys-for-second-factor-authentication/",
+          "author": null,
+          "description": "You can use passkeys as a second factor after password login in ASP.NET Core Identity on .NET 10. Register a two-factor token provider for users who have a passkey, then add two endpoints: one creates passkey request options for the user who passed the password check, and the other verifies the passkey before completing sign-in. Store the user id from the password step in a short-lived cookie, and compare it with the passkey’s user before signing in.",
+          "link": "https://blog.maartenballiauw.be/posts/2026-10-01-using-aspnet-core-passkeys-for-second-factor-authentication/",
+          "publishedOn": "2026-10-01T07:00:00.000Z",
+          "wordCount": 4227,
+          "title": "Using ASP.NET Core Passkeys for Second Factor Authentication",
+          "imageUrl": "https://blog.maartenballiauw.be/posts/2026-10-01-using-aspnet-core-passkeys-for-second-factor-authentication/index.png"
+        },
+        {
           "id": "https://blog.maartenballiauw.be/posts/2026-09-16-device-bound-session-credentials-in-aspnet-core/",
           "author": null,
           "description": "A session cookie is a bearer token, which is a polite way of saying that whoever holds it is you. Copy the cookie, replay it from another machine, and the server happily serves your account. Nothing about the request proves which device it came from, so a cookie lifted by malware, an XSS payload, or a stray database backup keeps working until it expires. For a long-lived session, that can be weeks.",
           "link": "https://blog.maartenballiauw.be/posts/2026-09-16-device-bound-session-credentials-in-aspnet-core/",
           "publishedOn": "2026-09-16T07:00:00.000Z",
-          "wordCount": 2606,
+          "wordCount": 2616,
           "title": "Device Bound Session Credentials in ASP.NET Core",
           "imageUrl": "https://blog.maartenballiauw.be/posts/2026-09-16-device-bound-session-credentials-in-aspnet-core/index.png"
-        },
-        {
-          "id": "https://blog.maartenballiauw.be/posts/2026-09-01-building-a-supply-chain-attack-with-dotnet-and-nuget/",
-          "author": null,
-          "description": "Every time npm has a supply chain incident, it’s tempting to think “haha, npm had yet another supply chain attack!” and feel safe in .NET land. But the tools to do the same thing in .NET, or at least similar things, are all there. Module initializers, source generators, MSBuild targets, startup hooks. A number of techniques exist to smuggle code into someone’s codebase, and most of them run before your application’s Main method is even called.",
-          "link": "https://blog.maartenballiauw.be/posts/2026-09-01-building-a-supply-chain-attack-with-dotnet-and-nuget/",
-          "publishedOn": "2026-09-01T06:00:00.000Z",
-          "wordCount": 4308,
-          "title": "Building a Supply Chain Attack with .NET and NuGet",
-          "imageUrl": "https://blog.maartenballiauw.be/posts/2026-09-01-building-a-supply-chain-attack-with-dotnet-and-nuget/index.png"
         }
       ]
     },
@@ -675,9 +645,9 @@
           "description": "In this post, let's see how we can take an agent written with\n  Microsoft Agent Framework and let Microsoft Foundry host it, as\n  a hosted agent.\n\n\n\n  A while back I blogged about\n  Microsoft Agent Framework: Agents on Azure Functions with .NET, where we hosted the agent ourselves. And in the last post,\n  Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET, we looked at",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html",
           "publishedOn": "2026-09-21T08:33:24.611Z",
-          "wordCount": null,
+          "wordCount": 5231,
           "title": "Microsoft Agent Framework: Hosted Agents in Microsoft Foundry with .NET",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgRYk0xsmwchIkh5ooamA3Mz-B_vk43hJWz_nA0KsPhq3KNuIvsrVhaJGT8a_-hHdT-3ILiTAfSPfc8Fnhs-vUww1smT3mj1kKilqBIQYgiJw5W2OBR0zowpKsuk5_rEDLPphHiPw4jvLbZT5BCnllT9Il6yXPU1CZtCDQO7SnvfVBuzHiromgeAxEmnBI=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html",
@@ -705,7 +675,7 @@
           "description": ".NET 11 Release Candidate 1 is out, and that means we are getting really close to the finish line. Next month we should get RC2, and then in November the GA release at .NET Conf 2026. You can read more about RC1 here: Announcing .NET 11 Release Candidate 1.\n\nIn this post, let's have a look at some of the nice improvements that are coming to EF Core 11.0 Migrations. There are quite a few of them,",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/ef-core-110-whats-new-with-migrations.html",
           "publishedOn": "2026-09-11T10:33:48.448Z",
-          "wordCount": 5101,
+          "wordCount": null,
           "title": "EF Core 11.0: What's New with Migrations",
           "imageUrl": null
         }
