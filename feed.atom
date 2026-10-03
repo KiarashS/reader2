@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-02T05:12:44.869Z</updated>
+    <updated>2026-10-03T04:55:30.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Modern Kotlin]]></title>
+        <id>6abfcc8e01291b49f46e78ac</id>
+        <link href="https://www.freecodecamp.org/news/learn-modern-kotlin/"/>
+        <updated>2026-10-02T15:23:58.000Z</updated>
+        <summary type="html"><![CDATA[We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev]]></title>
+        <id>6abfc515257f8ade20662b79</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/"/>
+        <updated>2026-10-02T14:52:05.000Z</updated>
+        <summary type="html"><![CDATA[Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the]]></summary>
+        <author>
+            <name>Andrew Baisden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - October 2, 2026 (#4762)]]></title>
+        <id>https://alvinashcraft.com/2026/10/02/dew-drop-october-2-2026-4762/</id>
+        <link href="https://alvinashcraft.com/2026/10/02/dew-drop-october-2-2026-4762/"/>
+        <updated>2026-10-02T12:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Bringing rich terminal experiences to Aspire (Mitch Denny)
+Semantic Design in Uno Themes - Part 1 (Steve Bilogan)
+A New Agentic Experience: JetBrains Air in IDEs – EAP Now Open (Dominique Rolink)
+Data API builder 2.1.5: JSON and Vector Data Type Support, and More (Carlo…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes]]></title>
+        <id>6abf9aa749124019f564574f</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/"/>
+        <updated>2026-10-02T11:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you get to do all that from a chat window! It]]></summary>
+        <author>
+            <name>Shrijal Acharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate]]></title>
+        <id>6abf4b9d63317980cdaece08</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/"/>
+        <updated>2026-10-02T06:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that]]></summary>
+        <author>
+            <name>Ash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back to Basics: CSS @container Filtering]]></title>
+        <id>znxhm5bohh8q</id>
+        <link href="https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering"/>
+        <updated>2026-10-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've been using @media() queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are resizable or otherwise dynamically change.
+My specific scenario is a resizable panel display where a fixed @media() width would cause problems due to the container, rather than the window, is resizing.
+Most of us have likely used the media() at-rule for responsive design, but it's limited to the Viewport width. But, there's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: The @container() at-rule, which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm not the only one w…]]></summary>
+        <author>
+            <name>(Rick Strahl)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back to Basics: CSS @container Filtering]]></title>
+        <id>znxhm5bohh8q</id>
+        <link href="https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering"/>
+        <updated>2026-10-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've been using @media() queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are resizable or otherwise dynamically change.
+My specific scenario is a resizable panel display where a fixed @media() width would cause problems due to the container, rather than the window, is resizing.
+Most of us have likely used the media() at-rule for responsive design, but it's limited to the Viewport width. But, there's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: The @container() at-rule, which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm not the only one w…]]></summary>
+        <author>
+            <name>(Rick Strahl)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build and Publish a Full-Stack Mobile App with AI]]></title>
         <id>6abe78a1cc111926f9c7fc82</id>
@@ -91,26 +169,6 @@ Bring your plugin to Microsoft Copilot with Work IQ …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Does No Screen Mean Better Data? The 101 on Screenless Wearables]]></title>
-        <id>6abdfb67cd92a8a7d5eb9c7c</id>
-        <link href="https://www.freecodecamp.org/news/are-screenless-wearables-better-for-health-tracking/"/>
-        <updated>2026-10-01T06:19:19.000Z</updated>
-        <summary type="html"><![CDATA[Smartwatches have made health data easier to access. A quick glance at your wrist can reveal your heart rate, step count, sleep duration and even estimated recovery. But displaying all this informatio]]></summary>
-        <author>
-            <name>Reetain Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How CSS content-visibility Works and How It Can Improve Rendering Performance]]></title>
-        <id>6abdfcd2e3ca1b6f34c584aa</id>
-        <link href="https://www.freecodecamp.org/news/css-content-visibility-rendering-performance/"/>
-        <updated>2026-10-01T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What happens when a page has 150 content-heavy cards, but the user can only see the first few? You might expect the browser to only worry about what's currently visible. But this isn't exactly what ha]]></summary>
-        <author>
-            <name>Ayman Eldawy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Coding Faster with dotNetTips.com Spargine 10: October 2026 Release]]></title>
         <id>https://dotnettips.com/?p=19099</id>
         <link href="https://dotnettips.com/2026/10/01/coding-faster-with-dotnettips-com-spargine-10-october-2026-release/"/>
@@ -163,26 +221,6 @@ Enabling Consistent AI-Assisted Engi…]]></summary>
         <summary type="html"><![CDATA[The HttpRequestExtensions class in DotNetTips.Spargine.Extensions offers reusable methods to streamline HTTP request handling, enhancing code maintainability and consistency. Key functions include reading request bodies, managing headers, extracting bearer tokens, and validating content types. This utility supports input validation and unit testing, improving code quality in applications.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript]]></title>
-        <id>6abca43ca3fbe2215db75ecf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-real-time-word-counter-tool-with-html-css-and-javascript/"/>
-        <updated>2026-09-30T05:55:08.000Z</updated>
-        <summary type="html"><![CDATA[Whether you're writing an essay, a tweet, or a blog post, keeping track of your word and character count is very important. In this tutorial, you'll build a fully functional, real-time Word Counter to]]></summary>
-        <author>
-            <name>Bansidhar Kadiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Diagnose and Fix AI Inference Latency on Kubernetes]]></title>
-        <id>6abca2f9f944d026311c7f7b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/"/>
-        <updated>2026-09-30T05:49:45.000Z</updated>
-        <summary type="html"><![CDATA[It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod]]></summary>
-        <author>
-            <name>Gursimar Singh</name>
         </author>
     </entry>
     <entry>
@@ -739,19 +777,6 @@ The Economics of Age…]]></summary>
 The perils of binding to value types in XAML (Raymond Chen)
 MAUI Designer - A powerful web-based Angular visual designer for creating MAUI (Microsoft App UI) layouts with drag-and-drop functionality (Prakhar Londhe)
 Stop alt-tabbing into the wrong Visual Studio (Mads Kr…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - September 2, 2026 (#4745)]]></title>
-        <id>https://alvinashcraft.com/2026/09/02/dew-drop-september-2-2026-4745/</id>
-        <link href="https://alvinashcraft.com/2026/09/02/dew-drop-september-2-2026-4745/"/>
-        <updated>2026-09-02T10:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-⏳ Don't Miss Out: TechBash 2026 Standard Registration & Discounted Rooms End Sept 13! (TechBash Team)
-Monitoring GitHub Copilot usage with the Aspire Dashboard (Bart Wullems)
-How to Generate Charts at Runtime in Blazor: No Custom Designer Required [Webinar Show Notes] (…]]></summary>
         <author>
             <name>Alvin Ashcraft</name>
         </author>
