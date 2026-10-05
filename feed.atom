@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-04T05:28:09.521Z</updated>
+    <updated>2026-10-05T05:11:31.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid JNI Crashes by Managing Local and Global References Correctly]]></title>
+        <id>6ac243175423a0b19b9f643a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-avoid-jni-crashes-by-managing-local-and-global-references-correctly/"/>
+        <updated>2026-10-04T12:14:15.000Z</updated>
+        <summary type="html"><![CDATA[Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has become invalid, creating references faster t]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Submit a Quarterly Update to HMRC's Making Tax Digital API]]></title>
+        <id>6ac242855423a0b19b9f5ed8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-submit-a-quarterly-update-to-hmrc-making-tax-digital-api/"/>
+        <updated>2026-10-04T12:11:49.000Z</updated>
+        <summary type="html"><![CDATA[Four times a year, every sole trader and landlord in Making Tax Digital (MTD) for Income Tax has to send HMRC a summary of their income and expenses. The first deadline of the 2026-27 tax year, 7 Augu]]></summary>
+        <author>
+            <name>Solomon Amos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Separate Operational Intent from the Executor]]></title>
+        <id>6ac242565423a0b19b9f5c6d</id>
+        <link href="https://www.freecodecamp.org/news/separate-operational-intent-from-executor/"/>
+        <updated>2026-10-04T12:11:02.000Z</updated>
+        <summary type="html"><![CDATA[In my previous article, I argued that software automation needs a layer between operational intent and execution. The reason is simple: the specification should describe what success means, and the ex]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Quality: Designing Method Parameters in .NET]]></title>
+        <id>https://dotnettips.com/?p=18505</id>
+        <link href="https://dotnettips.com/2026/10/04/code-quality-designing-method-parameters-in-net/"/>
+        <updated>2026-10-04T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When writing .NET code, use descriptive camelCase parameter names that convey their purpose instead of data types, avoiding Hungarian notation. Validate arguments in public methods and employ enums for clarity when using Boolean parameters. These practices enhance code readability, maintainability, and overall quality.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Modern Kotlin]]></title>
         <id>6abfcc8e01291b49f46e78ac</id>
@@ -65,9 +105,10 @@ Data API builder 2.1.5: JSON and Vector Data Type Support, and More (Carlo…]]>
         <id>znxhm5bohh8q</id>
         <link href="https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering"/>
         <updated>2026-10-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've been using @media() queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are resizable or otherwise dynamically change.
-My specific scenario is a resizable panel display where a fixed @media() width would cause problems due to the container, rather than the window, is resizing.
-Most of us have likely used the media() at-rule for responsive design, but it's limited to the Viewport width. But, there's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: The @container() at-rule, which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm not the only one w…]]></summary>
+        <summary type="html"><![CDATA[I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.
+My specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs resizing.
+Most of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.
+There's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm n…]]></summary>
         <author>
             <name>(Rick Strahl)</name>
         </author>
@@ -77,9 +118,10 @@ Most of us have likely used the media() at-rule for responsive design, but it's 
         <id>znxhm5bohh8q</id>
         <link href="https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering"/>
         <updated>2026-10-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've been using @media() queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are resizable or otherwise dynamically change.
-My specific scenario is a resizable panel display where a fixed @media() width would cause problems due to the container, rather than the window, is resizing.
-Most of us have likely used the media() at-rule for responsive design, but it's limited to the Viewport width. But, there's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: The @container() at-rule, which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm not the only one w…]]></summary>
+        <summary type="html"><![CDATA[I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.
+My specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs resizing.
+Most of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.
+There's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm n…]]></summary>
         <author>
             <name>(Rick Strahl)</name>
         </author>
@@ -129,26 +171,6 @@ Bring your plugin to Microsoft Copilot with Work IQ …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Code Graph in TypeScript Using VS Code's Language APIs]]></title>
-        <id>6abe3d817fd604967ed16903</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-code-graph-in-typescript-using-vs-code-language-apis/"/>
-        <updated>2026-10-01T11:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Modern codebases are becoming increasingly difficult to navigate. This isn't necessarily because developers are writing more code themselves. It's mostly because coding assistants are generating hundr]]></summary>
-        <author>
-            <name>Otobong Peter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained]]></title>
-        <id>6abe2c47229f69b03c107a96</id>
-        <link href="https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/"/>
-        <updated>2026-10-01T09:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Node.js is a runtime environment for executing JavaScript outside the web browser. From small scripts to large-scale back-end applications, Node.js provides the APIs and tools you need to build JavaSc]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using ASP.NET Core Passkeys for Second Factor Authentication]]></title>
         <id>https://blog.maartenballiauw.be/posts/2026-10-01-using-aspnet-core-passkeys-for-second-factor-authentication/</id>
         <link href="https://blog.maartenballiauw.be/posts/2026-10-01-using-aspnet-core-passkeys-for-second-factor-authentication/"/>
@@ -156,16 +178,6 @@ Bring your plugin to Microsoft Copilot with Work IQ …]]></summary>
         <summary type="html"><![CDATA[You can use passkeys as a second factor after password login in ASP.NET Core Identity on .NET 10. Register a two-factor token provider for users who have a passkey, then add two endpoints: one creates passkey request options for the user who passed the password check, and the other verifies the passkey before completing sign-in. Store the user id from the password step in a short-lived cookie, and compare it with the passkey’s user before signing in.]]></summary>
         <author>
             <name>Maarten Balliauw {blog}</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Healthcare AI Won't Work Until You Fix Your Data]]></title>
-        <id>6abdfdcf1585eb815aed0e73</id>
-        <link href="https://www.freecodecamp.org/news/healthcare-ai-won-t-work-until-you-fix-your-data/"/>
-        <updated>2026-10-01T06:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Building AI for clinical settings is harder than it looks. It takes more than picking a good model or tuning the right parameters. When engineers enter a hospital ecosystem, they quickly discover that]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -733,18 +745,6 @@ Mic…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[.NET Object Pooling: Reducing Allocation Costs and GC Pressure]]></title>
-        <id>https://dotnettips.com/?p=18403</id>
-        <link href="https://dotnettips.com/2026/09/06/net-object-pooling-reducing-allocation-costs-and-gc-pressure/"/>
-        <updated>2026-09-06T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Object pooling can reduce allocations, lower GC pressure, and improve .NET performance—but only when used for the right workloads.
-
-In my latest subscriber article, I compare custom object pools with DefaultObjectPool and explain when pooling makes sense.]]></summary>
-        <author>
-            <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When Cached State Isn't Enough: Adding PostgreSQL with .NET Aspire]]></title>
         <id>https://sahansera.dev/when-cached-state-isnt-enough-postgresql-aspire/</id>
         <link href="https://sahansera.dev/when-cached-state-isnt-enough-postgresql-aspire/"/>
@@ -752,20 +752,6 @@ In my latest subscriber article, I compare custom object pools with DefaultObjec
         <summary type="html"><![CDATA[Add PostgreSQL to a .NET Aspire app for durable incident state, with explicit migration ownership across multiple API replicas.]]></summary>
         <author>
             <name>sahansera.dev RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - September 4, 2026 (#4747)]]></title>
-        <id>https://alvinashcraft.com/2026/09/04/dew-drop-september-4-2026-4747/</id>
-        <link href="https://alvinashcraft.com/2026/09/04/dew-drop-september-4-2026-4747/"/>
-        <updated>2026-09-04T10:33:53.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Uno Platform Studio 3.1 Release: Ship with Confidence (Uno Platform Team)
-GPT-6 Astra: A new generation of intelligence (OpenAI Team)
-GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry (Steve Sweetman & Naomi Moneypenny)
-The Economics of Age…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
         </author>
     </entry>
 </feed>
