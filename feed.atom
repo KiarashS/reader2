@@ -2,10 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-06T05:56:53.877Z</updated>
+    <updated>2026-10-07T05:30:44.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - October 6, 2026 (#4764)]]></title>
+        <id>https://alvinashcraft.com/2026/10/06/dew-drop-october-6-2026-4764/</id>
+        <link href="https://alvinashcraft.com/2026/10/06/dew-drop-october-6-2026-4764/"/>
+        <updated>2026-10-06T10:32:21.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+UWP and WinUI 3 apps: UI testing with MSTest (Amaury Levé)
+Hello, Aspire 13.6 (Maddy Montaquila)
+Ink comes to WinUI 3 (Pranav Gupta)
+Voice agents in Foundry Agent Service: architecture, trust boundaries, and real-audio latency (Yassine El Ghali)
+Connect Azure Functions …]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide To Naming Things]]></title>
+        <id>https://smashingmagazine.com/2026/10/how-name-things/</id>
+        <link href="https://smashingmagazine.com/2026/10/how-name-things/"/>
+        <updated>2026-10-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripping extra dependencies in .NET NativeAOT apps using linker substitutions]]></title>
+        <id>https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/</id>
+        <link href="https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/"/>
+        <updated>2026-10-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I describe how to perform method-substitutions with the NativeAOT linker to remove additional dependencies that the linker couldn't see were unused]]></summary>
+        <author>
+            <name>Andrew Lock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System.Text.Json Polymorphic Deserialization]]></title>
+        <id>https://blog.maartenballiauw.be/posts/2020-01-29-deserializing-json-into-polymorphic-classes-with-systemtextjson/</id>
+        <link href="https://blog.maartenballiauw.be/posts/2020-01-29-deserializing-json-into-polymorphic-classes-with-systemtextjson/"/>
+        <updated>2026-10-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Deserialize JSON into derived or abstract types: $type discriminators, [JsonPolymorphic] in .NET 7+, and a custom JsonConverter for legacy payloads.]]></summary>
+        <author>
+            <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastodon on your own domain without hosting a server]]></title>
+        <id>https://blog.maartenballiauw.be/posts/2022-11-05-mastodon-own-domain-without-hosting-server/</id>
+        <link href="https://blog.maartenballiauw.be/posts/2022-11-05-mastodon-own-domain-without-hosting-server/"/>
+        <updated>2026-10-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I wanted a Mastodon address on my own domain without running a server. The trick is WebFinger: serve your Mastodon instance’s WebFinger JSON at /.well-known/webfinger on your domain, and @you@yourdomain resolves to your existing account. I use it as a forwarding address that survives switching servers. Updated October 2026: Mastodon and the instances running it have changed since 2022, so the UI may not match what you see in the screenshots or my descriptions. The WebFinger part works the same way.]]></summary>
+        <author>
+            <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix CS8618 Nullable Warnings in C# JSON Models]]></title>
+        <id>https://blog.maartenballiauw.be/posts/2023-01-12-getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp/</id>
+        <link href="https://blog.maartenballiauw.be/posts/2023-01-12-getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp/"/>
+        <updated>2026-10-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fix CS8618 non-nullable property warnings in C# JSON DTOs: compare nullable properties, constructors, default values and required, and why default! is risky.]]></summary>
+        <author>
+            <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is IdentityServer and When Do You Need it?]]></title>
+        <id>https://blog.maartenballiauw.be/posts/2026-06-11-what-is-identityserver-and-when-do-you-need-it/</id>
+        <link href="https://blog.maartenballiauw.be/posts/2026-06-11-what-is-identityserver-and-when-do-you-need-it/"/>
+        <updated>2026-10-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IdentityServer is a .NET SDK for building an OpenID Connect and OAuth 2.0 identity provider on ASP.NET Core, issuing tokens to multiple clients and APIs. You need it for several apps or APIs, single sign-on, federation, or standards-based tokens. A single app with local users doesn’t; ASP.NET Core Identity suffices.]]></summary>
+        <author>
+            <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox]]></title>
+        <id>6ac49165464372e77035c728</id>
+        <link href="https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/"/>
+        <updated>2026-10-06T06:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc]]></summary>
+        <author>
+            <name>Chirag Agrawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Encrypt PII in Data Pipelines While Keeping It Searchable]]></title>
+        <id>6ac4810141f9b6b6ff5bf1cd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/"/>
+        <updated>2026-10-06T05:02:57.000Z</updated>
+        <summary type="html"><![CDATA[At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes]]></title>
         <id>6ac3b79f3a1cb65fb3944008</id>
@@ -70,6 +165,16 @@ Meet the A2A CLI: discover, message, and manage a…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Run a .NET App as a Linux Service with systemd]]></title>
+        <id>https://blog.maartenballiauw.be/posts/2021-05-25-running-a-net-application-as-a-service-on-linux-with-systemd/</id>
+        <link href="https://blog.maartenballiauw.be/posts/2021-05-25-running-a-net-application-as-a-service-on-linux-with-systemd/"/>
+        <updated>2026-10-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Run a .NET app as a Linux service: add Microsoft.Extensions.Hosting.Systemd, call UseSystemd(), write a Type=notify unit file, and read logs via journald.]]></summary>
+        <author>
+            <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Things That Caught My Attention Last Week - October 5]]></title>
         <id>http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-05-2026</id>
         <link href="http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-05-2026"/>
@@ -127,26 +232,6 @@ Meet the A2A CLI: discover, message, and manage a…]]></summary>
         <summary type="html"><![CDATA[When writing .NET code, use descriptive camelCase parameter names that convey their purpose instead of data types, avoiding Hungarian notation. Validate arguments in public methods and employ enums for clarity when using Boolean parameters. These practices enhance code readability, maintainability, and overall quality.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Modern Kotlin]]></title>
-        <id>6abfcc8e01291b49f46e78ac</id>
-        <link href="https://www.freecodecamp.org/news/learn-modern-kotlin/"/>
-        <updated>2026-10-02T15:23:58.000Z</updated>
-        <summary type="html"><![CDATA[We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev]]></title>
-        <id>6abfc515257f8ade20662b79</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/"/>
-        <updated>2026-10-02T14:52:05.000Z</updated>
-        <summary type="html"><![CDATA[Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the]]></summary>
-        <author>
-            <name>Andrew Baisden</name>
         </author>
     </entry>
     <entry>

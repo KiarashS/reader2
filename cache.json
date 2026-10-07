@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/10/how-name-things/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
+          "link": "https://smashingmagazine.com/2026/10/how-name-things/",
+          "publishedOn": "2026-10-06T10:00:00.000Z",
+          "wordCount": 3945,
+          "title": "A Practical Guide To Naming Things",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4756,
+          "wordCount": 4646,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -38,7 +53,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5027,
+          "wordCount": 5135,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -53,7 +68,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5562,
+          "wordCount": 5451,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -68,7 +83,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4569,
+          "wordCount": 4573,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -85,12 +100,32 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ac49165464372e77035c728",
+          "author": "Chirag Agrawal",
+          "description": "Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc",
+          "link": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
+          "publishedOn": "2026-10-06T06:12:53.000Z",
+          "wordCount": 3954,
+          "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e77e26a1-6fe8-43ed-8aa6-137813550f65.png"
+        },
+        {
+          "id": "6ac4810141f9b6b6ff5bf1cd",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal",
+          "link": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
+          "publishedOn": "2026-10-06T05:02:57.000Z",
+          "wordCount": 3905,
+          "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b9b99f84-c0c8-46a0-b217-0b2e598c8ac1.png"
+        },
+        {
           "id": "6ac3b79f3a1cb65fb3944008",
           "author": "Oluwaseyi Fatunmole",
           "description": "Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where",
           "link": "https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/",
           "publishedOn": "2026-10-05T14:43:43.000Z",
-          "wordCount": 5681,
+          "wordCount": 5647,
           "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/51178fc1-fae2-4f9e-b52c-3f2878db07d0.png"
         },
@@ -130,7 +165,7 @@
           "description": "Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That'",
           "link": "https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/",
           "publishedOn": "2026-10-05T10:54:40.000Z",
-          "wordCount": 6635,
+          "wordCount": 6589,
           "title": "The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58e0ba94-ccc6-4e4e-aa19-9480cb060d23.png"
         },
@@ -163,26 +198,6 @@
           "wordCount": 4248,
           "title": "How to Separate Operational Intent from the Executor",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8b78496e-2ca5-4585-8cfa-f25cb56b56c7.png"
-        },
-        {
-          "id": "6abfcc8e01291b49f46e78ac",
-          "author": "Beau Carnes",
-          "description": "We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,",
-          "link": "https://www.freecodecamp.org/news/learn-modern-kotlin/",
-          "publishedOn": "2026-10-02T15:23:58.000Z",
-          "wordCount": 1398,
-          "title": "Learn Modern Kotlin",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/bc8218cc-11c7-469e-b549-e9944e187099.png"
-        },
-        {
-          "id": "6abfc515257f8ade20662b79",
-          "author": "Andrew Baisden",
-          "description": "Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/",
-          "publishedOn": "2026-10-02T14:52:05.000Z",
-          "wordCount": 7136,
-          "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/13431986-02ba-4353-8fa7-793542e0e03f.png"
         }
       ]
     },
@@ -244,7 +259,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm n…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1905,
+          "wordCount": 1908,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         },
@@ -271,7 +286,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm n…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1909,
+          "wordCount": 1904,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         },
@@ -298,7 +313,7 @@
           "description": "When writing .NET code, use descriptive camelCase parameter names that convey their purpose instead of data types, avoiding Hungarian notation. Validate arguments in public methods and employ enums for clarity when using Boolean parameters. These practices enhance code readability, maintainability, and overall quality.",
           "link": "https://dotnettips.com/2026/10/04/code-quality-designing-method-parameters-in-net/",
           "publishedOn": "2026-10-04T06:00:00.000Z",
-          "wordCount": 3568,
+          "wordCount": 3279,
           "title": "Code Quality: Designing Method Parameters in .NET",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-21-2026-10_21_54-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -308,7 +323,7 @@
           "description": "Spargine 10 (v2026.10.7.1), released on July 1, 2026, introduces NuGet packages for .NET 10, featuring new types, methods, and performance enhancements. The update allows for trimmable libraries, reducing application sizes and improving startup times. Community contributions are encouraged, and detailed benchmarks are available on GitHub.",
           "link": "https://dotnettips.com/2026/10/01/coding-faster-with-dotnettips-com-spargine-10-october-2026-release/",
           "publishedOn": "2026-10-01T06:00:00.000Z",
-          "wordCount": 5549,
+          "wordCount": 5295,
           "title": "Coding Faster with dotNetTips.com Spargine 10: October 2026 Release",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-18-2026-08_23_14-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -318,7 +333,7 @@
           "description": "The HttpRequestExtensions class in DotNetTips.Spargine.Extensions offers reusable methods to streamline HTTP request handling, enhancing code maintainability and consistency. Key functions include reading request bodies, managing headers, extracting bearer tokens, and validating content types. This utility supports input validation and unit testing, improving code quality in applications.",
           "link": "https://dotnettips.com/2026/09/30/simplify-directory-file-operations-in-net-with-spargines-directoryinfoextensions/",
           "publishedOn": "2026-09-30T06:00:00.000Z",
-          "wordCount": 4443,
+          "wordCount": 4284,
           "title": "Simplify Directory File Operations in .NET with Spargine’s  DirectoryInfoExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-28-2026-04_13_09-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -328,7 +343,7 @@
           "description": "Disabling keep-alive in HttpClient can severely degrade application performance, as it prevents connection reuse. While it may be justified in rare cases, such as for legacy systems or troubleshooting, most reasons are misguided. Instead, maintain keep-alive for efficiency and configure PooledConnectionLifetime to manage connections effectively.",
           "link": "https://dotnettips.com/2026/09/27/httpclient-keep-alive-why-disabling-connection-reuse-can-destroy-performance/",
           "publishedOn": "2026-09-27T06:00:00.000Z",
-          "wordCount": 3292,
+          "wordCount": 3262,
           "title": "HttpClient Keep-Alive: Why Disabling Connection Reuse Can Destroy Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-20-2026-10_36_49-AM.png?fit=1200%2C801&ssl=1"
         },
@@ -358,7 +373,7 @@
           "description": "GitHub Copilot offers optimization suggestions but testing their effectiveness requires careful engineering. While some improvements may seem beneficial, they can complicate code or slow performance. After reviewing various implementations, only a few suggestions showed meaningful gains. Developers must benchmark thoroughly to determine the real impact before adopting AI-generated code.",
           "link": "https://dotnettips.com/2026/09/23/github-copilot-and-net-performance-benchmark-every-optimization/",
           "publishedOn": "2026-09-23T06:00:00.000Z",
-          "wordCount": 7532,
+          "wordCount": 7512,
           "title": "GitHub Copilot and .NET Performance: Benchmark Every Optimization",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-7-2026-03_14_11-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -406,12 +421,22 @@
       "siteUrl": "https://andrewlock.net/",
       "articles": [
         {
+          "id": "https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/",
+          "author": "Andrew Lock",
+          "description": "In this post I describe how to perform method-substitutions with the NativeAOT linker to remove additional dependencies that the linker couldn't see were unused",
+          "link": "https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/",
+          "publishedOn": "2026-10-06T10:00:00.000Z",
+          "wordCount": 1901,
+          "title": "Stripping extra dependencies in .NET NativeAOT apps using linker substitutions",
+          "imageUrl": "https://andrewlock.net/content/images/2026/nativeaot_linking_banner.webp"
+        },
+        {
           "id": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
           "author": "Andrew Lock",
           "description": "In this post I look at the new experimental support for DBSC provided by the Microsoft.AspNetCore.Authentication.DeviceBoundSessions package",
           "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
           "publishedOn": "2026-09-22T10:00:00.000Z",
-          "wordCount": 3344,
+          "wordCount": 3355,
           "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8",
           "imageUrl": "https://andrewlock.net/content/images/2026/dbsc_aspnetcore_banner.webp"
         },
@@ -449,6 +474,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/10/06/dew-drop-october-6-2026-4764/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nUWP and WinUI 3 apps: UI testing with MSTest (Amaury Levé)\nHello, Aspire 13.6 (Maddy Montaquila)\nInk comes to WinUI 3 (Pranav Gupta)\nVoice agents in Foundry Agent Service: architecture, trust boundaries, and real-audio latency (Yassine El Ghali)\nConnect Azure Functions …",
+          "link": "https://alvinashcraft.com/2026/10/06/dew-drop-october-6-2026-4764/",
+          "publishedOn": "2026-10-06T10:32:21.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - October 6, 2026 (#4764)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/10/05/dew-drop-october-5-2026-4763/",
           "author": "Alvin Ashcraft",
@@ -623,12 +658,62 @@
       "siteUrl": "https://blog.maartenballiauw.be/",
       "articles": [
         {
+          "id": "https://blog.maartenballiauw.be/posts/2020-01-29-deserializing-json-into-polymorphic-classes-with-systemtextjson/",
+          "author": null,
+          "description": "Deserialize JSON into derived or abstract types: $type discriminators, [JsonPolymorphic] in .NET 7+, and a custom JsonConverter for legacy payloads.",
+          "link": "https://blog.maartenballiauw.be/posts/2020-01-29-deserializing-json-into-polymorphic-classes-with-systemtextjson/",
+          "publishedOn": "2026-10-06T08:00:00.000Z",
+          "wordCount": 2558,
+          "title": "System.Text.Json Polymorphic Deserialization",
+          "imageUrl": "https://blog.maartenballiauw.be/posts/2020-01-29-deserializing-json-into-polymorphic-classes-with-systemtextjson/index.png"
+        },
+        {
+          "id": "https://blog.maartenballiauw.be/posts/2022-11-05-mastodon-own-domain-without-hosting-server/",
+          "author": null,
+          "description": "I wanted a Mastodon address on my own domain without running a server. The trick is WebFinger: serve your Mastodon instance’s WebFinger JSON at /.well-known/webfinger on your domain, and @you@yourdomain resolves to your existing account. I use it as a forwarding address that survives switching servers. Updated October 2026: Mastodon and the instances running it have changed since 2022, so the UI may not match what you see in the screenshots or my descriptions. The WebFinger part works the same way.",
+          "link": "https://blog.maartenballiauw.be/posts/2022-11-05-mastodon-own-domain-without-hosting-server/",
+          "publishedOn": "2026-10-06T08:00:00.000Z",
+          "wordCount": 1898,
+          "title": "Mastodon on your own domain without hosting a server",
+          "imageUrl": "https://blog.maartenballiauw.be/posts/2022-11-05-mastodon-own-domain-without-hosting-server/index.png"
+        },
+        {
+          "id": "https://blog.maartenballiauw.be/posts/2023-01-12-getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp/",
+          "author": null,
+          "description": "Fix CS8618 non-nullable property warnings in C# JSON DTOs: compare nullable properties, constructors, default values and required, and why default! is risky.",
+          "link": "https://blog.maartenballiauw.be/posts/2023-01-12-getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp/",
+          "publishedOn": "2026-10-06T08:00:00.000Z",
+          "wordCount": 2070,
+          "title": "Fix CS8618 Nullable Warnings in C# JSON Models",
+          "imageUrl": "https://blog.maartenballiauw.be/posts/2023-01-12-getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp/index.png"
+        },
+        {
+          "id": "https://blog.maartenballiauw.be/posts/2026-06-11-what-is-identityserver-and-when-do-you-need-it/",
+          "author": null,
+          "description": "IdentityServer is a .NET SDK for building an OpenID Connect and OAuth 2.0 identity provider on ASP.NET Core, issuing tokens to multiple clients and APIs. You need it for several apps or APIs, single sign-on, federation, or standards-based tokens. A single app with local users doesn’t; ASP.NET Core Identity suffices.",
+          "link": "https://blog.maartenballiauw.be/posts/2026-06-11-what-is-identityserver-and-when-do-you-need-it/",
+          "publishedOn": "2026-10-06T08:00:00.000Z",
+          "wordCount": 1970,
+          "title": "What is IdentityServer and When Do You Need it?",
+          "imageUrl": "https://blog.maartenballiauw.be/posts/2026-06-11-what-is-identityserver-and-when-do-you-need-it/index.png"
+        },
+        {
+          "id": "https://blog.maartenballiauw.be/posts/2021-05-25-running-a-net-application-as-a-service-on-linux-with-systemd/",
+          "author": null,
+          "description": "Run a .NET app as a Linux service: add Microsoft.Extensions.Hosting.Systemd, call UseSystemd(), write a Type=notify unit file, and read logs via journald.",
+          "link": "https://blog.maartenballiauw.be/posts/2021-05-25-running-a-net-application-as-a-service-on-linux-with-systemd/",
+          "publishedOn": "2026-10-05T08:00:00.000Z",
+          "wordCount": 2434,
+          "title": "Run a .NET App as a Linux Service with systemd",
+          "imageUrl": "https://blog.maartenballiauw.be/posts/2021-05-25-running-a-net-application-as-a-service-on-linux-with-systemd/index.png"
+        },
+        {
           "id": "https://blog.maartenballiauw.be/posts/2022-09-26-aspnet-core-rate-limiting-middleware/",
           "author": null,
           "description": "A practical guide to the ASP.NET Core rate limiting middleware: fixed window, sliding window, token bucket and concurrency limiters, per-IP limits, and returning a 429.",
           "link": "https://blog.maartenballiauw.be/posts/2022-09-26-aspnet-core-rate-limiting-middleware/",
           "publishedOn": "2026-10-05T00:00:00.000Z",
-          "wordCount": 4197,
+          "wordCount": 4209,
           "title": "Rate limiting in ASP.NET Core: a practical guide (updated for .NET 10)",
           "imageUrl": "https://blog.maartenballiauw.be/posts/2022-09-26-aspnet-core-rate-limiting-middleware/index.png"
         },
@@ -675,9 +760,9 @@
           "description": "<!--Title: Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET-->\n\n  \n    In this post, let's have a look at prompt agents in\n    Microsoft Foundry, and how we can create and run them with\n    Microsoft Agent Framework.\n  \n  \n  \n    Some time back I blogged about\n    Getting Started with Microsoft Agent Framework 1.0.0 in .NET. There, the agent was created in code, it lived",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html",
           "publishedOn": "2026-09-19T00:57:00.000Z",
-          "wordCount": null,
+          "wordCount": 5082,
           "title": "Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEifKsOiObYvp8uvOZ7qNVXfYWJx9GTw0SIfHNpVHqPfhpnaWK7x3m3XMGnFbKD1i2DVFZepqtsbvls-h3QwPeMLl0Wsq3lIMeiFyHBA75kQaCqrmsKlu32ohOVE4soIaVybP0IdH_6vinN15lVXRM0aF5pk6jKbxqj3oL-tR8UDyLo_Khoqz-KwlKemgn0=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/09/c-using-timeprovider-and.html",
@@ -685,7 +770,7 @@
           "description": "In this post, let's have a look at\n    TimeProvider\n    in C#.&nbsp;\n  \n  \n  \n    I have seen this abstract class around for a while (it was introduced with\n    .NET 8), but I haven't really used it up until very recently. I just\n    love it.\n  \n  \n  \n    Before\n    TimeProvider, whenever I needed to control time in tests, I had to write my own\n    abstraction, something like",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/c-using-timeprovider-and.html",
           "publishedOn": "2026-09-15T10:48:29.164Z",
-          "wordCount": null,
+          "wordCount": 4272,
           "title": "C#: Using TimeProvider and FakeTimeProvider",
           "imageUrl": null
         },
