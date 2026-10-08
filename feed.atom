@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-07T05:30:44.425Z</updated>
+    <updated>2026-10-08T05:39:12.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build and Train a 25M Parameter LLM From Scratch on Your CPU]]></title>
+        <id>6ac6f9bb8e5c8e3fb8fd0905</id>
+        <link href="https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/"/>
+        <updated>2026-10-08T02:02:35.000Z</updated>
+        <summary type="html"><![CDATA[You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - October 7, 2026 (#4765)]]></title>
+        <id>https://alvinashcraft.com/2026/10/07/dew-drop-october-7-2026-4765/</id>
+        <link href="https://alvinashcraft.com/2026/10/07/dew-drop-october-7-2026-4765/"/>
+        <updated>2026-10-07T10:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Bringing Native AOT to the Aspire dashboard (James Newton-King)
+Building a 2D Game with WinUI and Win2D (Morten Nielsen)
+The results of the 2026 Stack Overflow Developer Survey are here! (Ryan Donovan)
+Introducing WinDbg MCP: Debug with natural language, grounded in evi…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before You Push or Deploy: Automate Nine .NET Project Checks with the Spargine Dev Tool]]></title>
+        <id>https://dotnettips.com/?p=19222</id>
+        <link href="https://dotnettips.com/2026/10/07/before-you-push-or-deploy-automate-nine-net-project-checks-with-the-spargine-dev-tool/"/>
+        <updated>2026-10-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Before releasing code to production, it's crucial to ensure a successful build and check for issues like stale references and inconsistent package versions. The Spargine Global Dev Tool automates these checks through nine PowerShell commands, generating reports to assist developers in maintaining quality and addressing potential problems before deployment.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Delivery with AI from the Trenches: Leveraging Domain-Driven Design - Introduction]]></title>
+        <id>http://blog.peterritchie.com/posts/ai-with-ddd-part-0</id>
+        <link href="http://blog.peterritchie.com/posts/ai-with-ddd-part-0"/>
+        <updated>2026-10-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="../assets/ddd-with-ai-0.jpg" class="img-fluid" alt="ai-in-context-map"></p>]]></summary>
+        <author>
+            <name>Peter Ritchie's Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dew Drop - October 6, 2026 (#4764)]]></title>
         <id>https://alvinashcraft.com/2026/10/06/dew-drop-october-6-2026-4764/</id>
@@ -26,7 +70,7 @@ Connect Azure Functions …]]></summary>
         <id>https://smashingmagazine.com/2026/10/how-name-things/</id>
         <link href="https://smashingmagazine.com/2026/10/how-name-things/"/>
         <updated>2026-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures.]]></summary>
+        <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
@@ -212,16 +256,6 @@ Meet the A2A CLI: discover, message, and manage a…]]></summary>
         <summary type="html"><![CDATA[Four times a year, every sole trader and landlord in Making Tax Digital (MTD) for Income Tax has to send HMRC a summary of their income and expenses. The first deadline of the 2026-27 tax year, 7 Augu]]></summary>
         <author>
             <name>Solomon Amos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Separate Operational Intent from the Executor]]></title>
-        <id>6ac242565423a0b19b9f5c6d</id>
-        <link href="https://www.freecodecamp.org/news/separate-operational-intent-from-executor/"/>
-        <updated>2026-10-04T12:11:02.000Z</updated>
-        <summary type="html"><![CDATA[In my previous article, I argued that software automation needs a layer between operational intent and execution. The reason is simple: the specification should describe what success means, and the ex]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
         </author>
     </entry>
     <entry>
@@ -826,16 +860,6 @@ Today I will… find hidden latency across a distributed .NET application (Justi
         <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boost Your .NET Projects with Spargine: Safer and Simpler Async Code with TaskExtensions]]></title>
-        <id>https://dotnettips.com/?p=18964</id>
-        <link href="https://dotnettips.com/2026/09/09/boost-your-net-projects-with-spargine-safer-and-simpler-async-code-with-taskextensions/"/>
-        <updated>2026-09-09T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The TaskExtensions class in DotNetTips.Spargine.Extensions simplifies asynchronous programming in .NET by offering concise methods for managing common tasks like fire-and-forget operations, exception handling, and timeouts. These extensions enhance code clarity and reduce repetitive patterns, allowing developers to handle background tasks and errors more effectively while maintaining readability.]]></summary>
-        <author>
-            <name>David (dotNetDave) McCarter</name>
         </author>
     </entry>
     <entry>
