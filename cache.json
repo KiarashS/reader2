@@ -38,7 +38,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4656,
+          "wordCount": 4649,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -53,7 +53,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5023,
+          "wordCount": 5028,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -100,6 +100,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ac7b4efba111367663fc712",
+          "author": "Beau Carnes",
+          "description": "Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search",
+          "link": "https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/",
+          "publishedOn": "2026-10-08T15:21:19.000Z",
+          "wordCount": 1521,
+          "title": "Master Modern React Routing: TanStack Router Crash Course",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/9aeef2a4-98c3-4967-87c6-aa995b98b737.png"
+        },
+        {
+          "id": "6ac788ce8908dc166f0a0562",
+          "author": "Zaira Hira",
+          "description": "Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s",
+          "link": "https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/",
+          "publishedOn": "2026-10-08T12:13:02.000Z",
+          "wordCount": 2765,
+          "title": "How to Create System Design Diagrams using Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dc8376e4-76df-4ea5-90cf-38a90069be19.png"
+        },
+        {
           "id": "6ac6f9bb8e5c8e3fb8fd0905",
           "author": "Beau Carnes",
           "description": "You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para",
@@ -115,7 +135,7 @@
           "description": "Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc",
           "link": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
           "publishedOn": "2026-10-06T06:12:53.000Z",
-          "wordCount": 3954,
+          "wordCount": 3948,
           "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e77e26a1-6fe8-43ed-8aa6-137813550f65.png"
         },
@@ -145,7 +165,7 @@
           "description": "You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It \"fixes\" it. But the bug is still there, or a second bug appears. So",
           "link": "https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/",
           "publishedOn": "2026-10-05T11:55:42.000Z",
-          "wordCount": 3669,
+          "wordCount": 3701,
           "title": "How to Break the AI Coding Agent Fix Loop",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/abd8a76e-ad86-4731-a644-2919458b7407.png"
         },
@@ -175,29 +195,9 @@
           "description": "Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That'",
           "link": "https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/",
           "publishedOn": "2026-10-05T10:54:40.000Z",
-          "wordCount": 6635,
+          "wordCount": 6631,
           "title": "The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58e0ba94-ccc6-4e4e-aa19-9480cb060d23.png"
-        },
-        {
-          "id": "6ac243175423a0b19b9f643a",
-          "author": "Nikheel Vishwas Savant",
-          "description": "Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has become invalid, creating references faster t",
-          "link": "https://www.freecodecamp.org/news/how-to-avoid-jni-crashes-by-managing-local-and-global-references-correctly/",
-          "publishedOn": "2026-10-04T12:14:15.000Z",
-          "wordCount": 5811,
-          "title": "How to Avoid JNI Crashes by Managing Local and Global References Correctly",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a1d2cb14-64c8-4b13-b428-acb6717c7594.png"
-        },
-        {
-          "id": "6ac242855423a0b19b9f5ed8",
-          "author": "Solomon Amos",
-          "description": "Four times a year, every sole trader and landlord in Making Tax Digital (MTD) for Income Tax has to send HMRC a summary of their income and expenses. The first deadline of the 2026-27 tax year, 7 Augu",
-          "link": "https://www.freecodecamp.org/news/how-to-submit-a-quarterly-update-to-hmrc-making-tax-digital-api/",
-          "publishedOn": "2026-10-04T12:11:49.000Z",
-          "wordCount": 4131,
-          "title": "How to Submit a Quarterly Update to HMRC's Making Tax Digital API",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ff99ebcb-6096-4847-93a0-a18a9687bdc6.png"
         }
       ]
     },
@@ -245,16 +245,6 @@
           "wordCount": 482,
           "title": "Things That Caught My Attention Last Week - September 14",
           "imageUrl": null
-        },
-        {
-          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-september-7-2026",
-          "author": null,
-          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
-          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-september-7-2026",
-          "publishedOn": "2026-09-08T00:00:00.000Z",
-          "wordCount": 484,
-          "title": "Things That Caught My Attention Last Week - September 7",
-          "imageUrl": null
         }
       ]
     },
@@ -269,7 +259,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm n…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1909,
+          "wordCount": 1911,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         },
@@ -296,7 +286,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm n…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1905,
+          "wordCount": 1907,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         },
@@ -306,7 +296,7 @@
           "description": "In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
           "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": 2434,
+          "wordCount": 2430,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
         }
@@ -333,7 +323,7 @@
           "description": "When writing .NET code, use descriptive camelCase parameter names that convey their purpose instead of data types, avoiding Hungarian notation. Validate arguments in public methods and employ enums for clarity when using Boolean parameters. These practices enhance code readability, maintainability, and overall quality.",
           "link": "https://dotnettips.com/2026/10/04/code-quality-designing-method-parameters-in-net/",
           "publishedOn": "2026-10-04T06:00:00.000Z",
-          "wordCount": 3584,
+          "wordCount": 3295,
           "title": "Code Quality: Designing Method Parameters in .NET",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-21-2026-10_21_54-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -343,7 +333,7 @@
           "description": "Spargine 10 (v2026.10.7.1), released on July 1, 2026, introduces NuGet packages for .NET 10, featuring new types, methods, and performance enhancements. The update allows for trimmable libraries, reducing application sizes and improving startup times. Community contributions are encouraged, and detailed benchmarks are available on GitHub.",
           "link": "https://dotnettips.com/2026/10/01/coding-faster-with-dotnettips-com-spargine-10-october-2026-release/",
           "publishedOn": "2026-10-01T06:00:00.000Z",
-          "wordCount": 5295,
+          "wordCount": 5557,
           "title": "Coding Faster with dotNetTips.com Spargine 10: October 2026 Release",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-18-2026-08_23_14-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -413,7 +403,7 @@
           "description": "When writing asynchronous methods, consider returning ValueTask instead of Task for performance-sensitive scenarios, especially when methods frequently complete synchronously. ValueTask can improve speed and reduce memory allocation, but it comes with usage restrictions. Use Task as a default while applying ValueTask selectively after proper testing.",
           "link": "https://dotnettips.com/2026/09/13/task-vs-valuetask-reducing-async-allocations-and-boosting-performance/",
           "publishedOn": "2026-09-13T06:00:00.000Z",
-          "wordCount": 3592,
+          "wordCount": 3303,
           "title": "Task vs. ValueTask: Reducing Async Allocations and Boosting Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-16-2026-10_11_06-AM.png?fit=1200%2C800&ssl=1"
         }
@@ -484,6 +474,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/10/08/dew-drop-october-8-2026-4766/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nIntroducing Grok 4.7 on Microsoft Foundry (Mahesh Balachandran)\nIntroducing the .NET MAUI Interactive Viewer Control for Interactive Content (Karthick Mani)\nClaude Haiku 5.5 is now available in Microsoft Foundry (Amar Badal)\nPre-order our most powerful Surface devices e…",
+          "link": "https://alvinashcraft.com/2026/10/08/dew-drop-october-8-2026-4766/",
+          "publishedOn": "2026-10-08T10:38:09.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - October 8, 2026 (#4766)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/10/07/dew-drop-october-7-2026-4765/",
           "author": "Alvin Ashcraft",
@@ -653,16 +653,6 @@
           "wordCount": 72,
           "title": "Dew Drop - September 9, 2026 (#4749)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/09/08/dew-drop-september-8-2026-4748/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nThe Story of VS Code | Official Documentary (VS Code Team)\nMono vs CoreCLR in .NET MAUI: Performance, Compatibility, and What Changes in .NET 11 (Imman Kumar Palanikumar)\nMAI-Image-2.6 and MAI-Image-2.6-Flash: Quality and speed at production scale (Naomi Moneypenny)\nMic…",
-          "link": "https://alvinashcraft.com/2026/09/08/dew-drop-september-8-2026-4748/",
-          "publishedOn": "2026-09-08T10:35:03.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - September 8, 2026 (#4748)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -770,9 +760,9 @@
           "description": "In this post, let's see how we can take an agent written with\n  Microsoft Agent Framework and let Microsoft Foundry host it, as\n  a hosted agent.\n\n\n\n  A while back I blogged about\n  Microsoft Agent Framework: Agents on Azure Functions with .NET, where we hosted the agent ourselves. And in the last post,\n  Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET, we looked at",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html",
           "publishedOn": "2026-09-21T08:33:24.611Z",
-          "wordCount": null,
+          "wordCount": 5231,
           "title": "Microsoft Agent Framework: Hosted Agents in Microsoft Foundry with .NET",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgRYk0xsmwchIkh5ooamA3Mz-B_vk43hJWz_nA0KsPhq3KNuIvsrVhaJGT8a_-hHdT-3ILiTAfSPfc8Fnhs-vUww1smT3mj1kKilqBIQYgiJw5W2OBR0zowpKsuk5_rEDLPphHiPw4jvLbZT5BCnllT9Il6yXPU1CZtCDQO7SnvfVBuzHiromgeAxEmnBI=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html",
@@ -790,7 +780,7 @@
           "description": "In this post, let's have a look at\n    TimeProvider\n    in C#.&nbsp;\n  \n  \n  \n    I have seen this abstract class around for a while (it was introduced with\n    .NET 8), but I haven't really used it up until very recently. I just\n    love it.\n  \n  \n  \n    Before\n    TimeProvider, whenever I needed to control time in tests, I had to write my own\n    abstraction, something like",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/c-using-timeprovider-and.html",
           "publishedOn": "2026-09-15T10:48:29.164Z",
-          "wordCount": 4272,
+          "wordCount": null,
           "title": "C#: Using TimeProvider and FakeTimeProvider",
           "imageUrl": null
         },

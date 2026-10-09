@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-08T05:39:12.115Z</updated>
+    <updated>2026-10-09T05:43:34.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Modern React Routing: TanStack Router Crash Course]]></title>
+        <id>6ac7b4efba111367663fc712</id>
+        <link href="https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/"/>
+        <updated>2026-10-08T15:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create System Design Diagrams using Python]]></title>
+        <id>6ac788ce8908dc166f0a0562</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/"/>
+        <updated>2026-10-08T12:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - October 8, 2026 (#4766)]]></title>
+        <id>https://alvinashcraft.com/2026/10/08/dew-drop-october-8-2026-4766/</id>
+        <link href="https://alvinashcraft.com/2026/10/08/dew-drop-october-8-2026-4766/"/>
+        <updated>2026-10-08T10:38:09.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Introducing Grok 4.7 on Microsoft Foundry (Mahesh Balachandran)
+Introducing the .NET MAUI Interactive Viewer Control for Interactive Content (Karthick Mani)
+Claude Haiku 5.5 is now available in Microsoft Foundry (Amar Badal)
+Pre-order our most powerful Surface devices e…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build and Train a 25M Parameter LLM From Scratch on Your CPU]]></title>
         <id>6ac6f9bb8e5c8e3fb8fd0905</id>
@@ -236,26 +270,6 @@ Meet the A2A CLI: discover, message, and manage a…]]></summary>
         <summary type="html"><![CDATA[A practical guide to the ASP.NET Core rate limiting middleware: fixed window, sliding window, token bucket and concurrency limiters, per-IP limits, and returning a 429.]]></summary>
         <author>
             <name>Maarten Balliauw {blog}</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Avoid JNI Crashes by Managing Local and Global References Correctly]]></title>
-        <id>6ac243175423a0b19b9f643a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-avoid-jni-crashes-by-managing-local-and-global-references-correctly/"/>
-        <updated>2026-10-04T12:14:15.000Z</updated>
-        <summary type="html"><![CDATA[Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has become invalid, creating references faster t]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Submit a Quarterly Update to HMRC's Making Tax Digital API]]></title>
-        <id>6ac242855423a0b19b9f5ed8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-submit-a-quarterly-update-to-hmrc-making-tax-digital-api/"/>
-        <updated>2026-10-04T12:11:49.000Z</updated>
-        <summary type="html"><![CDATA[Four times a year, every sole trader and landlord in Making Tax Digital (MTD) for Income Tax has to send HMRC a summary of their income and expenses. The first deadline of the 2026-27 tax year, 7 Augu]]></summary>
-        <author>
-            <name>Solomon Amos</name>
         </author>
     </entry>
     <entry>
@@ -860,30 +874,6 @@ Today I will… find hidden latency across a distributed .NET application (Justi
         <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - September 8, 2026 (#4748)]]></title>
-        <id>https://alvinashcraft.com/2026/09/08/dew-drop-september-8-2026-4748/</id>
-        <link href="https://alvinashcraft.com/2026/09/08/dew-drop-september-8-2026-4748/"/>
-        <updated>2026-09-08T10:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-The Story of VS Code | Official Documentary (VS Code Team)
-Mono vs CoreCLR in .NET MAUI: Performance, Compatibility, and What Changes in .NET 11 (Imman Kumar Palanikumar)
-MAI-Image-2.6 and MAI-Image-2.6-Flash: Quality and speed at production scale (Naomi Moneypenny)
-Mic…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things That Caught My Attention Last Week - September 7]]></title>
-        <id>http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-september-7-2026</id>
-        <link href="http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-september-7-2026"/>
-        <updated>2026-09-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
-        <author>
-            <name>Peter Ritchie's Blog</name>
         </author>
     </entry>
 </feed>
