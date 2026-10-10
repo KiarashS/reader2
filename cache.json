@@ -53,7 +53,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5028,
+          "wordCount": 5025,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -68,7 +68,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5449,
+          "wordCount": 5450,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -76,21 +76,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
-          "author": "hello@smashingmagazine.com (Carrie Webster)",
-          "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
-          "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
-          "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4578,
-          "title": "The Death Of The Button: Why The Best Interface Is No Interface",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg"
         }
       ]
     },
@@ -99,6 +84,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ac91e9ac74cf25dc4943707",
+          "author": "Beau Carnes",
+          "description": "Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one",
+          "link": "https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/",
+          "publishedOn": "2026-10-09T17:04:26.000Z",
+          "wordCount": 1450,
+          "title": "Create Scalable AI Automations with n8n",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7957e58c-2b0a-4245-a58c-0de90ab5a374.png"
+        },
         {
           "id": "6ac7b4efba111367663fc712",
           "author": "Beau Carnes",
@@ -135,7 +130,7 @@
           "description": "Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc",
           "link": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
           "publishedOn": "2026-10-06T06:12:53.000Z",
-          "wordCount": 3948,
+          "wordCount": 3954,
           "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e77e26a1-6fe8-43ed-8aa6-137813550f65.png"
         },
@@ -165,7 +160,7 @@
           "description": "You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It \"fixes\" it. But the bug is still there, or a second bug appears. So",
           "link": "https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/",
           "publishedOn": "2026-10-05T11:55:42.000Z",
-          "wordCount": 3701,
+          "wordCount": 3683,
           "title": "How to Break the AI Coding Agent Fix Loop",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/abd8a76e-ad86-4731-a644-2919458b7407.png"
         },
@@ -188,16 +183,6 @@
           "wordCount": 3282,
           "title": "How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ccac1a88-7bba-4136-a680-f20637c173b1.png"
-        },
-        {
-          "id": "6ac381f06fd156dcaf4d765b",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That'",
-          "link": "https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/",
-          "publishedOn": "2026-10-05T10:54:40.000Z",
-          "wordCount": 6631,
-          "title": "The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58e0ba94-ccc6-4e4e-aa19-9480cb060d23.png"
         }
       ]
     },
@@ -259,7 +244,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm n…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1911,
+          "wordCount": 1906,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         },
@@ -269,7 +254,7 @@
           "description": "In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
           "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": 2430,
+          "wordCount": 2434,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
         }
@@ -286,7 +271,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm n…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1907,
+          "wordCount": 1902,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         },
@@ -313,7 +298,7 @@
           "description": "Before releasing code to production, it's crucial to ensure a successful build and check for issues like stale references and inconsistent package versions. The Spargine Global Dev Tool automates these checks through nine PowerShell commands, generating reports to assist developers in maintaining quality and addressing potential problems before deployment.",
           "link": "https://dotnettips.com/2026/10/07/before-you-push-or-deploy-automate-nine-net-project-checks-with-the-spargine-dev-tool/",
           "publishedOn": "2026-10-07T06:00:00.000Z",
-          "wordCount": 5126,
+          "wordCount": 4951,
           "title": "Before You Push or Deploy: Automate Nine .NET Project Checks with the Spargine Dev Tool",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/10/Spargine-Dev-Tool-in-a-developer-workspace.png?fit=1200%2C675&ssl=1"
         },
@@ -474,6 +459,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/10/09/dew-drop-october-9-2026-4767/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nAdding persistence to the Aspire dashboard (James Newton-King)\nAzure DevOps: New Wiki Editor Experience (Dan Hellem)\nVB6 Studio Web (Wieslaw Soltes)\nGot a Microsoft 365 subscription? Your storage is about to shrink (Ed Bott)\nSoftware Defined Talk Episode 593 - Markdown …",
+          "link": "https://alvinashcraft.com/2026/10/09/dew-drop-october-9-2026-4767/",
+          "publishedOn": "2026-10-09T10:34:18.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - October 9, 2026 (#4767)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/10/08/dew-drop-october-8-2026-4766/",
           "author": "Alvin Ashcraft",
@@ -643,16 +638,6 @@
           "wordCount": 72,
           "title": "Dew Drop - September 10, 2026 (#4750)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/09/09/dew-drop-september-9-2026-4749/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nAnnouncing .NET 11 Release Candidate 1 (.NET Team)\nTechBash 2026 Standard Registration and Room Discount End on Sunday (TechBash Team)\nToday I will… find hidden latency across a distributed .NET application (Justin Yoo)\n.NET Conf 2026 Community Days Call for Presenters …",
-          "link": "https://alvinashcraft.com/2026/09/09/dew-drop-september-9-2026-4749/",
-          "publishedOn": "2026-09-09T10:31:01.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - September 9, 2026 (#4749)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -760,9 +745,9 @@
           "description": "In this post, let's see how we can take an agent written with\n  Microsoft Agent Framework and let Microsoft Foundry host it, as\n  a hosted agent.\n\n\n\n  A while back I blogged about\n  Microsoft Agent Framework: Agents on Azure Functions with .NET, where we hosted the agent ourselves. And in the last post,\n  Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET, we looked at",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html",
           "publishedOn": "2026-09-21T08:33:24.611Z",
-          "wordCount": 5231,
+          "wordCount": null,
           "title": "Microsoft Agent Framework: Hosted Agents in Microsoft Foundry with .NET",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgRYk0xsmwchIkh5ooamA3Mz-B_vk43hJWz_nA0KsPhq3KNuIvsrVhaJGT8a_-hHdT-3ILiTAfSPfc8Fnhs-vUww1smT3mj1kKilqBIQYgiJw5W2OBR0zowpKsuk5_rEDLPphHiPw4jvLbZT5BCnllT9Il6yXPU1CZtCDQO7SnvfVBuzHiromgeAxEmnBI=w1200-h630-p-k-no-nu"
+          "imageUrl": null
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html",
