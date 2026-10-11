@@ -38,7 +38,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4649,
+          "wordCount": 4648,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -53,7 +53,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5025,
+          "wordCount": 5035,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -68,7 +68,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5450,
+          "wordCount": 5449,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -244,7 +244,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm n…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1906,
+          "wordCount": 1911,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         },
@@ -254,7 +254,7 @@
           "description": "In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
           "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": 2434,
+          "wordCount": 2433,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
         }
@@ -271,7 +271,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm n…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1902,
+          "wordCount": 1907,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         },
@@ -281,7 +281,7 @@
           "description": "In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.\nFor example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.\nBut again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.\n\n\n\nWhat…",
           "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
           "publishedOn": "2026-09-14T00:00:00.000Z",
-          "wordCount": 2430,
+          "wordCount": 2433,
           "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/Protecting-File-Access-in-the-wwwroot-Folder-in-ASP-NET/wwwrootFileProtectionBanner.jpg"
         }
@@ -298,7 +298,7 @@
           "description": "Before releasing code to production, it's crucial to ensure a successful build and check for issues like stale references and inconsistent package versions. The Spargine Global Dev Tool automates these checks through nine PowerShell commands, generating reports to assist developers in maintaining quality and addressing potential problems before deployment.",
           "link": "https://dotnettips.com/2026/10/07/before-you-push-or-deploy-automate-nine-net-project-checks-with-the-spargine-dev-tool/",
           "publishedOn": "2026-10-07T06:00:00.000Z",
-          "wordCount": 4951,
+          "wordCount": 5126,
           "title": "Before You Push or Deploy: Automate Nine .NET Project Checks with the Spargine Dev Tool",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/10/Spargine-Dev-Tool-in-a-developer-workspace.png?fit=1200%2C675&ssl=1"
         },
@@ -308,7 +308,7 @@
           "description": "When writing .NET code, use descriptive camelCase parameter names that convey their purpose instead of data types, avoiding Hungarian notation. Validate arguments in public methods and employ enums for clarity when using Boolean parameters. These practices enhance code readability, maintainability, and overall quality.",
           "link": "https://dotnettips.com/2026/10/04/code-quality-designing-method-parameters-in-net/",
           "publishedOn": "2026-10-04T06:00:00.000Z",
-          "wordCount": 3295,
+          "wordCount": 3568,
           "title": "Code Quality: Designing Method Parameters in .NET",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-21-2026-10_21_54-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -318,7 +318,7 @@
           "description": "Spargine 10 (v2026.10.7.1), released on July 1, 2026, introduces NuGet packages for .NET 10, featuring new types, methods, and performance enhancements. The update allows for trimmable libraries, reducing application sizes and improving startup times. Community contributions are encouraged, and detailed benchmarks are available on GitHub.",
           "link": "https://dotnettips.com/2026/10/01/coding-faster-with-dotnettips-com-spargine-10-october-2026-release/",
           "publishedOn": "2026-10-01T06:00:00.000Z",
-          "wordCount": 5557,
+          "wordCount": 5287,
           "title": "Coding Faster with dotNetTips.com Spargine 10: October 2026 Release",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-18-2026-08_23_14-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -628,16 +628,6 @@
           "wordCount": 72,
           "title": "Dew Drop - September 11, 2026 (#4751)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/09/10/dew-drop-september-10-2026-4750/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nTechBash 2026 Welcomes Jeff Fritz! (TechBash Team)\nWhat’s new in Microsoft Foundry | July and August 2026 (Nick Brady)\nIntroducing Fast and Reliable Wireless Debugging with Android Debug Bridge (ADB) Wi-Fi 2.0 (Steven Jenkins, Sherif Eid & Fabien Sanglard)\nPrepare your …",
-          "link": "https://alvinashcraft.com/2026/09/10/dew-drop-september-10-2026-4750/",
-          "publishedOn": "2026-09-10T10:54:31.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - September 10, 2026 (#4750)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -765,7 +755,7 @@
           "description": "In this post, let's have a look at\n    TimeProvider\n    in C#.&nbsp;\n  \n  \n  \n    I have seen this abstract class around for a while (it was introduced with\n    .NET 8), but I haven't really used it up until very recently. I just\n    love it.\n  \n  \n  \n    Before\n    TimeProvider, whenever I needed to control time in tests, I had to write my own\n    abstraction, something like",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/c-using-timeprovider-and.html",
           "publishedOn": "2026-09-15T10:48:29.164Z",
-          "wordCount": null,
+          "wordCount": 4272,
           "title": "C#: Using TimeProvider and FakeTimeProvider",
           "imageUrl": null
         },
@@ -811,16 +801,6 @@
           "wordCount": 3651,
           "title": "Agent autonomy is outrunning governance, and the labs know it",
           "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/09/AgentAutonomy.png"
-        },
-        {
-          "id": "https://www.jankowskimichal.pl/?p=4424",
-          "author": "Michał Jankowski",
-          "description": "Two AI agent swarms self-organized without a single line of code authorizing it, within the same month. One surfaced inside OpenAI's own evaluation infrastructure and ended up attacking Hugging Face. The other hit Taiwan's nuclear safety agency, a government email system, and seven energy companies, days earlier. Neither was supposed to happen. Both did, using  [...]\nArtykuł The Isolation Assumption That’s Quietly Breaking Your Agentic AI Roadmap pochodzi z serwisu Michał Jankowski.",
-          "link": "https://www.jankowskimichal.pl/en/2026/09/the-isolation-assumption-thats-quietly-breaking-your-agentic-ai-roadmap/",
-          "publishedOn": "2026-09-10T05:54:38.000Z",
-          "wordCount": 3256,
-          "title": "The Isolation Assumption That’s Quietly Breaking Your Agentic AI Roadmap",
-          "imageUrl": "https://www.jankowskimichal.pl/wp-content/uploads/2026/09/The-Isolation-Assumption-Thats-Quietly-Breaking-Your-Agentic-AI-Roadmap.png"
         }
       ]
     },
