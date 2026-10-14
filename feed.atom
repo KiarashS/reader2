@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-13T06:29:20.643Z</updated>
+    <updated>2026-10-14T04:30:41.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - October 13, 2026 (#4769)]]></title>
+        <id>https://alvinashcraft.com/2026/10/13/dew-drop-october-13-2026-4769/</id>
+        <link href="https://alvinashcraft.com/2026/10/13/dew-drop-october-13-2026-4769/"/>
+        <updated>2026-10-13T10:27:21.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+WinUI Gallery 3.0 is here: TableView, Charts, InkCanvas and more (Niels Laute)
+Microsoft to expand Azure Maia system to multi-gigawatt deployments (Scott Guthrie)
+Deep dive into Azure Maia 300 architecture (Rani Borkar & Saurabh Dighe)
+Build & Iterate on UI fast with Sn…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dew Drop - October 12, 2026 (#4768)]]></title>
         <id>https://alvinashcraft.com/2026/10/12/dew-drop-october-12-2026-4768/</id>
@@ -375,9 +389,9 @@ Data API builder 2.1.5: JSON and Vector Data Type Support, and More (Carlo…]]>
         <link href="https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering"/>
         <updated>2026-10-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.
-My specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs resizing.
+My specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs t resizing.
 Most of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.
-There's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm n…]]></summary>
+There's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm…]]></summary>
         <author>
             <name>(Rick Strahl)</name>
         </author>
@@ -388,9 +402,9 @@ There's another, more recent type of conditional CSS at-rule  that can be used t
         <link href="https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering"/>
         <updated>2026-10-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.
-My specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs resizing.
+My specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs t resizing.
 Most of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.
-There's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm n…]]></summary>
+There's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm…]]></summary>
         <author>
             <name>(Rick Strahl)</name>
         </author>
@@ -842,16 +856,6 @@ But again - these files can potentially contain sensitive information so they sh
 What…]]></summary>
         <author>
             <name>(Rick Strahl)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to find LM Studio plugins and MCP servers]]></title>
-        <id>https://sahansera.dev/finding-lm-studio-plugins/</id>
-        <link href="https://sahansera.dev/finding-lm-studio-plugins/"/>
-        <updated>2026-09-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Browse native LM Studio plugins and MCP servers, find tools by capability, and check what you need before adding them to your local setup.]]></summary>
-        <author>
-            <name>sahansera.dev RSS Feed</name>
         </author>
     </entry>
 </feed>
