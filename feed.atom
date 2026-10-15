@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-14T04:30:41.347Z</updated>
+    <updated>2026-10-15T04:12:59.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Stop an AI Agent from Inventing Nigerian Postcodes]]></title>
+        <id>6acfa07df5672c904a1a970e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stop-an-ai-agent-from-inventing-nigerian-postcodes/"/>
+        <updated>2026-10-14T15:32:13.000Z</updated>
+        <summary type="html"><![CDATA[On 1 October 2026, Nigeria's postcode changed from six digits to an 11-character code that identifies a single building, such as EK-01-A03-FK-01. Language models trained before that date still describ]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - October 14, 2026 (#4770)]]></title>
+        <id>https://alvinashcraft.com/2026/10/14/dew-drop-october-14-2026-4770/</id>
+        <link href="https://alvinashcraft.com/2026/10/14/dew-drop-october-14-2026-4770/"/>
+        <updated>2026-10-14T10:13:21.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Announcing .NET 11 Release Candidate 2 (.NET Team)
+Introducing XBOX LABS (Asha Sharma)
+GitHub’s model for secret detection: Finding more secrets with less noise (Batu Ozturkler)
+Is it MSIX? Part 3: Find Package and Application Identity with TASKLIST and PowerShell (Howa…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Keep a File for Minutes, Not Years, on Cloud Run]]></title>
+        <id>6acf003cd00b1413f617c32e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/"/>
+        <updated>2026-10-14T04:08:28.000Z</updated>
+        <summary type="html"><![CDATA[A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a]]></summary>
+        <author>
+            <name>Abhinay Gokul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dew Drop - October 13, 2026 (#4769)]]></title>
         <id>https://alvinashcraft.com/2026/10/13/dew-drop-october-13-2026-4769/</id>
@@ -294,26 +328,6 @@ Connect Azure Functions …]]></summary>
         <summary type="html"><![CDATA[IdentityServer is a .NET SDK for building an OpenID Connect and OAuth 2.0 identity provider on ASP.NET Core, issuing tokens to multiple clients and APIs. You need it for several apps or APIs, single sign-on, federation, or standards-based tokens. A single app with local users doesn’t; ASP.NET Core Identity suffices.]]></summary>
         <author>
             <name>Maarten Balliauw {blog}</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox]]></title>
-        <id>6ac49165464372e77035c728</id>
-        <link href="https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/"/>
-        <updated>2026-10-06T06:12:53.000Z</updated>
-        <summary type="html"><![CDATA[Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc]]></summary>
-        <author>
-            <name>Chirag Agrawal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Encrypt PII in Data Pipelines While Keeping It Searchable]]></title>
-        <id>6ac4810141f9b6b6ff5bf1cd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/"/>
-        <updated>2026-10-06T05:02:57.000Z</updated>
-        <summary type="html"><![CDATA[At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
         </author>
     </entry>
     <entry>
@@ -824,38 +838,6 @@ Rider and ReSharper 2026.2.2 Are Out! (Alexander …]]></summary>
         <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
         <author>
             <name>Peter Ritchie's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting File Access in the wwwroot Folder in ASP.NET]]></title>
-        <id>29ve0fkm6v0k</id>
-        <link href="https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET"/>
-        <updated>2026-09-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.
-For example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.
-But again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.
-
-
-
-What…]]></summary>
-        <author>
-            <name>(Rick Strahl)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting File Access in the wwwroot Folder in ASP.NET]]></title>
-        <id>29ve0fkm6v0k</id>
-        <link href="https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET"/>
-        <updated>2026-09-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In many of my Web applications I have a few files that are dynamically created as part of administrative tasks. These files tend to be cumulative and contain data that can be accessed directly from the file system. But... they are in effect static files, but they shouldn't be accessible by just anybody. They should still respect authentication rules.
-For example, in several small apps I write application error logs into /wwwroot/admin/temp. In another application that does occasional order processing, I track processing errors in files in a similar manner.
-But again - these files can potentially contain sensitive information so they shouldn't be accessible by just any user, but only by logged in Admin users or whatever elevated group of users has access to that type of information.
-
-
-
-What…]]></summary>
-        <author>
-            <name>(Rick Strahl)</name>
         </author>
     </entry>
 </feed>
