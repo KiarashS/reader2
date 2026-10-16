@@ -38,7 +38,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4658,
+          "wordCount": 4653,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -53,7 +53,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5023,
+          "wordCount": 5030,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -69,6 +69,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ad0d6b41b1aaeb205d2d198",
+          "author": "Amina Lawal",
+          "description": "Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many",
+          "link": "https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/",
+          "publishedOn": "2026-10-15T13:35:48.000Z",
+          "wordCount": 14992,
+          "title": "How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d8182a7-81dd-4bb8-bd62-f9e3c4175532.png"
+        },
+        {
+          "id": "6ad05e6261108f0421f7f3d4",
+          "author": "Harish Gaggar",
+          "description": "Our on-call team keeps a small internal notes API. The web app in front of it shows who's holding the pager, which days are frozen for deploys, and where the runbooks live. A developer on that team wa",
+          "link": "https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/",
+          "publishedOn": "2026-10-15T05:02:26.000Z",
+          "wordCount": 5827,
+          "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/87096379-4cf7-4701-a76c-c09964d519e1.png"
+        },
+        {
+          "id": "6ad05dd81f613b7136df1683",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so",
+          "link": "https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/",
+          "publishedOn": "2026-10-15T05:00:08.000Z",
+          "wordCount": 7660,
+          "title": "Secure by Design: How to Engineer Security into Architecture Before Writing Any Code",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f24cb6-f4b9-40eb-9690-db750358c4d6.png"
+        },
+        {
+          "id": "6ad05935fb11435ce8281161",
+          "author": "Alex Oliinyk",
+          "description": "At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a",
+          "link": "https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/",
+          "publishedOn": "2026-10-15T04:40:21.000Z",
+          "wordCount": 13194,
+          "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/db541c6a-aba6-4a25-b0f8-2a4657c485d3.png"
+        },
         {
           "id": "6acfa07df5672c904a1a970e",
           "author": "Kayode Adeniyi",
@@ -115,7 +155,7 @@
           "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
           "link": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
           "publishedOn": "2026-10-11T09:46:41.000Z",
-          "wordCount": 4642,
+          "wordCount": 4648,
           "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/55c7ea87-fbb5-4b3f-ae4e-1d1616362579.png"
         },
@@ -125,49 +165,9 @@
           "description": "Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it",
           "link": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
           "publishedOn": "2026-10-11T09:31:06.000Z",
-          "wordCount": 6019,
+          "wordCount": 6023,
           "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e937052-66b6-461f-ae80-53e8395811e8.png"
-        },
-        {
-          "id": "6ac91e9ac74cf25dc4943707",
-          "author": "Beau Carnes",
-          "description": "Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one",
-          "link": "https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/",
-          "publishedOn": "2026-10-09T17:04:26.000Z",
-          "wordCount": 1594,
-          "title": "Create Scalable AI Automations with n8n",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7957e58c-2b0a-4245-a58c-0de90ab5a374.png"
-        },
-        {
-          "id": "6ac7b4efba111367663fc712",
-          "author": "Beau Carnes",
-          "description": "Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search",
-          "link": "https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/",
-          "publishedOn": "2026-10-08T15:21:19.000Z",
-          "wordCount": 1645,
-          "title": "Master Modern React Routing: TanStack Router Crash Course",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/9aeef2a4-98c3-4967-87c6-aa995b98b737.png"
-        },
-        {
-          "id": "6ac788ce8908dc166f0a0562",
-          "author": "Zaira Hira",
-          "description": "Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s",
-          "link": "https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/",
-          "publishedOn": "2026-10-08T12:13:02.000Z",
-          "wordCount": 2889,
-          "title": "How to Create System Design Diagrams using Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dc8376e4-76df-4ea5-90cf-38a90069be19.png"
-        },
-        {
-          "id": "6ac6f9bb8e5c8e3fb8fd0905",
-          "author": "Beau Carnes",
-          "description": "You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para",
-          "link": "https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/",
-          "publishedOn": "2026-10-08T02:02:35.000Z",
-          "wordCount": 1598,
-          "title": "Build and Train a 25M Parameter LLM From Scratch on Your CPU",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d7d4538b-9aff-4e9e-ab8c-65adb325a2f0.png"
         }
       ]
     },
@@ -215,16 +215,6 @@
           "wordCount": 566,
           "title": "Things That Caught My Attention Last Week - September 28",
           "imageUrl": null
-        },
-        {
-          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-september-14-2026",
-          "author": null,
-          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
-          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-september-14-2026",
-          "publishedOn": "2026-09-15T00:00:00.000Z",
-          "wordCount": 482,
-          "title": "Things That Caught My Attention Last Week - September 14",
-          "imageUrl": null
         }
       ]
     },
@@ -239,7 +229,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs t resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1908,
+          "wordCount": 1912,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         }
@@ -273,7 +263,7 @@
           "description": "The HttpRequestExtensions class in DotNetTips.Spargine.Extensions offers reusable methods to streamline HTTP request handling, enhancing code maintainability and consistency. Key functions include reading request bodies, managing headers, extracting bearer tokens, and validating content types. This utility supports input validation and unit testing, improving code quality in applications.",
           "link": "https://dotnettips.com/2026/10/11/boost-your-net-projects-with-spargine-simplify-http-request-handling-with-httprequestextensions/",
           "publishedOn": "2026-10-11T06:00:00.000Z",
-          "wordCount": 4159,
+          "wordCount": 4182,
           "title": "Boost Your .NET Projects with Spargine: Simplify HTTP Request Handling with HttpRequestExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-22-2026-07_10_08-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -283,7 +273,7 @@
           "description": "Before releasing code to production, it's crucial to ensure a successful build and check for issues like stale references and inconsistent package versions. The Spargine Global Dev Tool automates these checks through nine PowerShell commands, generating reports to assist developers in maintaining quality and addressing potential problems before deployment.",
           "link": "https://dotnettips.com/2026/10/07/before-you-push-or-deploy-automate-nine-net-project-checks-with-the-spargine-dev-tool/",
           "publishedOn": "2026-10-07T06:00:00.000Z",
-          "wordCount": 4830,
+          "wordCount": 5126,
           "title": "Before You Push or Deploy: Automate Nine .NET Project Checks with the Spargine Dev Tool",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/10/Spargine-Dev-Tool-in-a-developer-workspace.png?fit=1200%2C675&ssl=1"
         },
@@ -293,7 +283,7 @@
           "description": "When writing .NET code, use descriptive camelCase parameter names that convey their purpose instead of data types, avoiding Hungarian notation. Validate arguments in public methods and employ enums for clarity when using Boolean parameters. These practices enhance code readability, maintainability, and overall quality.",
           "link": "https://dotnettips.com/2026/10/04/code-quality-designing-method-parameters-in-net/",
           "publishedOn": "2026-10-04T06:00:00.000Z",
-          "wordCount": 3295,
+          "wordCount": 3279,
           "title": "Code Quality: Designing Method Parameters in .NET",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-21-2026-10_21_54-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -313,7 +303,7 @@
           "description": "The HttpRequestExtensions class in DotNetTips.Spargine.Extensions offers reusable methods to streamline HTTP request handling, enhancing code maintainability and consistency. Key functions include reading request bodies, managing headers, extracting bearer tokens, and validating content types. This utility supports input validation and unit testing, improving code quality in applications.",
           "link": "https://dotnettips.com/2026/09/30/simplify-directory-file-operations-in-net-with-spargines-directoryinfoextensions/",
           "publishedOn": "2026-09-30T06:00:00.000Z",
-          "wordCount": 4150,
+          "wordCount": 4284,
           "title": "Simplify Directory File Operations in .NET with Spargine’s  DirectoryInfoExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-28-2026-04_13_09-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -333,7 +323,7 @@
           "description": "dotNetDave's No Rest for the Wicked World Tour will arrive in Milan for Codemotion Milan 2026 on October 28th-29th. This marks his first speaking engagement in Italy, where he will present \"Unleash Your Inner Rockstar: The 5 Steps to Dynamic Public Speaking!\" Join to enhance your public speaking skills and career.",
           "link": "https://dotnettips.com/2026/09/24/dotnetdave-rocks-codemotion-milan-2026/",
           "publishedOn": "2026-09-24T15:58:39.000Z",
-          "wordCount": 3808,
+          "wordCount": 3831,
           "title": "dotNetDave Rocks Codemotion Milan 2026",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-24-2026-10_47_49-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -353,7 +343,7 @@
           "description": "GitHub Copilot offers optimization suggestions but testing their effectiveness requires careful engineering. While some improvements may seem beneficial, they can complicate code or slow performance. After reviewing various implementations, only a few suggestions showed meaningful gains. Developers must benchmark thoroughly to determine the real impact before adopting AI-generated code.",
           "link": "https://dotnettips.com/2026/09/23/github-copilot-and-net-performance-benchmark-every-optimization/",
           "publishedOn": "2026-09-23T06:00:00.000Z",
-          "wordCount": 7398,
+          "wordCount": 7532,
           "title": "GitHub Copilot and .NET Performance: Benchmark Every Optimization",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-7-2026-03_14_11-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -363,7 +353,7 @@
           "description": "Logging is crucial for app monitoring, extending beyond exceptions to include diagnostic events like request timing and connection details. Spargine offers three HTTP listeners—HttpEventListener, HttpEventListenerAsyncLocal, and HttpRequestsObserver—each providing various levels of detail to help troubleshoot performance issues and improve logging for .NET applications.",
           "link": "https://dotnettips.com/2026/09/20/boost-your-net-projects-with-spargine-monitor-and-log-http-traffic/",
           "publishedOn": "2026-09-20T06:00:00.000Z",
-          "wordCount": 4801,
+          "wordCount": 4935,
           "title": "Boost Your .NET Projects with Spargine: Monitor and Log HTTP Traffic",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-18-2026-08_19_09-AM.png?fit=1200%2C801&ssl=1"
         }
@@ -399,16 +389,6 @@
           "wordCount": 3355,
           "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8",
           "imageUrl": "https://andrewlock.net/content/images/2026/dbsc_aspnetcore_banner.webp"
-        },
-        {
-          "id": "https://andrewlock.net/understanding-device-bound-session-credentials/",
-          "author": "Andrew Lock",
-          "description": "In this post I provide an introduction to Device Bound Session Credentials, I look at how DBSC protects against session hijacking, and how the protocol works",
-          "link": "https://andrewlock.net/understanding-device-bound-session-credentials/",
-          "publishedOn": "2026-09-15T10:00:00.000Z",
-          "wordCount": 2391,
-          "title": "Understanding Device Bound Session Credentials (DBSC)",
-          "imageUrl": "https://andrewlock.net/content/images/2026/dbsc_banner.webp"
         }
       ]
     },
@@ -423,6 +403,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/10/15/dew-drop-october-15-2026-4771/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nNew Tools, New Workflows and the Value of the Visual Studio Subscription: What We Learned at VSLive! San Diego (James Rempt)\nPython 3.15 delivers a native-by-default experience on Windows on Arm (Chris Anderson)\nVisual Studio 2026 Release Notes - October Update 18.11.0 …",
+          "link": "https://alvinashcraft.com/2026/10/15/dew-drop-october-15-2026-4771/",
+          "publishedOn": "2026-10-15T09:56:44.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - October 15, 2026 (#4771)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/10/14/dew-drop-october-14-2026-4770/",
           "author": "Alvin Ashcraft",
@@ -719,9 +709,9 @@
           "description": "In this post, let's take the handoff workflow from the last post and let Microsoft Foundry host it, so the two agents run in Foundry behind a single endpoint.\n\nIn the previous post, Microsoft Agent Framework: Handoff Orchestration with .NET, we had an activities agent and a dining agent handing the conversation between them, all inside a console application. And before that, in Microsoft Agent",
           "link": "https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-hosting.html",
           "publishedOn": "2026-10-11T21:09:48.140Z",
-          "wordCount": 5127,
+          "wordCount": null,
           "title": "Microsoft Agent Framework: Hosting a Handoff Workflow in Microsoft Foundry with .NET",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjHUwacXonuuHPAqCeJAg1wBaqo8WFUPhX7dpQFQwVJM4hOivXSfJxmjI8fhycuHBGsXGrzG3SsC_dmhPwenQVrNMQetTlgzBPRFoZGnvZ6CmM3hqzA5A34QGWG0YIuTrXfBj_Q1wYhv6lm2pDPR7Ne64BRIPxRK5xQFkmd1YWs5OnBzosbO1SFa65jAvs=w1200-h630-p-k-no-nu"
+          "imageUrl": null
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-handoff.html",
@@ -729,7 +719,7 @@
           "description": "In this post, let's have a look at handoff orchestration in Microsoft Agent Framework, where the agents themselves decide who should answer next.\n\nSome time back I blogged about Microsoft Agent Framework: Deterministic Multi-Agent Orchestrations with .NET Durable Functions. There, we decided the order. The orchestrator called the first agent, then the second, and it did the same thing on every",
           "link": "https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-handoff.html",
           "publishedOn": "2026-10-07T08:14:00.000Z",
-          "wordCount": null,
+          "wordCount": 5038,
           "title": "Microsoft Agent Framework: Handoff Orchestration with .NET",
           "imageUrl": null
         },
@@ -739,9 +729,9 @@
           "description": "In this post, let's see how we can take an agent written with\n  Microsoft Agent Framework and let Microsoft Foundry host it, as\n  a hosted agent.\n\n\n\n  A while back I blogged about\n  Microsoft Agent Framework: Agents on Azure Functions with .NET, where we hosted the agent ourselves. And in the last post,\n  Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET, we looked at",
           "link": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html",
           "publishedOn": "2026-09-21T08:33:24.611Z",
-          "wordCount": null,
+          "wordCount": 5236,
           "title": "Microsoft Agent Framework: Hosted Agents in Microsoft Foundry with .NET",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgRYk0xsmwchIkh5ooamA3Mz-B_vk43hJWz_nA0KsPhq3KNuIvsrVhaJGT8a_-hHdT-3ILiTAfSPfc8Fnhs-vUww1smT3mj1kKilqBIQYgiJw5W2OBR0zowpKsuk5_rEDLPphHiPw4jvLbZT5BCnllT9Il6yXPU1CZtCDQO7SnvfVBuzHiromgeAxEmnBI=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html",
@@ -752,16 +742,6 @@
           "wordCount": 5085,
           "title": "Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEifKsOiObYvp8uvOZ7qNVXfYWJx9GTw0SIfHNpVHqPfhpnaWK7x3m3XMGnFbKD1i2DVFZepqtsbvls-h3QwPeMLl0Wsq3lIMeiFyHBA75kQaCqrmsKlu32ohOVE4soIaVybP0IdH_6vinN15lVXRM0aF5pk6jKbxqj3oL-tR8UDyLo_Khoqz-KwlKemgn0=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://jaliyaudagedara.blogspot.com/2026/09/c-using-timeprovider-and.html",
-          "author": null,
-          "description": "In this post, let's have a look at\n    TimeProvider\n    in C#.&nbsp;\n  \n  \n  \n    I have seen this abstract class around for a while (it was introduced with\n    .NET 8), but I haven't really used it up until very recently. I just\n    love it.\n  \n  \n  \n    Before\n    TimeProvider, whenever I needed to control time in tests, I had to write my own\n    abstraction, something like",
-          "link": "https://jaliyaudagedara.blogspot.com/2026/09/c-using-timeprovider-and.html",
-          "publishedOn": "2026-09-15T10:48:29.164Z",
-          "wordCount": null,
-          "title": "C#: Using TimeProvider and FakeTimeProvider",
-          "imageUrl": null
         }
       ]
     },
@@ -883,6 +863,12 @@
       "articles": []
     },
     {
+      "title": "DOTNET CATCH – Blogging .NET, C# and DevOps topics.",
+      "feedUrl": "https://www.dotnetcatch.com/feed/",
+      "siteUrl": "https://www.dotnetcatch.com",
+      "articles": []
+    },
+    {
       "title": "Nate McMaster",
       "feedUrl": "https://natemcmaster.com/feed.xml",
       "siteUrl": "https://natemcmaster.com/",
@@ -899,6 +885,16 @@
       "feedUrl": "https://www.strathweb.com/posts/index.xml",
       "siteUrl": "https://www.strathweb.com/posts/",
       "articles": [
+        {
+          "id": "https://www.strathweb.com/2026/10/sudden-death-of-entanglement-rebirth-of-magic-with-qsharp/",
+          "author": null,
+          "description": "Entanglement is fragile, and one of the more striking ways in which it is fragile was pointed out by Ting Yu and Joseph Eberly in 2004. Two qubits left to relax independently, each of them losing its excitation to its own environment, need not lose their entanglement gradually, the way the excitations themselves decay. Prepared in the state $\\alpha|00\\rangle + \\beta|11\\rangle$ with the doubly excited component the larger one, $|\\beta| > |\\alpha|$, they lose it completely at a finite time and it stays lost (for $|\\beta| \\leq |\\alpha|$ it merely fades away), a phenomenon which Yu and Eberly named entanglement sudden death, and which was subsequently observed in a photonic experiment by Almeida and colleagues in 2007.\nThe reason it never comes back is, in fact, rather general. Once a state is…",
+          "link": "https://www.strathweb.com/2026/10/sudden-death-of-entanglement-rebirth-of-magic-with-qsharp/",
+          "publishedOn": "2026-10-15T07:00:00.000Z",
+          "wordCount": 4906,
+          "title": "Sudden Death of Entanglement, Rebirth of Magic: Amplitude Damping in Q#",
+          "imageUrl": null
+        },
         {
           "id": "https://www.strathweb.com/2026/09/cloning-is-as-hard-as-learning-stabilizer-states-with-qsharp/",
           "author": null,
