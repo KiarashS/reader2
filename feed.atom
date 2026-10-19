@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-18T04:05:56.618Z</updated>
+    <updated>2026-10-19T04:15:08.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Agent Framework: Agent to Agent (A2A) with .NET]]></title>
+        <id>https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-agent-to.html</id>
+        <link href="https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-agent-to.html"/>
+        <updated>2026-10-18T22:57:38.000Z</updated>
+        <summary type="html"><![CDATA[In this post, let's see how we can expose an agent over the
+  Agent-to-Agent (A2A) protocol, and then call it from another
+  application as if it were a local agent.
+
+
+
+  So far in this series, whoever called our agents either ran them in the same
+  process or knew exactly how they were hosted. A2A is an open protocol
+  for the case where they don't: an agent publishes a card describing itself]]></summary>
+        <author>
+            <name>Jaliya's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Features Are No Longer a Moat. Agents Now Need Rules]]></title>
+        <id>https://www.jankowskimichal.pl/?p=4436</id>
+        <link href="https://www.jankowskimichal.pl/en/2026/10/features-are-no-longer-a-moat-agents-now-need-rules/"/>
+        <updated>2026-10-18T19:49:13.000Z</updated>
+        <summary type="html"><![CDATA[The cost of recreating software features is falling toward zero, while the cost of a wrong decision by an AI agent keeps rising. These two trends run in opposite directions, and they land on the same desk: yours. One asks what is still worth paying a licence for. The other asks who is accountable when  [...]
+Artykuł Features Are No Longer a Moat. Agents Now Need Rules pochodzi z serwisu Michał Jankowski.]]></summary>
+        <author>
+            <name>Michał Jankowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pipes vs. Streams in .NET: Choosing the Right Tool for Performance]]></title>
+        <id>https://dotnettips.com/?p=18523</id>
+        <link href="https://dotnettips.com/2026/10/18/pipes-vs-streams-in-net-choosing-the-right-tool-for-performance/"/>
+        <updated>2026-10-18T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The choice between Pipes and Streams for data processing hinges on specific workloads. Optimal selection requires benchmarking based on the application's data handling needs.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Agent Framework: Human in the Loop Tool Approval with .NET]]></title>
         <id>https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-human-in-loop.html</id>
@@ -77,7 +116,7 @@ Vector stor…]]></summary>
         <id>https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/</id>
         <link href="https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/"/>
         <updated>2026-10-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow - Business]]></summary>
+        <summary type="html"><![CDATA[What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
@@ -778,16 +817,6 @@ A recent paper by Alexander Zlokapa, Richard Allen and Aram Harrow (the last of 
 In this post we will take the central object of that paper, a cost function that says where a Hamiltonian should be cut between a deterministic and a randomized simulation method, implement the corresponding algorithm in Q#, and measure on a 6 qubit system whether the cost function predicts what actually happens.]]></summary>
         <author>
             <name>Archive on Strathweb. A free flowing tech monologue.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boost Your .NET Projects with Spargine: Monitor and Log HTTP Traffic]]></title>
-        <id>https://dotnettips.com/?p=18464</id>
-        <link href="https://dotnettips.com/2026/09/20/boost-your-net-projects-with-spargine-monitor-and-log-http-traffic/"/>
-        <updated>2026-09-20T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Logging is crucial for app monitoring, extending beyond exceptions to include diagnostic events like request timing and connection details. Spargine offers three HTTP listeners—HttpEventListener, HttpEventListenerAsyncLocal, and HttpRequestsObserver—each providing various levels of detail to help troubleshoot performance issues and improve logging for .NET applications.]]></summary>
-        <author>
-            <name>David (dotNetDave) McCarter</name>
         </author>
     </entry>
     <entry>
