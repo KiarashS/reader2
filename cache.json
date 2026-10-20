@@ -23,7 +23,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4805,
+          "wordCount": 4797,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -38,7 +38,7 @@
           "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/how-name-things/",
           "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 4072,
+          "wordCount": 4077,
           "title": "A Practical Guide To Naming Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
@@ -70,6 +70,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ad617a7ac07d3a260c5c1a8",
+          "author": "Nikheel Vishwas Savant",
+          "description": "Most Android tutorials stop at \"it runs on the emulator.\" But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus",
+          "link": "https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/",
+          "publishedOn": "2026-10-19T13:14:15.000Z",
+          "wordCount": 11507,
+          "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ae76da68-1529-486f-a1c0-aaa72031d084.png"
+        },
+        {
+          "id": "6ad5be696f06108d923b29a5",
+          "author": "Hugo Teijiz",
+          "description": "In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s",
+          "link": "https://www.freecodecamp.org/news/detect-operational-drift-before-incident/",
+          "publishedOn": "2026-10-19T06:53:29.000Z",
+          "wordCount": 4994,
+          "title": "How to Detect Operational Drift Before It Becomes an Incident",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/883e3abc-de6f-48c8-aff5-5c5cab4093c2.png"
+        },
+        {
+          "id": "6ad5be274280cd4c1db0f2d1",
+          "author": "Vaibhav Gupta",
+          "description": "A website user interface (UI) used to take hours of writing HTML, CSS, and component code by hand. Now you can describe a page in plain words and let an AI coding tool write the first version. But the",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-website-user-interface-faster-using-ai-prompts/",
+          "publishedOn": "2026-10-19T06:52:23.000Z",
+          "wordCount": 6228,
+          "title": "How to Build a Website User Interface Faster Using AI Prompts",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f2e5a285-24cd-4aa4-8d6c-12c59ce9063f.png"
+        },
+        {
           "id": "6ad245772c56514e6fd78db7",
           "author": "Osomudeya Zudonu",
           "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
@@ -95,7 +125,7 @@
           "description": "Artificial intelligence models like GPT-4 and Claude require massive, highly complex physical infrastructure. We just published a new full-length course on the freeCodeCamp.org YouTube channel that ta",
           "link": "https://www.freecodecamp.org/news/the-anatomy-of-an-ai-data-center/",
           "publishedOn": "2026-10-16T11:56:17.000Z",
-          "wordCount": 1529,
+          "wordCount": 1533,
           "title": "The Anatomy of an AI Data Center",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/f2a00a6c-f24b-44b7-8b0b-5804a005e5cc.png"
         },
@@ -105,7 +135,7 @@
           "description": "System design is one of the most important skills for software engineers today. Whether you're applying for senior or staff-level positions or just looking to level up your architectural knowledge, un",
           "link": "https://www.freecodecamp.org/news/learn-how-to-design-software-systems-like-a-senior-engineer-in-our-new-course/",
           "publishedOn": "2026-10-16T11:34:26.000Z",
-          "wordCount": 1576,
+          "wordCount": 1580,
           "title": "Learn How to Design Software Systems Like a Senior Engineer in Our New Course",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e7c56cb4-aabc-41e2-8fd9-4c14bb158d91.png"
         },
@@ -135,39 +165,9 @@
           "description": "There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so",
           "link": "https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/",
           "publishedOn": "2026-10-15T05:00:08.000Z",
-          "wordCount": 7660,
+          "wordCount": 7676,
           "title": "Secure by Design: How to Engineer Security into Architecture Before Writing Any Code",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f24cb6-f4b9-40eb-9690-db750358c4d6.png"
-        },
-        {
-          "id": "6ad05935fb11435ce8281161",
-          "author": "Alex Oliinyk",
-          "description": "At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a",
-          "link": "https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/",
-          "publishedOn": "2026-10-15T04:40:21.000Z",
-          "wordCount": 13194,
-          "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/db541c6a-aba6-4a25-b0f8-2a4657c485d3.png"
-        },
-        {
-          "id": "6acfa07df5672c904a1a970e",
-          "author": "Kayode Adeniyi",
-          "description": "On 1 October 2026, Nigeria's postcode changed from six digits to an 11-character code that identifies a single building, such as EK-01-A03-FK-01. Language models trained before that date still describ",
-          "link": "https://www.freecodecamp.org/news/how-to-stop-an-ai-agent-from-inventing-nigerian-postcodes/",
-          "publishedOn": "2026-10-14T15:32:13.000Z",
-          "wordCount": 4315,
-          "title": "How to Stop an AI Agent from Inventing Nigerian Postcodes",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fc6aa940-cdca-4307-8416-682b5d660091.png"
-        },
-        {
-          "id": "6acf003cd00b1413f617c32e",
-          "author": "Abhinay Gokul",
-          "description": "A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a",
-          "link": "https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/",
-          "publishedOn": "2026-10-14T04:08:28.000Z",
-          "wordCount": 2925,
-          "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5b5c4c33-45b1-4e68-88d7-2d3ff82b0961.png"
         }
       ]
     },
@@ -229,7 +229,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs t resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1908,
+          "wordCount": 1912,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         }
@@ -246,7 +246,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs t resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1912,
+          "wordCount": 1908,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         }
@@ -273,7 +273,7 @@
           "description": "The HttpRequestExtensions class in DotNetTips.Spargine.Extensions offers reusable methods to streamline HTTP request handling, enhancing code maintainability and consistency. Key functions include reading request bodies, managing headers, extracting bearer tokens, and validating content types. This utility supports input validation and unit testing, improving code quality in applications.",
           "link": "https://dotnettips.com/2026/10/11/boost-your-net-projects-with-spargine-simplify-http-request-handling-with-httprequestextensions/",
           "publishedOn": "2026-10-11T06:00:00.000Z",
-          "wordCount": 4194,
+          "wordCount": 4182,
           "title": "Boost Your .NET Projects with Spargine: Simplify HTTP Request Handling with HttpRequestExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-22-2026-07_10_08-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -283,7 +283,7 @@
           "description": "Before releasing code to production, it's crucial to ensure a successful build and check for issues like stale references and inconsistent package versions. The Spargine Global Dev Tool automates these checks through nine PowerShell commands, generating reports to assist developers in maintaining quality and addressing potential problems before deployment.",
           "link": "https://dotnettips.com/2026/10/07/before-you-push-or-deploy-automate-nine-net-project-checks-with-the-spargine-dev-tool/",
           "publishedOn": "2026-10-07T06:00:00.000Z",
-          "wordCount": 4817,
+          "wordCount": 4855,
           "title": "Before You Push or Deploy: Automate Nine .NET Project Checks with the Spargine Dev Tool",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/10/Spargine-Dev-Tool-in-a-developer-workspace.png?fit=1200%2C675&ssl=1"
         },
@@ -303,7 +303,7 @@
           "description": "Spargine 10 (v2026.10.7.1), released on July 1, 2026, introduces NuGet packages for .NET 10, featuring new types, methods, and performance enhancements. The update allows for trimmable libraries, reducing application sizes and improving startup times. Community contributions are encouraged, and detailed benchmarks are available on GitHub.",
           "link": "https://dotnettips.com/2026/10/01/coding-faster-with-dotnettips-com-spargine-10-october-2026-release/",
           "publishedOn": "2026-10-01T06:00:00.000Z",
-          "wordCount": 5434,
+          "wordCount": 5194,
           "title": "Coding Faster with dotNetTips.com Spargine 10: October 2026 Release",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-18-2026-08_23_14-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -313,7 +313,7 @@
           "description": "The HttpRequestExtensions class in DotNetTips.Spargine.Extensions offers reusable methods to streamline HTTP request handling, enhancing code maintainability and consistency. Key functions include reading request bodies, managing headers, extracting bearer tokens, and validating content types. This utility supports input validation and unit testing, improving code quality in applications.",
           "link": "https://dotnettips.com/2026/09/30/simplify-directory-file-operations-in-net-with-spargines-directoryinfoextensions/",
           "publishedOn": "2026-09-30T06:00:00.000Z",
-          "wordCount": 4150,
+          "wordCount": 4173,
           "title": "Simplify Directory File Operations in .NET with Spargine’s  DirectoryInfoExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-28-2026-04_13_09-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -333,7 +333,7 @@
           "description": "dotNetDave's No Rest for the Wicked World Tour will arrive in Milan for Codemotion Milan 2026 on October 28th-29th. This marks his first speaking engagement in Italy, where he will present \"Unleash Your Inner Rockstar: The 5 Steps to Dynamic Public Speaking!\" Join to enhance your public speaking skills and career.",
           "link": "https://dotnettips.com/2026/09/24/dotnetdave-rocks-codemotion-milan-2026/",
           "publishedOn": "2026-09-24T15:58:39.000Z",
-          "wordCount": 3808,
+          "wordCount": 3831,
           "title": "dotNetDave Rocks Codemotion Milan 2026",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-24-2026-10_47_49-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -353,7 +353,7 @@
           "description": "GitHub Copilot offers optimization suggestions but testing their effectiveness requires careful engineering. While some improvements may seem beneficial, they can complicate code or slow performance. After reviewing various implementations, only a few suggestions showed meaningful gains. Developers must benchmark thoroughly to determine the real impact before adopting AI-generated code.",
           "link": "https://dotnettips.com/2026/09/23/github-copilot-and-net-performance-benchmark-every-optimization/",
           "publishedOn": "2026-09-23T06:00:00.000Z",
-          "wordCount": 7398,
+          "wordCount": 7423,
           "title": "GitHub Copilot and .NET Performance: Benchmark Every Optimization",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-7-2026-03_14_11-PM.png?fit=1200%2C800&ssl=1"
         }
@@ -403,6 +403,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/10/19/dew-drop-october-19-2026-4773/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nSnippets in Uno Platform Studio: Iterate on UI Fast (Sam Basu)\nMuse Spark Open is available in Microsoft Foundry Models (Mahesh Balachandran)\nWinApp extension for Visual Studio Code to assist in building, debugging, and packaging Windows applications (Microsoft DevLabs)…",
+          "link": "https://alvinashcraft.com/2026/10/19/dew-drop-october-19-2026-4773/",
+          "publishedOn": "2026-10-19T10:33:59.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - October 19, 2026 (#4773)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/10/16/dew-drop-october-16-2026-4772/",
           "author": "Alvin Ashcraft",
@@ -592,16 +602,6 @@
           "wordCount": 72,
           "title": "Dew Drop - September 22, 2026 (#4754)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/09/21/dew-drop-september-21-2026-4753/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nTechBash 2026 Fast Approaching (Jason Gaylord)\nIntroducing Previews: Storybook for .NET (Sam Basu)\n.NET Rocks! Podcast - Post-Quantum Crypto with Michael Howard (Carl Franklin & Richard Campbell)\nUno Extensions: MSAL Auth Across Platforms (Steve Bilogan)\nCulture Matters…",
-          "link": "https://alvinashcraft.com/2026/09/21/dew-drop-september-21-2026-4753/",
-          "publishedOn": "2026-09-21T11:00:44.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - September 21, 2026 (#4753)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -729,7 +729,7 @@
           "description": "In this post, let's have a look at handoff orchestration in Microsoft Agent Framework, where the agents themselves decide who should answer next.\n\nSome time back I blogged about Microsoft Agent Framework: Deterministic Multi-Agent Orchestrations with .NET Durable Functions. There, we decided the order. The orchestrator called the first agent, then the second, and it did the same thing on every",
           "link": "https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-handoff.html",
           "publishedOn": "2026-10-07T08:14:00.000Z",
-          "wordCount": null,
+          "wordCount": 5055,
           "title": "Microsoft Agent Framework: Handoff Orchestration with .NET",
           "imageUrl": null
         },
@@ -742,16 +742,6 @@
           "wordCount": 5236,
           "title": "Microsoft Agent Framework: Hosted Agents in Microsoft Foundry with .NET",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgRYk0xsmwchIkh5ooamA3Mz-B_vk43hJWz_nA0KsPhq3KNuIvsrVhaJGT8a_-hHdT-3ILiTAfSPfc8Fnhs-vUww1smT3mj1kKilqBIQYgiJw5W2OBR0zowpKsuk5_rEDLPphHiPw4jvLbZT5BCnllT9Il6yXPU1CZtCDQO7SnvfVBuzHiromgeAxEmnBI=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html",
-          "author": null,
-          "description": "<!--Title: Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET-->\n\n  \n    In this post, let's have a look at prompt agents in\n    Microsoft Foundry, and how we can create and run them with\n    Microsoft Agent Framework.\n  \n  \n  \n    Some time back I blogged about\n    Getting Started with Microsoft Agent Framework 1.0.0 in .NET. There, the agent was created in code, it lived",
-          "link": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html",
-          "publishedOn": "2026-09-19T00:57:00.000Z",
-          "wordCount": 5085,
-          "title": "Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEifKsOiObYvp8uvOZ7qNVXfYWJx9GTw0SIfHNpVHqPfhpnaWK7x3m3XMGnFbKD1i2DVFZepqtsbvls-h3QwPeMLl0Wsq3lIMeiFyHBA75kQaCqrmsKlu32ohOVE4soIaVybP0IdH_6vinN15lVXRM0aF5pk6jKbxqj3oL-tR8UDyLo_Khoqz-KwlKemgn0=w1200-h630-p-k-no-nu"
         }
       ]
     },

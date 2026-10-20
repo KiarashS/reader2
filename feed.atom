@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-19T04:15:08.339Z</updated>
+    <updated>2026-10-20T04:26:50.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store]]></title>
+        <id>6ad617a7ac07d3a260c5c1a8</id>
+        <link href="https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/"/>
+        <updated>2026-10-19T13:14:15.000Z</updated>
+        <summary type="html"><![CDATA[Most Android tutorials stop at "it runs on the emulator." But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - October 19, 2026 (#4773)]]></title>
+        <id>https://alvinashcraft.com/2026/10/19/dew-drop-october-19-2026-4773/</id>
+        <link href="https://alvinashcraft.com/2026/10/19/dew-drop-october-19-2026-4773/"/>
+        <updated>2026-10-19T10:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Snippets in Uno Platform Studio: Iterate on UI Fast (Sam Basu)
+Muse Spark Open is available in Microsoft Foundry Models (Mahesh Balachandran)
+WinApp extension for Visual Studio Code to assist in building, debugging, and packaging Windows applications (Microsoft DevLabs)…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Detect Operational Drift Before It Becomes an Incident]]></title>
+        <id>6ad5be696f06108d923b29a5</id>
+        <link href="https://www.freecodecamp.org/news/detect-operational-drift-before-incident/"/>
+        <updated>2026-10-19T06:53:29.000Z</updated>
+        <summary type="html"><![CDATA[In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Website User Interface Faster Using AI Prompts]]></title>
+        <id>6ad5be274280cd4c1db0f2d1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-website-user-interface-faster-using-ai-prompts/"/>
+        <updated>2026-10-19T06:52:23.000Z</updated>
+        <summary type="html"><![CDATA[A website user interface (UI) used to take hours of writing HTML, CSS, and component code by hand. Now you can describe a page in plain words and let an AI coding tool write the first version. But the]]></summary>
+        <author>
+            <name>Vaibhav Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Agent Framework: Agent to Agent (A2A) with .NET]]></title>
         <id>https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-agent-to.html</id>
@@ -176,26 +219,6 @@ The reason it never comes back is, in fact, rather general. Once a state is…]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js]]></title>
-        <id>6ad05935fb11435ce8281161</id>
-        <link href="https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/"/>
-        <updated>2026-10-15T04:40:21.000Z</updated>
-        <summary type="html"><![CDATA[At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a]]></summary>
-        <author>
-            <name>Alex Oliinyk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stop an AI Agent from Inventing Nigerian Postcodes]]></title>
-        <id>6acfa07df5672c904a1a970e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-stop-an-ai-agent-from-inventing-nigerian-postcodes/"/>
-        <updated>2026-10-14T15:32:13.000Z</updated>
-        <summary type="html"><![CDATA[On 1 October 2026, Nigeria's postcode changed from six digits to an 11-character code that identifies a single building, such as EK-01-A03-FK-01. Language models trained before that date still describ]]></summary>
-        <author>
-            <name>Kayode Adeniyi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dew Drop - October 14, 2026 (#4770)]]></title>
         <id>https://alvinashcraft.com/2026/10/14/dew-drop-october-14-2026-4770/</id>
         <link href="https://alvinashcraft.com/2026/10/14/dew-drop-october-14-2026-4770/"/>
@@ -207,16 +230,6 @@ GitHub’s model for secret detection: Finding more secrets with less noise (Bat
 Is it MSIX? Part 3: Find Package and Application Identity with TASKLIST and PowerShell (Howa…]]></summary>
         <author>
             <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Keep a File for Minutes, Not Years, on Cloud Run]]></title>
-        <id>6acf003cd00b1413f617c32e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/"/>
-        <updated>2026-10-14T04:08:28.000Z</updated>
-        <summary type="html"><![CDATA[A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a]]></summary>
-        <author>
-            <name>Abhinay Gokul</name>
         </author>
     </entry>
     <entry>
@@ -775,21 +788,6 @@ New in Edge for developers – Create better components and make your site agent
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop - September 21, 2026 (#4753)]]></title>
-        <id>https://alvinashcraft.com/2026/09/21/dew-drop-september-21-2026-4753/</id>
-        <link href="https://alvinashcraft.com/2026/09/21/dew-drop-september-21-2026-4753/"/>
-        <updated>2026-09-21T11:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-TechBash 2026 Fast Approaching (Jason Gaylord)
-Introducing Previews: Storybook for .NET (Sam Basu)
-.NET Rocks! Podcast - Post-Quantum Crypto with Michael Howard (Carl Franklin & Richard Campbell)
-Uno Extensions: MSAL Auth Across Platforms (Steve Bilogan)
-Culture Matters…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Agent Framework: Hosted Agents in Microsoft Foundry with .NET]]></title>
         <id>https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html</id>
         <link href="https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html"/>
@@ -817,26 +815,6 @@ A recent paper by Alexander Zlokapa, Richard Allen and Aram Harrow (the last of 
 In this post we will take the central object of that paper, a cost function that says where a Hamiltonian should be cut between a deterministic and a randomized simulation method, implement the corresponding algorithm in Q#, and measure on a 6 qubit system whether the cost function predicts what actually happens.]]></summary>
         <author>
             <name>Archive on Strathweb. A free flowing tech monologue.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET]]></title>
-        <id>https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html</id>
-        <link href="https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-prompt-agents.html"/>
-        <updated>2026-09-19T00:57:00.000Z</updated>
-        <summary type="html"><![CDATA[<!--Title: Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET-->
-
-  
-    In this post, let's have a look at prompt agents in
-    Microsoft Foundry, and how we can create and run them with
-    Microsoft Agent Framework.
-  
-  
-  
-    Some time back I blogged about
-    Getting Started with Microsoft Agent Framework 1.0.0 in .NET. There, the agent was created in code, it lived]]></summary>
-        <author>
-            <name>Jaliya's Blog</name>
         </author>
     </entry>
 </feed>
