@@ -23,7 +23,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 5961,
+          "wordCount": 5996,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -38,7 +38,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4793,
+          "wordCount": 4897,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -53,7 +53,7 @@
           "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/how-name-things/",
           "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 4084,
+          "wordCount": 4072,
           "title": "A Practical Guide To Naming Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
@@ -68,7 +68,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4659,
+          "wordCount": 4657,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -84,6 +84,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ad9087ef5ddaeeade835143",
+          "author": "Mene-Ejegi Ogbemi",
+          "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
+          "link": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
+          "publishedOn": "2026-10-21T18:46:22.000Z",
+          "wordCount": 4828,
+          "title": "What Is Model Distillation? A Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d829d33-57ca-4b85-84b8-13f86798afb7.png"
+        },
+        {
+          "id": "6ad8e242b2fc46237526d8b7",
+          "author": "Ahmed Tariq",
+          "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
+          "link": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
+          "publishedOn": "2026-10-21T16:03:14.000Z",
+          "wordCount": 3595,
+          "title": "How to Diagnose vite: not found After npm ci in a Container Build",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c7a9e1bf-42bd-46de-a3db-6939e863e53b.png"
+        },
+        {
+          "id": "6ad8a5349cd0ba9a078f2e8e",
+          "author": "Beau Carnes",
+          "description": "Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o",
+          "link": "https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/",
+          "publishedOn": "2026-10-21T11:42:44.000Z",
+          "wordCount": 1528,
+          "title": "Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/644a1317-5022-4e1f-9a0a-6b115453d874.png"
+        },
         {
           "id": "6ad7987561e15ba931f3a014",
           "author": "Samyukta Hegde",
@@ -110,7 +140,7 @@
           "description": "Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri",
           "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/",
           "publishedOn": "2026-10-20T09:33:46.000Z",
-          "wordCount": 7725,
+          "wordCount": 7729,
           "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ba422277-ac91-408c-9022-225002c6213a.png"
         },
@@ -140,7 +170,7 @@
           "description": "In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s",
           "link": "https://www.freecodecamp.org/news/detect-operational-drift-before-incident/",
           "publishedOn": "2026-10-19T06:53:29.000Z",
-          "wordCount": 4984,
+          "wordCount": 4994,
           "title": "How to Detect Operational Drift Before It Becomes an Incident",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/883e3abc-de6f-48c8-aff5-5c5cab4093c2.png"
         },
@@ -153,36 +183,6 @@
           "wordCount": 6242,
           "title": "How to Build a Website User Interface Faster Using AI Prompts",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f2e5a285-24cd-4aa4-8d6c-12c59ce9063f.png"
-        },
-        {
-          "id": "6ad245772c56514e6fd78db7",
-          "author": "Osomudeya Zudonu",
-          "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
-          "link": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
-          "publishedOn": "2026-10-16T15:40:39.000Z",
-          "wordCount": 30358,
-          "title": "How to Migrate an Application from AWS to GKE [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8a1803ba-c9c9-496d-b2c4-58392cc655eb.png"
-        },
-        {
-          "id": "6ad23fa987efcb761dd9805f",
-          "author": "Vasuki Uday Kiran Vudathala",
-          "description": "A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that",
-          "link": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/",
-          "publishedOn": "2026-10-16T15:15:53.000Z",
-          "wordCount": 49264,
-          "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/22a8cce0-8b31-442d-88c3-64fe8d49d886.png"
-        },
-        {
-          "id": "6ad210e1717d55cb5bae9773",
-          "author": "Beau Carnes",
-          "description": "Artificial intelligence models like GPT-4 and Claude require massive, highly complex physical infrastructure. We just published a new full-length course on the freeCodeCamp.org YouTube channel that ta",
-          "link": "https://www.freecodecamp.org/news/the-anatomy-of-an-ai-data-center/",
-          "publishedOn": "2026-10-16T11:56:17.000Z",
-          "wordCount": 1533,
-          "title": "The Anatomy of an AI Data Center",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/f2a00a6c-f24b-44b7-8b0b-5804a005e5cc.png"
         }
       ]
     },
@@ -278,7 +278,7 @@
           "description": "The choice between Pipes and Streams for data processing hinges on specific workloads. Optimal selection requires benchmarking based on the application's data handling needs.",
           "link": "https://dotnettips.com/2026/10/18/pipes-vs-streams-in-net-choosing-the-right-tool-for-performance/",
           "publishedOn": "2026-10-18T06:00:00.000Z",
-          "wordCount": 3457,
+          "wordCount": 3161,
           "title": "Pipes vs. Streams in .NET: Choosing the Right Tool for Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-24-2026-08_39_11-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -298,7 +298,7 @@
           "description": "Before releasing code to production, it's crucial to ensure a successful build and check for issues like stale references and inconsistent package versions. The Spargine Global Dev Tool automates these checks through nine PowerShell commands, generating reports to assist developers in maintaining quality and addressing potential problems before deployment.",
           "link": "https://dotnettips.com/2026/10/07/before-you-push-or-deploy-automate-nine-net-project-checks-with-the-spargine-dev-tool/",
           "publishedOn": "2026-10-07T06:00:00.000Z",
-          "wordCount": 5005,
+          "wordCount": 4855,
           "title": "Before You Push or Deploy: Automate Nine .NET Project Checks with the Spargine Dev Tool",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/10/Spargine-Dev-Tool-in-a-developer-workspace.png?fit=1200%2C675&ssl=1"
         },
@@ -338,7 +338,7 @@
           "description": "Disabling keep-alive in HttpClient can severely degrade application performance, as it prevents connection reuse. While it may be justified in rare cases, such as for legacy systems or troubleshooting, most reasons are misguided. Instead, maintain keep-alive for efficiency and configure PooledConnectionLifetime to manage connections effectively.",
           "link": "https://dotnettips.com/2026/09/27/httpclient-keep-alive-why-disabling-connection-reuse-can-destroy-performance/",
           "publishedOn": "2026-09-27T06:00:00.000Z",
-          "wordCount": 3292,
+          "wordCount": 3300,
           "title": "HttpClient Keep-Alive: Why Disabling Connection Reuse Can Destroy Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-20-2026-10_36_49-AM.png?fit=1200%2C801&ssl=1"
         },
@@ -348,7 +348,7 @@
           "description": "dotNetDave's No Rest for the Wicked World Tour will arrive in Milan for Codemotion Milan 2026 on October 28th-29th. This marks his first speaking engagement in Italy, where he will present \"Unleash Your Inner Rockstar: The 5 Steps to Dynamic Public Speaking!\" Join to enhance your public speaking skills and career.",
           "link": "https://dotnettips.com/2026/09/24/dotnetdave-rocks-codemotion-milan-2026/",
           "publishedOn": "2026-09-24T15:58:39.000Z",
-          "wordCount": 3942,
+          "wordCount": 3831,
           "title": "dotNetDave Rocks Codemotion Milan 2026",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-24-2026-10_47_49-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -358,7 +358,7 @@
           "description": "David McCarter, also known as dotNetDave, will speak at .NET Developer Days 2026 in Warsaw on October 20-21. His sessions focus on performance benchmarking using BenchmarkDotNet and software engineering principles likened to rock music. Attendees will gain insights on effective code measurement, testing, and embracing engineering judgment.",
           "link": "https://dotnettips.com/2026/09/24/dotnetdave-rocks-net-developer-days-2026-warsaw/",
           "publishedOn": "2026-09-24T15:53:09.000Z",
-          "wordCount": 4084,
+          "wordCount": 4689,
           "title": "dotNetDave Rocks .NET Developer Days 2026 Warsaw",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-24-2026-10_47_49-AM-1.png?fit=1200%2C800&ssl=1"
         },
@@ -428,6 +428,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/10/21/dew-drop-october-21-2026-4775/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nAI Software Factory: How to Deliver Features During Lunch | TechBash 2026 Keynote Recording (Jeffrey Palermo)\nAzure DevOps available in Microsoft Copilot (Dan Hellem)\nAnnouncing TypeScript 7.1 Beta (Daniel Rosenwasser)\nSquad 1.1.0 is out (Brady Gaster)\nWhy We Still Need…",
+          "link": "https://alvinashcraft.com/2026/10/21/dew-drop-october-21-2026-4775/",
+          "publishedOn": "2026-10-21T10:33:20.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - October 21, 2026 (#4775)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/10/20/dew-drop-october-20-2026-4774/",
           "author": "Alvin Ashcraft",
@@ -617,16 +627,6 @@
           "wordCount": 72,
           "title": "Dew Drop - September 24, 2026 (#4756)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/09/23/dew-drop-september-23-2026-4755/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nCreating a memory dump in C# and Today I will… debug a production crash (Aaron Powell)\nGPT-6 Astra, Sol, and Luna for production AI agents in Microsoft Foundry (Naomi Moneypenny)\nDeveloper Deep Dive | Build native Windows apps faster with agents (Nikola Metulev)\nFoundry…",
-          "link": "https://alvinashcraft.com/2026/09/23/dew-drop-september-23-2026-4755/",
-          "publishedOn": "2026-09-23T10:53:59.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - September 23, 2026 (#4755)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -767,16 +767,6 @@
           "wordCount": 5055,
           "title": "Microsoft Agent Framework: Handoff Orchestration with .NET",
           "imageUrl": null
-        },
-        {
-          "id": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html",
-          "author": null,
-          "description": "In this post, let's see how we can take an agent written with\n  Microsoft Agent Framework and let Microsoft Foundry host it, as\n  a hosted agent.\n\n\n\n  A while back I blogged about\n  Microsoft Agent Framework: Agents on Azure Functions with .NET, where we hosted the agent ourselves. And in the last post,\n  Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET, we looked at",
-          "link": "https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html",
-          "publishedOn": "2026-09-21T08:33:24.611Z",
-          "wordCount": 5236,
-          "title": "Microsoft Agent Framework: Hosted Agents in Microsoft Foundry with .NET",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgRYk0xsmwchIkh5ooamA3Mz-B_vk43hJWz_nA0KsPhq3KNuIvsrVhaJGT8a_-hHdT-3ILiTAfSPfc8Fnhs-vUww1smT3mj1kKilqBIQYgiJw5W2OBR0zowpKsuk5_rEDLPphHiPw4jvLbZT5BCnllT9Il6yXPU1CZtCDQO7SnvfVBuzHiromgeAxEmnBI=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -948,16 +938,6 @@
           "publishedOn": "2026-09-25T07:00:00.000Z",
           "wordCount": 2768,
           "title": "Cloning is as Hard as Learning - Stabilizer States in QDK & Q#",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.strathweb.com/2026/09/where-to-cut-a-hamiltonian-composite-qdrift-with-qsharp/",
-          "author": null,
-          "description": "Hamiltonian simulation is the application for which quantum computers were originally proposed, and the question of how many gates it costs to simulate a given Hamiltonian to a given accuracy is one of the oldest in the field. For a long time the folklore has been that the accuracy dependence can be made logarithmic, since query-based methods such as qubitization and quantum signal processing reach an error $\\epsilon$ with $O(\\log(1/\\epsilon))$ queries to a block encoding of the Hamiltonian.\nA recent paper by Alexander Zlokapa, Richard Allen and Aram Harrow (the last of whom is a towering figure in quantum algorithms, of HHL fame), Optimal Lower Bounds for Hamiltonian Simulation (arXiv:2607.19852, 2026), argues that for many physical Hamiltonians this is not what the gate count looks like. Unless one pays for every one of the terms of the Hamiltonian, the number of gates has to grow polynomially in $1/\\epsilon$.\nIn this post we will take the central object of that paper, a cost function that says where a Hamiltonian should be cut between a deterministic and a randomized simulation method, implement the corresponding algorithm in Q#, and measure on a 6 qubit system whether the cost function predicts what actually happens.",
-          "link": "https://www.strathweb.com/2026/09/where-to-cut-a-hamiltonian-composite-qdrift-with-qsharp/",
-          "publishedOn": "2026-09-21T07:00:00.000Z",
-          "wordCount": 3825,
-          "title": "Where to Cut a Hamiltonian: Composite qDRIFT with Q#",
           "imageUrl": null
         }
       ]

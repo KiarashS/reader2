@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-21T04:18:13.196Z</updated>
+    <updated>2026-10-22T04:17:50.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Model Distillation? A Guide for Developers]]></title>
+        <id>6ad9087ef5ddaeeade835143</id>
+        <link href="https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/"/>
+        <updated>2026-10-21T18:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre]]></summary>
+        <author>
+            <name>Mene-Ejegi Ogbemi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Diagnose vite: not found After npm ci in a Container Build]]></title>
+        <id>6ad8e242b2fc46237526d8b7</id>
+        <link href="https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/"/>
+        <updated>2026-10-21T16:03:14.000Z</updated>
+        <summary type="html"><![CDATA[I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure]]></summary>
+        <author>
+            <name>Ahmed Tariq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval]]></title>
+        <id>6ad8a5349cd0ba9a078f2e8e</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/"/>
+        <updated>2026-10-21T11:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - October 21, 2026 (#4775)]]></title>
+        <id>https://alvinashcraft.com/2026/10/21/dew-drop-october-21-2026-4775/</id>
+        <link href="https://alvinashcraft.com/2026/10/21/dew-drop-october-21-2026-4775/"/>
+        <updated>2026-10-21T10:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+AI Software Factory: How to Deliver Features During Lunch | TechBash 2026 Keynote Recording (Jeffrey Palermo)
+Azure DevOps available in Microsoft Copilot (Dan Hellem)
+Announcing TypeScript 7.1 Beta (Daniel Rosenwasser)
+Squad 1.1.0 is out (Brady Gaster)
+Why We Still Need…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Neural Networks Work: Why Straight Lines Aren't Enough]]></title>
         <id>6ad7987561e15ba931f3a014</id>
@@ -193,36 +238,6 @@ Artykuł Features Are No Longer a Moat. Agents Now Need Rules pochodzi z serwisu
 In the last two posts, Microsoft Agent Framework: Handoff Orchestration with .NET and Microsoft Agent Framework: Hosting a Handoff Workflow in Microsoft Foundry with .NET, we built a weekend concierge, an activities agent and a dining agent handing the conversation between them,]]></summary>
         <author>
             <name>Jaliya's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate an Application from AWS to GKE [Full Book]]]></title>
-        <id>6ad245772c56514e6fd78db7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/"/>
-        <updated>2026-10-16T15:40:39.000Z</updated>
-        <summary type="html"><![CDATA[This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo]]></summary>
-        <author>
-            <name>Osomudeya Zudonu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]]]></title>
-        <id>6ad23fa987efcb761dd9805f</id>
-        <link href="https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/"/>
-        <updated>2026-10-16T15:15:53.000Z</updated>
-        <summary type="html"><![CDATA[A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that]]></summary>
-        <author>
-            <name>Vasuki Uday Kiran Vudathala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Anatomy of an AI Data Center]]></title>
-        <id>6ad210e1717d55cb5bae9773</id>
-        <link href="https://www.freecodecamp.org/news/the-anatomy-of-an-ai-data-center/"/>
-        <updated>2026-10-16T11:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence models like GPT-4 and Claude require massive, highly complex physical infrastructure. We just published a new full-length course on the freeCodeCamp.org YouTube channel that ta]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -786,20 +801,6 @@ Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop - September 23, 2026 (#4755)]]></title>
-        <id>https://alvinashcraft.com/2026/09/23/dew-drop-september-23-2026-4755/</id>
-        <link href="https://alvinashcraft.com/2026/09/23/dew-drop-september-23-2026-4755/"/>
-        <updated>2026-09-23T10:53:59.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Creating a memory dump in C# and Today I will… debug a production crash (Aaron Powell)
-GPT-6 Astra, Sol, and Luna for production AI agents in Microsoft Foundry (Naomi Moneypenny)
-Developer Deep Dive | Build native Windows apps faster with agents (Nikola Metulev)
-Foundry…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Copilot and .NET Performance: Benchmark Every Optimization]]></title>
         <id>https://dotnettips.com/?p=19016</id>
         <link href="https://dotnettips.com/2026/09/23/github-copilot-and-net-performance-benchmark-every-optimization/"/>
@@ -826,36 +827,6 @@ Foundry…]]></summary>
         <summary type="html"><![CDATA[In this post I look at the new experimental support for DBSC provided by the Microsoft.AspNetCore.Authentication.DeviceBoundSessions package]]></summary>
         <author>
             <name>Andrew Lock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Agent Framework: Hosted Agents in Microsoft Foundry with .NET]]></title>
-        <id>https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html</id>
-        <link href="https://jaliyaudagedara.blogspot.com/2026/09/microsoft-agent-framework-hosted-agents.html"/>
-        <updated>2026-09-21T08:33:24.611Z</updated>
-        <summary type="html"><![CDATA[In this post, let's see how we can take an agent written with
-  Microsoft Agent Framework and let Microsoft Foundry host it, as
-  a hosted agent.
-
-
-
-  A while back I blogged about
-  Microsoft Agent Framework: Agents on Azure Functions with .NET, where we hosted the agent ourselves. And in the last post,
-  Microsoft Agent Framework: Prompt Agents in Microsoft Foundry with .NET, we looked at]]></summary>
-        <author>
-            <name>Jaliya's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where to Cut a Hamiltonian: Composite qDRIFT with Q#]]></title>
-        <id>https://www.strathweb.com/2026/09/where-to-cut-a-hamiltonian-composite-qdrift-with-qsharp/</id>
-        <link href="https://www.strathweb.com/2026/09/where-to-cut-a-hamiltonian-composite-qdrift-with-qsharp/"/>
-        <updated>2026-09-21T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hamiltonian simulation is the application for which quantum computers were originally proposed, and the question of how many gates it costs to simulate a given Hamiltonian to a given accuracy is one of the oldest in the field. For a long time the folklore has been that the accuracy dependence can be made logarithmic, since query-based methods such as qubitization and quantum signal processing reach an error $\epsilon$ with $O(\log(1/\epsilon))$ queries to a block encoding of the Hamiltonian.
-A recent paper by Alexander Zlokapa, Richard Allen and Aram Harrow (the last of whom is a towering figure in quantum algorithms, of HHL fame), Optimal Lower Bounds for Hamiltonian Simulation (arXiv:2607.19852, 2026), argues that for many physical Hamiltonians this is not what the gate count looks like. Unless one pays for every one of the terms of the Hamiltonian, the number of gates has to grow polynomially in $1/\epsilon$.
-In this post we will take the central object of that paper, a cost function that says where a Hamiltonian should be cut between a deterministic and a randomized simulation method, implement the corresponding algorithm in Q#, and measure on a 6 qubit system whether the cost function predicts what actually happens.]]></summary>
-        <author>
-            <name>Archive on Strathweb. A free flowing tech monologue.</name>
         </author>
     </entry>
 </feed>
