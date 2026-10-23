@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-22T04:17:50.395Z</updated>
+    <updated>2026-10-23T04:21:56.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - October 22, 2026 (#4776)]]></title>
+        <id>https://alvinashcraft.com/2026/10/22/dew-drop-october-22-2026-4776/</id>
+        <link href="https://alvinashcraft.com/2026/10/22/dew-drop-october-22-2026-4776/"/>
+        <updated>2026-10-22T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Microsoft.UI.Reactor: a C#-first way to build WinUI apps (Alexandre Zollinger Chohfi)
+Compare today’s code with an earlier commit (Leah Tran)
+React Native Windows v0.85 is here (Anukrati Agrawal)
+.NET Rocks! - XAML.io with Giovanni Albani (Carl Franklin & Richard Campbe…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Server-Timing Headers in ASP.NET Core: Backend Metrics in Browser DevTools]]></title>
+        <id>https://blog.maartenballiauw.be/posts/2026-10-22-server-timing-headers-in-aspnet-core/</id>
+        <link href="https://blog.maartenballiauw.be/posts/2026-10-22-server-timing-headers-in-aspnet-core/"/>
+        <updated>2026-10-22T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Network tab in browser DevTools tells you quite a bit about a request, including how long DNS resolution and the TLS handshake took. The time waiting for the server is less helpful. There is a bar labeled “Waiting for server response”, but no indication of whether the application was waiting for a database query or calling another API. With the Server-Timing response header, an application can include its own measurements. Chrome, Edge, and Firefox display these alongside the timings the browser already collects.]]></summary>
+        <author>
+            <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things That Caught My Attention Last Week - October 19]]></title>
+        <id>http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-19-2026</id>
+        <link href="http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-19-2026"/>
+        <updated>2026-10-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="../assets/caught-i.png" class="img-fluid" alt="caught-my-i"></p>]]></summary>
+        <author>
+            <name>Peter Ritchie's Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Model Distillation? A Guide for Developers]]></title>
         <id>6ad9087ef5ddaeeade835143</id>
@@ -788,19 +822,6 @@ In this post we shall implement the learner in Q#, run it on the QDK’s stabili
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop - September 24, 2026 (#4756)]]></title>
-        <id>https://alvinashcraft.com/2026/09/24/dew-drop-september-24-2026-4756/</id>
-        <link href="https://alvinashcraft.com/2026/09/24/dew-drop-september-24-2026-4756/"/>
-        <updated>2026-09-24T10:39:59.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Changes to Microsoft Learn’s public documentation repositories (Martin Ekuan)
-Microsoft is updating its author-signing certificate starting September 23, 2026 (NuGet Team)
-Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work (Amar Badal)…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Copilot and .NET Performance: Benchmark Every Optimization]]></title>
         <id>https://dotnettips.com/?p=19016</id>
         <link href="https://dotnettips.com/2026/09/23/github-copilot-and-net-performance-benchmark-every-optimization/"/>
@@ -817,16 +838,6 @@ Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge
         <updated>2026-09-23T00:00:00.000Z</updated>
         <author>
             <name>Code with Dan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8]]></title>
-        <id>https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/</id>
-        <link href="https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/"/>
-        <updated>2026-09-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this post I look at the new experimental support for DBSC provided by the Microsoft.AspNetCore.Authentication.DeviceBoundSessions package]]></summary>
-        <author>
-            <name>Andrew Lock</name>
         </author>
     </entry>
 </feed>

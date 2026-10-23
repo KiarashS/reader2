@@ -23,7 +23,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 5996,
+          "wordCount": 5997,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -38,7 +38,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4897,
+          "wordCount": 4794,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -68,7 +68,7 @@
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
           "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "publishedOn": "2026-09-30T13:30:00.000Z",
-          "wordCount": 4657,
+          "wordCount": 4660,
           "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
@@ -90,7 +90,7 @@
           "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
           "link": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
           "publishedOn": "2026-10-21T18:46:22.000Z",
-          "wordCount": 4828,
+          "wordCount": 4812,
           "title": "What Is Model Distillation? A Guide for Developers",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d829d33-57ca-4b85-84b8-13f86798afb7.png"
         },
@@ -140,7 +140,7 @@
           "description": "Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri",
           "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/",
           "publishedOn": "2026-10-20T09:33:46.000Z",
-          "wordCount": 7729,
+          "wordCount": 7731,
           "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ba422277-ac91-408c-9022-225002c6213a.png"
         },
@@ -191,6 +191,16 @@
       "feedUrl": "https://blog.peterritchie.com/feed.atom",
       "siteUrl": "http://blog.peterritchie.com/",
       "articles": [
+        {
+          "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-19-2026",
+          "author": null,
+          "description": "<p><img src=\"../assets/caught-i.png\" class=\"img-fluid\" alt=\"caught-my-i\"></p>",
+          "link": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-19-2026",
+          "publishedOn": "2026-10-22T00:00:00.000Z",
+          "wordCount": 549,
+          "title": "Things That Caught My Attention Last Week - October 19",
+          "imageUrl": null
+        },
         {
           "id": "http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-12-2026",
           "author": null,
@@ -261,7 +271,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs t resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1912,
+          "wordCount": 1908,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         }
@@ -278,7 +288,7 @@
           "description": "The choice between Pipes and Streams for data processing hinges on specific workloads. Optimal selection requires benchmarking based on the application's data handling needs.",
           "link": "https://dotnettips.com/2026/10/18/pipes-vs-streams-in-net-choosing-the-right-tool-for-performance/",
           "publishedOn": "2026-10-18T06:00:00.000Z",
-          "wordCount": 3161,
+          "wordCount": 3457,
           "title": "Pipes vs. Streams in .NET: Choosing the Right Tool for Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-24-2026-08_39_11-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -318,7 +328,7 @@
           "description": "Spargine 10 (v2026.10.7.1), released on July 1, 2026, introduces NuGet packages for .NET 10, featuring new types, methods, and performance enhancements. The update allows for trimmable libraries, reducing application sizes and improving startup times. Community contributions are encouraged, and detailed benchmarks are available on GitHub.",
           "link": "https://dotnettips.com/2026/10/01/coding-faster-with-dotnettips-com-spargine-10-october-2026-release/",
           "publishedOn": "2026-10-01T06:00:00.000Z",
-          "wordCount": 5194,
+          "wordCount": 5456,
           "title": "Coding Faster with dotNetTips.com Spargine 10: October 2026 Release",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-18-2026-08_23_14-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -348,7 +358,7 @@
           "description": "dotNetDave's No Rest for the Wicked World Tour will arrive in Milan for Codemotion Milan 2026 on October 28th-29th. This marks his first speaking engagement in Italy, where he will present \"Unleash Your Inner Rockstar: The 5 Steps to Dynamic Public Speaking!\" Join to enhance your public speaking skills and career.",
           "link": "https://dotnettips.com/2026/09/24/dotnetdave-rocks-codemotion-milan-2026/",
           "publishedOn": "2026-09-24T15:58:39.000Z",
-          "wordCount": 3831,
+          "wordCount": 3987,
           "title": "dotNetDave Rocks Codemotion Milan 2026",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-24-2026-10_47_49-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -404,16 +414,6 @@
           "wordCount": 1912,
           "title": "Stripping extra dependencies in .NET NativeAOT apps using linker substitutions",
           "imageUrl": "https://andrewlock.net/content/images/2026/nativeaot_linking_banner.webp"
-        },
-        {
-          "id": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
-          "author": "Andrew Lock",
-          "description": "In this post I look at the new experimental support for DBSC provided by the Microsoft.AspNetCore.Authentication.DeviceBoundSessions package",
-          "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
-          "publishedOn": "2026-09-22T10:00:00.000Z",
-          "wordCount": 3355,
-          "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8",
-          "imageUrl": "https://andrewlock.net/content/images/2026/dbsc_aspnetcore_banner.webp"
         }
       ]
     },
@@ -428,6 +428,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/10/22/dew-drop-october-22-2026-4776/",
+          "author": "Alvin Ashcraft",
+          "description": "Top Links\nMicrosoft.UI.Reactor: a C#-first way to build WinUI apps (Alexandre Zollinger Chohfi)\nCompare today’s code with an earlier commit (Leah Tran)\nReact Native Windows v0.85 is here (Anukrati Agrawal)\n.NET Rocks! - XAML.io with Giovanni Albani (Carl Franklin & Richard Campbe…",
+          "link": "https://alvinashcraft.com/2026/10/22/dew-drop-october-22-2026-4776/",
+          "publishedOn": "2026-10-22T10:33:00.000Z",
+          "wordCount": 72,
+          "title": "Dew Drop - October 22, 2026 (#4776)",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/10/21/dew-drop-october-21-2026-4775/",
           "author": "Alvin Ashcraft",
@@ -617,16 +627,6 @@
           "wordCount": 72,
           "title": "Dew Drop - September 25, 2026 (#4757)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/09/24/dew-drop-september-24-2026-4756/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nChanges to Microsoft Learn’s public documentation repositories (Martin Ekuan)\nMicrosoft is updating its author-signing certificate starting September 23, 2026 (NuGet Team)\nClaude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work (Amar Badal)…",
-          "link": "https://alvinashcraft.com/2026/09/24/dew-drop-september-24-2026-4756/",
-          "publishedOn": "2026-09-24T10:39:59.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - September 24, 2026 (#4756)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -642,12 +642,22 @@
       "siteUrl": "https://blog.maartenballiauw.be/",
       "articles": [
         {
+          "id": "https://blog.maartenballiauw.be/posts/2026-10-22-server-timing-headers-in-aspnet-core/",
+          "author": null,
+          "description": "The Network tab in browser DevTools tells you quite a bit about a request, including how long DNS resolution and the TLS handshake took. The time waiting for the server is less helpful. There is a bar labeled “Waiting for server response”, but no indication of whether the application was waiting for a database query or calling another API. With the Server-Timing response header, an application can include its own measurements. Chrome, Edge, and Firefox display these alongside the timings the browser already collects.",
+          "link": "https://blog.maartenballiauw.be/posts/2026-10-22-server-timing-headers-in-aspnet-core/",
+          "publishedOn": "2026-10-22T07:00:00.000Z",
+          "wordCount": 3255,
+          "title": "Server-Timing Headers in ASP.NET Core: Backend Metrics in Browser DevTools",
+          "imageUrl": "https://blog.maartenballiauw.be/posts/2026-10-22-server-timing-headers-in-aspnet-core/index.png"
+        },
+        {
           "id": "https://blog.maartenballiauw.be/posts/2026-09-16-device-bound-session-credentials-in-aspnet-core/",
           "author": null,
           "description": "A session cookie is a bearer token, which is a polite way of saying that whoever holds it is you. Copy the cookie, replay it from another machine, and the server happily serves your account. Nothing about the request proves which device it came from, so a cookie lifted by malware, an XSS payload, or a stray database backup keeps working until it expires. For a long-lived session, that can be weeks.",
           "link": "https://blog.maartenballiauw.be/posts/2026-09-16-device-bound-session-credentials-in-aspnet-core/",
           "publishedOn": "2026-10-20T08:00:00.000Z",
-          "wordCount": 2732,
+          "wordCount": 2744,
           "title": "Device Bound Session Credentials in ASP.NET Core",
           "imageUrl": "https://blog.maartenballiauw.be/posts/2026-09-16-device-bound-session-credentials-in-aspnet-core/index.png"
         },
