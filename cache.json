@@ -23,7 +23,7 @@
           "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
           "publishedOn": "2026-10-23T13:00:00.000Z",
-          "wordCount": 3565,
+          "wordCount": 3569,
           "title": "Accordion Icons: Which Work Best?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
@@ -38,7 +38,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 5998,
+          "wordCount": 5995,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -53,7 +53,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4801,
+          "wordCount": 4910,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -68,7 +68,7 @@
           "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/how-name-things/",
           "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 4073,
+          "wordCount": 4078,
           "title": "A Practical Guide To Naming Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
@@ -165,7 +165,7 @@
           "description": "Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri",
           "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/",
           "publishedOn": "2026-10-20T09:33:46.000Z",
-          "wordCount": 8519,
+          "wordCount": 8517,
           "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ba422277-ac91-408c-9022-225002c6213a.png"
         },
@@ -195,7 +195,7 @@
           "description": "In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s",
           "link": "https://www.freecodecamp.org/news/detect-operational-drift-before-incident/",
           "publishedOn": "2026-10-19T06:53:29.000Z",
-          "wordCount": 5436,
+          "wordCount": 5431,
           "title": "How to Detect Operational Drift Before It Becomes an Incident",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/883e3abc-de6f-48c8-aff5-5c5cab4093c2.png"
         }
@@ -286,7 +286,7 @@
           "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs t resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm…",
           "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
           "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1908,
+          "wordCount": 1912,
           "title": "Back to Basics: CSS @container Filtering",
           "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
         }
@@ -298,12 +298,22 @@
       "siteUrl": "https://dotnettips.com",
       "articles": [
         {
+          "id": "https://dotnettips.com/?p=18584",
+          "author": "David (dotNetDave) McCarter",
+          "description": "When inserting records into a database, should you use synchronous or asynchronous execution? In this article, I compare both approaches in .NET, explain when each one makes sense, and share performance insights based on benchmarking. If you assume async is always faster, you may want to take a closer look.",
+          "link": "https://dotnettips.com/2026/10/25/are-async-database-inserts-really-faster-in-net/",
+          "publishedOn": "2026-10-25T06:00:00.000Z",
+          "wordCount": 3151,
+          "title": "Are Async Database Inserts Really Faster in .NET?",
+          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-29-2026-10_33_52-AM.png?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://dotnettips.com/?p=18523",
           "author": "David (dotNetDave) McCarter",
           "description": "The choice between Pipes and Streams for data processing hinges on specific workloads. Optimal selection requires benchmarking based on the application's data handling needs.",
           "link": "https://dotnettips.com/2026/10/18/pipes-vs-streams-in-net-choosing-the-right-tool-for-performance/",
           "publishedOn": "2026-10-18T06:00:00.000Z",
-          "wordCount": 3161,
+          "wordCount": 3457,
           "title": "Pipes vs. Streams in .NET: Choosing the Right Tool for Performance",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-24-2026-08_39_11-AM.png?fit=1200%2C800&ssl=1"
         },
@@ -353,7 +363,7 @@
           "description": "The HttpRequestExtensions class in DotNetTips.Spargine.Extensions offers reusable methods to streamline HTTP request handling, enhancing code maintainability and consistency. Key functions include reading request bodies, managing headers, extracting bearer tokens, and validating content types. This utility supports input validation and unit testing, improving code quality in applications.",
           "link": "https://dotnettips.com/2026/09/30/simplify-directory-file-operations-in-net-with-spargines-directoryinfoextensions/",
           "publishedOn": "2026-09-30T06:00:00.000Z",
-          "wordCount": 4284,
+          "wordCount": 4173,
           "title": "Simplify Directory File Operations in .NET with Spargine’s  DirectoryInfoExtensions",
           "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-28-2026-04_13_09-PM.png?fit=1200%2C800&ssl=1"
         },
@@ -923,16 +933,6 @@
           "publishedOn": "2026-10-15T07:00:00.000Z",
           "wordCount": 4902,
           "title": "Sudden Death of Entanglement, Rebirth of Magic: Amplitude Damping in Q#",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.strathweb.com/2026/09/cloning-is-as-hard-as-learning-stabilizer-states-with-qsharp/",
-          "author": null,
-          "description": "The no-cloning theorem is usually stated as an impossibility, namely that there is no machine which takes one copy of an unknown quantum state and returns two of them. The more interesting question, posed by Reinhard Werner in 1998 in a brilliant paper on optimal cloning, is the quantitative one, that is, how well we can produce $t+1$ copies of an unknown pure state when we are given $t$ of them. The answer for arbitrary states is rather sobering, since approximate cloning turns out to need as many copies as full state tomography does, which for $n$ qubits is exponential in $n$.\nModern quantum learning theory rarely deals with arbitrary states, however. It deals with structured classes, and for some of them learning is cheap. Stabilizer states are the canonical example, since an $n$-qubit stabilizer state can be learned from $O(n)$ copies. This raises the natural question of whether the structure that makes learning easy makes cloning easier still, and a recent paper by Nikhil Bansal, Matthias Caro and Gaurav Mahajan, Cloning is as Hard as Learning for Stabilizer States (arXiv:2604.15269, 2026), answers it in the negative, since the optimal sample complexity of cloning stabilizer states turns out to be $\\Theta(n)$, the same as that of learning them.\nIn this post we shall implement the learner in Q#, run it on the QDK’s stabilizer simulator for up to 128 qubits, and measure the mechanism behind the paper’s lower bound, which turns out to be a single fact about random vectors over $\\mathbb{Z}_2$.",
-          "link": "https://www.strathweb.com/2026/09/cloning-is-as-hard-as-learning-stabilizer-states-with-qsharp/",
-          "publishedOn": "2026-09-25T07:00:00.000Z",
-          "wordCount": 2768,
-          "title": "Cloning is as Hard as Learning - Stabilizer States in QDK & Q#",
           "imageUrl": null
         }
       ]

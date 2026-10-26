@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-10-25T04:15:12.253Z</updated>
+    <updated>2026-10-26T04:19:25.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Are Async Database Inserts Really Faster in .NET?]]></title>
+        <id>https://dotnettips.com/?p=18584</id>
+        <link href="https://dotnettips.com/2026/10/25/are-async-database-inserts-really-faster-in-net/"/>
+        <updated>2026-10-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When inserting records into a database, should you use synchronous or asynchronous execution? In this article, I compare both approaches in .NET, explain when each one makes sense, and share performance insights based on benchmarking. If you assume async is always faster, you may want to take a closer look.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accordion Icons: Which Work Best?]]></title>
         <id>https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/</id>
@@ -797,18 +807,6 @@ Introducing the new Copilot with Hom…]]></summary>
         <summary type="html"><![CDATA[Disabling keep-alive in HttpClient can severely degrade application performance, as it prevents connection reuse. While it may be justified in rare cases, such as for legacy systems or troubleshooting, most reasons are misguided. Instead, maintain keep-alive for efficiency and configure PooledConnectionLifetime to manage connections effectively.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloning is as Hard as Learning - Stabilizer States in QDK & Q#]]></title>
-        <id>https://www.strathweb.com/2026/09/cloning-is-as-hard-as-learning-stabilizer-states-with-qsharp/</id>
-        <link href="https://www.strathweb.com/2026/09/cloning-is-as-hard-as-learning-stabilizer-states-with-qsharp/"/>
-        <updated>2026-09-25T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The no-cloning theorem is usually stated as an impossibility, namely that there is no machine which takes one copy of an unknown quantum state and returns two of them. The more interesting question, posed by Reinhard Werner in 1998 in a brilliant paper on optimal cloning, is the quantitative one, that is, how well we can produce $t+1$ copies of an unknown pure state when we are given $t$ of them. The answer for arbitrary states is rather sobering, since approximate cloning turns out to need as many copies as full state tomography does, which for $n$ qubits is exponential in $n$.
-Modern quantum learning theory rarely deals with arbitrary states, however. It deals with structured classes, and for some of them learning is cheap. Stabilizer states are the canonical example, since an $n$-qubit stabilizer state can be learned from $O(n)$ copies. This raises the natural question of whether the structure that makes learning easy makes cloning easier still, and a recent paper by Nikhil Bansal, Matthias Caro and Gaurav Mahajan, Cloning is as Hard as Learning for Stabilizer States (arXiv:2604.15269, 2026), answers it in the negative, since the optimal sample complexity of cloning stabilizer states turns out to be $\Theta(n)$, the same as that of learning them.
-In this post we shall implement the learner in Q#, run it on the QDK’s stabilizer simulator for up to 128 qubits, and measure the mechanism behind the paper’s lower bound, which turns out to be a single fact about random vectors over $\mathbb{Z}_2$.]]></summary>
-        <author>
-            <name>Archive on Strathweb. A free flowing tech monologue.</name>
         </author>
     </entry>
 </feed>
