@@ -54,7 +54,7 @@
           "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
           "publishedOn": "2026-10-31T08:00:00.000Z",
-          "wordCount": 4533,
+          "wordCount": 4535,
           "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -84,7 +84,7 @@
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
           "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 6000,
+          "wordCount": 5986,
           "title": "Embracing Playful Imperfection With The CSS `random()` Function",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
@@ -99,7 +99,7 @@
           "description": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
           "link": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 4792,
+          "wordCount": 4796,
           "title": "Is Your Organization Messing Up AI Adoption?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
@@ -114,7 +114,7 @@
           "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
           "link": "https://smashingmagazine.com/2026/10/how-name-things/",
           "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 4078,
+          "wordCount": 4068,
           "title": "A Practical Guide To Naming Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
@@ -136,7 +136,7 @@
           "description": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet",
           "link": "https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/",
           "publishedOn": "2026-10-30T13:57:52.000Z",
-          "wordCount": 5723,
+          "wordCount": 5707,
           "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/223107d3-1947-4c50-aabe-a590e72a2fa9.png"
         },
@@ -146,7 +146,7 @@
           "description": "Searched worked in a familiar way for decades: you'd type in your query, get back a list of pages, and choose one to click on. Behind the scenes, Google would find the pages it thought you might want,",
           "link": "https://www.freecodecamp.org/news/ai-search-visibility/",
           "publishedOn": "2026-10-29T21:53:51.000Z",
-          "wordCount": 4048,
+          "wordCount": 4034,
           "title": "How AI-Powered Search Works: A Guide for Devs on AI Visibility",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9cb43c6b-0703-420d-91c1-9ca346083fe0.png"
         },
@@ -293,41 +293,29 @@
       "title": "Rick Strahl's Web Log",
       "feedUrl": "https://feeds.feedburner.com/rickstrahl",
       "siteUrl": "https://weblog.west-wind.com/",
-      "articles": [
-        {
-          "id": "znxhm5bohh8q",
-          "author": "(Rick Strahl)",
-          "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs t resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm…",
-          "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
-          "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1914,
-          "title": "Back to Basics: CSS @container Filtering",
-          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Rick Strahl's Web Log",
       "feedUrl": "https://feeds.feedburner.com/RickStrahl",
       "siteUrl": "https://weblog.west-wind.com/",
-      "articles": [
-        {
-          "id": "znxhm5bohh8q",
-          "author": "(Rick Strahl)",
-          "description": "I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.\nMy specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs t resizing.\nMost of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.\nThere's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm…",
-          "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
-          "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 1910,
-          "title": "Back to Basics: CSS @container Filtering",
-          "imageUrl": "https://weblog.west-wind.com/imageContent/2026/2026-10/ContainerBanner.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "dotNetTips.com",
       "feedUrl": "https://dotnettips.wordpress.com/feed/",
       "siteUrl": "https://dotnettips.com",
       "articles": [
+        {
+          "id": "https://dotnettips.com/?p=18590",
+          "author": "David (dotNetDave) McCarter",
+          "description": "Choosing the right compression algorithm in .NET involves more than simply selecting the option that produces the smallest payload. Compression speed, decompression time, memory allocations, data format, and network conditions can all affect overall application performance.\n\nThis article compares Brotli and LZ4 across binary and JSON workloads, explores how their compression levels behave, and explains the trade-offs developers should evaluate before choosing a strategy for performance-critical applications.",
+          "link": "https://dotnettips.com/2026/11/01/binary-and-json-compression-in-net-brotli-vs-lz4/",
+          "publishedOn": "2026-11-01T06:00:00.000Z",
+          "wordCount": 3459,
+          "title": "Binary and JSON Compression in .NET:  Brotli vs. LZ4",
+          "imageUrl": "https://i0.wp.com/dotnettips.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-1-2026-09_20_15-AM.png?fit=1200%2C800&ssl=1"
+        },
         {
           "id": "https://dotnettips.com/?p=18584",
           "author": "David (dotNetDave) McCarter",
@@ -424,6 +412,16 @@
       "feedUrl": "https://www.alvinashcraft.com/feed/",
       "siteUrl": "https://alvinashcraft.com",
       "articles": [
+        {
+          "id": "https://alvinashcraft.com/2026/11/01/help-test-dew-submitter-for-android/",
+          "author": "Alvin Ashcraft",
+          "description": "Dew Submitter makes it easy to send article links and RSS feed suggestions to me for consideration on The Morning Dew. Now I need a little help getting the Android app ready for its public Play Store release!\nGoogle requires at least 12 testers to remain opted in for 14 consecuti…",
+          "link": "https://alvinashcraft.com/2026/11/01/help-test-dew-submitter-for-android/",
+          "publishedOn": "2026-11-01T17:00:00.000Z",
+          "wordCount": 72,
+          "title": "Help Test Dew Submitter for Android",
+          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
+        },
         {
           "id": "https://alvinashcraft.com/2026/10/30/dew-drop-october-30-2026-4782/",
           "author": "Alvin Ashcraft",
@@ -613,16 +611,6 @@
           "wordCount": 72,
           "title": "Dew Drop - October 6, 2026 (#4764)",
           "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
-        },
-        {
-          "id": "https://alvinashcraft.com/2026/10/05/dew-drop-october-5-2026-4763/",
-          "author": "Alvin Ashcraft",
-          "description": "Top Links\nBuild expressive voice experiences with new MAI models in Microsoft Foundry (Naomi Moneypenny)\nCredential Explorer - A modern WinUI 3 metadata-only explorer for Windows credentials and Credential Locker (Scott Hanselman)\nMeet the A2A CLI: discover, message, and manage a…",
-          "link": "https://alvinashcraft.com/2026/10/05/dew-drop-october-5-2026-4763/",
-          "publishedOn": "2026-10-05T10:37:02.000Z",
-          "wordCount": 72,
-          "title": "Dew Drop - October 5, 2026 (#4763)",
-          "imageUrl": "https://alvinashcraft.com/img/md-light-1024.png"
         }
       ]
     },
@@ -730,9 +718,9 @@
           "description": "In this post, let's see how we can expose an agent over the\n  Agent-to-Agent (A2A) protocol, and then call it from another\n  application as if it were a local agent.\n\n\n\n  So far in this series, whoever called our agents either ran them in the same\n  process or knew exactly how they were hosted. A2A is an open protocol\n  for the case where they don't: an agent publishes a card describing itself",
           "link": "https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-agent-to.html",
           "publishedOn": "2026-10-18T22:57:38.000Z",
-          "wordCount": null,
+          "wordCount": 5223,
           "title": "Microsoft Agent Framework: Agent to Agent (A2A) with .NET",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8hS0zpfXUCBd1YpcUopcZvzvtrpwaRmF0siXgafzpzsWcpN3nQAo1HGFyHKiFNhvX0vxCJC9SnlnGg4CTbN1eW5b-2ERNj-_bCEolz-SXe_tJoj7fe6NeqTGmIEUu487ar84oCphjfpHWqzcgxhpXn0RVRZUmOjraMEE4bojUTkmzSPGW5hqDjhbqPRE/w1200-h630-p-k-no-nu/image.png"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-human-in-loop.html",
@@ -750,9 +738,9 @@
           "description": "In this post, let's take the handoff workflow from the last post and let Microsoft Foundry host it, so the two agents run in Foundry behind a single endpoint.\n\nIn the previous post, Microsoft Agent Framework: Handoff Orchestration with .NET, we had an activities agent and a dining agent handing the conversation between them, all inside a console application. And before that, in Microsoft Agent",
           "link": "https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-hosting.html",
           "publishedOn": "2026-10-11T21:09:48.140Z",
-          "wordCount": null,
+          "wordCount": 5155,
           "title": "Microsoft Agent Framework: Hosting a Handoff Workflow in Microsoft Foundry with .NET",
-          "imageUrl": null
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjHUwacXonuuHPAqCeJAg1wBaqo8WFUPhX7dpQFQwVJM4hOivXSfJxmjI8fhycuHBGsXGrzG3SsC_dmhPwenQVrNMQetTlgzBPRFoZGnvZ6CmM3hqzA5A34QGWG0YIuTrXfBj_Q1wYhv6lm2pDPR7Ne64BRIPxRK5xQFkmd1YWs5OnBzosbO1SFa65jAvs=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-handoff.html",
@@ -913,12 +901,22 @@
       "siteUrl": "https://www.strathweb.com/posts/",
       "articles": [
         {
+          "id": "https://www.strathweb.com/2026/11/introducing-copenhagen-a-qsharp-explorer-in-the-browser/",
+          "author": null,
+          "description": "For the past several months I have been working, mostly in the evenings, on an application which collects in one place the various things I would have wanted to have at hand when I first started writing Q#. It is called Copenhagen, it is available at copenhagen.strathweb.com, and it is, in the simplest possible terms, a Q# explorer. It has a playground with an editor and a debugger, a set of guided notebooks, a course of short lessons with exercises that check the learner’s code, and a section in which recent quant-ph papers are reproduced in Q#, at least to the extent that is possible on a laptop or a phone.\nEverything runs locally. The Q# compiler and simulator are the official ones from the QDK, compiled to WebAssembly, so there is no server executing the programs, nothing to install and no account to create, and after the first visit the whole application works offline as well.",
+          "link": "https://www.strathweb.com/2026/11/introducing-copenhagen-a-qsharp-explorer-in-the-browser/",
+          "publishedOn": "2026-11-01T08:00:00.000Z",
+          "wordCount": 2378,
+          "title": "Introducing Copenhagen - a Q# Explorer in the Browser",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.strathweb.com/2026/10/scope-gating-agent-framework-agents-with-microsoft-decision-1/",
           "author": null,
           "description": "Anyone who has put a customer support agent backed by a large language model in front of real users has, sooner or later, watched it cheerfully write a Python web scraper or summarize last night’s football results, simply because somebody asked nicely. The usual remedy is to add a few more lines to the system prompt, asking the model to politely decline anything outside of its remit, however such approach means that every off-topic request still costs a full call to the support model, and that the very same model which is supposed to stay on topic is also the one deciding whether the request is on topic in the first place.\nIn this post we will look at a different arrangement, in which the scope decision is taken away from the support model altogether and handed over to Microsoft-Decision-1, a new model in Microsoft Foundry that does not generate any text at all, wired into a Microsoft Agent Framework agent as a piece of run middleware.",
           "link": "https://www.strathweb.com/2026/10/scope-gating-agent-framework-agents-with-microsoft-decision-1/",
           "publishedOn": "2026-10-20T08:00:00.000Z",
-          "wordCount": 3019,
+          "wordCount": 3027,
           "title": "Scope gating Agent Framework agents with Microsoft-Decision-1",
           "imageUrl": null
         },
@@ -928,7 +926,7 @@
           "description": "Entanglement is fragile, and one of the more striking ways in which it is fragile was pointed out by Ting Yu and Joseph Eberly in 2004. Two qubits left to relax independently, each of them losing its excitation to its own environment, need not lose their entanglement gradually, the way the excitations themselves decay. Prepared in the state $\\alpha|00\\rangle + \\beta|11\\rangle$ with the doubly excited component the larger one, $|\\beta| > |\\alpha|$, they lose it completely at a finite time and it stays lost (for $|\\beta| \\leq |\\alpha|$ it merely fades away), a phenomenon which Yu and Eberly named entanglement sudden death, and which was subsequently observed in a photonic experiment by Almeida and colleagues in 2007.\nThe reason it never comes back is, in fact, rather general. Once a state is…",
           "link": "https://www.strathweb.com/2026/10/sudden-death-of-entanglement-rebirth-of-magic-with-qsharp/",
           "publishedOn": "2026-10-15T07:00:00.000Z",
-          "wordCount": 4900,
+          "wordCount": 4908,
           "title": "Sudden Death of Entanglement, Rebirth of Magic: Amplitude Damping in Q#",
           "imageUrl": null
         }

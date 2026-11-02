@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-11-01T05:37:37.415Z</updated>
+    <updated>2026-11-02T05:34:55.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Help Test Dew Submitter for Android]]></title>
+        <id>https://alvinashcraft.com/2026/11/01/help-test-dew-submitter-for-android/</id>
+        <link href="https://alvinashcraft.com/2026/11/01/help-test-dew-submitter-for-android/"/>
+        <updated>2026-11-01T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dew Submitter makes it easy to send article links and RSS feed suggestions to me for consideration on The Morning Dew. Now I need a little help getting the Android app ready for its public Play Store release!
+Google requires at least 12 testers to remain opted in for 14 consecuti…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Copenhagen - a Q# Explorer in the Browser]]></title>
+        <id>https://www.strathweb.com/2026/11/introducing-copenhagen-a-qsharp-explorer-in-the-browser/</id>
+        <link href="https://www.strathweb.com/2026/11/introducing-copenhagen-a-qsharp-explorer-in-the-browser/"/>
+        <updated>2026-11-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For the past several months I have been working, mostly in the evenings, on an application which collects in one place the various things I would have wanted to have at hand when I first started writing Q#. It is called Copenhagen, it is available at copenhagen.strathweb.com, and it is, in the simplest possible terms, a Q# explorer. It has a playground with an editor and a debugger, a set of guided notebooks, a course of short lessons with exercises that check the learner’s code, and a section in which recent quant-ph papers are reproduced in Q#, at least to the extent that is possible on a laptop or a phone.
+Everything runs locally. The Q# compiler and simulator are the official ones from the QDK, compiled to WebAssembly, so there is no server executing the programs, nothing to install and no account to create, and after the first visit the whole application works offline as well.]]></summary>
+        <author>
+            <name>Archive on Strathweb. A free flowing tech monologue.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binary and JSON Compression in .NET:  Brotli vs. LZ4]]></title>
+        <id>https://dotnettips.com/?p=18590</id>
+        <link href="https://dotnettips.com/2026/11/01/binary-and-json-compression-in-net-brotli-vs-lz4/"/>
+        <updated>2026-11-01T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right compression algorithm in .NET involves more than simply selecting the option that produces the smallest payload. Compression speed, decompression time, memory allocations, data format, and network conditions can all affect overall application performance.
+
+This article compares Brotli and LZ4 across binary and JSON workloads, explores how their compression levels behave, and explains the trade-offs developers should evaluate before choosing a strategy for performance-critical applications.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Spark Of Color In November’s Gray (2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/</id>
@@ -723,19 +757,6 @@ Connect Azure Functions …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop - October 5, 2026 (#4763)]]></title>
-        <id>https://alvinashcraft.com/2026/10/05/dew-drop-october-5-2026-4763/</id>
-        <link href="https://alvinashcraft.com/2026/10/05/dew-drop-october-5-2026-4763/"/>
-        <updated>2026-10-05T10:37:02.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Build expressive voice experiences with new MAI models in Microsoft Foundry (Naomi Moneypenny)
-Credential Explorer - A modern WinUI 3 metadata-only explorer for Windows credentials and Credential Locker (Scott Hanselman)
-Meet the A2A CLI: discover, message, and manage a…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Run a .NET App as a Linux Service with systemd]]></title>
         <id>https://blog.maartenballiauw.be/posts/2021-05-25-running-a-net-application-as-a-service-on-linux-with-systemd/</id>
         <link href="https://blog.maartenballiauw.be/posts/2021-05-25-running-a-net-application-as-a-service-on-linux-with-systemd/"/>
@@ -773,32 +794,6 @@ Meet the A2A CLI: discover, message, and manage a…]]></summary>
         <summary type="html"><![CDATA[When writing .NET code, use descriptive camelCase parameter names that convey their purpose instead of data types, avoiding Hungarian notation. Validate arguments in public methods and employ enums for clarity when using Boolean parameters. These practices enhance code readability, maintainability, and overall quality.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to Basics: CSS @container Filtering]]></title>
-        <id>znxhm5bohh8q</id>
-        <link href="https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering"/>
-        <updated>2026-10-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.
-My specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs t resizing.
-Most of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.
-There's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm…]]></summary>
-        <author>
-            <name>(Rick Strahl)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to Basics: CSS @container Filtering]]></title>
-        <id>znxhm5bohh8q</id>
-        <link href="https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering"/>
-        <updated>2026-10-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've been using @media queries in CSS forever, but on a number of occasions these type of Viewport-only limits on width are problematic, especially in UIs that are user resizable or can otherwise dynamically change the sizing of components or panels.
-My specific scenario is a resizable panel display where a fixed @media width causes problems due to the container, rather than the window, needs t resizing.
-Most of us have likely used the @media at-rule for responsive design, but it's limited to the Viewport width.
-There's another, more recent type of conditional CSS at-rule  that can be used to restrict sizing: @container which I have been unaware of until recently. @container is a relatively new addition to CSS that was only introduced to browsers a few years back in 2022/23, so perhaps I'm…]]></summary>
-        <author>
-            <name>(Rick Strahl)</name>
         </author>
     </entry>
 </feed>
