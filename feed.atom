@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-11-09T05:48:50.700Z</updated>
+    <updated>2026-11-10T06:55:07.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS-Tricks, Version 20]]></title>
+        <id>https://css-tricks.com/?p=397812</id>
+        <link href="https://css-tricks.com/css-tricks-version-20/"/>
+        <updated>2026-11-09T15:49:48.000Z</updated>
+        <summary type="html"><![CDATA[Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.
+CSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - November 9, 2026 (#4788)]]></title>
+        <id>https://alvinashcraft.com/2026/11/09/dew-drop-november-9-2026-4788/</id>
+        <link href="https://alvinashcraft.com/2026/11/09/dew-drop-november-9-2026-4788/"/>
+        <updated>2026-11-09T11:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Build AI-Powered PDF Workflows in .NET MAUI with Smart PDF Viewer (Sumathi Uthayakumar)
+Building the next generation of multimodal AI experiences with fal in Microsoft Foundry (Naomi Moneypenny)
+A new standard for vulnerability management in the AI era (Nuno Costa)
+Desk…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PartitionKey and RowKey in Azure Table Storage explained]]></title>
+        <id>https://blog.maartenballiauw.be/posts/2012-10-08-what-partitionkey-and-rowkey-are-for-in-windows-azure-table-storage/</id>
+        <link href="https://blog.maartenballiauw.be/posts/2012-10-08-what-partitionkey-and-rowkey-are-for-in-windows-azure-table-storage/"/>
+        <updated>2026-11-09T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PartitionKey picks the partition and RowKey identifies an entity within it. How to choose both in Azure Table Storage and Cosmos DB for Table, with C# code.]]></summary>
+        <author>
+            <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ValidateAntiForgeryToken in ASP.NET Core: unit test for it]]></title>
+        <id>https://blog.maartenballiauw.be/posts/2019-01-11-unit-testing-for-validateantiforgerytoken-and-clever-navigation-in-the-resharper-rider-test-runner/</id>
+        <link href="https://blog.maartenballiauw.be/posts/2019-01-11-unit-testing-for-validateantiforgerytoken-and-clever-navigation-in-the-resharper-rider-test-runner/"/>
+        <updated>2026-11-09T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to validate an anti forgery token in ASP.NET Core with [ValidateAntiForgeryToken], and unit test that every POST action has it, plus Rider navigation.]]></summary>
+        <author>
+            <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Papers meaning: what happens after you submit]]></title>
+        <id>https://blog.maartenballiauw.be/posts/2019-08-27-what-happens-after-submitting-call-for-papers/</id>
+        <link href="https://blog.maartenballiauw.be/posts/2019-08-27-what-happens-after-submitting-call-for-papers/"/>
+        <updated>2026-11-09T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A call for papers (CFP) invites speakers to submit talks to a conference. Here is what happens after you submit, from committee to acceptance or rejection.]]></summary>
+        <author>
+            <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run Azurite storage emulator in Docker with Rider]]></title>
+        <id>https://blog.maartenballiauw.be/posts/2020-06-09-run-azurite-in-docker-with-rider-and-keep-azure-storage-data-local-to-a-solution/</id>
+        <link href="https://blog.maartenballiauw.be/posts/2020-06-09-run-azurite-in-docker-with-rider-and-keep-azure-storage-data-local-to-a-solution/"/>
+        <updated>2026-11-09T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Run the Azurite storage emulator in Docker, keep blobs and queues local to each solution with a volume mount, and start it from a Rider run configuration.]]></summary>
+        <author>
+            <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UX Chronicles: Air Travel Could Be Great—If Airlines Cared About the Passenger Experience (Part 2)]]></title>
         <id>https://dotnettips.com/?p=18974</id>
@@ -729,20 +794,6 @@ Announcing .NET 11 Release Candidate 2 (.NET Team)
 Introducing XBOX LABS (Asha Sharma)
 GitHub’s model for secret detection: Finding more secrets with less noise (Batu Ozturkler)
 Is it MSIX? Part 3: Find Package and Application Identity with TASKLIST and PowerShell (Howa…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - October 13, 2026 (#4769)]]></title>
-        <id>https://alvinashcraft.com/2026/10/13/dew-drop-october-13-2026-4769/</id>
-        <link href="https://alvinashcraft.com/2026/10/13/dew-drop-october-13-2026-4769/"/>
-        <updated>2026-10-13T10:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-WinUI Gallery 3.0 is here: TableView, Charts, InkCanvas and more (Niels Laute)
-Microsoft to expand Azure Maia system to multi-gigawatt deployments (Scott Guthrie)
-Deep dive into Azure Maia 300 architecture (Rani Borkar & Saurabh Dighe)
-Build & Iterate on UI fast with Sn…]]></summary>
         <author>
             <name>Alvin Ashcraft</name>
         </author>
