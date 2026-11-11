@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-11-10T06:55:07.953Z</updated>
+    <updated>2026-11-11T05:44:52.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?]]></title>
+        <id>https://css-tricks.com/?p=396572</id>
+        <link href="https://css-tricks.com/css-using-declarations-just-once/"/>
+        <updated>2026-11-10T16:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?
+CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Jens Oliver Meiert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Agentic Coding with Codex & AI Coding Agents]]></title>
+        <id>6af33ff6e6a1d476dd025c20</id>
+        <link href="https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/"/>
+        <updated>2026-11-10T16:01:58.000Z</updated>
+        <summary type="html"><![CDATA[AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When You Upload a Large File & Generate a Temporary Download Link]]></title>
+        <id>6af31a20042fa071f004461c</id>
+        <link href="https://www.freecodecamp.org/news/how-file-transfer-services-work/"/>
+        <updated>2026-11-10T13:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - November 10, 2026 (#4789)]]></title>
+        <id>https://alvinashcraft.com/2026/11/10/dew-drop-november-10-2026-4789/</id>
+        <link href="https://alvinashcraft.com/2026/11/10/dew-drop-november-10-2026-4789/"/>
+        <updated>2026-11-10T11:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Windows App Development CLI v0.8: WinUI DevTools Experimental Preview (Chiara Mooney)
+Claude Fable 5.2 and Mythos 5.2 bring frontier intelligence to Microsoft Foundry (Amar Badal)
+Foundry Toolbox Lifecycle: Deploy and Promote (J. Folberth)
+Microsoft Foundry with Adrian …]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UTCP vs MCP: what happens to agent auth without a server in the middle?]]></title>
+        <id>https://blog.maartenballiauw.be/posts/2026-11-10-utcp-auth-dcr-cimd-musings/</id>
+        <link href="https://blog.maartenballiauw.be/posts/2026-11-10-utcp-auth-dcr-cimd-musings/"/>
+        <updated>2026-11-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What MCP authorization looks like when AI agents call APIs directly, and whether agent auth still needs DCR or CIMD.]]></summary>
+        <author>
+            <name>Maarten Balliauw {blog}</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS-Tricks, Version 20]]></title>
         <id>https://css-tricks.com/?p=397812</id>
@@ -268,16 +323,6 @@ Introducing Tiny C…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB]]></title>
-        <id>6aea06ca2d9e47407b2ddc76</id>
-        <link href="https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/"/>
-        <updated>2026-11-03T16:07:38.000Z</updated>
-        <summary type="html"><![CDATA[A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re-Implementing :nth-child() With Modern CSS]]></title>
         <id>https://css-tricks.com/?p=397741</id>
         <link href="https://css-tricks.com/re-implementing-nth-child-with-modern-css/"/>
@@ -399,18 +444,6 @@ This article compares Brotli and LZ4 across binary and JSON workloads, explores 
         <updated>2026-10-31T06:46:01.000Z</updated>
         <author>
             <name>Code with Dan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Detect Financial Fraud Patterns
-with Knowledge Graphs: A Production
-Guide]]></title>
-        <id>6ae4a260781c67f55b49b87b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/"/>
-        <updated>2026-10-30T13:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet]]></summary>
-        <author>
-            <name>Kamal Kishore</name>
         </author>
     </entry>
     <entry>
@@ -785,20 +818,6 @@ The reason it never comes back is, in fact, rather general. Once a state is…]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop - October 14, 2026 (#4770)]]></title>
-        <id>https://alvinashcraft.com/2026/10/14/dew-drop-october-14-2026-4770/</id>
-        <link href="https://alvinashcraft.com/2026/10/14/dew-drop-october-14-2026-4770/"/>
-        <updated>2026-10-14T10:13:21.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Announcing .NET 11 Release Candidate 2 (.NET Team)
-Introducing XBOX LABS (Asha Sharma)
-GitHub’s model for secret detection: Finding more secrets with less noise (Batu Ozturkler)
-Is it MSIX? Part 3: Find Package and Application Identity with TASKLIST and PowerShell (Howa…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Things That Caught My Attention Last Week - October 12]]></title>
         <id>http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-12-2026</id>
         <link href="http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-12-2026"/>
@@ -818,16 +837,6 @@ Is it MSIX? Part 3: Find Package and Application Identity with TASKLIST and Powe
 In the previous post, Microsoft Agent Framework: Handoff Orchestration with .NET, we had an activities agent and a dining agent handing the conversation between them, all inside a console application. And before that, in Microsoft Agent]]></summary>
         <author>
             <name>Jaliya's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boost Your .NET Projects with Spargine: Simplify HTTP Request Handling with HttpRequestExtensions]]></title>
-        <id>https://dotnettips.com/?p=18515</id>
-        <link href="https://dotnettips.com/2026/10/11/boost-your-net-projects-with-spargine-simplify-http-request-handling-with-httprequestextensions/"/>
-        <updated>2026-10-11T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The HttpRequestExtensions class in DotNetTips.Spargine.Extensions offers reusable methods to streamline HTTP request handling, enhancing code maintainability and consistency. Key functions include reading request bodies, managing headers, extracting bearer tokens, and validating content types. This utility supports input validation and unit testing, improving code quality in applications.]]></summary>
-        <author>
-            <name>David (dotNetDave) McCarter</name>
         </author>
     </entry>
 </feed>
