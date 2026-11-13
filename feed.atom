@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-11-12T06:51:04.221Z</updated>
+    <updated>2026-11-13T06:09:24.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Secure Semantic Kernel Database Connector in C# (Guide)]]></title>
+        <id>https://codingsight.com/?p=28700</id>
+        <link href="https://codingsight.com/semantic-kernel-database-connector-csharp/"/>
+        <updated>2026-11-12T16:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Building enterprise AI agents with Microsoft Semantic Kernel in .NET 8 or .NET 9 demands deterministic data plumbing. When an autonomous agent queries corporate databases, relying on raw Text-to-SQL generation exposes production infrastructure to second-order prompt injection, unconstrained cartesian joins, and runtime syntax failures. Simultaneously, traditional database drivers pull in hundreds of megabytes of unmanaged …
+The post Building a Secure Semantic Kernel Database Connector in C# (Guide) appeared first on {coding}Sight.]]></summary>
+        <author>
+            <name>codingsight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond 12 Columns: Designing Layouts With Personality]]></title>
+        <id>https://css-tricks.com/?p=397598</id>
+        <link href="https://css-tricks.com/beyond-12-columns/"/>
+        <updated>2026-11-12T16:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.
+Beyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate EF Core Model Generation from Database: The Ultimate Guide]]></title>
+        <id>https://codingsight.com/?p=28616</id>
+        <link href="https://codingsight.com/automate-ef-core-model-generation-database/"/>
+        <updated>2026-11-12T16:06:50.000Z</updated>
+        <summary type="html"><![CDATA[Scaffolding models from legacy enterprise databases with hundreds of tables breaks standard command-line workflows. Engineers waste hours tweaking connection strings and running repetitive CLI commands, only to watch custom entity configurations get completely overwritten during the next schema refresh. TL;DR Native command-line tooling overwrites custom entity configurations every time a database schema updates. Devart’s Entity …
+The post Automate EF Core Model Generation from Database: The Ultimate Guide appeared first on {coding}Sight.]]></summary>
+        <author>
+            <name>codingsight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - November 12, 2026 (#4791)]]></title>
+        <id>https://alvinashcraft.com/2026/11/12/dew-drop-november-12-2026-4791/</id>
+        <link href="https://alvinashcraft.com/2026/11/12/dew-drop-november-12-2026-4791/"/>
+        <updated>2026-11-12T11:34:46.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Uno Platform Studio 3.3: Your AI Workbench, Now on Desktop and Mobile (Uno Platform Team)
+Bring Your Own Model is now generally available in Visual Studio (Praveen Sethuraman)
+GitHubToDo - A Windows App to keep track of GitHub issues and PRs (Morten Nielsen)
+.NET Agent …]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should You Actually Add AI To That? A Four-Question Audit For Product Teams]]></title>
+        <id>https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/</id>
+        <link href="https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/"/>
+        <updated>2026-11-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dew Drop - November 11, 2026 (#4790)]]></title>
         <id>https://alvinashcraft.com/2026/11/11/dew-drop-november-11-2026-4790/</id>
@@ -644,7 +701,7 @@ React Native Windows v0.85 is here (Anukrati Agrawal)
         <id>https://blog.maartenballiauw.be/posts/2026-10-22-server-timing-headers-in-aspnet-core/</id>
         <link href="https://blog.maartenballiauw.be/posts/2026-10-22-server-timing-headers-in-aspnet-core/"/>
         <updated>2026-10-22T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Network tab in browser DevTools tells you quite a bit about a request, including how long DNS resolution and the TLS handshake took. The time waiting for the server is less helpful. There is a bar labeled “Waiting for server response”, but no indication of whether the application was waiting for a database query or calling another API. With the Server-Timing response header, an application can include its own measurements. Chrome, Edge, and Firefox display these alongside the timings the browser already collects.]]></summary>
+        <summary type="html"><![CDATA[Add Server-Timing headers to an ASP.NET Core app so database and API timings show up in Chrome, Edge and Firefox DevTools next to the request.]]></summary>
         <author>
             <name>Maarten Balliauw {blog}</name>
         </author>
@@ -713,7 +770,7 @@ TypeScript 7.0 Migration Guide: Performance, Compatibility, and Upgrade Steps (M
         <id>https://blog.maartenballiauw.be/posts/2026-09-16-device-bound-session-credentials-in-aspnet-core/</id>
         <link href="https://blog.maartenballiauw.be/posts/2026-09-16-device-bound-session-credentials-in-aspnet-core/"/>
         <updated>2026-10-20T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A session cookie is a bearer token, which is a polite way of saying that whoever holds it is you. Copy the cookie, replay it from another machine, and the server happily serves your account. Nothing about the request proves which device it came from, so a cookie lifted by malware, an XSS payload, or a stray database backup keeps working until it expires. For a long-lived session, that can be weeks.]]></summary>
+        <summary type="html"><![CDATA[Device Bound Session Credentials tie a session cookie to a private key on the device, so stolen cookies go stale. How DBSC works, and why .NET 11 dropped it.]]></summary>
         <author>
             <name>Maarten Balliauw {blog}</name>
         </author>
@@ -791,20 +848,6 @@ Artykuł Features Are No Longer a Moat. Agents Now Need Rules pochodzi z serwisu
 In the last two posts, Microsoft Agent Framework: Handoff Orchestration with .NET and Microsoft Agent Framework: Hosting a Handoff Workflow in Microsoft Foundry with .NET, we built a weekend concierge, an activities agent and a dining agent handing the conversation between them,]]></summary>
         <author>
             <name>Jaliya's Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop - October 16, 2026 (#4772)]]></title>
-        <id>https://alvinashcraft.com/2026/10/16/dew-drop-october-16-2026-4772/</id>
-        <link href="https://alvinashcraft.com/2026/10/16/dew-drop-october-16-2026-4772/"/>
-        <updated>2026-10-16T10:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-What’s new in Microsoft Foundry | September 2026 (Nick Brady)
-What will the next generation of developers do when AI writes the code? (Mark Russinovich & Scott Hanselman)
-Bring Azure SRE Agent into your developer workflow with the new canvas (Paul Yuknewicz)
-Vector stor…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
         </author>
     </entry>
     <entry>
