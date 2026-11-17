@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-11-16T05:56:19.407Z</updated>
+    <updated>2026-11-17T07:33:21.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes]]></title>
+        <id>6afba1044c9d975934925ee6</id>
+        <link href="https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/"/>
+        <updated>2026-11-17T00:34:12.000Z</updated>
+        <summary type="html"><![CDATA[Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses]]></summary>
+        <author>
+            <name>Samuel Tosin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Translator with Chrome’s Built-In AI]]></title>
+        <id>6afb9d63e1e477f325473f68</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-translator-with-chrome-s-built-in-ai/"/>
+        <updated>2026-11-17T00:18:42.000Z</updated>
+        <summary type="html"><![CDATA[Most translation features work the same way. The user types text, your app sends it to a translation API, and the API sends a translation back. That works, but every request adds cost and latency, and]]></summary>
+        <author>
+            <name>David Aniebo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Staggering Scroll-Driven Animations with animation-range-start]]></title>
+        <id>https://css-tricks.com/?p=395816</id>
+        <link href="https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/"/>
+        <updated>2026-11-16T16:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.
+Staggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dew Drop - November 16, 2026 (#4793)]]></title>
+        <id>https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/</id>
+        <link href="https://alvinashcraft.com/2026/11/16/dew-drop-november-16-2026-4793/"/>
+        <updated>2026-11-16T12:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Top Links
+Recovering from an accidental push to main in Visual Studio (Mark Downie)
+Uno Platform 7.0 and the Studio Agent Plugin (Steve Bilogan)
+Chrome DevTools for agents - Let your coding agents control and inspect a live Chrome browser (Chrome DevTools Team)
+Maps with .NET MAU…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing dotnet-http-file: Run Visual Studio .http Files from the Command Line]]></title>
         <id>https://jaliyaudagedara.blogspot.com/2026/11/introducing-dotnet-http-file-run-visual.html</id>
@@ -367,16 +412,6 @@ Bring Age…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use shadcn/ui in React Native Applications [Full Handbook]]]></title>
-        <id>6aecb9efa7a2ab6fb8e3fe94</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/"/>
-        <updated>2026-11-05T17:16:30.000Z</updated>
-        <summary type="html"><![CDATA[If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha]]></summary>
-        <author>
-            <name>Ajay Patel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Taming Typography: Building a Modern CSS Reset]]></title>
         <id>https://css-tricks.com/?p=396817</id>
         <link href="https://css-tricks.com/taming-typography-modern-css-reset/"/>
@@ -409,16 +444,6 @@ Bringing iPhone Duo APIs to .NET MAUI (Pieter Nijs)
 .NET Rocks! - The Future We Were Promised Geek Out (Carl Franklin & Richar…]]></summary>
         <author>
             <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What a CAPTCHA Farm Attack Actually Looks Like]]></title>
-        <id>6aeba47df91e889efe09a17a</id>
-        <link href="https://www.freecodecamp.org/news/captcha-farm-attack/"/>
-        <updated>2026-11-04T21:32:45.000Z</updated>
-        <summary type="html"><![CDATA[CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r]]></summary>
-        <author>
-            <name>Reetain Raina</name>
         </author>
     </entry>
     <entry>
@@ -786,20 +811,6 @@ Why We Still Need…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop - October 20, 2026 (#4774)]]></title>
-        <id>https://alvinashcraft.com/2026/10/20/dew-drop-october-20-2026-4774/</id>
-        <link href="https://alvinashcraft.com/2026/10/20/dew-drop-october-20-2026-4774/"/>
-        <updated>2026-10-20T10:21:06.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-Get Your .NET MAUI App Ready for Xcode 27 (Gerald Versluis)
-Securing the agentic insider (Hayete Gallot)
-Browser automation tool in Microsoft Foundry is now GA (Nandini Muralidharan)
-TypeScript 7.0 Migration Guide: Performance, Compatibility, and Upgrade Steps (Manikand…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Embracing Playful Imperfection With The CSS `random()` Function]]></title>
         <id>https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/</id>
         <link href="https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"/>
@@ -877,18 +888,6 @@ Artykuł Features Are No Longer a Moat. Agents Now Need Rules pochodzi z serwisu
         <summary type="html"><![CDATA[The choice between Pipes and Streams for data processing hinges on specific workloads. Optimal selection requires benchmarking based on the application's data handling needs.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Agent Framework: Human in the Loop Tool Approval with .NET]]></title>
-        <id>https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-human-in-loop.html</id>
-        <link href="https://jaliyaudagedara.blogspot.com/2026/10/microsoft-agent-framework-human-in-loop.html"/>
-        <updated>2026-10-17T02:44:42.831Z</updated>
-        <summary type="html"><![CDATA[In this post, let's make an agent stop and ask a person before it does something we don't want it doing on its own.
-
-In the last two posts, Microsoft Agent Framework: Handoff Orchestration with .NET and Microsoft Agent Framework: Hosting a Handoff Workflow in Microsoft Foundry with .NET, we built a weekend concierge, an activities agent and a dining agent handing the conversation between them,]]></summary>
-        <author>
-            <name>Jaliya's Blog</name>
         </author>
     </entry>
 </feed>
