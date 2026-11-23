@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KiarashS.github.io/reader2/index.html</id>
     <title>My RSS Reader 2::Kiarash Soleimanzadeh</title>
-    <updated>2026-11-22T06:13:27.045Z</updated>
+    <updated>2026-11-23T07:04:55.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://KiarashS.github.io/reader2/index.html"/>
     <link rel="self" href="https://KiarashS.github.io/reader2/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WebMCP Comes to The Morning Dew and Dew Submitter]]></title>
+        <id>https://alvinashcraft.com/2026/11/22/webmcp-on-the-morning-dew-and-dew-submitter/</id>
+        <link href="https://alvinashcraft.com/2026/11/22/webmcp-on-the-morning-dew-and-dew-submitter/"/>
+        <updated>2026-11-22T16:43:00.000Z</updated>
+        <summary type="html"><![CDATA[I've added experimental WebMCP support to both The Morning Dew and Dew Submitter. If you use a compatible AI assistant in your browser, these tools can help you find posts and links on my site or prepare a suggestion for a future Dew Drop.
+WebMCP is a proposed web standard that l…]]></summary>
+        <author>
+            <name>Alvin Ashcraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Performance: Counting Rows with EF Core vs. ADO.NET]]></title>
+        <id>https://dotnettips.com/?p=19080</id>
+        <link href="https://dotnettips.com/2026/11/22/database-performance-counting-rows-with-ef-core-vs-ado-net/"/>
+        <updated>2026-11-22T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Counting rows may seem simple, but the data-access approach can affect both execution time and memory allocations. This benchmark compares Entity Framework Core, compiled EF Core queries, and direct ADO.NET with SQLite to reveal which approach handles frequently executed count operations most efficiently.]]></summary>
+        <author>
+            <name>David (dotNetDave) McCarter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Agent Framework: Durable Workflows on Azure Functions with .NET]]></title>
+        <id>https://jaliyaudagedara.blogspot.com/2026/11/microsoft-agent-framework-durable.html</id>
+        <link href="https://jaliyaudagedara.blogspot.com/2026/11/microsoft-agent-framework-durable.html"/>
+        <updated>2026-11-22T05:06:00.000Z</updated>
+        <summary type="html"><![CDATA[In&nbsp;Microsoft Ignite 2026,&nbsp;there are a lot of new announcements for Azure Functions:&nbsp;What's new in Azure Functions and Durable Task Scheduler at Microsoft Ignite 2026.One of them is the
+  Durable Task extension for Microsoft Agent Framework going GA.
+
+
+
+  Earlier I blogged about running agents on Azure Functions
+  (with Durable Functions,
+  with Durable Task Scheduler)
+  and]]></summary>
+        <author>
+            <name>Jaliya's Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write an API Migration Guide (With a Real Example)]]></title>
         <id>6b009404336f5868385eb26f</id>
@@ -828,20 +867,6 @@ What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-m
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dew Drop - October 27, 2026 (#4779)]]></title>
-        <id>https://alvinashcraft.com/2026/10/27/dew-drop-october-27-2026-4779/</id>
-        <link href="https://alvinashcraft.com/2026/10/27/dew-drop-october-27-2026-4779/"/>
-        <updated>2026-10-27T10:32:23.000Z</updated>
-        <summary type="html"><![CDATA[Top Links
-How I Develop .NET Apps With AI and Still Trust the Code (Matt Mattei)
-Introducing DayFrame: Everything I Check All Day, in One Window (Jeff Fritz)
-Explore MauiReactor and the MVU Pattern (Héctor Pérez)
-GPT-6.1 Terra now generally available in Microsoft Foundry: build a…]]></summary>
-        <author>
-            <name>Alvin Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Things That Caught My Attention Last Week - October 26]]></title>
         <id>http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-26-2026</id>
         <link href="http://blog.peterritchie.com/posts/things-that-caught-my-attention-last-week-october-26-2026"/>
@@ -869,16 +894,6 @@ GPT-6.1 Terra now generally available in Microsoft Foundry: build a…]]></summa
         <summary type="html"><![CDATA[When inserting records into a database, should you use synchronous or asynchronous execution? In this article, I compare both approaches in .NET, explain when each one makes sense, and share performance insights based on benchmarking. If you assume async is always faster, you may want to take a closer look.]]></summary>
         <author>
             <name>David (dotNetDave) McCarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accordion Icons: Which Work Best?]]></title>
-        <id>https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/</id>
-        <link href="https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"/>
-        <updated>2026-10-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
